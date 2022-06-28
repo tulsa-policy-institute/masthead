@@ -65,7 +65,7 @@ function App() {
               </span>
               <div style={{
                 backgroundImage: `url('https://picsum.photos/seed/${lecture.id}/300/200')`
-              }} className='absolute z-0 top-0 bg-cover rounded-md brightness-75 w-full h-full'></div>
+              }} className='absolute z-0 top-0 bg-cover rounded-xl brightness-75 w-full h-full'></div>
             </a>
           )}
 
