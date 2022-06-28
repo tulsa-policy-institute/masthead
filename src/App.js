@@ -5,6 +5,7 @@ import Select from 'react-select'
 function App() {
   const [lectures, setLectures] = useState([]);
   const [questions, setQuestions] = useState([]);
+  const [selectedQuestion, setSelectedQuestion] = useState();
 
   useEffect(() => {
     async function getData() {
@@ -26,6 +27,18 @@ function App() {
     getData();
   }, []);
 
+  const handleChange = (selected) => {
+    setSelectedQuestion(selected);
+  }
+
+  const filteredLectures = lectures.filter(lecture => {
+    if (selectedQuestion) {
+      return lecture.Questions.includes(selectedQuestion.value.id);
+    } else {
+      return true;
+    }
+  });
+
   return (
     <>
       <header className="p-4 max-w-full shadow-lg shadow-gray-200 header-clip">
@@ -33,10 +46,13 @@ function App() {
       </header>
       <main className="max-w-full p-12 sm:grid sm:grid-cols-2 gap-8">
         <div className="">
-          <Select options={questions.map(q => ({ value: q.Title, label: q.Title }))} />
+          <Select
+            options={questions.map(q => ({ value: q, label: q.Title }))}
+            onChange={handleChange}
+          />
         </div>
         <div className="sm:grid sm:grid-cols-2 gap-8">
-          {lectures.map((lecture) =>
+          {filteredLectures.map((lecture) =>
             <a
               key={lecture.id}
               href="/"
@@ -51,6 +67,10 @@ function App() {
               }} className='absolute z-0 top-0 bg-cover rounded-md brightness-75 w-full h-full'></div>
             </a>
           )}
+
+          {!filteredLectures.length && 
+            <div>No results match...</div>
+          }
         </div>
       </main>
     </>
