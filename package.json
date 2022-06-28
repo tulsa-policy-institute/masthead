@@ -38,6 +38,9 @@
   },
   "devDependencies": {
     "@actions/core": "^1.9.0",
-    "axios": "^0.27.2"
+    "autoprefixer": "^10.4.7",
+    "axios": "^0.27.2",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4"
   }
 }
