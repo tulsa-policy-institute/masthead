@@ -41,10 +41,10 @@ function App() {
 
   return (
     <>
-      <header className="p-4 max-w-full shadow-lg shadow-gray-200 header-clip">
+      <header className="p-4 max-w-full shadow-lg shadow-gray-200 header-clip bg-[#FBFBFB]">
         <h1 className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</h1>
       </header>
-      <main className="max-w-full p-12 sm:grid sm:grid-cols-2 gap-8">
+      <main className="max-w-full p-12 sm:grid sm:grid-cols-2 gap-8 bg-[#FBFBFB]">
         <div className="">
           <Select
             options={questions.map(q => ({ value: q, label: q.Title }))}
