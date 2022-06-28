@@ -49,6 +49,7 @@ function App() {
           <Select
             options={questions.map(q => ({ value: q, label: q.Title }))}
             onChange={handleChange}
+            isClearable={true}
           />
         </div>
         <div className="sm:grid sm:grid-cols-2 gap-8">
