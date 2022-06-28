@@ -46,7 +46,9 @@ function App() {
                 <span className="text-sm">Lecture</span><br/>
                 <span className="text-lg font-semibold leading-tight">{lecture['Title']}</span>
               </span>
-              <div className={`absolute z-0 top-0 bg-cover rounded-md brightness-75 w-full h-full bg-[url('https://picsum.photos/seed/${lecture.id}/300/200')]`}></div>
+              <div style={{
+                'background-image': `url('https://picsum.photos/seed/${lecture.id}/300/200')`
+              }} className='absolute z-0 top-0 bg-cover rounded-md brightness-75 w-full h-full'></div>
             </a>
           )}
         </div>
