@@ -5,3 +5,7 @@
 .header-clip {
   clip-path: inset(0px 0px -100px 0px);
 }
+
+html, body, #root {
+  @apply h-full;
+}

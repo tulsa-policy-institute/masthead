@@ -31,7 +31,7 @@ function Search({ questions, lectures }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredLectures]);
 
-  return <>
+  return <div className='sm:grid sm:grid-cols-2 gap-8'>
     <div className=''>
       <Select
         styles={{
@@ -42,7 +42,8 @@ function Search({ questions, lectures }) {
             borderColor: '#fff',
           }),
         }}
-        placeholder=''
+        className='cursor-pointer'
+        placeholder='Ask a question...'
         options={questions.map(q => ({ value: q, label: q.Title }))}
         onChange={handleChange}
         isClearable={true}
@@ -63,7 +64,6 @@ function Search({ questions, lectures }) {
         <Link
           to={`/lectures/${lecture.id}`}
           key={lecture.id}
-          href="/"
           className='flex relative items-center text-white w-full h-32 hover:shadow-2xl'
         >
           <span className='z-10 p-2'>
@@ -80,7 +80,7 @@ function Search({ questions, lectures }) {
         <div>No results match...</div>
       }
     </div>
-  </>;
+  </div>;
 }
 
 export default Search;

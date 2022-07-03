@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Link } from 'react-router-dom';
 import Lecture from './Lecture';
 import Search from './Search';
 
@@ -31,14 +31,14 @@ function App() {
   return (
     <>
       <header className="p-4 max-w-full shadow-lg shadow-gray-200 header-clip bg-[#FBFBFB]">
-        <h1 className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</h1>
+        <Link to='/' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
       </header>
-      <main className="max-w-full p-12 sm:grid sm:grid-cols-2 gap-8 bg-[#FBFBFB]">
+      <main className="max-w-full p-12 bg-[#FBFBFB] h-full">
         <Routes>
           <Route path="/" element={
             <Search questions={questions} lectures={lectures}/>
           }/>
-          <Route path="/lectures/:slug" element={<Lecture />} />
+          <Route path="/lectures/:id" element={lectures.length && <Lecture lectures={lectures} />} />
         </Routes>
       </main>
     </>
