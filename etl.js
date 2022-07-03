@@ -8,7 +8,6 @@ const core = require('@actions/core');
 const AIRTABLE = {
   domain: 'https://api.airtable.com',
   path: '/v0/appQeNGOVlznG2nqu/',
-  maxRecords: -1,
   view: 'Grid view',
   tables: ['Questions', 'Concepts', 'Lectures', 'Tools'],
   key: process.env.AIRTABLE_API_KEY,
