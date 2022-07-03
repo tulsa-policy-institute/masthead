@@ -1,4 +1,4 @@
-function Lecture() {
+function Lecture({ lecture }) {
   return <>
     Lecture
   </>;
