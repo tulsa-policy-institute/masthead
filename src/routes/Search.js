@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Select from 'react-select'
 import { useNavigate, Link } from 'react-router-dom';
+import { isMobile } from 'react-device-detect';
 
 function randomize(list) {
   return list.sort( () => Math.random() - 0.5)
@@ -8,6 +9,7 @@ function randomize(list) {
 
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
+  const suggestedSearchCount = isMobile ? 3 : 8;
   const navigate = useNavigate();
 
   const handleChange = (selected) => {
@@ -52,9 +54,9 @@ function Search({ questions, lectures }) {
         <div className='border-b-gray-200 border-b'>
           <h6 className='text-sm text-gray-400 m-1 p-3'>Suggested Searches</h6>
         </div>
-        {randomize(questions).slice(0, 8).map((q) =>
+        {randomize(questions).slice(0, suggestedSearchCount).map((q) =>
           <div key={q.id} onClick={() => handleChange({ value: q })} className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'>
-            <h3 className='text-lg m-1 p-3'>{q.Title}</h3>
+            <h3 className='sm:text-lg text-md m-1 p-3'>{q.Title}</h3>
           </div>
         )}
       </div>
