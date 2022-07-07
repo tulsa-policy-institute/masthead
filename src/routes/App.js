@@ -31,15 +31,19 @@ function App() {
   return (
     <>
       <header className="p-4 max-w-full shadow-lg shadow-gray-200 header-clip bg-[#FBFBFB]">
-        <Link to='/' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
+        <div className='container mx-auto'>
+          <Link to='/' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
+        </div>
       </header>
-      <main className="max-w-full p-12 bg-[#FBFBFB] h-full">
+      <main className="max-w-full p-4 sm:p-12 bg-[#FBFBFB] h-full">
+        <div className='container mx-auto'>
         <Routes>
           <Route path="/" element={
             <Search questions={questions} lectures={lectures}/>
           }/>
           <Route path="/lectures/:id" element={lectures.length && <Lecture lectures={lectures} />} />
         </Routes>
+        </div>
       </main>
     </>
   );

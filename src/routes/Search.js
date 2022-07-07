@@ -31,7 +31,7 @@ function Search({ questions, lectures }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredLectures]);
 
-  return <div className='sm:grid sm:grid-cols-2 gap-8'>
+  return <div className='grid sm:grid-cols-2 gap-8'>
     <div className=''>
       <Select
         styles={{
@@ -59,12 +59,12 @@ function Search({ questions, lectures }) {
         )}
       </div>
     </div>
-    <div className="sm:grid sm:grid-cols-2 gap-8">
+    <div className="grid gap-4 sm:grid sm:grid-cols-2 sm:gap-8">
       {filteredLectures.map((lecture) =>
         <Link
           to={`/lectures/${lecture.id}`}
           key={lecture.id}
-          className='flex relative items-center text-white w-full h-32 hover:shadow-2xl'
+          className='flex relative items-center text-white w-full h-32 hover:shadow-2xl rounded-xl'
         >
           <span className='z-10 p-2'>
             <span className="text-sm">Lecture</span><br/>
