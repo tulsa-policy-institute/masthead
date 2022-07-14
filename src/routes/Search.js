@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Select from 'react-select'
 import { useNavigate, Link } from 'react-router-dom';
 import { isMobile } from 'react-device-detect';
+import PLAY_IMAGE from '../images/play.png';
 
 function randomize(list) {
   return list.sort( () => Math.random() - 0.5)
@@ -64,7 +65,7 @@ function Search({ questions, lectures }) {
       </div>
     </div>
     <div className="grid gap-4 sm:grid sm:grid-cols-2 sm:gap-8">
-      {randomize(filteredLectures).map((lecture) =>
+      {filteredLectures.map((lecture) =>
         <Link
           to={`/lectures/${lecture.id}`}
           key={lecture.id}
@@ -76,7 +77,11 @@ function Search({ questions, lectures }) {
           </span>
           <div style={{
             backgroundImage: `url('https://picsum.photos/seed/${lecture.id}/300/200')`
-          }} className='absolute z-0 top-0 bg-cover rounded-xl brightness-75 w-full h-full'></div>
+          }} className='absolute z-0 top-0 bg-cover rounded-xl brightness-75 w-full h-full'>
+            {lecture['Youtube Link'] && <div className='absolute bottom-0 right-0 bg-white rounded-full w-6 h-6 m-3 flex items-center justify-center'>
+              <img src={PLAY_IMAGE} alt='play button' className='w-2'/>
+            </div>}
+          </div>
         </Link>
       )}
 

@@ -37,12 +37,12 @@ function App() {
       </header>
       <main className="max-w-full p-4 sm:p-12 bg-[#FBFBFB] h-full">
         <div className='container mx-auto'>
-        <Routes>
-          <Route path="/" element={
-            <Search questions={questions} lectures={lectures}/>
-          }/>
-          <Route path="/lectures/:id" element={lectures.length && <Lecture lectures={lectures} />} />
-        </Routes>
+          <Routes>
+            <Route path="/" element={
+              <Search questions={questions} lectures={lectures}/>
+            }/>
+            <Route path="/lectures/:id" element={lectures.length && <Lecture lectures={lectures} />} />
+          </Routes>
         </div>
       </main>
     </>
