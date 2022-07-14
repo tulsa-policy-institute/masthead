@@ -35,13 +35,13 @@ function App() {
           <Link to='/' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
         </div>
       </header>
-      <main className="max-w-full p-4 sm:p-12 bg-[#FBFBFB] h-full">
+      <main className="max-w-full p-4 sm:p-8 bg-[#FBFBFB] h-full">
         <div className='container mx-auto'>
           <Routes>
             <Route path="/" element={
               <Search questions={questions} lectures={lectures}/>
             }/>
-            <Route path="/lectures/:id" element={lectures.length && <Lecture lectures={lectures} />} />
+            <Route path="/lectures/:id" element={lectures.length && <Lecture lectures={lectures} questions={questions} />} />
           </Routes>
         </div>
       </main>
