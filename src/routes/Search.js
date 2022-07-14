@@ -56,13 +56,15 @@ function Search({ questions, lectures }) {
         </div>
         {randomize(questions).slice(0, suggestedSearchCount).map((q) =>
           <div key={q.id} onClick={() => handleChange({ value: q })} className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'>
-            <h3 className='sm:text-lg text-md m-1 p-3'>{q.Title}</h3>
+            <h3 className='sm:text-lg text-md m-1 p-3'>
+              {q.Title}
+            </h3>
           </div>
         )}
       </div>
     </div>
     <div className="grid gap-4 sm:grid sm:grid-cols-2 sm:gap-8">
-      {filteredLectures.map((lecture) =>
+      {randomize(filteredLectures).map((lecture) =>
         <Link
           to={`/lectures/${lecture.id}`}
           key={lecture.id}
