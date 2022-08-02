@@ -1,16 +1,86 @@
 import React, { useState, useEffect } from 'react'
-import Select from 'react-select'
-import { useNavigate, Link } from 'react-router-dom';
+import * as fuzzysort from 'fuzzysort';
+import { useNavigate } from 'react-router-dom';
 import { isMobile } from 'react-device-detect';
-import PLAY_IMAGE from '../images/play.png';
+// import PLAY_IMAGE from '../images/play.png';
 
 function randomize(list) {
   return list.sort( () => Math.random() - 0.5)
 }
 
+const suggestedSearchCount = isMobile ? 3 : 8;
+
+const Results = ({ results, handleChange, typedInput }) => {
+  const filteredQuestions = fuzzysort.go(typedInput, results, {
+    key: 'Title',
+    limit: suggestedSearchCount,
+    threshold: -5000,
+  }).map(f => {console.log(f.score); return f.obj});
+
+  const displayResults = (typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount));
+
+  return <>
+    <div className='shadow-lg mt-4 rounded-2xl'>
+      <div className='border-b-gray-200 border-b'>
+        <h6 className='text-sm text-gray-400 m-1 p-3'>
+          {typedInput ? 'Results' : 'Suggested Searches'}
+        </h6>
+      </div>
+      {displayResults.map((q) =>
+        <div key={q.id} onClick={() => handleChange({ value: q })} className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'>
+          <h3 className='sm:text-lg text-md m-1 p-3'>
+            {q.Title}
+          </h3>
+        </div>
+      )}
+      {!displayResults.length ?
+        <div className='m-0 border-b-gray-200 border-b'>
+          <h3 className='sm:text-lg text-md m-1 p-3'>
+            We couldn't find a matching question but please click to submit your question! ->
+            "{typedInput}""
+          </h3>
+        </div> : <></>
+      }
+    </div>
+  </>
+};
+
+const TypeaheadSearch = ({ setTypedInput }) => {
+  return <>
+    <input
+      type="text"
+      className="
+        form-control
+        block
+        w-full
+        px-3
+        py-1.5
+        text-base
+        font-normal
+        text-gray-700
+        bg-white bg-clip-padding
+        border border-solid border-gray-300
+        rounded
+        transition
+        ease-in-out
+        m-0
+        focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
+      "
+      id="search-question"
+      placeholder='Ask a question...'
+      style={{
+        borderRadius: '9999px',
+        filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
+        borderColor: '#fff',
+      }}
+      onChange={(e) => setTypedInput(e.target.value)}
+    />
+  </>;
+}
+
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
-  const suggestedSearchCount = isMobile ? 3 : 8;
+  const [typedInput, setTypedInput] = useState();
   const navigate = useNavigate();
 
   const handleChange = (selected) => {
@@ -34,60 +104,17 @@ function Search({ questions, lectures }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredLectures]);
 
-  return <div className='grid sm:grid-cols-2 gap-8'>
+  return <div className='grid gap-8'>
     <div className=''>
-      <Select
-        styles={{
-          control: (provided) => ({
-            ...provided,
-            borderRadius: '9999px',
-            filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
-            borderColor: '#fff',
-          }),
-        }}
-        className='cursor-pointer'
-        placeholder='Ask a question...'
-        options={questions.map(q => ({ value: q, label: q.Title }))}
-        onChange={handleChange}
-        isClearable={true}
+      <TypeaheadSearch
+        setTypedInput={setTypedInput}
       />
-      <div className='shadow-lg mt-4 rounded-2xl'>
-        <div className='border-b-gray-200 border-b'>
-          <h6 className='text-sm text-gray-400 m-1 p-3'>Suggested Searches</h6>
-        </div>
-        {randomize(questions).slice(0, suggestedSearchCount).map((q) =>
-          <div key={q.id} onClick={() => handleChange({ value: q })} className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'>
-            <h3 className='sm:text-lg text-md m-1 p-3'>
-              {q.Title}
-            </h3>
-          </div>
-        )}
-      </div>
-    </div>
-    <div className="grid gap-4 sm:grid sm:grid-cols-2 sm:gap-8">
-      {filteredLectures.map((lecture) =>
-        <Link
-          to={`/lectures/${lecture.id}`}
-          key={lecture.id}
-          className='flex relative items-center text-white w-full h-32 hover:shadow-2xl rounded-xl'
-        >
-          <span className='z-10 p-2'>
-            <span className="text-sm">Lecture</span><br/>
-            <span className="text-lg font-semibold leading-tight">{lecture['Title']}</span>
-          </span>
-          <div style={{
-            backgroundImage: `url('https://picsum.photos/seed/${lecture.id}/300/200')`
-          }} className='absolute z-0 top-0 bg-cover rounded-xl brightness-75 w-full h-full'>
-            {lecture['Youtube Link'] && <div className='absolute bottom-0 right-0 bg-white rounded-full w-6 h-6 m-3 flex items-center justify-center'>
-              <img src={PLAY_IMAGE} alt='play button' className='w-2'/>
-            </div>}
-          </div>
-        </Link>
-      )}
-
-      {!filteredLectures.length && 
-        <div>No results match...</div>
-      }
+      <Results
+        results={questions}
+        typedInput={typedInput}
+        setSelectedQuestion={setSelectedQuestion}
+        handleChange={handleChange}
+      />
     </div>
   </div>;
 }
