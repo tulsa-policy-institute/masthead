@@ -18,12 +18,14 @@ const Results = ({ results, handleChange, typedInput }) => {
   }).map(f => {console.log(f.score); return f.obj});
 
   const displayResults = (typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount));
+  const hasResults = displayResults.length;
+  const FORMAT_OPTIONS = ['Text', 'SMS', 'Email', 'Webinar', 'Map', 'Consultation'];
 
   return <>
     <div className='shadow-lg mt-4 rounded-2xl'>
       <div className='border-b-gray-200 border-b'>
         <h6 className='text-sm text-gray-400 m-1 p-3'>
-          {typedInput ? 'Results' : 'Suggested Searches'}
+          {typedInput ? (hasResults ? 'Results' : 'Submit a question') : 'Suggested Searches'}
         </h6>
       </div>
       {displayResults.map((q) =>
@@ -33,12 +35,30 @@ const Results = ({ results, handleChange, typedInput }) => {
           </h3>
         </div>
       )}
-      {!displayResults.length ?
-        <div className='m-0 border-b-gray-200 border-b'>
-          <h3 className='sm:text-lg text-md m-1 p-3'>
-            We couldn't find a matching question but please click to submit your question! ->
-            "{typedInput}""
-          </h3>
+      {!hasResults ?
+        <div className='m-0 border-b-gray-200 border-b m-4'>
+          <p className='sm:text-lg text-md'>
+            We couldn't find a match for your question, but please submit your question and we'll get back to you:
+          </p>
+          <h1 className='text-3xl'>{typedInput}</h1>
+          <div className="flex justify-start">
+            <div>
+              {FORMAT_OPTIONS.map((option, index) =>
+                <div className="form-check" key={index}>
+                  <input
+                    className="form-check-input appearance-none rounded-full h-4 w-4 border border-gray-300 bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer"
+                    type="radio"
+                    name='format'
+                    id={option}
+                  />
+                  <label className="form-check-label inline-block text-gray-800" htmlFor={option}>
+                    {option}
+                  </label>
+                </div>
+              )}
+            </div>
+          </div>
+          <button className='bg-green-400 p-2 rounded-md'>Submit</button>
         </div> : <></>
       }
     </div>
