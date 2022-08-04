@@ -46,7 +46,6 @@ const Results = ({ results, handleChange, typedInput }) => {
     }
   })();
   const hasResults = displayResults.length;
-  const FORMAT_OPTIONS = ['Text', 'SMS', 'Email', 'Webinar', 'Map', 'Consultation'];
 
   return <>
     <div className='flex flex-wrap mt-4 max-h-10 overflow-hidden'>
