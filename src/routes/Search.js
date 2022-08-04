@@ -83,24 +83,22 @@ const Results = ({ results, handleChange, typedInput }) => {
             We couldn't find a match for your question, but please submit your question and we'll get back to you:
           </p>
           <h1 className='text-3xl'>{typedInput}</h1>
-          <div className="flex justify-start">
-            <div>
-              {FORMAT_OPTIONS.map((option, index) =>
-                <div className="form-check" key={index}>
-                  <input
-                    className="form-check-input appearance-none rounded-full h-4 w-4 border border-gray-300 bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer"
-                    type="radio"
-                    name='format'
-                    id={option}
-                  />
-                  <label className="form-check-label inline-block text-gray-800" htmlFor={option}>
-                    {option}
-                  </label>
-                </div>
-              )}
-            </div>
-          </div>
-          <button className='bg-green-400 p-2 rounded-md'>Submit</button>
+          <>
+            <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
+            <iframe
+              title='question submission'
+              className="airtable-embed airtable-dynamic-height"
+              src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}`}
+              frameborder="0"
+              onmousewheel=""
+              width="100%"
+              height="638"
+              style={{
+                background: 'transparent',
+                border: '0px solid #ccc',
+              }}
+            />
+          </>
         </div> : <></>
       }
     </div>
