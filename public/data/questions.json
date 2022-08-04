@@ -1,12 +1,1624 @@
 [
   {
+    "id": "rec9DiQE6bgvPShgC",
+    "Concepts": [
+      "recrcssg4rJQBVqHI",
+      "recu7T4jWaUtbDQ2V",
+      "rec2bz2lvTwnSaZRh"
+    ],
+    "Public": true,
+    "Answers": "Through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". Also, it is possible for the State of Oklahoma to preempt such laws?",
+    "Sources": [
+      "recYkbEK2qJD5ydmW"
+    ],
+    "Title": "How would an income tax be instituted in the City of Tulsa?"
+  },
+  {
+    "id": "reclGjy18Ovhszv3Y",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "recyUhPcjsDzsScmC"
+    ],
+    "Public": true,
+    "Answers": "Yes, as long as it is \"for the common benefit or in the furtherance of any function performed by the city\".",
+    "Sources": [
+      "recwd5yAGwLV3AHWQ"
+    ],
+    "Title": "Can the City of Tulsa provide any service or facility?"
+  },
+  {
+    "id": "recQWNTioQTAzS9WA",
+    "Concepts": [
+      "recex3pj2DIma2nV4",
+      "recjQZSeuGijmUfoF"
+    ],
+    "Public": true,
+    "Sources": [
+      "rechwFSnIGW1guiYQ"
+    ],
+    "Title": "What are Oklahoma's open meeting laws?"
+  },
+  {
+    "id": "recQ4Z9ieO76kxkMi",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t",
+      "recZkq5S5jOSatcsk"
+    ],
+    "Public": true,
+    "Answers": "The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call special meetings. Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. This notice must include the date, time, and place of the special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. Finally, only those subjects included in the written notice can be considered at special meetings.",
+    "Sources": [
+      "recjdtdy7L7HfQjHU"
+    ],
+    "Title": "Who can call a special meeting for Tulsa's City Council?"
+  },
+  {
+    "id": "recT2hPeqmUfQsHqy",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "recVGtbiaDBgMqTaG",
+      "rechiNVNlkL48X8Xv",
+      "rec6lrWmFyJj2MfoK"
+    ],
+    "Public": true,
+    "Answers": "\"The Mayor shall designate police officers to serve orders and subpoenas issued by the Council\"",
+    "Sources": [
+      "recBPY7GOmfmJD6OT"
+    ],
+    "Title": "Who designates the police officers to serve orders and subpoenas issued by Tulsa's City Council?"
+  },
+  {
+    "id": "recUgUnXQxPXkyOPy",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t"
+    ],
+    "Public": true,
+    "Answers": "During a Civil Emergency, City Council can meet for special meetings anywhere within the corporate limits of the City of Tulsa, without notice, and may consider \"matters as necessary for the preservation of the public health, safety, and welfare during the period of the emergency\".",
+    "Sources": [
+      "rec1HPb7olIu74sXv"
+    ],
+    "Title": "How do City Council meeting rules change during a civil emergency?"
+  },
+  {
+    "id": "recU7zzXDyx9CDJrS",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Written notice to City Councilors concerning special meetings must include the date, time, and place of the meeting. Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. Only those subjects included in the written notice can be considered at special meetings. The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call special meetings. ",
+    "Sources": [
+      "recrCgNaRAZ9MkaXs"
+    ],
+    "Title": "What must be included in special meeting notices to City Councilors?"
+  },
+  {
+    "id": "recUs51nsxk0gsqTN",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "recKE790vQbaHmbeM",
+      "rech2pNnuhsCaWBdI"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recVrEJgKdAMuw3rj"
+    ],
+    "Title": "Can the City of Tulsa issue licensing fees for the purpose of revenue collection?"
+  },
+  {
+    "id": "recW8BI6yobVdgGbs",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "recqFxYA8XapFzThA",
+      "recygMhYSJxEH8g89"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recArHm2PkDyCUQqN"
+    ],
+    "Title": "Can the City of Tulsa incur debt?"
+  },
+  {
+    "id": "recWcMxNuRrmjrQcC",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recygMhYSJxEH8g89",
+      "recAi1b9s2ensb8nF"
+    ],
+    "Public": true,
+    "Answers": "No. Prior to December 1st, 2014, this was not the case. Tulsa's City Council could change their salary by majority vote to go into effect after \"the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term\".",
+    "Sources": [
+      "rec0Qnoeo7RJZBVTE"
+    ],
+    "Title": "Can Tulsa's City Council vote to change its own salary?"
+  },
+  {
+    "id": "recWNHr3FIOHpEz9f",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec9rnEQuFVJq4IgH",
+      "recxYIRPvYEut8lEN"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment\".",
+    "Sources": [
+      "rec7Xy1dNuTxZpQGI"
+    ],
+    "Title": "May Tulsa's City Council prescribe fines as a punishment for the violation of ordinances?"
+  },
+  {
+    "id": "recXs1flaptEVIw6G",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec9waV3GVmUG4v9L",
+      "recdbpewxCXJ0tOiA",
+      "rec17CY4B97WAP1a8",
+      "reclEz2L2IRivna0C",
+      "recGP41AikxZaToKj",
+      "recckkQsJ4fr64GLe",
+      "recpRzWgONB4fYLgm"
+    ],
+    "Public": true,
+    "Answers": "The All Items Consumer Price Index for All Urban Consumers (CPI-U) - or its succesor as determined by the Bureau of Labor Statistics, a bureau of the U.S. Department of Labor.",
+    "Sources": [
+      "recCnTQJqAYaNopVz"
+    ],
+    "Title": "Where adjustments to the Economic Stabilization Reserve, Capital, Other One-Time Expenditures, or Operating Reserve are concerned, what product is the City Treasurer required to rely on when making projections for the Consumer Price Index?"
+  },
+  {
+    "id": "recXMslOU9IVA9375",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recbMhrS5udASHOL1",
+      "rec8VvbJAupXTEemd",
+      "recdiRERCYuZGHSXd"
+    ],
+    "Public": true,
+    "Sources": [
+      "rec79OfrV2ULMlw3O"
+    ],
+    "Title": "What is a civil emergency in Tulsa?"
+  },
+  {
+    "id": "recYGrUyBXjHPoqep",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recALrXDVs83Qf9QT",
+      "rec9waV3GVmUG4v9L",
+      "rec5fkRItyK7VCWJO",
+      "recdbpewxCXJ0tOiA"
+    ],
+    "Public": true,
+    "Answers": "The Economic Stabilization Reserve assists to limit \"the amount of reduction required in the general fund budget during times of declining revenues\".",
+    "Sources": [
+      "recwMgKY7yab2Eh2i"
+    ],
+    "Title": "What is the purpose of Tulsa's Economic Stabilization Reserve?"
+  },
+  {
+    "id": "recYJpTO43OKiz8gD",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec9rnEQuFVJq4IgH",
+      "recoCmCo16FXWqhx8"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment\".",
+    "Sources": [
+      "recUZOoV0IQjaCg7p"
+    ],
+    "Title": "May Tulsa's City Council prescribe imprisonment as a punishment for the violation of ordinances?"
+  },
+  {
+    "id": "recYLfzqYlK5TjRVy",
+    "Concepts": [
+      "recEs1TA3rbioFjib",
+      "rec6jAl0sv1feJZPs",
+      "recSJYjYkV67eZeIy"
+    ],
+    "Public": true,
+    "Answers": "Yes, the City of Tulsa may \"restrict and regulate the use and subdivision of land, to perform planning and zoning, and to establish by ordinance the procedures therefor\".",
+    "Sources": [
+      "recc3yIwRBWQvR2cn"
+    ],
+    "Title": "Can the City of Tulsa restrict and regulate the use of land?"
+  },
+  {
+    "id": "recZs9CHqvBvKgwrm",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "recrcssg4rJQBVqHI",
+      "recqHZ3UmD7SG9v5v",
+      "rec2bz2lvTwnSaZRh"
+    ],
+    "Public": true,
+    "Answers": "Through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect sales tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". Also, it is possible for the State of Oklahoma to preempt such laws?",
+    "Sources": [
+      "recjdb1KitBoItBXK"
+    ],
+    "Title": "Can the City of Tulsa change the sales tax?"
+  },
+  {
+    "id": "recZHpStuZfLdBWcV",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec2sygWSOsXvZgta"
+    ],
+    "Public": true,
+    "Answers": "2/3rds of the entire membership of Tulsa's City Council are required to overturn a Mayor's veto. Once this vote takes place, the ordinance goes into effect as if supported by the Mayor.",
+    "Sources": [
+      "recRijJMbqRqPNl3v"
+    ],
+    "Title": "How many votes are needed in Tulsa's City Council to overturn a Mayor's veto of an ordinance?"
+  },
+  {
+    "id": "recq94IbAD8EnVIHN",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recALrXDVs83Qf9QT",
+      "rec9waV3GVmUG4v9L",
+      "rec5fkRItyK7VCWJO",
+      "recdbpewxCXJ0tOiA",
+      "rec17CY4B97WAP1a8",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "While the Mayor and Tulsa's City Council may, at any point in time, authorize any available funds to be added to the Economic Stabilization Reserve, the total in the Economic Stabilization Reserve shall not exceed 30% of actual total General Fund revenues. When this 30% cap is met, the budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization to capital, other one-time expenditures, or the operating reserve. However, such capital, other one-time expenditures, and the operating reserve must not exceed 25% of the excess General Fund revenues. Finally, all of the aformentioned allocations are only required where projected revenues initially exceed $250,000, per Sectiomn 7.10 in the City Charter.",
+    "Sources": [
+      "recYTqVCkED3OBSa2"
+    ],
+    "Title": "In what ways are the Mayor and Tulsa's City Council limited in adding money to the Economic Stabilization Reserve?"
+  },
+  {
+    "id": "recs7sGDHP8jrTAkC",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recd19wOCMV6gY71M"
+    ],
+    "Public": true,
+    "Answers": "By ordinance. \"The Council shall provide by ordinance for the periodic review of this amended Charter and shall submit to the qualified electors of the city amendments necessary to provide for representative, efficient, and economical administration of city government\".",
+    "Sources": [
+      "recbdEfc9lxTdscC5"
+    ],
+    "Title": "How must Tulsa's City Council provide for review of the amended City Charter?"
+  },
+  {
+    "id": "recuDxASxgBKeY728",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recArDxIzaR55Bg9n"
+    ],
+    "Public": true,
+    "Answers": "2/3rds of the entire membership of the Council. \"Further,  An ordinance or resolution adopted as an emergency measure to provide for the immediate preservation of the public peace, health, welfare, or safety shall describe the emergency in a separate section\".",
+    "Sources": [
+      "recL7ZO9ltM8ztOxo"
+    ],
+    "Title": "How many votes are needed in Tulsa's City Council to adopt an ordinance as an emergency measure? "
+  },
+  {
+    "id": "recvpitaSSSVzoI73",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recyFsZOyQSoHehhX",
+      "rec5ijDMdXSschS99",
+      "recArDxIzaR55Bg9n",
+      "recjo2zoepOIemiRP"
+    ],
+    "Public": true,
+    "Answers": "\"Titles, enacting clauses, emergency sections, and temporary and special ordinances may be omitted from the code. Ordinances and parts of ordinances which are to be repealed by the adoption of a revised code may be omitted. A revised code may contain new matter\".",
+    "Sources": [
+      "rec5Jd51Qy5nHqHDR"
+    ],
+    "Title": "What is permitted to be omitted from the Code of Ordinances?"
+  },
+  {
+    "id": "recwPqzzGCjWLKXoP",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council must hold at least two (2) meetings every month and these meetings must be held at City Hall.",
+    "Sources": [
+      "recpk2Lp5gB9f28Yn"
+    ],
+    "Title": "What are the minimum number of meetings that Tulsa's City Council must hold?"
+  },
+  {
+    "id": "recze7ORmMp2clvxf",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recygMhYSJxEH8g89",
+      "rec9waV3GVmUG4v9L",
+      "recX9nNDKs0rtBi3g",
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC",
+      "recTduFwT9ATeQB7t",
+      "recov7WSAYmy4L4Qr"
+    ],
+    "Public": true,
+    "Answers": "At least one public hearing, during which \"any citizen of the city shall be given an opportunity to be heard on the budgets or any item or program reccommended therein. After public hearing, the Council may adopt a budget or amendments. The Council may add, delete, increase, or decrease programs or amounts, except expenditures required by law\".",
+    "Sources": [
+      "recpPbQeeDgWdhDYK"
+    ],
+    "Title": "What public hears must City Council hold upon receipt of budgets from the Mayor?"
+  },
+  {
+    "id": "reczUZZWw3qeYAUYf",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recxdOAhjRYEtGBIR",
+      "rec6lrWmFyJj2MfoK",
+      "recm6eIXpywCU4s9O",
+      "recgmxBwToQ2fMxpY",
+      "recgJkC22XaeUveje"
+    ],
+    "Public": true,
+    "Answers": "\"...soley through the Mayor, the heads of each division and department of the City, as well as such other persons as the Mayor shall delegate\".",
+    "Sources": [
+      "recw7DYpf4ikRLZHM"
+    ],
+    "Title": "Barring investigations and hearings, through what avenues is it legal for Tulsa's City Council or individual councilors to communicate on matters of city business with the executive and administrative service?"
+  },
+  {
+    "id": "reczCm4avq1CSqz4I",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recygMhYSJxEH8g89",
+      "rec9waV3GVmUG4v9L",
+      "recX9nNDKs0rtBi3g",
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC"
+    ],
+    "Public": true,
+    "Answers": "\"The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein\". The special treatement of the 2017 Public Safety Sales Tax was the result of an amendment supported by 6,602 Tulsans. 3,640 Tulsans voted against the amendment.",
+    "Sources": [
+      "recOtmAvGMoCcVV9J"
+    ],
+    "Title": "What must occur prior to Tulsa City Council's expenditure of funds from the sale or issuance of an obligation of the city, or from any other source?"
+  },
+  {
+    "id": "recBgWfp1vnLa23DG",
+    "Concepts": [
+      "rec4hf7kl2KbCAAhf",
+      "rec6jAl0sv1feJZPs"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recZ1UTclsoDNZfi3"
+    ],
+    "Title": "Can the City of Tulsa enforce endorinances on property owned, leased, controlled, or supervised by the city that is outside of its corporate limits?"
+  },
+  {
+    "id": "recCESevPNO9OvkIe",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recrCWf24cPQJ3bt8",
+      "recjzq9fpGN98fJ4l"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council is the judge of the qualifications of its members. In doing so, it has \"the power to subpoena witnesses and require the production of records. The decisions of the Council in such cases shall be subject to review by appropriate actions in courts of competent jurisdiction which shall be commenced within ten (10) days after a final decision by the Council\".",
+    "Sources": [
+      "recEWQxLxiJSGetAu"
+    ],
+    "Title": "Who is the judge of the qualifications of Tulsa's City Councilors?"
+  },
+  {
+    "id": "recDkJkgHxnqz33EP",
+    "Concepts": [
+      "rec5zG09bsxqZaySm",
+      "rec6jAl0sv1feJZPs"
+    ],
+    "Public": true,
+    "Answers": "The City of Tulsa may \"abate nuisances of any kind\" as well as \"assess the expense thereof as a special tax against the land upon which the nuisance is located\". As of 2018, it has been clarified that the City of Tulsa \"may summarily abate a nuisance re-occuring on the same property under the same ownership within twenty-four (24) months of a previous nuisance abatement on that property\" as well as assess the expense thereof as a special tax against the land. This resulted from a 2017 vote through which 8,291 Tulsans voted in favor of this amendment against 2,123 Tulsans voting against.",
+    "Sources": [
+      "rec2GiJb29kOQAMIC"
+    ],
+    "Title": "What can the City of Tulsa do to adress nuisances?"
+  },
+  {
+    "id": "recDctKj7bLVOerpI",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "rech8ZnhQ6xMFXskv",
+      "recMGYhG1RlGmHr3b",
+      "recgdKPlaYC1v6B5Z",
+      "rec9HPiO516rCW9GX",
+      "reckXC0QQXYLxJRIn",
+      "recTduFwT9ATeQB7t",
+      "recov7WSAYmy4L4Qr"
+    ],
+    "Public": true,
+    "Answers": "By convincing the property owners impacted by the zoning change to file a protest against the zoning change, Tulsans can raise the bar for the number of votes required for the zoning ordinance to go into effect - instead requiring the City Council to have three-fourths (3/4) of the entire membership of the Council to enact the zoning change. Such protests must meet two requirement. First, protests must be filed at least three (3) days prior to the hearing of the zoning change by City Council. Second, protests must be supported by either (a) owners of at least 20% of the area of the lots included in the proposed change or (b) owners of at least 50% of the area of the lots within a 300 foot radius of the exterior boundary of the territory included in the proposed change.",
+    "Sources": [
+      "recmP8tQuyN5MtU1k"
+    ],
+    "Title": "How can Tulsans block a zoning change?"
+  },
+  {
+    "id": "recDI9C1Q4m6rxeUS",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recb8y39G2n1fUMpf",
+      "recZtZB1zc9lOY8fl"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council elects their own Chairman and Vice Chairman. Further, the terms of such positions are determined by the Council. Duties can be assigned to the Chairman via charter amendment, ordinance, or rule of the Council. The Vice Chairman performs duties of the Chairman under conditions of the Chairman's absense.",
+    "Sources": [
+      "recKi8AtiNrxKjWOg"
+    ],
+    "Title": "Who elects the Chairman and Vice Chairman of Tulsa's City Council?"
+  },
+  {
+    "id": "recEkG7YSqnpQ9l4I",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recygMhYSJxEH8g89",
+      "rec9waV3GVmUG4v9L",
+      "recX9nNDKs0rtBi3g",
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC"
+    ],
+    "Public": true,
+    "Answers": "\"The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein\".",
+    "Sources": [
+      "recHzCmT1NJB6v7B8"
+    ],
+    "Title": "What must occur prior to Tulsa City Council's expenditure of general funds?"
+  },
+  {
+    "id": "recEQZOozsoC3Cj7W",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec2sygWSOsXvZgta",
+      "rec6lrWmFyJj2MfoK"
+    ],
+    "Public": true,
+    "Answers": "The Mayor may veto or even reduce any item of ordinances that adopt budgets or make appropriations, unless otherwise provided in the City Charter.",
+    "Sources": [
+      "recH0DMjb0xYKi2Xp"
+    ],
+    "Title": "What can Tulsa's Mayor veto?"
+  },
+  {
+    "id": "recEBvpqZlB2vO3Aj",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "rec6jAl0sv1feJZPs",
+      "recBYNVooM0ZJAzf7"
+    ],
+    "Public": true,
+    "Answers": "The City of Tulsa may \"acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits\".",
+    "Sources": [
+      "reczHhaTuTmYMUW7n"
+    ],
+    "Title": "What powers does the City of Tulsa have with respect to waterports?"
+  },
+  {
+    "id": "recFLeOGgaR9kA2Sd",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recALrXDVs83Qf9QT",
+      "rec9waV3GVmUG4v9L",
+      "rec5fkRItyK7VCWJO",
+      "rec17CY4B97WAP1a8",
+      "recnMN6FZvUqfZPpr",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "The Mayor and Tulsa's City Council \"may, at any time, appropriate monies from the capital and/or other one-time expenditures allocation for capital projects or for expenditures such as, but not limited to, acquisition of equipment or information systems\".",
+    "Sources": [
+      "reccqMX2LrXhNalmZ"
+    ],
+    "Title": "For what may the Mayor and Tulsa's City Council appropriate funds allocated to capital or other one-time expenditures for?"
+  },
+  {
+    "id": "recGYfeKeg1n83sq4",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Two. However, Tulsa's City Council can waive this requirement with a vote of two thirds of the entire membership of the Council.",
+    "Sources": [
+      "reccYueoJds3WA3WE"
+    ],
+    "Title": "How many meetings must an ordinance be on Tulsa's City Council agenda before it can be adopted?"
+  },
+  {
+    "id": "recGKUTEcX6hXBJUv",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "rec5ic94W9hDJJkfc",
+      "recaahrH7a6kRGqnX"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council shall hear complaints made by citizens concerning the administration of the city government\".",
+    "Sources": [
+      "recQTLkxwWu1Q3wSX"
+    ],
+    "Title": "Concerning investigations and hearings, must City Council hear complaints made by citizens concerning the administration of city government?"
+  },
+  {
+    "id": "recI3uF7NibyH8ZRH",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recFXycyXWuWo47Ix"
+    ],
+    "Public": true,
+    "Answers": "Yes, Tulsa's City Council \"may employ such persons as are necessary to assist the Council in the performance of its duties\".",
+    "Sources": [
+      "recYBwSExpE2a8oQS"
+    ],
+    "Title": "Can Tulsa's City Council employ persons to assist the Council in the performance of its duties?"
+  },
+  {
+    "id": "recI4GTiCISyRF6VD",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec2sygWSOsXvZgta"
+    ],
+    "Public": true,
+    "Answers": "90 days. \"f the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period\".",
+    "Sources": [
+      "recAmw5u9QGUZhH8E"
+    ],
+    "Title": "If Tulsa's City Council fails to overturn the Mayor's veto on a given ordinance, how long must the Council wait before the ordinance can be reconsidered?"
+  },
+  {
+    "id": "recIFNsGqXbgngSEq",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t",
+      "recbMhrS5udASHOL1",
+      "recjQZSeuGijmUfoF"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recSBg5R0pIJUUvl5"
+    ],
+    "Title": "Are City Council meetings subject to open meeting laws?"
+  },
+  {
+    "id": "recJTBtPNNCOkfttt",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "rec5ic94W9hDJJkfc",
+      "recgQvgd3Shu5a7uH",
+      "rechiNVNlkL48X8Xv"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".",
+    "Sources": [
+      "recWMdfDSgX8XKUzo"
+    ],
+    "Title": "May Tulsa's City Council administer oaths as necessary for the discharge of the duties of the Council?"
+  },
+  {
+    "id": "recJWCqMOuLqKvqWZ",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recex3pj2DIma2nV4",
+      "recxdOAhjRYEtGBIR",
+      "rec3gAkTXHxNLnke9"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"All legislative powers vested by this amended Charter in the Council are subordinate and subject to the rights of initiative and referendum reserved to the people by the Constitution of Oklahoma\".",
+    "Sources": [
+      "rec18F7cSBk7ba16Z"
+    ],
+    "Title": "Are the legislative powers of Tulsa's City Council subordinate and subject to the rights of initiative and referendum reserved to the people by the Constitution of Oklahoma?"
+  },
+  {
+    "id": "recJ0UrR0XFC2qPfG",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recWfxeXOGk90EVtM"
+    ],
+    "Title": "Must a copy of each proposed ordinance shall be furnished to each Councilor or left at the usual place of residence of each Councilor prior to final consideration?"
+  },
+  {
+    "id": "recJzAooe967Ct1xJ",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec2sygWSOsXvZgta"
+    ],
+    "Public": true,
+    "Answers": "15 days. \"Within fifteen (15) working days following such delivery, the Mayor shall either approve or veto the ordinance or resolution. If vetoed, the ordinance or resolution shall be returned to the Council with a written statement of the objections of the Mayor. If neither approved nor vetoed by the Mayor in the time specified, the ordinance or resolution shall take effect as though approved by the Mayor. A veto by the Mayor shall suspend further action of the Council upon the ordinance or resolution for a period of seven (7) days, after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor. If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period\"",
+    "Sources": [
+      "reclVv1QZFmXmvuli"
+    ],
+    "Title": "Once the Mayor recieves ordinances voted in by the City of Tulsa, how long does the Mayor have to either approve or veto the ordinance?"
+  },
+  {
+    "id": "recKUtQmqzyICt2px",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC",
+      "recbMhrS5udASHOL1",
+      "rec8VvbJAupXTEemd",
+      "recTduFwT9ATeQB7t"
+    ],
+    "Public": true,
+    "Answers": "The Mayor of Tulsa. During a Civil Emergency, City Council can meet for special meetings anywhere within the corporate limits of the City of Tulsa, without notice, and may consider \"matters as necessary for the preservation of the public health, safety, and welfare during the period of the emergency\".",
+    "Sources": [
+      "recViCls8CGR3SyGt"
+    ],
+    "Title": "Who can call a civil emergency in Tulsa?"
+  },
+  {
+    "id": "recK3kTvH7TyMdYnQ",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recxdOAhjRYEtGBIR",
+      "rec6lrWmFyJj2MfoK"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may delegate to the Mayor the authority to make rules, regulations, and orders necessary and proper to implement and administer ordinances\".",
+    "Sources": [
+      "recbsGXH3aOUdh1ts"
+    ],
+    "Title": "May Tulsa's City Council delegate to the Mayor the authority to make rules, regulations, and orders necessary and proper to implement and administer ordinances?"
+  },
+  {
+    "id": "recLWuW1Pd9GAC7So",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec9rnEQuFVJq4IgH"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment\".",
+    "Sources": [
+      "recz84mofMhULcSvO"
+    ],
+    "Title": "May Tulsa's City Council prescribe penalites as a punishment for the violation of ordinances?"
+  },
+  {
+    "id": "recNdX8y3jgzE5uBD",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec5ijDMdXSschS99",
+      "recArDxIzaR55Bg9n",
+      "recjo2zoepOIemiRP"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council",
+    "Sources": [
+      "recxkLXUyyVSdgcDn"
+    ],
+    "Title": "Who is responsible for revising and maintaining the Code of Ordinances?"
+  },
+  {
+    "id": "recOmyIu0QxBEQqgV",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec9waV3GVmUG4v9L",
+      "recpRzWgONB4fYLgm",
+      "recdbpewxCXJ0tOiA"
+    ],
+    "Public": true,
+    "Answers": "\"If the City Treasurer projects that total General Fund revenues for the upcoming budget year will either (a) be less than the current budget year's total General Fund revenues, or (b) be less than the highest of any other previous year's total General Fund revenues, the budget submitted by the Mayor and approved by the Council may appropriate up to fifty percent (50%) of the current balance in the Economic Stabilization Reserve, but no more than the shortfall in total General Fund revenues as determined above, to be used for any lawful municipal purpose in the upcoming budget year. For purposes of calculating any shortfall:\n\nA. If the trigger for withdrawals from the reserve was not met in the current budget year, the City Treasurer shall calculate the shortfall for the upcoming budget year by subtracting the total projected General Fund revenues for the upcoming budget year from the total projected General Fund revenues for the current budget year.\n\nB. If the trigger for withdrawals from the Economic Stabilization Reserve was met in the current budget year, the shortfall shall be calculated by subtracting the total projected General Fund revenues for the upcoming budget year from the highest of any previous year's total General Fund revenues\". As outlined in Section 7.9 of the City Charter, the City may withdrawl the percentage of negative growth in the Consumer Price Index if the City Treasurer projects that the Consumer Price Index for the upcoming budget year will be less than the index for the current budget year.",
+    "Sources": [
+      "recHrxqOnENuB36sb"
+    ],
+    "Title": "Under what conditions may the budget submitted by the Mayor and approved by Tulsa's City Council appropriate up to 50% of the current balance in the Economic Stabilization Reserve for any lawful municipal purpose?"
+  },
+  {
+    "id": "recOZcthnnGwf2z2t",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t"
+    ],
+    "Public": true,
+    "Answers": "A majority of the entire membership of Tulsa's City Council must be present to constitute a quorum for City Council meetings. Further, \"less than a majority may continue a meeting to a specific date and time. The affirmative vote of a majority of the entire membership of the Council shall be necessary to adopt an ordinance or resolution\". Finally, actions of the Council are effective following an affirmative vote of a qurom.",
+    "Sources": [
+      "recSxXDgwTIEu9ZI0"
+    ],
+    "Title": "How many of Tulsa's City Councilors must be present to constitute a quorum for a meeting? "
+  },
+  {
+    "id": "recOcX2z6GYD1URAT",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recxYIRPvYEut8lEN",
+      "recTduFwT9ATeQB7t"
+    ],
+    "Public": true,
+    "Answers": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"",
+    "Sources": [
+      "rec9SA7mxbOe4me55"
+    ],
+    "Title": "Can Tulsa's City Council fine persons for violation of council rules?"
+  },
+  {
+    "id": "recOqf3VDixaaq1es",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recyFsZOyQSoHehhX"
+    ],
+    "Public": true,
+    "Answers": "The City Clerk.",
+    "Sources": [
+      "recBmy0nIGPxVmI1B"
+    ],
+    "Title": "Who's responsibility is it to attest to and record ordinances and resolutions adopted by Tulsa's City Council?"
+  },
+  {
+    "id": "recOA5ltx4YJJ69zq",
+    "Concepts": [
+      "rec4hf7kl2KbCAAhf",
+      "rec6jAl0sv1feJZPs"
+    ],
+    "Public": true,
+    "Answers": "Yes, \"as authorized by the laws of Oklahoma\".",
+    "Sources": [
+      "recuyQc1kgq9Eu1Ot"
+    ],
+    "Title": "Can the City of Tulsa exercise jurisdiction over property that is outside of its corporate limits?"
+  },
+  {
+    "id": "recP19FQxiRhGq9jq",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "rec5ic94W9hDJJkfc"
+    ],
+    "Public": true,
+    "Answers": "By ordinance. \"The Council shall provide by ordinance the penalties for the contempt by any person who refuses to obey a Council order or subpoena\"",
+    "Sources": [
+      "recYWKTFnXTvpTCAo"
+    ],
+    "Title": "How may Tulsa's City Council provide the penalties for the contempt by any person who refuses to obey a Council order or subpoena?"
+  },
+  {
+    "id": "rec1VN6atVxRUlmnT",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "\"All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title\"",
+    "Sources": [
+      "recFDXly6FTOQVZpH"
+    ],
+    "Title": "Which ordinances must be confined to one subject?"
+  },
+  {
+    "id": "rec1ds5meCdh84sx3",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recRACBybqeI1fCXf"
+    ],
+    "Public": true,
+    "Answers": "By ordinance. \"The Council shall provide by ordinance for the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals by the divisions, departments, and agencies of the city. Except when otherwise provided by the laws of Oklahoma, the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals shall be subject to review by the Council, upon petition by an aggrieved person, in accord with procedures which the Council shall establish by ordinance. The Council may not abrogate any right of review by a court of competent jurisdiction\".",
+    "Sources": [
+      "recD9Fjqa0ekN0QN6"
+    ],
+    "Title": "By what means does Tulsa's City Council review administrative actions?"
+  },
+  {
+    "id": "rec1ytzgav73eUXOD",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec9waV3GVmUG4v9L",
+      "recdbpewxCXJ0tOiA",
+      "rec17CY4B97WAP1a8",
+      "reclEz2L2IRivna0C",
+      "recGP41AikxZaToKj",
+      "recckkQsJ4fr64GLe"
+    ],
+    "Public": true,
+    "Answers": "Definitely not. If the City Council or the voters take any action that changes the amount of total General Fund revenues in any material manner, including but not limited to reducing a tax or imposing a new fee, the revenue changes caused by that action shall not be counted as part of the trigger for allocations to the Economic Stabilization Reserve during the year or years in which the action is first implemented.",
+    "Sources": [
+      "reccL19j538GHHPPo"
+    ],
+    "Title": "Are revenue changes to the General Fund caused by actions made by Tulsa's City Council or voters counted as part of triggers for allocations to or withdrawls from the Economic Stabilization Reserve in the year in which the revenue change is made?"
+  },
+  {
+    "id": "rec1ymuI0SzKyUk6F",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "reco0DBfcy738b3oR"
+    ],
+    "Title": "Must a vote of each Councilor shall be taken upon all matters before the Council and entered in the journal of the proceedings of the Council?"
+  },
+  {
+    "id": "rec2k8EIZMHW2OMh6",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "receacjDdXCI7IGXt"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council has \"the power to subpoena witnesses and require the production of records\" for the purposes of judgging the qualification of its members.",
+    "Sources": [
+      "recsChAwABV0RmGTW"
+    ],
+    "Title": "Does Tulsa's City Council have the power to subpoena witnesses?"
+  },
+  {
+    "id": "rec2t2g8O4cKwQnSa",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "rec5ic94W9hDJJkfc"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may investigate the conduct of the city government and may make appraisals, comments, and recommendations to the Mayor on the efficiency, economy, and effectiveness of administrative practices, methods, systems, and controls\".",
+    "Sources": [
+      "recEHXwNFGAN0jFpe"
+    ],
+    "Title": "May Tulsa's City Council investigate the conduct of the city government?"
+  },
+  {
+    "id": "rec3gVv0sol719CIg",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recxYIRPvYEut8lEN",
+      "recTduFwT9ATeQB7t"
+    ],
+    "Public": true,
+    "Answers": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"",
+    "Sources": [
+      "rec6dHvj2wAek4eAI"
+    ],
+    "Title": "Can Tulsa's City Council fine its own members for violation of Council rules?"
+  },
+  {
+    "id": "rec3Jn0DlrFfUHiOy",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recRACBybqeI1fCXf"
+    ],
+    "Public": true,
+    "Answers": "No. \"The Council may not abrogate any right of review by a court of competent jurisdiction\".",
+    "Sources": [
+      "rech7dFRMm3t2hUBB"
+    ],
+    "Title": "Can Tulsa's City Council abrogate any right of review by a court of competent jurisdiction with respect to administrative review?"
+  },
+  {
+    "id": "rec4WnsrbE3WjjKIZ",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recygMhYSJxEH8g89"
+    ],
+    "Public": true,
+    "Answers": "\"Councilors may be reimbursed for expenses incurred in the performance of their duties\".",
+    "Sources": [
+      "rec6socomWn37C8Wo"
+    ],
+    "Title": "Are Tulsa's City Councilors reimbursed for expenses incurred in the performance of their duties?"
+  },
+  {
+    "id": "rec4cV0uZuW1I6tWF",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recygMhYSJxEH8g89",
+      "recAi1b9s2ensb8nF"
+    ],
+    "Public": true,
+    "Answers": "$24,000 annually",
+    "Sources": [
+      "recYO33OmVBH5yCjQ"
+    ],
+    "Title": "What is the salary of a City Councilor in Tulsa?"
+  },
+  {
+    "id": "rec4tJc3UgHGkzDvB",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council \"shall determine and estavblish its own rules and order of business\".",
+    "Sources": [
+      "recHMKokNgWNxHPkR"
+    ],
+    "Title": "Who determines the rules and order of business of Tulsa's City Council?"
+  },
+  {
+    "id": "rec6AKLn5Mx88NOwM",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recb8y39G2n1fUMpf"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council assigns duties to the Chairman via charter amendment, ordinance, or rule of the Council. Further, Tulsa's City Council elects their own Chairman and Vice Chairman and the terms of such positions are determined by the Council. Finally, the Vice Chairman performs duties of the Chairman under conditions of the Chairman's absense.",
+    "Sources": [
+      "rec8jmKbcIDkI6PYA"
+    ],
+    "Title": "Who assigns duties to the Chairman of Tulsa's City Council?"
+  },
+  {
+    "id": "rec72PZRelFTGbiNs",
+    "Concepts": [
+      "recX9nNDKs0rtBi3g",
+      "recRUsMirOWqHF097",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "City Council is \"composed of nine (9) Councilors elected by districts\".",
+    "Sources": [
+      "recRzV9GFHcQO0OA1"
+    ],
+    "Title": "What is the composition of Tulsa's City Council?"
+  },
+  {
+    "id": "rec7NZUk3vNDJrDQM",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recxYIRPvYEut8lEN",
+      "rec9rnEQuFVJq4IgH"
+    ],
+    "Public": true,
+    "Answers": "Two-thirds of the entire City Council. When each of the nine seats are filled, this means six Councilors must vote to impose such fine. \"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city\".",
+    "Sources": [
+      "recY1i3fmYOSQI0Ef"
+    ],
+    "Title": "How much of Tulsa's City Council does it take to impose a fine on a fellow City Councilor?"
+  },
+  {
+    "id": "rec8bb7qBEZ9UefNN",
+    "Concepts": [
+      "recygMhYSJxEH8g89"
+    ],
+    "Public": true,
+    "Answers": "The City of Tulsa may \"appropriate and expend money for any public purpose\".",
+    "Sources": [
+      "recIJf44fLcjVyLNy"
+    ],
+    "Title": "What can the City of Tulsa appropriate and expend money for?"
+  },
+  {
+    "id": "rec8wvWFld0yEJnNU",
+    "Concepts": [
+      "recbMhrS5udASHOL1",
+      "recSGySDo7WKcIwRl",
+      "recSZeWALNfnW3T8v",
+      "recr78qUqkhp5Zz4o",
+      "rec6snZ9f5cDYrdgN",
+      "recPuaZORpG9qS9b4",
+      "recbjRBkOBDM1mYbH",
+      "recBEtjHtOWJydWze"
+    ],
+    "Public": true,
+    "Answers": "The City of Tulsa may \"enter into agreements with the State of Oklahoma; with another state or municipality; with any subdivision or agency thereof; with the federal government or any agency thereof; with private corporations, partnerships or individuals, or any combination thereof; and to exercise jointly all powers, privileges, and authority conferred upon the City of Tulsa by this amended Charter or by the laws of Oklahoma\".",
+    "Sources": [
+      "rec9UUj4uejKJZNuu"
+    ],
+    "Title": "Who can the City of Tulsa enter into agreements with?"
+  },
+  {
+    "id": "rec8FmPSfA9S4pcre",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec9waV3GVmUG4v9L",
+      "recdbpewxCXJ0tOiA",
+      "rec17CY4B97WAP1a8",
+      "reclEz2L2IRivna0C",
+      "recGP41AikxZaToKj",
+      "recckkQsJ4fr64GLe"
+    ],
+    "Public": true,
+    "Answers": "The City Treasurer.",
+    "Sources": [
+      "recm1OZlsVsBlNNkh"
+    ],
+    "Title": "Who is responsible for rebalancing the allocations to or withdrawls from the Economic Stabilization Reserve, Capital, Other One-Time Expenditures, or Operating Reserve with actual revenue results (as state in the City of Tulsa's independent annual audit) in conjunection with the annual year-end of close of the budget?"
+  },
+  {
+    "id": "rec8MDgogQxyQd72T",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "rec5ic94W9hDJJkfc",
+      "recVGtbiaDBgMqTaG",
+      "rechiNVNlkL48X8Xv"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".",
+    "Sources": [
+      "rec2iciURmDP9LOwQ"
+    ],
+    "Title": "May Tulsa's City Council subpoena witnesses as necessary for the discharge of the duties of the Council?"
+  },
+  {
+    "id": "rec9WdE6TGWeb8smt",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recxYIRPvYEut8lEN",
+      "recTduFwT9ATeQB7t",
+      "recVig4UtVDrLlTTL"
+    ],
+    "Public": true,
+    "Answers": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"",
+    "Sources": [
+      "reci6BnEK0LzSvW2r"
+    ],
+    "Title": "Can Tulsa's City Council fine persons for disorderly conduct at a Council meeting?"
+  },
+  {
+    "id": "recaeurItpV3zCf38",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec2sygWSOsXvZgta"
+    ],
+    "Public": true,
+    "Answers": "Seven days, ...\"after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor\"",
+    "Sources": [
+      "recgyVa2YEXEsUsSU"
+    ],
+    "Title": "How long does Tulsa's City Council have to wait after the Mayor vetos an ordinance before the Council can vote to overturn the veto?"
+  },
+  {
+    "id": "recaQLFDJyoC7IIgF",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recALrXDVs83Qf9QT",
+      "rec9waV3GVmUG4v9L",
+      "rec5fkRItyK7VCWJO",
+      "recpRzWgONB4fYLgm",
+      "recdbpewxCXJ0tOiA",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "\"If the City Treasurer projects that total General Fund revenues for the upcoming budget year will exceed the total General Fund revenues for the current budget year by more than four percent (4%), the budget submitted by the Mayor and approved by the City Council shall allocate the excess General Fund revenues as follows:\n\nA. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n\nB. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n\nC. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n\nThe Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues\". \"The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve\". This must be conducted in accordance with the provisions of section B. However, for any of the aformentioned to go into effect, projected revenues must initially exceed $250,000, per section 7.10 of the City Charter.",
+    "Sources": [
+      "recBQyKyvFr03LEjH"
+    ],
+    "Title": "Where are revenues in excess of the projected General Fund to be allocated?"
+  },
+  {
+    "id": "reca3D137tucbTiuV",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. Written notice must include the date, time, and place of the special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. Only those subjects included in the written notice can be considered at special meetings. The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call such special meetings. ",
+    "Sources": [
+      "recc09LDnpBCj6aSV"
+    ],
+    "Title": "How much notice must be given to each City Councilor prior to a special meeting?"
+  },
+  {
+    "id": "recbvPA2CBoYJscfG",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recxYIRPvYEut8lEN",
+      "rec9rnEQuFVJq4IgH"
+    ],
+    "Public": true,
+    "Answers": "$100 dollars. \"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"",
+    "Sources": [
+      "recabVVIVAtXoBIlW"
+    ],
+    "Title": "How much can Tulsa's City Council fine its members or other persons for a single offense?"
+  },
+  {
+    "id": "reccTMBOeNv6A7ojy",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recxYIRPvYEut8lEN",
+      "recTduFwT9ATeQB7t",
+      "recVig4UtVDrLlTTL"
+    ],
+    "Public": true,
+    "Answers": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"",
+    "Sources": [
+      "recnV3NExpaaQSwkB"
+    ],
+    "Title": "Can Tulsa's City Council fine its own members for disorderly conduct at a Council meeting?"
+  },
+  {
+    "id": "recdgthAZOpFRVa69",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recALrXDVs83Qf9QT",
+      "rec9waV3GVmUG4v9L",
+      "rec5fkRItyK7VCWJO",
+      "rec17CY4B97WAP1a8",
+      "recnMN6FZvUqfZPpr",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Yes. The Mayor and Tulsa's City Council \"may, at any time, appropriate monies from the capital and/or other one-time expenditures allocation for capital projects or for expenditures such as, but not limited to, acquisition of equipment or information systems\".",
+    "Sources": [
+      "recVTjmtC31O570Jx"
+    ],
+    "Title": "Can capital funds be used to by the Mayor and Tulsa's City Council to purchase information systems?"
+  },
+  {
+    "id": "recfjeXv4Ol0a6SKJ",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec9waV3GVmUG4v9L",
+      "recdbpewxCXJ0tOiA",
+      "rec17CY4B97WAP1a8",
+      "reclEz2L2IRivna0C",
+      "recGP41AikxZaToKj",
+      "recckkQsJ4fr64GLe",
+      "recpRzWgONB4fYLgm"
+    ],
+    "Public": true,
+    "Answers": "When the City Treasurer projects that the Consumer Price Index for the upcoming budget year will exceed the index for the current budget year by more than five percent (5%). When this happens, the following allocations are triggered: \nA. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n\nB. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n\nC. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n\nThe Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues\". \"The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve\". This must be conducted in accordance with the provisions of section B.",
+    "Sources": [
+      "recQ2V7AshgwSh9MH"
+    ],
+    "Title": "Under what conditions are allocations to the Economic Stabilization Reserve by the City of Tulsa triggered by a Consumer Price Index growth rate percentage (plus 2%) rather than the City Treasurer's projections that the total General Fund revenues for the upcoming budget year will exceed the total General Fund revenues for the current budget year by more than 4%?"
+  },
+  {
+    "id": "recfT87Zh1Ku5lapV",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "rec5ic94W9hDJJkfc",
+      "rechiNVNlkL48X8Xv",
+      "recoLoeqCJnpr7eY9"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".",
+    "Sources": [
+      "recD7uvmCs85gzSLs"
+    ],
+    "Title": "May Tulsa's City Council compel testimony as necessary for the discharge of the duties of the Council?"
+  },
+  {
+    "id": "recfDl46HX4vYLsU2",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recyFsZOyQSoHehhX",
+      "rec1kIEwUix0a4vuI"
+    ],
+    "Public": true,
+    "Answers": "10 days. \"Ordinances and resolutions shall be published in a newspaper of general circulation within the city within ten (10) days after approval. Codifications of ordinances and codes of law adopted by reference need not be published in full unless otherwise provided by the Council\".",
+    "Sources": [
+      "recDipAILDoBWzGwb"
+    ],
+    "Title": "How long does the City of Tulsa have after an ordinance is adopted to be published in a newspaper of general circulation?"
+  },
+  {
+    "id": "recfNuLpuMTv1mcF2",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title\"",
+    "Sources": [
+      "reclKGzEXFqBT0RC6"
+    ],
+    "Title": "Must ordinances be clearly expressed in the title of the ordinance?"
+  },
+  {
+    "id": "recg0ixkhBeUqQVej",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec9waV3GVmUG4v9L",
+      "recdbpewxCXJ0tOiA",
+      "rec17CY4B97WAP1a8",
+      "reclEz2L2IRivna0C",
+      "recGP41AikxZaToKj"
+    ],
+    "Public": true,
+    "Answers": "The City of Tulsa is not required to allocate any anticiapted excess revenues for the upcoming budget year as outlined in the regulations concerning allocation to the Economic Stabilization Reserve if the City both (1) made appropriations from the Economic Stabilization Reserve in the current budget year and in the immediately preceding budget year pursuent to regulations for withdrawls from the Economic Stabilization Reserve.",
+    "Sources": [
+      "rec7OXZdV7bSm9eCD"
+    ],
+    "Title": "Under what conditions is the City of Tulsa not required to allocate any anticipated excess revenues as outlined in the allocations to the Economic Stabilization Reserve?"
+  },
+  {
+    "id": "reciZl4VQxFZ5Pw3T",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "recS9VqXREVYUBP7z",
+      "recTxgKBjwHwkDitY"
+    ],
+    "Public": true,
+    "Answers": "The City of Tulsa may \"acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits\".",
+    "Sources": [
+      "recrDWfXM8TgrKqlC"
+    ],
+    "Title": "What powers does the City of Tulsa have with respect to airports and air navigation facilities?"
+  },
+  {
+    "id": "reckS1G1iXA8aa7QN",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "recKE790vQbaHmbeM",
+      "rech2pNnuhsCaWBdI",
+      "recEs1TA3rbioFjib"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recFtDVSlpoSdA5As"
+    ],
+    "Title": "Can the City of Tulsa issue licensing fees for the purpose of regulation?"
+  },
+  {
+    "id": "reckwtnIsWpDL1fgX",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "\"Be it Ordained by the City of Tulsa\".",
+    "Sources": [
+      "recxpQC8bGuTwTUlR"
+    ],
+    "Title": "What is the enacting clause for all of the City of Tulsa's ordinances?"
+  },
+  {
+    "id": "reckKaWp4EkNwUJDr",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "rec9waV3GVmUG4v9L"
+    ],
+    "Public": true,
+    "Answers": "No. \"Ordinances adopting budgets and making appropriations shall be confined to budgets and appropriations\"",
+    "Sources": [
+      "recslOOw5TIQK8nOU"
+    ],
+    "Title": "Can ordinances that involve adopting budgets or making appropriations involve anything else?"
+  },
+  {
+    "id": "recl88C1qi94azDuA",
+    "Concepts": [
+      "recxdOAhjRYEtGBIR",
+      "reck7kIoxu2H5u0Iy"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recO3HIAzQZHS5It4"
+    ],
+    "Title": "Can the City of Tulsa levy and collect special assessments for benefits conferred?"
+  },
+  {
+    "id": "reclq0b7jcBkQT7Ay",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recyFsZOyQSoHehhX",
+      "rec5ijDMdXSschS99",
+      "recArDxIzaR55Bg9n",
+      "recjo2zoepOIemiRP"
+    ],
+    "Public": true,
+    "Answers": "The City Clerk.",
+    "Sources": [
+      "rec2QN5rKbAzbptzA"
+    ],
+    "Title": "Who is responsible for keeping copies of the Code of Ordinances to sell to the public?"
+  },
+  {
+    "id": "reclF9NgSrsJW92dI",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "rech8ZnhQ6xMFXskv"
+    ],
+    "Public": true,
+    "Answers": "Upon an affirmative vote of a majority of a qurom of Tulsa's City Council. Further, \"a majority of the entire membership of the Council shall constitute a quorom for a meeting of the Council\". However, as revealed in Section 9 of the City Charter, \"Ordinances adopting budgets, making appropriations, pertaining to local improvements and assessments, and any ordinance or resolution adopted as an emergency measure shall take effect at the time stated therein. All other ordinances and resolutions shall take effect at the time stated therein, but not less than thirty (30) days from the date of first publication. Ordinances adopted by vote of the electors shall take effect at the time stated therein or, if no time be stated, thirty (30) days after the election. An ordinance or resolution adopted as an emergency measure to provide for the immediate preservation of the public peace, health, welfare, or safety shall describe the emergency in a separate section. The vote of at least two-thirds (⅔) of the entire membership of the Council shall be required to adopt any ordinance or resolution as an emergency measure\".",
+    "Sources": [
+      "recY0lFILWjyxu92N"
+    ],
+    "Title": "When do ordinances go into effect?"
+  },
+  {
+    "id": "recmmomqhk0MJTDG4",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recygMhYSJxEH8g89",
+      "rec9waV3GVmUG4v9L",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may establish by ordinance additional procedures for the preparation, adoption, and amendment of budgets, for the transfer of appropriations, and for supplemental and emergency appropriations which are not in conflict with the provisions of this amended Charter or with the laws of Oklahoma\"",
+    "Sources": [
+      "rec3f5OzhvG9UELpF"
+    ],
+    "Title": "Can Tulsa's City Council establish additional procedures for the preparation, adoption, and amendment of budgets?, for the transfer of appropriations, and for supplemental and emergency appropriations which are not in conflict with the provisions of this amended Charter or with the laws of "
+  },
+  {
+    "id": "recnfegL8rt7wX3Vk",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recxdOAhjRYEtGBIR",
+      "recygMhYSJxEH8g89",
+      "rec9waV3GVmUG4v9L",
+      "recX9nNDKs0rtBi3g",
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's City Council \"may add, delete, increase, or decrease programs or amounts, except expenditures required by law\" with respect to the budgets recieved from the Mayor.",
+    "Sources": [
+      "recGWOXkVNbwDlXAv"
+    ],
+    "Title": "How can Tulsa's City Council alter budgets submitted by the Mayor?"
+  },
+  {
+    "id": "recngl4yrD4mYhHOu",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recgK36yEFw6QRuiJ",
+      "rec5ic94W9hDJJkfc",
+      "rechiNVNlkL48X8Xv"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".",
+    "Sources": [
+      "recG5qLjzns8yMEse"
+    ],
+    "Title": "May Tulsa's City Council compel the production of books, papers, or other evidence necessary for the discharge of the duties of the Council?"
+  },
+  {
+    "id": "recnsxGmyRburNO4N",
+    "Concepts": [
+      "recbMhrS5udASHOL1",
+      "recSGySDo7WKcIwRl",
+      "recr78qUqkhp5Zz4o"
+    ],
+    "Public": true,
+    "Answers": "Yes.",
+    "Sources": [
+      "recAUo3LIJHz9Z9pm"
+    ],
+    "Title": "Can the City of Tulsa enter into agreements with states other than Oklahoma?"
+  },
+  {
+    "id": "recns6Po19HmY0oyc",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recALrXDVs83Qf9QT",
+      "rec9waV3GVmUG4v9L",
+      "rec5fkRItyK7VCWJO",
+      "rec17CY4B97WAP1a8",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "\"The Mayor and the City Council may, at any time, appropriate monies from the general purpose allocation for any lawful municipal purpose\".",
+    "Sources": [
+      "recj7BbeCn5BW02C5"
+    ],
+    "Title": "For what may the Mayor and City Council use funds allocated to general purpose?"
+  },
+  {
+    "id": "recoXdSTcYeBgaFQ1",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recTduFwT9ATeQB7t",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "No, only those subjects outlined in the written notice can be considered. Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. Written notice must include the date, time, and place of the special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call such special meetings. ",
+    "Sources": [
+      "recL7Xjal2BSCbr3a"
+    ],
+    "Title": "Can subject matters not included in written notice to Tulsa's City Council be considered in special meetings?"
+  },
+  {
+    "id": "recpZT3q1xsg1ueCk",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rech8ZnhQ6xMFXskv",
+      "recg4etkzkqLWNFtE",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1"
+    ],
+    "Public": true,
+    "Answers": "In written or printed form.",
+    "Sources": [
+      "rec5ZiLFEq0F5HUUF"
+    ],
+    "Title": "In what form must ordinances and resolutions be introduced in Tulsa's City Council?"
+  },
+  {
     "id": "recO99bFUuIOWT8Fc",
-    "Category": "How It Works",
     "Lectures": [
       "recW7FzEDgnLxgOXA"
     ],
     "Concepts": [
-      "recT585yTOdyWVUaU"
+      "recT585yTOdyWVUaU",
+      "recxdOAhjRYEtGBIR"
     ],
     "Title": "What is bureaucracy and what does it do?"
   },

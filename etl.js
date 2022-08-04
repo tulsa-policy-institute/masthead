@@ -15,9 +15,18 @@ const AIRTABLE = {
 
 const dataFolder = '/public/data';
 
-async function getData(endpoint) {
+async function getDataRecursive(endpoint, offsetId) {
+  let originalEndpoint = endpoint;
+  let offsetableEndpoint = endpoint;
+
+  if (offsetId) {
+    offsetableEndpoint = `${originalEndpoint}&offset=${offsetId}`;
+  }
+
+  console.log(`Pulling from ${endpoint}`);
+
   try {
-    const { data: { records, offset } } = await axios(endpoint, {
+    const { data: { records, offset } } = await axios(offsetableEndpoint, {
       headers: {
         'Authorization': `Bearer ${AIRTABLE.key}`,
       },
@@ -28,7 +37,7 @@ async function getData(endpoint) {
     });
 
     if (offset) {
-      return [...normalized, ...(await getData(`${endpoint}&offset=${offset}`))];
+      return [...normalized, ...(await getDataRecursive(originalEndpoint, offset))];
     };
 
     return normalized;
@@ -39,7 +48,7 @@ async function getData(endpoint) {
 
 // execute and persist data
 Promise.all(AIRTABLE.tables.map(table => {
-  return getData(`${AIRTABLE.domain}${AIRTABLE.path}${table}?maxRecords=${AIRTABLE.maxRecords}&view=${AIRTABLE.view}`)
+  return getDataRecursive(`${AIRTABLE.domain}${AIRTABLE.path}${table}?view=${AIRTABLE.view}`)
     .then((data) => {
       const pathToData = (ext = '.json') => path.join(__dirname, dataFolder, `${table}`.toLowerCase()) + ext;
 
@@ -47,4 +56,4 @@ Promise.all(AIRTABLE.tables.map(table => {
       fs.writeFileSync(path.resolve(pathToData('.json')), JSON.stringify(data, null, 2));
       fs.writeFileSync(path.resolve(pathToData('.min.json')), JSON.stringify(data));
     })
-})).catch(e => core.setFailed(e));
+})).catch(e =>{console.log(e); core.setFailed(e)});

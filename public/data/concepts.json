@@ -366,9 +366,13 @@
   },
   {
     "id": "rec4hf7kl2KbCAAhf",
-    "Name": "Jurisdiction",
+    "Name": "jurisdiction",
     "Lectures": [
       "recoMyza69V02sfCv"
+    ],
+    "Questions": [
+      "recBgWfp1vnLa23DG",
+      "recOA5ltx4YJJ69zq"
     ]
   },
   {
@@ -561,6 +565,9 @@
     "Name": "Appointments",
     "Lectures": [
       "recZj9mjJqwOB83UE"
+    ],
+    "Questions": [
+      "reczUZZWw3qeYAUYf"
     ]
   },
   {
@@ -586,9 +593,12 @@
   },
   {
     "id": "recqHZ3UmD7SG9v5v",
-    "Name": "Sales Tax",
+    "Name": "sales tax",
     "Lectures": [
       "recfA9aPh3r5nzrrD"
+    ],
+    "Questions": [
+      "recZs9CHqvBvKgwrm"
     ]
   },
   {
@@ -691,9 +701,13 @@
   },
   {
     "id": "rec2bz2lvTwnSaZRh",
-    "Name": "Elections",
+    "Name": "elections",
     "Lectures": [
       "recZuMJbhrN8KhMBP"
+    ],
+    "Questions": [
+      "rec9DiQE6bgvPShgC",
+      "recZs9CHqvBvKgwrm"
     ]
   },
   {
@@ -719,9 +733,48 @@
   },
   {
     "id": "rech8ZnhQ6xMFXskv",
-    "Name": "Ordinances",
+    "Name": "ordinances",
     "Lectures": [
       "recZuMJbhrN8KhMBP"
+    ],
+    "Questions": [
+      "reclF9NgSrsJW92dI",
+      "recDctKj7bLVOerpI",
+      "recpZT3q1xsg1ueCk",
+      "rec1VN6atVxRUlmnT",
+      "recfNuLpuMTv1mcF2",
+      "reckKaWp4EkNwUJDr",
+      "recGYfeKeg1n83sq4",
+      "recJ0UrR0XFC2qPfG",
+      "rec1ymuI0SzKyUk6F",
+      "reckwtnIsWpDL1fgX",
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W",
+      "recuDxASxgBKeY728",
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So",
+      "recs7sGDHP8jrTAkC",
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy",
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
     ]
   },
   {
@@ -785,6 +838,9 @@
     "Name": "City Charter",
     "Lectures": [
       "rec9f3w6LtxksL89f"
+    ],
+    "Questions": [
+      "recs7sGDHP8jrTAkC"
     ]
   },
   {
@@ -838,9 +894,12 @@
   },
   {
     "id": "recyUhPcjsDzsScmC",
-    "Name": "Service Delivery",
+    "Name": "service delivery",
     "Lectures": [
       "recW7FzEDgnLxgOXA"
+    ],
+    "Questions": [
+      "reclGjy18Ovhszv3Y"
     ]
   },
   {
@@ -1063,6 +1122,966 @@
     "Lectures": [
       "recsmwioc0RfJII4Q",
       "recwjhFBiLJHy7YVk"
+    ]
+  },
+  {
+    "id": "recxdOAhjRYEtGBIR",
+    "Name": "authority",
+    "Questions": [
+      "recO99bFUuIOWT8Fc",
+      "reclGjy18Ovhszv3Y",
+      "recZs9CHqvBvKgwrm",
+      "recUs51nsxk0gsqTN",
+      "reckS1G1iXA8aa7QN",
+      "recl88C1qi94azDuA",
+      "recW8BI6yobVdgGbs",
+      "recEBvpqZlB2vO3Aj",
+      "reciZl4VQxFZ5Pw3T",
+      "recWcMxNuRrmjrQcC",
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recDI9C1Q4m6rxeUS",
+      "rec6AKLn5Mx88NOwM",
+      "rec2k8EIZMHW2OMh6",
+      "recCESevPNO9OvkIe",
+      "recOZcthnnGwf2z2t",
+      "reclF9NgSrsJW92dI",
+      "recDctKj7bLVOerpI",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4",
+      "recJWCqMOuLqKvqWZ",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
+    ]
+  },
+  {
+    "id": "recrcssg4rJQBVqHI",
+    "Name": "taxes",
+    "Questions": [
+      "rec9DiQE6bgvPShgC",
+      "recZs9CHqvBvKgwrm"
+    ]
+  },
+  {
+    "id": "recu7T4jWaUtbDQ2V",
+    "Name": "income tax",
+    "Questions": [
+      "rec9DiQE6bgvPShgC"
+    ]
+  },
+  {
+    "id": "recKE790vQbaHmbeM",
+    "Name": "fees",
+    "Questions": [
+      "recUs51nsxk0gsqTN",
+      "reckS1G1iXA8aa7QN"
+    ]
+  },
+  {
+    "id": "rech2pNnuhsCaWBdI",
+    "Name": "licensing fees",
+    "Questions": [
+      "recUs51nsxk0gsqTN",
+      "reckS1G1iXA8aa7QN"
+    ]
+  },
+  {
+    "id": "recEs1TA3rbioFjib",
+    "Name": "regulation",
+    "Questions": [
+      "reckS1G1iXA8aa7QN",
+      "recYLfzqYlK5TjRVy"
+    ]
+  },
+  {
+    "id": "reck7kIoxu2H5u0Iy",
+    "Name": "special assessments",
+    "Questions": [
+      "recl88C1qi94azDuA"
+    ]
+  },
+  {
+    "id": "recqFxYA8XapFzThA",
+    "Name": "debt",
+    "Questions": [
+      "recW8BI6yobVdgGbs"
+    ]
+  },
+  {
+    "id": "recygMhYSJxEH8g89",
+    "Name": "spending",
+    "Questions": [
+      "recW8BI6yobVdgGbs",
+      "rec8bb7qBEZ9UefNN",
+      "rec4cV0uZuW1I6tWF",
+      "recWcMxNuRrmjrQcC",
+      "rec4WnsrbE3WjjKIZ",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4"
+    ]
+  },
+  {
+    "id": "rec6jAl0sv1feJZPs",
+    "Name": "policy enforcement",
+    "Questions": [
+      "recBgWfp1vnLa23DG",
+      "recOA5ltx4YJJ69zq",
+      "recEBvpqZlB2vO3Aj",
+      "recYLfzqYlK5TjRVy",
+      "recDkJkgHxnqz33EP"
+    ]
+  },
+  {
+    "id": "recbMhrS5udASHOL1",
+    "Name": "governance",
+    "Questions": [
+      "recnsxGmyRburNO4N",
+      "rec8wvWFld0yEJnNU",
+      "rec72PZRelFTGbiNs",
+      "reca3D137tucbTiuV",
+      "recU7zzXDyx9CDJrS",
+      "recoXdSTcYeBgaFQ1",
+      "recKUtQmqzyICt2px",
+      "recXMslOU9IVA9375",
+      "recIFNsGqXbgngSEq",
+      "recI3uF7NibyH8ZRH",
+      "rec4tJc3UgHGkzDvB",
+      "recmmomqhk0MJTDG4",
+      "recaQLFDJyoC7IIgF",
+      "recq94IbAD8EnVIHN",
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69",
+      "recns6Po19HmY0oyc",
+      "recpZT3q1xsg1ueCk",
+      "rec1VN6atVxRUlmnT",
+      "recfNuLpuMTv1mcF2",
+      "reckKaWp4EkNwUJDr",
+      "recGYfeKeg1n83sq4",
+      "recJ0UrR0XFC2qPfG",
+      "rec1ymuI0SzKyUk6F",
+      "reckwtnIsWpDL1fgX",
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W",
+      "recuDxASxgBKeY728",
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So",
+      "recs7sGDHP8jrTAkC",
+      "recJWCqMOuLqKvqWZ",
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy",
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
+    ]
+  },
+  {
+    "id": "recSGySDo7WKcIwRl",
+    "Name": "intergovernmental relations",
+    "Questions": [
+      "recnsxGmyRburNO4N",
+      "rec8wvWFld0yEJnNU"
+    ]
+  },
+  {
+    "id": "recr78qUqkhp5Zz4o",
+    "Name": "collaboration",
+    "Questions": [
+      "recnsxGmyRburNO4N",
+      "rec8wvWFld0yEJnNU"
+    ]
+  },
+  {
+    "id": "recSZeWALNfnW3T8v",
+    "Name": "interlocal",
+    "Questions": [
+      "rec8wvWFld0yEJnNU"
+    ]
+  },
+  {
+    "id": "rec6snZ9f5cDYrdgN",
+    "Name": "State of Oklahoma",
+    "Questions": [
+      "rec8wvWFld0yEJnNU"
+    ]
+  },
+  {
+    "id": "recPuaZORpG9qS9b4",
+    "Name": "Federal Government",
+    "Questions": [
+      "rec8wvWFld0yEJnNU"
+    ]
+  },
+  {
+    "id": "recbjRBkOBDM1mYbH",
+    "Name": "Private corporations",
+    "Questions": [
+      "rec8wvWFld0yEJnNU"
+    ]
+  },
+  {
+    "id": "recBEtjHtOWJydWze",
+    "Name": "ppp",
+    "Questions": [
+      "rec8wvWFld0yEJnNU"
+    ]
+  },
+  {
+    "id": "recBYNVooM0ZJAzf7",
+    "Name": "waterports",
+    "Questions": [
+      "recEBvpqZlB2vO3Aj"
+    ]
+  },
+  {
+    "id": "recS9VqXREVYUBP7z",
+    "Name": "airports",
+    "Questions": [
+      "reciZl4VQxFZ5Pw3T"
+    ]
+  },
+  {
+    "id": "recTxgKBjwHwkDitY",
+    "Name": "air navigation",
+    "Questions": [
+      "reciZl4VQxFZ5Pw3T"
+    ]
+  },
+  {
+    "id": "recSJYjYkV67eZeIy",
+    "Name": "land use",
+    "Questions": [
+      "recYLfzqYlK5TjRVy"
+    ]
+  },
+  {
+    "id": "rec5zG09bsxqZaySm",
+    "Name": "nuisance",
+    "Questions": [
+      "recDkJkgHxnqz33EP"
+    ]
+  },
+  {
+    "id": "recX9nNDKs0rtBi3g",
+    "Name": "city council",
+    "Questions": [
+      "rec72PZRelFTGbiNs",
+      "rec4cV0uZuW1I6tWF",
+      "recWcMxNuRrmjrQcC",
+      "rec4WnsrbE3WjjKIZ",
+      "recwPqzzGCjWLKXoP",
+      "recQ4Z9ieO76kxkMi",
+      "reca3D137tucbTiuV",
+      "recU7zzXDyx9CDJrS",
+      "recoXdSTcYeBgaFQ1",
+      "recUgUnXQxPXkyOPy",
+      "recIFNsGqXbgngSEq",
+      "recI3uF7NibyH8ZRH",
+      "rec4tJc3UgHGkzDvB",
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recDI9C1Q4m6rxeUS",
+      "rec6AKLn5Mx88NOwM",
+      "rec2k8EIZMHW2OMh6",
+      "recCESevPNO9OvkIe",
+      "recOZcthnnGwf2z2t",
+      "reclF9NgSrsJW92dI",
+      "recDctKj7bLVOerpI",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4",
+      "recpZT3q1xsg1ueCk",
+      "rec1VN6atVxRUlmnT",
+      "recfNuLpuMTv1mcF2",
+      "reckKaWp4EkNwUJDr",
+      "recGYfeKeg1n83sq4",
+      "recJ0UrR0XFC2qPfG",
+      "rec1ymuI0SzKyUk6F",
+      "reckwtnIsWpDL1fgX",
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W",
+      "recuDxASxgBKeY728",
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So",
+      "recs7sGDHP8jrTAkC",
+      "recJWCqMOuLqKvqWZ",
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy",
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
+    ]
+  },
+  {
+    "id": "recRUsMirOWqHF097",
+    "Name": "districts",
+    "Questions": [
+      "rec72PZRelFTGbiNs"
+    ]
+  },
+  {
+    "id": "recdoCgCxV6RbWD0L",
+    "Name": "tulsa",
+    "Questions": [
+      "rec4cV0uZuW1I6tWF",
+      "recWcMxNuRrmjrQcC",
+      "rec4WnsrbE3WjjKIZ",
+      "recwPqzzGCjWLKXoP",
+      "recQ4Z9ieO76kxkMi",
+      "reca3D137tucbTiuV",
+      "recU7zzXDyx9CDJrS",
+      "recoXdSTcYeBgaFQ1",
+      "recKUtQmqzyICt2px",
+      "recUgUnXQxPXkyOPy",
+      "recXMslOU9IVA9375",
+      "recIFNsGqXbgngSEq",
+      "recI3uF7NibyH8ZRH",
+      "rec4tJc3UgHGkzDvB",
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recDI9C1Q4m6rxeUS",
+      "rec6AKLn5Mx88NOwM",
+      "rec2k8EIZMHW2OMh6",
+      "recCESevPNO9OvkIe",
+      "recOZcthnnGwf2z2t",
+      "reclF9NgSrsJW92dI",
+      "recDctKj7bLVOerpI",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4",
+      "recYGrUyBXjHPoqep",
+      "recaQLFDJyoC7IIgF",
+      "recq94IbAD8EnVIHN",
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69",
+      "recns6Po19HmY0oyc",
+      "recOmyIu0QxBEQqgV",
+      "recg0ixkhBeUqQVej",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre",
+      "recpZT3q1xsg1ueCk",
+      "rec1VN6atVxRUlmnT",
+      "recfNuLpuMTv1mcF2",
+      "reckKaWp4EkNwUJDr",
+      "recGYfeKeg1n83sq4",
+      "recJ0UrR0XFC2qPfG",
+      "rec1ymuI0SzKyUk6F",
+      "reckwtnIsWpDL1fgX",
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W",
+      "recuDxASxgBKeY728",
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So",
+      "recs7sGDHP8jrTAkC",
+      "recJWCqMOuLqKvqWZ",
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy",
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
+    ]
+  },
+  {
+    "id": "recAi1b9s2ensb8nF",
+    "Name": "salaries",
+    "Questions": [
+      "rec4cV0uZuW1I6tWF",
+      "recWcMxNuRrmjrQcC"
+    ]
+  },
+  {
+    "id": "recTduFwT9ATeQB7t",
+    "Name": "meetings",
+    "Questions": [
+      "recwPqzzGCjWLKXoP",
+      "recQ4Z9ieO76kxkMi",
+      "reca3D137tucbTiuV",
+      "recU7zzXDyx9CDJrS",
+      "recoXdSTcYeBgaFQ1",
+      "recKUtQmqzyICt2px",
+      "recUgUnXQxPXkyOPy",
+      "recIFNsGqXbgngSEq",
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recOZcthnnGwf2z2t",
+      "recDctKj7bLVOerpI",
+      "recze7ORmMp2clvxf"
+    ]
+  },
+  {
+    "id": "recZkq5S5jOSatcsk",
+    "Name": "special meetings",
+    "Questions": [
+      "recQ4Z9ieO76kxkMi"
+    ]
+  },
+  {
+    "id": "rec6lrWmFyJj2MfoK",
+    "Name": "mayor",
+    "Questions": [
+      "recKUtQmqzyICt2px",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recEQZOozsoC3Cj7W",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
+    ]
+  },
+  {
+    "id": "recuuCNjMbaMhXTVC",
+    "Name": "mayor-council relations",
+    "Questions": [
+      "recKUtQmqzyICt2px",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk"
+    ]
+  },
+  {
+    "id": "rec8VvbJAupXTEemd",
+    "Name": "civil emergency",
+    "Questions": [
+      "recKUtQmqzyICt2px",
+      "recXMslOU9IVA9375"
+    ]
+  },
+  {
+    "id": "recdiRERCYuZGHSXd",
+    "Name": "tulsa dictionary",
+    "Questions": [
+      "recXMslOU9IVA9375"
+    ]
+  },
+  {
+    "id": "recjQZSeuGijmUfoF",
+    "Name": "open meeting laws",
+    "Questions": [
+      "recIFNsGqXbgngSEq",
+      "recQWNTioQTAzS9WA"
+    ]
+  },
+  {
+    "id": "recex3pj2DIma2nV4",
+    "Name": "state of oklahoma",
+    "Questions": [
+      "recQWNTioQTAzS9WA",
+      "recJWCqMOuLqKvqWZ"
+    ]
+  },
+  {
+    "id": "recFXycyXWuWo47Ix",
+    "Name": "employment",
+    "Questions": [
+      "recI3uF7NibyH8ZRH"
+    ]
+  },
+  {
+    "id": "recxYIRPvYEut8lEN",
+    "Name": "fines",
+    "Questions": [
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recWNHr3FIOHpEz9f"
+    ]
+  },
+  {
+    "id": "recVig4UtVDrLlTTL",
+    "Name": "disorderly conduct",
+    "Questions": [
+      "reccTMBOeNv6A7ojy",
+      "rec9WdE6TGWeb8smt"
+    ]
+  },
+  {
+    "id": "rec9rnEQuFVJq4IgH",
+    "Name": "punishments",
+    "Questions": [
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So"
+    ]
+  },
+  {
+    "id": "recb8y39G2n1fUMpf",
+    "Name": "chairman",
+    "Questions": [
+      "recDI9C1Q4m6rxeUS",
+      "rec6AKLn5Mx88NOwM"
+    ]
+  },
+  {
+    "id": "recZtZB1zc9lOY8fl",
+    "Name": "vice chairman",
+    "Questions": [
+      "recDI9C1Q4m6rxeUS"
+    ]
+  },
+  {
+    "id": "receacjDdXCI7IGXt",
+    "Name": "subpoena",
+    "Questions": [
+      "rec2k8EIZMHW2OMh6"
+    ]
+  },
+  {
+    "id": "recrCWf24cPQJ3bt8",
+    "Name": "judge",
+    "Questions": [
+      "recCESevPNO9OvkIe"
+    ]
+  },
+  {
+    "id": "recjzq9fpGN98fJ4l",
+    "Name": "qualifications",
+    "Questions": [
+      "recCESevPNO9OvkIe"
+    ]
+  },
+  {
+    "id": "recMGYhG1RlGmHr3b",
+    "Name": "voting",
+    "Questions": [
+      "recDctKj7bLVOerpI"
+    ]
+  },
+  {
+    "id": "recgdKPlaYC1v6B5Z",
+    "Name": "zoning",
+    "Questions": [
+      "recDctKj7bLVOerpI"
+    ]
+  },
+  {
+    "id": "rec9HPiO516rCW9GX",
+    "Name": "protests",
+    "Questions": [
+      "recDctKj7bLVOerpI"
+    ]
+  },
+  {
+    "id": "reckXC0QQXYLxJRIn",
+    "Name": "property owners",
+    "Questions": [
+      "recDctKj7bLVOerpI"
+    ]
+  },
+  {
+    "id": "recov7WSAYmy4L4Qr",
+    "Name": "public hearings",
+    "Questions": [
+      "recDctKj7bLVOerpI",
+      "recze7ORmMp2clvxf"
+    ]
+  },
+  {
+    "id": "rec9waV3GVmUG4v9L",
+    "Name": "budgets",
+    "Questions": [
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4",
+      "recYGrUyBXjHPoqep",
+      "recaQLFDJyoC7IIgF",
+      "recq94IbAD8EnVIHN",
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69",
+      "recns6Po19HmY0oyc",
+      "recOmyIu0QxBEQqgV",
+      "recg0ixkhBeUqQVej",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre",
+      "reckKaWp4EkNwUJDr"
+    ]
+  },
+  {
+    "id": "recALrXDVs83Qf9QT",
+    "Name": "economics",
+    "Questions": [
+      "recYGrUyBXjHPoqep",
+      "recaQLFDJyoC7IIgF",
+      "recq94IbAD8EnVIHN",
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69",
+      "recns6Po19HmY0oyc"
+    ]
+  },
+  {
+    "id": "rec5fkRItyK7VCWJO",
+    "Name": "general fund budget",
+    "Questions": [
+      "recYGrUyBXjHPoqep",
+      "recaQLFDJyoC7IIgF",
+      "recq94IbAD8EnVIHN",
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69",
+      "recns6Po19HmY0oyc"
+    ]
+  },
+  {
+    "id": "recdbpewxCXJ0tOiA",
+    "Name": "economic stabilization reserve",
+    "Questions": [
+      "recYGrUyBXjHPoqep",
+      "recaQLFDJyoC7IIgF",
+      "recq94IbAD8EnVIHN",
+      "recOmyIu0QxBEQqgV",
+      "recg0ixkhBeUqQVej",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre"
+    ]
+  },
+  {
+    "id": "recpRzWgONB4fYLgm",
+    "Name": "city treasurer",
+    "Questions": [
+      "recaQLFDJyoC7IIgF",
+      "recOmyIu0QxBEQqgV",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ"
+    ]
+  },
+  {
+    "id": "rec17CY4B97WAP1a8",
+    "Name": "capital",
+    "Questions": [
+      "recq94IbAD8EnVIHN",
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69",
+      "recns6Po19HmY0oyc",
+      "recg0ixkhBeUqQVej",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre"
+    ]
+  },
+  {
+    "id": "recnMN6FZvUqfZPpr",
+    "Name": "information systems",
+    "Questions": [
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69"
+    ]
+  },
+  {
+    "id": "reclEz2L2IRivna0C",
+    "Name": "operating reserve",
+    "Questions": [
+      "recg0ixkhBeUqQVej",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre"
+    ]
+  },
+  {
+    "id": "recGP41AikxZaToKj",
+    "Name": "one-time expenditures",
+    "Questions": [
+      "recg0ixkhBeUqQVej",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre"
+    ]
+  },
+  {
+    "id": "recckkQsJ4fr64GLe",
+    "Name": "consumer price index",
+    "Questions": [
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre"
+    ]
+  },
+  {
+    "id": "recg4etkzkqLWNFtE",
+    "Name": "resolutions",
+    "Questions": [
+      "recpZT3q1xsg1ueCk",
+      "rec1VN6atVxRUlmnT",
+      "recfNuLpuMTv1mcF2",
+      "reckKaWp4EkNwUJDr",
+      "recGYfeKeg1n83sq4",
+      "recJ0UrR0XFC2qPfG",
+      "rec1ymuI0SzKyUk6F",
+      "reckwtnIsWpDL1fgX",
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W",
+      "recuDxASxgBKeY728",
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So",
+      "recs7sGDHP8jrTAkC",
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy",
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
+    ]
+  },
+  {
+    "id": "rec2sygWSOsXvZgta",
+    "Name": "vetos",
+    "Questions": [
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W"
+    ]
+  },
+  {
+    "id": "recArDxIzaR55Bg9n",
+    "Name": "emergency measures",
+    "Questions": [
+      "recuDxASxgBKeY728",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD"
+    ]
+  },
+  {
+    "id": "recyFsZOyQSoHehhX",
+    "Name": "city clerk",
+    "Questions": [
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay"
+    ]
+  },
+  {
+    "id": "rec1kIEwUix0a4vuI",
+    "Name": "public relations",
+    "Questions": [
+      "recfDl46HX4vYLsU2"
+    ]
+  },
+  {
+    "id": "rec5ijDMdXSschS99",
+    "Name": "titles",
+    "Questions": [
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD"
+    ]
+  },
+  {
+    "id": "recjo2zoepOIemiRP",
+    "Name": "code of ordinances",
+    "Questions": [
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD"
+    ]
+  },
+  {
+    "id": "recoCmCo16FXWqhx8",
+    "Name": "imprisonment",
+    "Questions": [
+      "recYJpTO43OKiz8gD"
+    ]
+  },
+  {
+    "id": "rec3gAkTXHxNLnke9",
+    "Name": "sovereignty",
+    "Questions": [
+      "recJWCqMOuLqKvqWZ"
+    ]
+  },
+  {
+    "id": "recRACBybqeI1fCXf",
+    "Name": "administrative review",
+    "Questions": [
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy"
+    ]
+  },
+  {
+    "id": "recgK36yEFw6QRuiJ",
+    "Name": "investigations",
+    "Questions": [
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy"
+    ]
+  },
+  {
+    "id": "rec5ic94W9hDJJkfc",
+    "Name": "hearings",
+    "Questions": [
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq"
+    ]
+  },
+  {
+    "id": "recaahrH7a6kRGqnX",
+    "Name": "public comment",
+    "Questions": [
+      "recGKUTEcX6hXBJUv"
+    ]
+  },
+  {
+    "id": "recVGtbiaDBgMqTaG",
+    "Name": "subpoenas",
+    "Questions": [
+      "rec8MDgogQxyQd72T",
+      "recT2hPeqmUfQsHqy"
+    ]
+  },
+  {
+    "id": "rechiNVNlkL48X8Xv",
+    "Name": "evidence",
+    "Questions": [
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recT2hPeqmUfQsHqy"
+    ]
+  },
+  {
+    "id": "recgQvgd3Shu5a7uH",
+    "Name": "oaths",
+    "Questions": [
+      "recJTBtPNNCOkfttt"
+    ]
+  },
+  {
+    "id": "recoLoeqCJnpr7eY9",
+    "Name": "testimony",
+    "Questions": [
+      "recfT87Zh1Ku5lapV"
+    ]
+  },
+  {
+    "id": "recm6eIXpywCU4s9O",
+    "Name": "administration",
+    "Questions": [
+      "reczUZZWw3qeYAUYf"
+    ]
+  },
+  {
+    "id": "recgJkC22XaeUveje",
+    "Name": "removals",
+    "Questions": [
+      "reczUZZWw3qeYAUYf"
     ]
   }
 ]
