@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import * as fuzzysort from 'fuzzysort';
+import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { isMobile } from 'react-device-detect';
 // import PLAY_IMAGE from '../images/play.png';
@@ -11,17 +12,58 @@ function randomize(list) {
 const suggestedSearchCount = isMobile ? 3 : 8;
 
 const Results = ({ results, handleChange, typedInput }) => {
+  const [concepts, setConcepts] = useState([]);
+  const [selectedFilters, setFilters] = useState([]);
+
+  useEffect(() => {
+    async function getData() {
+      const { data } = await axios('/data/concepts.min.json');
+      const concepts = data
+        .filter(c => c['Questions'])
+        .sort((a, b) => b['Questions'].length - a['Questions'].length);
+
+      setConcepts(concepts);
+    }
+
+    getData();
+  }, []);
+
   const filteredQuestions = fuzzysort.go(typedInput, results, {
     key: 'Title',
     limit: suggestedSearchCount,
     threshold: -5000,
-  }).map(f => {console.log(f.score); return f.obj});
+  }).map(f => f.obj);
 
-  const displayResults = (typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount));
+  const displayResults = (() => {
+    if (selectedFilters.length && !typedInput) {
+      return results.filter(r => selectedFilters
+        .map(f => concepts.find(c => c.id === f)['Questions'])
+        .reduce((acc, curr) => { return [...acc, ...curr] }, [])
+        .includes(r.id)
+      );
+    } else {
+      return typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount);
+    }
+  })();
   const hasResults = displayResults.length;
   const FORMAT_OPTIONS = ['Text', 'SMS', 'Email', 'Webinar', 'Map', 'Consultation'];
 
   return <>
+    <div className='flex flex-wrap mt-4 max-h-10 overflow-hidden'>
+      {concepts.map((c, i) => <div
+        key={i}
+        className={`bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c.id) ? 'bg-purple-200' : ''}`}
+        onClick={() => {
+          if (selectedFilters.includes(c.id)) {
+            setFilters(selectedFilters.filter(s => !(s === c.id)));
+          } else {
+            setFilters([...selectedFilters, c.id])
+          }
+        }}
+      >
+        {c['Name']} ({c['Questions'].length})
+      </div>)}
+    </div>
     <div className='shadow-lg mt-4 rounded-2xl'>
       <div className='border-b-gray-200 border-b'>
         <h6 className='text-sm text-gray-400 m-1 p-3'>
@@ -101,6 +143,7 @@ const TypeaheadSearch = ({ setTypedInput }) => {
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
   const [typedInput, setTypedInput] = useState();
+
   const navigate = useNavigate();
 
   const handleChange = (selected) => {

@@ -21,8 +21,8 @@ function App() {
   useEffect(() => {
     async function getData() {
       const { data } = await axios('/data/questions.min.json');
-
-      setQuestions(data);
+      const publicQuestions = data.filter(q => q['Public']);
+      setQuestions(publicQuestions);
     }
 
     getData();
