@@ -88,8 +88,7 @@ const Results = ({ results, handleChange, typedInput }) => {
               title='question submission'
               className="airtable-embed airtable-dynamic-height"
               src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}`}
-              frameborder="0"
-              onmousewheel=""
+              frameBorder="0"
               width="100%"
               height="638"
               style={{
