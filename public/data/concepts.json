@@ -1164,52 +1164,49 @@
   {
     "id": "recrcssg4rJQBVqHI",
     "Name": "taxes",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "rec9DiQE6bgvPShgC",
       "recZs9CHqvBvKgwrm"
-    ],
-    "Tags": [
-      "finance"
     ]
   },
   {
     "id": "recu7T4jWaUtbDQ2V",
     "Name": "income tax",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "rec9DiQE6bgvPShgC"
-    ],
-    "Tags": [
-      "finance"
     ]
   },
   {
     "id": "recKE790vQbaHmbeM",
     "Name": "fees",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recUs51nsxk0gsqTN",
       "reckS1G1iXA8aa7QN"
-    ],
-    "Tags": [
-      "finance"
     ]
   },
   {
     "id": "rech2pNnuhsCaWBdI",
     "Name": "licensing fees",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recUs51nsxk0gsqTN",
       "reckS1G1iXA8aa7QN"
-    ],
-    "Tags": [
-      "finance"
     ]
   },
   {
     "id": "recEs1TA3rbioFjib",
     "Name": "regulation",
-    "Tags": [
-      "law, governance, & administration"
-    ],
     "Questions": [
       "reckS1G1iXA8aa7QN",
       "recYLfzqYlK5TjRVy"
@@ -1225,16 +1222,19 @@
   {
     "id": "recqFxYA8XapFzThA",
     "Name": "debt",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recW8BI6yobVdgGbs"
-    ],
-    "Tags": [
-      "finance"
     ]
   },
   {
     "id": "recygMhYSJxEH8g89",
     "Name": "spending",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recW8BI6yobVdgGbs",
       "rec8bb7qBEZ9UefNN",
@@ -1246,9 +1246,6 @@
       "recze7ORmMp2clvxf",
       "recnfegL8rt7wX3Vk",
       "recmmomqhk0MJTDG4"
-    ],
-    "Tags": [
-      "finance"
     ]
   },
   {
@@ -1382,9 +1379,6 @@
   {
     "id": "recS9VqXREVYUBP7z",
     "Name": "airports",
-    "Tags": [
-      "public works & transportation"
-    ],
     "Questions": [
       "reciZl4VQxFZ5Pw3T"
     ]
@@ -1392,9 +1386,6 @@
   {
     "id": "recTxgKBjwHwkDitY",
     "Name": "air navigation",
-    "Tags": [
-      "public works & transportation"
-    ],
     "Questions": [
       "reciZl4VQxFZ5Pw3T"
     ]
@@ -1402,9 +1393,6 @@
   {
     "id": "recSJYjYkV67eZeIy",
     "Name": "land use",
-    "Tags": [
-      "zoning, land use, & housing"
-    ],
     "Questions": [
       "recYLfzqYlK5TjRVy"
     ]
@@ -1412,9 +1400,6 @@
   {
     "id": "rec5zG09bsxqZaySm",
     "Name": "nuisance",
-    "Tags": [
-      "law, governance, & administration"
-    ],
     "Questions": [
       "recDkJkgHxnqz33EP"
     ]
@@ -1495,10 +1480,6 @@
   {
     "id": "recRUsMirOWqHF097",
     "Name": "districts",
-    "Tags": [
-      "zoning, land use, & housing",
-      "law, governance, & administration"
-    ],
     "Questions": [
       "rec72PZRelFTGbiNs"
     ]
@@ -1628,6 +1609,9 @@
   {
     "id": "rec6lrWmFyJj2MfoK",
     "Name": "mayor",
+    "Tags": [
+      "mayor's office"
+    ],
     "Questions": [
       "recKUtQmqzyICt2px",
       "recEkG7YSqnpQ9l4I",
@@ -1638,9 +1622,6 @@
       "recT2hPeqmUfQsHqy",
       "recK3kTvH7TyMdYnQ",
       "reczUZZWw3qeYAUYf"
-    ],
-    "Tags": [
-      "mayor's office"
     ]
   },
   {
@@ -1660,9 +1641,6 @@
     "Questions": [
       "recKUtQmqzyICt2px",
       "recXMslOU9IVA9375"
-    ],
-    "Tags": [
-      "law, governance, & administration"
     ]
   },
   {
@@ -1698,6 +1676,9 @@
   {
     "id": "recxYIRPvYEut8lEN",
     "Name": "fines",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "reccTMBOeNv6A7ojy",
       "rec3gVv0sol719CIg",
@@ -1706,10 +1687,6 @@
       "recbvPA2CBoYJscfG",
       "rec7NZUk3vNDJrDQM",
       "recWNHr3FIOHpEz9f"
-    ],
-    "Tags": [
-      "finance",
-      "law, governance, & administration"
     ]
   },
   {
@@ -1772,9 +1749,6 @@
     "Name": "voting",
     "Questions": [
       "recDctKj7bLVOerpI"
-    ],
-    "Tags": [
-      "residents"
     ]
   },
   {
@@ -1789,9 +1763,6 @@
     "Name": "protests",
     "Questions": [
       "recDctKj7bLVOerpI"
-    ],
-    "Tags": [
-      "residents"
     ]
   },
   {
@@ -1804,14 +1775,13 @@
   {
     "id": "recov7WSAYmy4L4Qr",
     "Name": "public hearings",
+    "Tags": [
+      "city council",
+      "mayor's office"
+    ],
     "Questions": [
       "recDctKj7bLVOerpI",
       "recze7ORmMp2clvxf"
-    ],
-    "Tags": [
-      "residents",
-      "city council",
-      "mayor's office"
     ]
   },
   {
@@ -1913,15 +1883,15 @@
   {
     "id": "reclEz2L2IRivna0C",
     "Name": "operating reserve",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recg0ixkhBeUqQVej",
       "recXs1flaptEVIw6G",
       "recfjeXv4Ol0a6SKJ",
       "rec1ytzgav73eUXOD",
       "rec8FmPSfA9S4pcre"
-    ],
-    "Tags": [
-      "finance"
     ]
   },
   {
@@ -2081,6 +2051,9 @@
   {
     "id": "rec5ic94W9hDJJkfc",
     "Name": "hearings",
+    "Tags": [
+      "public policy & administration"
+    ],
     "Questions": [
       "recGKUTEcX6hXBJUv",
       "rec2t2g8O4cKwQnSa",
@@ -2134,6 +2107,9 @@
   {
     "id": "recm6eIXpywCU4s9O",
     "Name": "administration",
+    "Tags": [
+      "public policy & administration"
+    ],
     "Questions": [
       "reczUZZWw3qeYAUYf"
     ]
@@ -2149,15 +2125,12 @@
     "id": "recNUVECzOhYh6dnX",
     "Name": "library",
     "Tags": [
-      "library"
+      "public services, zoning, & residents"
     ]
   },
   {
     "id": "recz6i6E6AvEAwSlb",
-    "Name": "tulsa public schools",
-    "Tags": [
-      "education"
-    ]
+    "Name": "tulsa public schools"
   },
   {
     "id": "receCTlLUdaoPRM9f",
