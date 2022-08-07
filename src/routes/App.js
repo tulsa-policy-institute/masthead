@@ -35,7 +35,7 @@ function App() {
           <Link to='/' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
         </div>
       </header>
-      <main className="max-w-full p-4 sm:p-8 bg-[#FBFBFB] h-full">
+      <main className="max-w-full p-4 sm:p-8 bg-[#FBFBFB]">
         <div className='container mx-auto'>
           <Routes>
             <Route path="/" element={
@@ -45,6 +45,8 @@ function App() {
           </Routes>
         </div>
       </main>
+      <footer className='m-4'>
+      </footer>
     </>
   );
 }
