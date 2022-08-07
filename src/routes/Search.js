@@ -48,7 +48,7 @@ const Results = ({ results, handleChange, typedInput }) => {
   const hasResults = displayResults.length;
 
   return <>
-    <div className='flex flex-wrap mt-4 max-h-10 overflow-hidden'>
+    <div className='flex flex-wrap mt-4 overflow-wrap'>
       {concepts.map((c, i) => <div
         key={i}
         className={`bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c.id) ? 'bg-purple-200' : ''}`}
