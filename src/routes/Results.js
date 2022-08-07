@@ -10,9 +10,9 @@ function randomize(list) {
 
 const suggestedSearchCount = isMobile ? 3 : 8;
 
-
 const Results = ({ results, handleChange, typedInput }) => {
   const [concepts, setConcepts] = useState([]);
+  const [tags, setTags] = useState([]);
   const [selectedFilters, setFilters] = useState([]);
 
   useEffect(() => {
@@ -21,7 +21,15 @@ const Results = ({ results, handleChange, typedInput }) => {
       const concepts = data
         .filter(c => c['Questions'])
         .sort((a, b) => b['Questions'].length - a['Questions'].length);
+      const tags = (() => {
+        // flatten array
+        const tags = concepts.filter(c => c['Tags']).map(c => c['Tags']).reduce((acc, curr) => [...acc, ...curr], []);
 
+        // get unique
+        return  Array.from(new Set(tags));
+      })();
+
+      setTags(tags);
       setConcepts(concepts);
     }
 
@@ -37,7 +45,7 @@ const Results = ({ results, handleChange, typedInput }) => {
   const displayResults = (() => {
     if (selectedFilters.length && !typedInput) {
       return results.filter(r => selectedFilters
-        .map(f => concepts.find(c => c.id === f)['Questions'])
+        .map(f => concepts.filter(c => c['Tags']).find(c => c['Tags'].includes(f))['Questions'])
         .reduce((acc, curr) => { return [...acc, ...curr] }, [])
         .includes(r.id)
       );
@@ -49,23 +57,23 @@ const Results = ({ results, handleChange, typedInput }) => {
 
   return <>
     <div className='flex flex-wrap mt-4 overflow-wrap'>
-      {concepts.map((c, i) => <div
+      {tags.map((c, i) => <div
         key={i}
-        className={`bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c.id) ? 'bg-purple-200' : ''}`}
+        className={`select-none bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c) ? 'bg-purple-200' : ''}`}
         onClick={() => {
-          if (selectedFilters.includes(c.id)) {
-            setFilters(selectedFilters.filter(s => !(s === c.id)));
+          if (selectedFilters.includes(c)) {
+            setFilters(selectedFilters.filter(s => !(s === c)));
           } else {
-            setFilters([...selectedFilters, c.id])
+            setFilters([...selectedFilters, c])
           }
         }}
       >
-        {c['Name']} ({c['Questions'].length})
+        {c}
       </div>)}
     </div>
     <div className='shadow-lg mt-4 rounded-2xl'>
       <div className='border-b-gray-200 border-b'>
-        <h6 className='text-sm text-gray-400 m-1 p-3'>
+        <h6 className='text-sm text-gray-400 m-1 p-3 select-none'>
           {typedInput ? (hasResults ? 'Results' : 'No results') : 'Suggested Searches'}
         </h6>
       </div>
