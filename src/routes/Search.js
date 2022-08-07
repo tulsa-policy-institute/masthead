@@ -66,7 +66,7 @@ const Results = ({ results, handleChange, typedInput }) => {
     <div className='shadow-lg mt-4 rounded-2xl'>
       <div className='border-b-gray-200 border-b'>
         <h6 className='text-sm text-gray-400 m-1 p-3'>
-          {typedInput ? (hasResults ? 'Results' : 'Submit a question') : 'Suggested Searches'}
+          {typedInput ? (hasResults ? 'Results' : 'No results') : 'Suggested Searches'}
         </h6>
       </div>
       {displayResults.map((q) =>
@@ -77,26 +77,25 @@ const Results = ({ results, handleChange, typedInput }) => {
         </div>
       )}
       {!hasResults ?
-        <div className='m-0 border-b-gray-200 border-b m-4'>
-          <p className='sm:text-lg text-md'>
-            We couldn't find a match for your question, but please submit your question and we'll get back to you:
-          </p>
-          <h1 className='text-3xl'>{typedInput}</h1>
-          <>
-            <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-            <iframe
-              title='question submission'
-              className="airtable-embed airtable-dynamic-height"
-              src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}`}
-              frameBorder="0"
-              width="100%"
-              height="638"
-              style={{
-                background: 'transparent',
-                border: '0px solid #ccc',
-              }}
-            />
-          </>
+        <div className='max-w-prose'>
+          <h1 className='text-2xl m-4'>
+            Think this question should be included in our database? Submit your query below and get a notification when results have been populated.
+          </h1>
+          <div className='border-b-gray-200 border-b p-4'>
+            <>
+              <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
+              <iframe
+                title='question submission'
+                className="w-full border-4 border-tpi-blue rounded-3xl airtable-embed airtable-dynamic-height"
+                src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}`}
+                frameBorder="0"
+                height="500"
+                style={{
+                  background: 'transparent',
+                }}
+                />
+            </>
+          </div>
         </div> : <></>
       }
     </div>
