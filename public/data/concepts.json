@@ -1207,6 +1207,10 @@
   {
     "id": "recEs1TA3rbioFjib",
     "Name": "regulation",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
     "Questions": [
       "reckS1G1iXA8aa7QN",
       "recYLfzqYlK5TjRVy"
@@ -1215,6 +1219,9 @@
   {
     "id": "reck7kIoxu2H5u0Iy",
     "Name": "special assessments",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recl88C1qi94azDuA"
     ]
@@ -1251,6 +1258,9 @@
   {
     "id": "rec6jAl0sv1feJZPs",
     "Name": "policy enforcement",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recBgWfp1vnLa23DG",
       "recOA5ltx4YJJ69zq",
@@ -1262,6 +1272,9 @@
   {
     "id": "recbMhrS5udASHOL1",
     "Name": "governance",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recnsxGmyRburNO4N",
       "rec8wvWFld0yEJnNU",
@@ -1321,6 +1334,9 @@
   {
     "id": "recSGySDo7WKcIwRl",
     "Name": "intergovernmental relations",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recnsxGmyRburNO4N",
       "rec8wvWFld0yEJnNU"
@@ -1329,6 +1345,9 @@
   {
     "id": "recr78qUqkhp5Zz4o",
     "Name": "collaboration",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recnsxGmyRburNO4N",
       "rec8wvWFld0yEJnNU"
@@ -1337,6 +1356,9 @@
   {
     "id": "recSZeWALNfnW3T8v",
     "Name": "interlocal",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1358,6 +1380,9 @@
   {
     "id": "recbjRBkOBDM1mYbH",
     "Name": "Private corporations",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1365,6 +1390,9 @@
   {
     "id": "recBEtjHtOWJydWze",
     "Name": "ppp",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1372,6 +1400,9 @@
   {
     "id": "recBYNVooM0ZJAzf7",
     "Name": "waterports",
+    "Tags": [
+      "public services"
+    ],
     "Questions": [
       "recEBvpqZlB2vO3Aj"
     ]
@@ -1379,6 +1410,9 @@
   {
     "id": "recS9VqXREVYUBP7z",
     "Name": "airports",
+    "Tags": [
+      "public services"
+    ],
     "Questions": [
       "reciZl4VQxFZ5Pw3T"
     ]
@@ -1386,6 +1420,9 @@
   {
     "id": "recTxgKBjwHwkDitY",
     "Name": "air navigation",
+    "Tags": [
+      "public services"
+    ],
     "Questions": [
       "reciZl4VQxFZ5Pw3T"
     ]
@@ -1393,6 +1430,9 @@
   {
     "id": "recSJYjYkV67eZeIy",
     "Name": "land use",
+    "Tags": [
+      "public services"
+    ],
     "Questions": [
       "recYLfzqYlK5TjRVy"
     ]
@@ -1400,6 +1440,9 @@
   {
     "id": "rec5zG09bsxqZaySm",
     "Name": "nuisance",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recDkJkgHxnqz33EP"
     ]
@@ -1407,6 +1450,9 @@
   {
     "id": "recX9nNDKs0rtBi3g",
     "Name": "city council",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec72PZRelFTGbiNs",
       "rec4cV0uZuW1I6tWF",
@@ -1480,6 +1526,10 @@
   {
     "id": "recRUsMirOWqHF097",
     "Name": "districts",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec72PZRelFTGbiNs"
     ]
@@ -1573,6 +1623,9 @@
   {
     "id": "recAi1b9s2ensb8nF",
     "Name": "salaries",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec4cV0uZuW1I6tWF",
       "recWcMxNuRrmjrQcC"
@@ -1581,6 +1634,9 @@
   {
     "id": "recTduFwT9ATeQB7t",
     "Name": "meetings",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recwPqzzGCjWLKXoP",
       "recQ4Z9ieO76kxkMi",
@@ -1602,6 +1658,9 @@
   {
     "id": "recZkq5S5jOSatcsk",
     "Name": "special meetings",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recQ4Z9ieO76kxkMi"
     ]
@@ -1610,7 +1669,7 @@
     "id": "rec6lrWmFyJj2MfoK",
     "Name": "mayor",
     "Tags": [
-      "mayor's office"
+      "city government & the policy process"
     ],
     "Questions": [
       "recKUtQmqzyICt2px",
@@ -1627,6 +1686,9 @@
   {
     "id": "recuuCNjMbaMhXTVC",
     "Name": "mayor-council relations",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recKUtQmqzyICt2px",
       "recEkG7YSqnpQ9l4I",
@@ -1638,6 +1700,9 @@
   {
     "id": "rec8VvbJAupXTEemd",
     "Name": "civil emergency",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recKUtQmqzyICt2px",
       "recXMslOU9IVA9375"
@@ -1669,6 +1734,9 @@
   {
     "id": "recFXycyXWuWo47Ix",
     "Name": "employment",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recI3uF7NibyH8ZRH"
     ]
@@ -1677,7 +1745,9 @@
     "id": "recxYIRPvYEut8lEN",
     "Name": "fines",
     "Tags": [
-      "revenue & spending"
+      "revenue & spending",
+      "city government & the policy process",
+      "policies & regulations"
     ],
     "Questions": [
       "reccTMBOeNv6A7ojy",
@@ -1692,6 +1762,10 @@
   {
     "id": "recVig4UtVDrLlTTL",
     "Name": "disorderly conduct",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
     "Questions": [
       "reccTMBOeNv6A7ojy",
       "rec9WdE6TGWeb8smt"
@@ -1700,6 +1774,9 @@
   {
     "id": "rec9rnEQuFVJq4IgH",
     "Name": "punishments",
+    "Tags": [
+      "policies & regulations"
+    ],
     "Questions": [
       "recbvPA2CBoYJscfG",
       "rec7NZUk3vNDJrDQM",
@@ -1711,6 +1788,9 @@
   {
     "id": "recb8y39G2n1fUMpf",
     "Name": "chairman",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recDI9C1Q4m6rxeUS",
       "rec6AKLn5Mx88NOwM"
@@ -1719,6 +1799,9 @@
   {
     "id": "recZtZB1zc9lOY8fl",
     "Name": "vice chairman",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recDI9C1Q4m6rxeUS"
     ]
@@ -1726,6 +1809,9 @@
   {
     "id": "receacjDdXCI7IGXt",
     "Name": "subpoena",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec2k8EIZMHW2OMh6"
     ]
@@ -1733,6 +1819,9 @@
   {
     "id": "recrCWf24cPQJ3bt8",
     "Name": "judge",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recCESevPNO9OvkIe"
     ]
@@ -1740,6 +1829,9 @@
   {
     "id": "recjzq9fpGN98fJ4l",
     "Name": "qualifications",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recCESevPNO9OvkIe"
     ]
@@ -1747,6 +1839,9 @@
   {
     "id": "recMGYhG1RlGmHr3b",
     "Name": "voting",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recDctKj7bLVOerpI"
     ]
@@ -1755,7 +1850,7 @@
     "id": "recgdKPlaYC1v6B5Z",
     "Name": "zoning",
     "Tags": [
-      "public services, zoning, & residents"
+      "public services"
     ],
     "Questions": [
       "recDctKj7bLVOerpI"
@@ -1764,6 +1859,10 @@
   {
     "id": "rec9HPiO516rCW9GX",
     "Name": "protests",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
     "Questions": [
       "recDctKj7bLVOerpI"
     ]
@@ -1771,6 +1870,10 @@
   {
     "id": "reckXC0QQXYLxJRIn",
     "Name": "property owners",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
     "Questions": [
       "recDctKj7bLVOerpI"
     ]
@@ -1779,8 +1882,7 @@
     "id": "recov7WSAYmy4L4Qr",
     "Name": "public hearings",
     "Tags": [
-      "city council",
-      "mayor's office"
+      "city government & the policy process"
     ],
     "Questions": [
       "recDctKj7bLVOerpI",
@@ -1790,6 +1892,10 @@
   {
     "id": "rec9waV3GVmUG4v9L",
     "Name": "budgets",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
     "Questions": [
       "recEkG7YSqnpQ9l4I",
       "reczCm4avq1CSqz4I",
@@ -1814,6 +1920,9 @@
   {
     "id": "recALrXDVs83Qf9QT",
     "Name": "economics",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recYGrUyBXjHPoqep",
       "recaQLFDJyoC7IIgF",
@@ -1826,6 +1935,9 @@
   {
     "id": "rec5fkRItyK7VCWJO",
     "Name": "general fund budget",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recYGrUyBXjHPoqep",
       "recaQLFDJyoC7IIgF",
@@ -1838,6 +1950,10 @@
   {
     "id": "recdbpewxCXJ0tOiA",
     "Name": "economic stabilization reserve",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
     "Questions": [
       "recYGrUyBXjHPoqep",
       "recaQLFDJyoC7IIgF",
@@ -1853,6 +1969,10 @@
   {
     "id": "recpRzWgONB4fYLgm",
     "Name": "city treasurer",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
     "Questions": [
       "recaQLFDJyoC7IIgF",
       "recOmyIu0QxBEQqgV",
@@ -1863,6 +1983,9 @@
   {
     "id": "rec17CY4B97WAP1a8",
     "Name": "capital",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recq94IbAD8EnVIHN",
       "recFLeOGgaR9kA2Sd",
@@ -1878,6 +2001,9 @@
   {
     "id": "recnMN6FZvUqfZPpr",
     "Name": "information systems",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recFLeOGgaR9kA2Sd",
       "recdgthAZOpFRVa69"
@@ -1900,6 +2026,9 @@
   {
     "id": "recGP41AikxZaToKj",
     "Name": "one-time expenditures",
+    "Tags": [
+      "revenue & spending"
+    ],
     "Questions": [
       "recg0ixkhBeUqQVej",
       "recXs1flaptEVIw6G",
@@ -1911,6 +2040,10 @@
   {
     "id": "recckkQsJ4fr64GLe",
     "Name": "consumer price index",
+    "Tags": [
+      "city government & the policy process",
+      "revenue & spending"
+    ],
     "Questions": [
       "recXs1flaptEVIw6G",
       "recfjeXv4Ol0a6SKJ",
@@ -1921,6 +2054,9 @@
   {
     "id": "recg4etkzkqLWNFtE",
     "Name": "resolutions",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recpZT3q1xsg1ueCk",
       "rec1VN6atVxRUlmnT",
@@ -1962,6 +2098,9 @@
   {
     "id": "rec2sygWSOsXvZgta",
     "Name": "vetos",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recJzAooe967Ct1xJ",
       "recZHpStuZfLdBWcV",
@@ -1973,6 +2112,9 @@
   {
     "id": "recArDxIzaR55Bg9n",
     "Name": "emergency measures",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recuDxASxgBKeY728",
       "recvpitaSSSVzoI73",
@@ -1983,6 +2125,9 @@
   {
     "id": "recyFsZOyQSoHehhX",
     "Name": "city clerk",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recOqf3VDixaaq1es",
       "recfDl46HX4vYLsU2",
@@ -1993,6 +2138,9 @@
   {
     "id": "rec1kIEwUix0a4vuI",
     "Name": "public relations",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recfDl46HX4vYLsU2"
     ]
@@ -2000,6 +2148,9 @@
   {
     "id": "rec5ijDMdXSschS99",
     "Name": "titles",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recvpitaSSSVzoI73",
       "reclq0b7jcBkQT7Ay",
@@ -2009,6 +2160,9 @@
   {
     "id": "recjo2zoepOIemiRP",
     "Name": "code of ordinances",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recvpitaSSSVzoI73",
       "reclq0b7jcBkQT7Ay",
@@ -2018,6 +2172,10 @@
   {
     "id": "recoCmCo16FXWqhx8",
     "Name": "imprisonment",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
     "Questions": [
       "recYJpTO43OKiz8gD"
     ]
@@ -2025,6 +2183,10 @@
   {
     "id": "rec3gAkTXHxNLnke9",
     "Name": "sovereignty",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
     "Questions": [
       "recJWCqMOuLqKvqWZ"
     ]
@@ -2032,6 +2194,9 @@
   {
     "id": "recRACBybqeI1fCXf",
     "Name": "administrative review",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec1ds5meCdh84sx3",
       "rec3Jn0DlrFfUHiOy"
@@ -2040,6 +2205,9 @@
   {
     "id": "recgK36yEFw6QRuiJ",
     "Name": "investigations",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recGKUTEcX6hXBJUv",
       "rec2t2g8O4cKwQnSa",
@@ -2055,7 +2223,8 @@
     "id": "rec5ic94W9hDJJkfc",
     "Name": "hearings",
     "Tags": [
-      "public policy & administration"
+      "policies & regulations",
+      "city government & the policy process"
     ],
     "Questions": [
       "recGKUTEcX6hXBJUv",
@@ -2070,6 +2239,10 @@
   {
     "id": "recaahrH7a6kRGqnX",
     "Name": "public comment",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
     "Questions": [
       "recGKUTEcX6hXBJUv"
     ]
@@ -2077,6 +2250,9 @@
   {
     "id": "recVGtbiaDBgMqTaG",
     "Name": "subpoenas",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec8MDgogQxyQd72T",
       "recT2hPeqmUfQsHqy"
@@ -2085,6 +2261,9 @@
   {
     "id": "rechiNVNlkL48X8Xv",
     "Name": "evidence",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "rec8MDgogQxyQd72T",
       "recJTBtPNNCOkfttt",
@@ -2096,6 +2275,9 @@
   {
     "id": "recgQvgd3Shu5a7uH",
     "Name": "oaths",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "recJTBtPNNCOkfttt"
     ]
@@ -2103,6 +2285,10 @@
   {
     "id": "recoLoeqCJnpr7eY9",
     "Name": "testimony",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
     "Questions": [
       "recfT87Zh1Ku5lapV"
     ]
@@ -2111,7 +2297,7 @@
     "id": "recm6eIXpywCU4s9O",
     "Name": "administration",
     "Tags": [
-      "public policy & administration"
+      "policies & regulations"
     ],
     "Questions": [
       "reczUZZWw3qeYAUYf"
@@ -2120,6 +2306,9 @@
   {
     "id": "recgJkC22XaeUveje",
     "Name": "removals",
+    "Tags": [
+      "city government & the policy process"
+    ],
     "Questions": [
       "reczUZZWw3qeYAUYf"
     ]
@@ -2128,15 +2317,21 @@
     "id": "recNUVECzOhYh6dnX",
     "Name": "library",
     "Tags": [
-      "public services, zoning, & residents"
+      "public services"
     ]
   },
   {
     "id": "recz6i6E6AvEAwSlb",
-    "Name": "tulsa public schools"
+    "Name": "tulsa public schools",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "receCTlLUdaoPRM9f",
-    "Name": "animals"
+    "Name": "animals",
+    "Tags": [
+      "public services"
+    ]
   }
 ]
