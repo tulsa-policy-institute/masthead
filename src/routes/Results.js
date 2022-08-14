@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import * as fuzzysort from 'fuzzysort';
 import { isMobile } from 'react-device-detect';
-import { useCookies, withCookies } from 'react-cookie';
+import { withCookies } from 'react-cookie';
 import Result from './Result';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 
