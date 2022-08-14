@@ -5,7 +5,7 @@ import Lecture from './Lecture';
 import Search from './Search';
 import ReactGA from 'react-ga';
 
-ReactGA.initialize('G-PSK4FWZ569');
+ReactGA.initialize('UA-237465950-1');
 
 function App() {
   const [lectures, setLectures] = useState([]);
