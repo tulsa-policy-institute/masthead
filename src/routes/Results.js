@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import * as fuzzysort from 'fuzzysort';
 import { isMobile } from 'react-device-detect';
+import { useCookies, withCookies } from 'react-cookie';
 import Result from './Result';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 
@@ -11,7 +12,7 @@ function randomize(list) {
 
 const suggestedSearchCount = isMobile ? 3 : 8;
 
-const Results = ({ results, handleChange, typedInput }) => {
+const Results = ({ results, handleChange, typedInput, cookies }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
   const [selectedFilters, setFilters] = useState([]);
@@ -98,7 +99,7 @@ const Results = ({ results, handleChange, typedInput }) => {
               <iframe
                 title='question submission'
                 className="w-full border-4 border-tpi-blue rounded-3xl airtable-embed airtable-dynamic-height"
-                src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}`}
+                src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}&prefill_Email=${cookies.get('email')}`}
                 frameBorder="0"
                 height="500"
                 style={{
@@ -113,4 +114,4 @@ const Results = ({ results, handleChange, typedInput }) => {
   </>
 };
 
-export default Results;
+export default withCookies(Results);
