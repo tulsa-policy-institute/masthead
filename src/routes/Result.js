@@ -4,7 +4,7 @@ import useAnalyticsEventTracker from '../utils/eventTracking';
 const Result = ({ q }) => {
   const [open, updateResult] = useState(false);
   const gaResultTracker = useAnalyticsEventTracker('Result');
-  console.log(q);
+
   return <>
     <div
       onClick={() => {
