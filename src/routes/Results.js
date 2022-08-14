@@ -3,6 +3,7 @@ import axios from 'axios';
 import * as fuzzysort from 'fuzzysort';
 import { isMobile } from 'react-device-detect';
 import Result from './Result';
+import useAnalyticsEventTracker from '../utils/eventTracking';
 
 function randomize(list) {
   return list.sort( () => Math.random() - 0.5)
@@ -14,6 +15,7 @@ const Results = ({ results, handleChange, typedInput }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
   const [selectedFilters, setFilters] = useState([]);
+  const gaFilteringTracker = useAnalyticsEventTracker('Filtering');
 
   useEffect(() => {
     async function getData() {
@@ -63,8 +65,10 @@ const Results = ({ results, handleChange, typedInput }) => {
         onClick={() => {
           if (selectedFilters.includes(c)) {
             setFilters(selectedFilters.filter(s => !(s === c)));
+            gaFilteringTracker('unset', c);
           } else {
-            setFilters([...selectedFilters, c])
+            setFilters([...selectedFilters, c]);
+            gaFilteringTracker('set', c);
           }
         }}
       >

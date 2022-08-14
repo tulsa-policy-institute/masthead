@@ -3,10 +3,17 @@ import axios from 'axios';
 import { Routes, Route, Link } from 'react-router-dom';
 import Lecture from './Lecture';
 import Search from './Search';
+import ReactGA from 'react-ga';
+
+ReactGA.initialize('3983541346');
 
 function App() {
   const [lectures, setLectures] = useState([]);
   const [questions, setQuestions] = useState([]);
+
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
 
   useEffect(() => {
     async function getData() {

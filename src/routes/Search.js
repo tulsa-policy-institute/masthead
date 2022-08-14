@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom';
 import Results from './Results';
+import useAnalyticsEventTracker from '../utils/eventTracking';
 // import PLAY_IMAGE from '../images/play.png';
 
 const TypeaheadSearch = ({ setTypedInput }) => {
@@ -39,9 +40,10 @@ const TypeaheadSearch = ({ setTypedInput }) => {
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
   const [typedInput, setTypedInput] = useState();
-
   const navigate = useNavigate();
 
+  const gaEventTracker = useAnalyticsEventTracker('Search');
+  
   const handleChange = (selected) => {
     setSelectedQuestion(selected);
   }
@@ -66,7 +68,7 @@ function Search({ questions, lectures }) {
   return <div className='grid gap-8'>
     <div className=''>
       <TypeaheadSearch
-        setTypedInput={setTypedInput}
+        setTypedInput={(...args) => { gaEventTracker('type', args[0]); setTypedInput(...args) } }
       />
       <Results
         results={questions}

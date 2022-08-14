@@ -1,11 +1,16 @@
 import React, { useState } from 'react';
+import useAnalyticsEventTracker from '../utils/eventTracking';
 
 const Result = ({ q }) => {
   const [open, updateResult] = useState(false);
-
-  return <div>
+  const gaResultTracker = useAnalyticsEventTracker('Result');
+  console.log(q);
+  return <>
     <div
-      onClick={() => { updateResult(!open) }}
+      onClick={() => {
+        if (!open) { gaResultTracker('viewing', q.Title); }
+        updateResult(!open);
+      }}
       className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'
     >
       <h3 className='sm:text-lg text-md m-1 p-3 pointer-events-none select-none'>
@@ -23,7 +28,7 @@ const Result = ({ q }) => {
           <div className='max-w-prose'>{q.Answers}</div>
         </div>
       }
-  </div>;
+  </>;
 }
 
 export default Result;
