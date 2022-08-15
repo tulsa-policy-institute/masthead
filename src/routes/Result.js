@@ -15,8 +15,8 @@ const Result = ({ q }) => {
     >
       <h3 className='sm:text-lg text-md m-1 p-3 pointer-events-none select-none'>
         {q.Title}
-        <svg 
-          className={`float-right w-6 h-6 rotate-180 shrink-0 ${open ? 'scale-[-1]' : ''}`}
+        <svg
+          className={`float-right w-6 h-6 rotate-180 shrink-0 ${open ? '' : 'scale-[-1]'}`}
           fill="currentColor"
           viewBox="0 0 20 20"
           xmlns="http://www.w3.org/2000/svg"
