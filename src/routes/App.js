@@ -18,6 +18,7 @@ function App() {
 
   const handleContinue = () => {
     setCookie('email', modalEmailEntry);
+    ReactGA.set({ userId: modalEmailEntry }, ['tpi-email']);
   }
 
   useEffect(() => {
