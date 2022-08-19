@@ -99,7 +99,7 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
               <iframe
                 title='question submission'
                 className="w-full border-4 border-tpi-blue rounded-3xl airtable-embed airtable-dynamic-height"
-                src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}&prefill_Email=${cookies.get('email')}`}
+                src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}&prefill_Email=${cookies.get('email')}&prefill_Role=${cookies.get('role')}`}
                 frameBorder="0"
                 height="500"
                 style={{
