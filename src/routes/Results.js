@@ -90,9 +90,6 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
       )}
       {!hasResults ?
         <div className='max-w-prose'>
-          <h1 className='text-2xl m-4'>
-            Think this question should be included in our database? Submit your query below and get a notification when results have been populated.
-          </h1>
           <div className='border-b-gray-200 border-b p-4'>
             <>
               <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
