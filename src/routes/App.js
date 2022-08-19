@@ -9,15 +9,17 @@ import Search from './Search';
 
 ReactGA.initialize('UA-237465950-1');
 
-function App() {
+function App({ cookies }) {
   const [lectures, setLectures] = useState([]);
   const [questions, setQuestions] = useState([]);
-  const [cookies, setCookie] = useCookies(['tpi-email']);
-  const [showModal, toggleModal] = useState(!cookies.email);
+  const [showModal, toggleModal] = useState((!cookies.get('email') || !cookies.get('role')));
   const [modalEmailEntry, setEmail] = useState();
+  const [modalRoleSelection, setRole] = useState();
 
   const handleContinue = () => {
-    setCookie('email', modalEmailEntry);
+    cookies.set('email', modalEmailEntry);
+    cookies.set('role', modalRoleSelection);
+
     ReactGA.set({ userId: modalEmailEntry }, ['tpi-email']);
   }
 
@@ -72,7 +74,7 @@ function App() {
           <br/>
           <p>You have visited during a very special time. We are in the midst of running our pilot program where you can submit and check out answers to all your questions!</p>
           <br/>
-          <div className="flex justify-start">
+          <div className="flex flex-col justify-start">
             <div className="mb-3 xl:w-96">
               <label
                 htmlFor="exampleFormControlInput1"
@@ -87,6 +89,39 @@ function App() {
                 id="exampleFormControlInput1"
                 placeholder="me@email.com"
               />
+            </div>
+            <div className="mb-3 xl:w-96">
+              <label
+                htmlFor="exampleFormControlInput2"
+                className="form-label inline-block mb-2 text-gray-700"
+              >
+                Role
+              </label>
+              <select
+                id="exampleFormControlInput2"
+                onChange={e => {console.log(e); setRole(e.target.value)}}
+                defaultValue=""
+                className="form-select appearance-none
+                block
+                w-full
+                px-3
+                py-1.5
+                text-base
+                font-normal
+                text-gray-700
+                bg-white bg-clip-padding bg-no-repeat
+                border border-solid border-gray-300
+                rounded
+                transition
+                ease-in-out
+                m-0
+                focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" aria-label="Default select example">
+                  <option value="bureaucrat">I work at the City of Tulsa</option>
+                  <option value="candidate">I have run for City Council</option>
+                  <option value="nonprofit">I work at a nonprofit</option>
+                  <option value="business">I am a business owner</option>
+                  <option value="citizen">I am a resident of Tulsa</option>
+              </select>
             </div>
           </div>
         </div>
