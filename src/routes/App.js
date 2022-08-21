@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import axios from 'axios';
 import { Routes, Route, Link } from 'react-router-dom';
 import ReactGA from 'react-ga';
-import { useCookies, CookiesProvider, withCookies } from 'react-cookie';
+import { CookiesProvider, withCookies } from 'react-cookie';
 import Modal from '../ui/modal';
 import Lecture from './Lecture';
 import Search from './Search';
