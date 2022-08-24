@@ -116,11 +116,12 @@ function App({ cookies }) {
                 ease-in-out
                 m-0
                 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" aria-label="Default select example">
+                  <option value="citizen">I am a resident of Tulsa</option>
                   <option value="bureaucrat">I work at the City of Tulsa</option>
                   <option value="candidate">I have run for City Council</option>
                   <option value="nonprofit">I work at a nonprofit</option>
                   <option value="business">I am a business owner</option>
-                  <option value="citizen">I am a resident of Tulsa</option>
+                  <option value="nonresident">I am not a resident of Tulsa</option>
               </select>
             </div>
           </div>
