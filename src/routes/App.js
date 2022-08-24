@@ -68,11 +68,11 @@ function App({ cookies }) {
       </footer>
       {showModal && <Modal toggle={toggleModal} cont={handleContinue}>
         <div>
-          <h1 className='text-2xl'>Need to know about Tulsa's permitting process, what a Mayor can veto, or how your tax dollars are being spent?</h1>
+          <h1 className='text-2xl'> You've Got Questions. We've Got Answers.</h1>
           <br/>
-          <p>Welcome to the Tulsa Policy Institute! We work to make Tulsa the national leader in civic confidence by developing products that answer all your most deeply held questions about government and public policy in the 918.</p>
+          <p>Welcome to Tulsa Policy Institute! We work to make Tulsa the national leader in civic confidence by developing products that answer all your most deeply held questions about government and public policy in the 918.</p>
           <br/>
-          <p>You have visited during a very special time. We are in the midst of running our pilot program where you can submit and check out answers to all your questions!</p>
+          <p>You have visited during a very special time. September 2022 is our our pilot program where you can explore answers to all your questions about policy and service delivery in Tulsa!</p>
           <br/>
           <div className="flex flex-col justify-start">
             <div className="mb-3 xl:w-96">
