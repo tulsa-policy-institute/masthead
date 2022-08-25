@@ -26,7 +26,9 @@ const Result = ({ q }) => {
     {open &&
         <div className={`p-4 bg-gray-100 ${open ? 'visible' : 'invisible'}`}>
           <div className='max-w-prose mb-2'>{q.Answers}</div>
-          <span className='uppercase italic font-mono text-slate-500 text-xs'>Source{q.Sources.length === 1 ? '' : 's' }: {q.Sources.map((s, i) => s.Source).join(', ')}</span>
+          <div className='uppercase italic font-mono text-slate-500 text-xs max-w-prose'>
+            Source{q.Sources.length === 1 ? '' : 's' }: {q.Sources.map((s, i) => `${s.Source}, ${s.Section}, ${s.Subsection}`).join(', ')}
+          </div>
         </div>
       }
   </>;
