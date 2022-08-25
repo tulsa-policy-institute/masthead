@@ -12,6 +12,7 @@ ReactGA.initialize('UA-237465950-1');
 function App({ cookies }) {
   const [lectures, setLectures] = useState([]);
   const [questions, setQuestions] = useState([]);
+  const [sources, setSources] = useState([]);
   const [showModal, toggleModal] = useState((!cookies.get('email') || !cookies.get('role')));
   const [modalEmailEntry, setEmail] = useState();
   const [modalRoleSelection, setRole] = useState();
@@ -39,13 +40,33 @@ function App({ cookies }) {
 
   useEffect(() => {
     async function getData() {
-      const { data } = await axios('/data/questions.min.json');
-      const publicQuestions = data.filter(q => q['Public']);
-      setQuestions(publicQuestions);
+      const { data } = await axios('/data/sources.min.json');
+
+      setSources(data);
     }
 
     getData();
   }, []);
+
+  useEffect(() => {
+    async function getData() {
+      const { data: questions } = await axios('/data/questions.min.json');
+      const publicQuestions = questions.filter(q => q['Public']);
+
+      const merged = publicQuestions.map(q => {
+        return {
+          ...q,
+          'Sources': q['Sources']?.map(sourceId => {
+            return sources.find(source => source.id === sourceId);
+          }).filter(Boolean),
+        }
+      });
+
+      setQuestions(merged);
+    }
+
+    getData();
+  }, [sources]);
 
   return (
     <CookiesProvider>
