@@ -53,7 +53,7 @@ const Results = ({ results, handleChange, typedInput, cookies, onCategoryChange 
   }).map(f => f.obj);
 
   const displayResults = (() => {
-    if (selectedFilters.length && !typedInput) {
+    if (selectedFilters.length) {
       return results.filter(r => selectedFilters
         .map(f => concepts.filter(c => c['Tags']).find(c => c['Tags'].includes(f))['Questions'])
         .reduce((acc, curr) => { return [...acc, ...curr] }, [])
