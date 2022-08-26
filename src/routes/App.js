@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios';
-import { Routes, Route, Link } from 'react-router-dom';
+import { Routes, Route, Link, useSearchParams } from 'react-router-dom';
 import ReactGA from 'react-ga';
 import { CookiesProvider, withCookies } from 'react-cookie';
 import Modal from '../ui/modal';
@@ -16,6 +16,9 @@ function App({ cookies }) {
   const [showModal, toggleModal] = useState((!cookies.get('email') || !cookies.get('role')));
   const [modalEmailEntry, setEmail] = useState();
   const [modalRoleSelection, setRole] = useState();
+  const [searchParams] = useSearchParams();
+
+  const currentQuery = searchParams.get('q');
 
   const handleContinue = () => {
     cookies.set('email', modalEmailEntry);
@@ -70,7 +73,7 @@ function App({ cookies }) {
 
   return (
     <CookiesProvider>
-      <header className="p-4 max-w-full shadow-lg shadow-gray-200 bg-[#FBFBFB]">
+      <header className={`p-4 max-w-full shadow-lg shadow-gray-200 ${currentQuery ? 'bg-[#FBFBFB]' : 'border-b-white border-b-2 text-white bg-black'}`}>
         <div className='container mx-auto'>
           <Link to='/?q=' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
         </div>
