@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import Results from './Results';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 // import PLAY_IMAGE from '../images/play.png';
@@ -11,11 +11,12 @@ const CATEGORY_COLOR_LOOKUP = {
   'public services': 'tpi-pink',
 }
 
-const TypeaheadSearch = ({ setTypedInput, className }) => {
+const TypeaheadSearch = ({ setTypedInput, className, typedInput = '' }) => {
   return <div className={className}>
     <input
       type="text"
       autoFocus={true}
+      value={typedInput}
       className="
         form-control
         block
@@ -47,10 +48,11 @@ const TypeaheadSearch = ({ setTypedInput, className }) => {
 
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
-  const [typedInput, setTypedInput] = useState();
+  const [, setTypedInput] = useState();
   const [lastSelectedCategory, updateSelectedCategory] = useState('tpi-blue');
+  const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
-
+  const typedInput = searchParams.get('q');
   const gaEventTracker = useAnalyticsEventTracker('Search');
   
   const handleChange = (selected) => {
@@ -87,7 +89,12 @@ function Search({ questions, lectures }) {
     <div className={`${typedInput ? '' : 'place-self-center'} flex flex-col container mx-auto p-4 sm:p-8`}>
       <TypeaheadSearch
         className='w-full sm:w-3/5 place-self-center'
-        setTypedInput={(...args) => { gaEventTracker('type', args[0]); setTypedInput(...args) } }
+        typedInput={typedInput}
+        setTypedInput={(...args) => {
+          gaEventTracker('type', args[0]);
+          setTypedInput(...args);
+          setSearchParams({ q: args[0] })
+        } }
       />
       {typedInput ? <Results
         results={questions}

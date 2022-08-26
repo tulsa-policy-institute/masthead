@@ -94,7 +94,7 @@ const Results = ({ results, handleChange, typedInput, cookies, onCategoryChange 
       {displayResults.map((q, i) =>
         <Result
           q={q}
-          key={i}
+          key={q.id}
         />
       )}
       {!hasResults ?
