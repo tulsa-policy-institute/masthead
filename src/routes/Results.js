@@ -97,7 +97,7 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
         />
       )}
       {!hasResults ?
-        <div className='max-w-prose'>
+        <div className='max-w'>
           <div className='border-b-gray-200 border-b p-4'>
             <>
               <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
