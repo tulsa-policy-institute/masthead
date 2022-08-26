@@ -9,6 +9,10 @@ module.exports = {
     extend: {
       colors: {
         'tpi-blue': '#00AAAD',
+        'tpi-green': '#00AAAD',
+        'tpi-purple': '#9747FF',
+        'tpi-orange': '#FF5C00',
+        'tpi-pink': '#FF8BE6',
       },
       fontFamily: {
         'sans': ['Plus Jakarta Sans', ...defaultTheme.fontFamily.sans],

@@ -72,7 +72,7 @@ function Search({ questions, lectures }) {
       className={`absolute w-full h-full transition-all pointer-events-none ${typedInput ? 'opacity-0' : ''}`}
     >
       <video className='h-full w-full hidden sm:block' autoPlay loop muted playsInline>
-        <source src="/videos/tpi_questions_marquee.mp4" type="video/mp4" />
+        <source src="/videos/tpi_marquee.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
     </div>
