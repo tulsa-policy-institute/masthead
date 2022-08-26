@@ -83,7 +83,7 @@ function Search({ questions, lectures }) {
     transition-all
     duration-300
     bg-gradient-to-b
-    from-${CATEGORY_COLOR_LOOKUP[lastSelectedCategory] || 'tpi-blue'}
+    rotating-background
     grid
     gap-8
     h-full`}>
