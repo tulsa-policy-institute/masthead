@@ -520,23 +520,40 @@
   },
   {
     "id": "rec2NdYOcH1a9zvQX",
-    "Name": "Authorities",
+    "Name": "authorities",
     "Lectures": [
       "recZj9mjJqwOB83UE"
+    ],
+    "Questions": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recko8jYikd4mw1yx",
+      "recnIif0ZJsNCel53"
     ]
   },
   {
     "id": "recLOs35zYYLE35fI",
-    "Name": "Boards",
+    "Name": "boards",
     "Lectures": [
       "recZj9mjJqwOB83UE"
+    ],
+    "Questions": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recko8jYikd4mw1yx",
+      "recnIif0ZJsNCel53"
     ]
   },
   {
     "id": "recfJreUrwUrLyVJL",
-    "Name": "Commissions",
+    "Name": "commissions",
     "Lectures": [
       "recZj9mjJqwOB83UE"
+    ],
+    "Questions": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recnIif0ZJsNCel53"
     ]
   },
   {
@@ -567,7 +584,8 @@
       "recZj9mjJqwOB83UE"
     ],
     "Questions": [
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "recUOJwJNzbczRXpT"
     ]
   },
   {
@@ -1158,7 +1176,22 @@
       "recmmomqhk0MJTDG4",
       "recJWCqMOuLqKvqWZ",
       "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "recZXSJ48gtJvgOqH",
+      "recK9xOfnsH7vmB5o",
+      "recNRksASdLTkDi8Y",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "recUOJwJNzbczRXpT",
+      "recRlMXr3TV1Beksw",
+      "recuorLyU9kZV7L79",
+      "recynY04rPrmnQNFl",
+      "recH07oybWsE7eMPV",
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recaXKwMMOfVhGt2t",
+      "rechMDG6OW5MTfQ2v",
+      "recko8jYikd4mw1yx"
     ]
   },
   {
@@ -1252,7 +1285,9 @@
       "reczCm4avq1CSqz4I",
       "recze7ORmMp2clvxf",
       "recnfegL8rt7wX3Vk",
-      "recmmomqhk0MJTDG4"
+      "recmmomqhk0MJTDG4",
+      "recQzBzYvxnoI3suZ",
+      "rectTWhDJZd2580bN"
     ]
   },
   {
@@ -1328,7 +1363,8 @@
       "recP19FQxiRhGq9jq",
       "recT2hPeqmUfQsHqy",
       "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "recUOJwJNzbczRXpT"
     ]
   },
   {
@@ -1366,6 +1402,9 @@
   {
     "id": "rec6snZ9f5cDYrdgN",
     "Name": "State of Oklahoma",
+    "Tags": [
+      "policies & regulations"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1373,6 +1412,9 @@
   {
     "id": "recPuaZORpG9qS9b4",
     "Name": "Federal Government",
+    "Tags": [
+      "policies & regulations"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1520,7 +1562,18 @@
       "recP19FQxiRhGq9jq",
       "recT2hPeqmUfQsHqy",
       "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "rec8XeueSO3E5ZOVA",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "recUOJwJNzbczRXpT",
+      "recQzBzYvxnoI3suZ",
+      "recuorLyU9kZV7L79",
+      "recynY04rPrmnQNFl",
+      "rec8UQ0uUqs2KII6H",
+      "recaXKwMMOfVhGt2t",
+      "rechMDG6OW5MTfQ2v",
+      "recko8jYikd4mw1yx"
     ]
   },
   {
@@ -1617,7 +1670,27 @@
       "recP19FQxiRhGq9jq",
       "recT2hPeqmUfQsHqy",
       "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "recZXSJ48gtJvgOqH",
+      "recK9xOfnsH7vmB5o",
+      "recNRksASdLTkDi8Y",
+      "rec8XeueSO3E5ZOVA",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "recUOJwJNzbczRXpT",
+      "recQzBzYvxnoI3suZ",
+      "recRlMXr3TV1Beksw",
+      "recuorLyU9kZV7L79",
+      "recynY04rPrmnQNFl",
+      "recH07oybWsE7eMPV",
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "rec8UQ0uUqs2KII6H",
+      "recaXKwMMOfVhGt2t",
+      "rechMDG6OW5MTfQ2v",
+      "recko8jYikd4mw1yx",
+      "recnIif0ZJsNCel53",
+      "rec8KDL9gKmho2qUK"
     ]
   },
   {
@@ -1680,7 +1753,26 @@
       "recEQZOozsoC3Cj7W",
       "recT2hPeqmUfQsHqy",
       "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "recZXSJ48gtJvgOqH",
+      "recK9xOfnsH7vmB5o",
+      "recNRksASdLTkDi8Y",
+      "rec8XeueSO3E5ZOVA",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "recUOJwJNzbczRXpT",
+      "recQzBzYvxnoI3suZ",
+      "recRlMXr3TV1Beksw",
+      "rectTWhDJZd2580bN",
+      "recuorLyU9kZV7L79",
+      "recynY04rPrmnQNFl",
+      "recH07oybWsE7eMPV",
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "rec8UQ0uUqs2KII6H",
+      "recaXKwMMOfVhGt2t",
+      "rechMDG6OW5MTfQ2v",
+      "recko8jYikd4mw1yx"
     ]
   },
   {
@@ -1718,6 +1810,9 @@
   {
     "id": "recjQZSeuGijmUfoF",
     "Name": "open meeting laws",
+    "Tags": [
+      "policies & regulations"
+    ],
     "Questions": [
       "recIFNsGqXbgngSEq",
       "recQWNTioQTAzS9WA"
@@ -1726,6 +1821,9 @@
   {
     "id": "recex3pj2DIma2nV4",
     "Name": "state of oklahoma",
+    "Tags": [
+      "policies & regulations"
+    ],
     "Questions": [
       "recQWNTioQTAzS9WA",
       "recJWCqMOuLqKvqWZ"
@@ -1914,7 +2012,12 @@
       "recfjeXv4Ol0a6SKJ",
       "rec1ytzgav73eUXOD",
       "rec8FmPSfA9S4pcre",
-      "reckKaWp4EkNwUJDr"
+      "reckKaWp4EkNwUJDr",
+      "rec8XeueSO3E5ZOVA",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "rec8UQ0uUqs2KII6H",
+      "recaXKwMMOfVhGt2t"
     ]
   },
   {
@@ -2300,7 +2403,8 @@
       "policies & regulations"
     ],
     "Questions": [
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "recUOJwJNzbczRXpT"
     ]
   },
   {
@@ -2310,7 +2414,8 @@
       "city government & the policy process"
     ],
     "Questions": [
-      "reczUZZWw3qeYAUYf"
+      "reczUZZWw3qeYAUYf",
+      "recUOJwJNzbczRXpT"
     ]
   },
   {
@@ -2332,6 +2437,158 @@
     "Name": "animals",
     "Tags": [
       "public services"
+    ]
+  },
+  {
+    "id": "recTL4r0Usb9BCNsJ",
+    "Name": "lawsuits",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recQzBzYvxnoI3suZ"
+    ]
+  },
+  {
+    "id": "recrC4TQvJ11rDrQT",
+    "Name": "claims",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recQzBzYvxnoI3suZ"
+    ]
+  },
+  {
+    "id": "reccQujlrl8XzpgUR",
+    "Name": "law",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recQzBzYvxnoI3suZ"
+    ]
+  },
+  {
+    "id": "rec7UduLPBNpWCfHo",
+    "Name": "salary",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "rectTWhDJZd2580bN"
+    ]
+  },
+  {
+    "id": "recqckbuULaQhjRhV",
+    "Name": "temporary mayor",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recynY04rPrmnQNFl"
+    ]
+  },
+  {
+    "id": "recYR0hYFlNEVOnX7",
+    "Name": "agencies",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recko8jYikd4mw1yx",
+      "recnIif0ZJsNCel53"
+    ]
+  },
+  {
+    "id": "rec57K3gDdsswz8Qr",
+    "Name": "departments",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd"
+    ]
+  },
+  {
+    "id": "reckq8plKjAmo1oOR",
+    "Name": "divisions",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd"
+    ]
+  },
+  {
+    "id": "recGZ2uhaRVhXOiMS",
+    "Name": "deadlines",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "rec6HZO4BrBbedQRd"
+    ]
+  },
+  {
+    "id": "recKFKtKkpyG5v4lT",
+    "Name": "commisions",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recko8jYikd4mw1yx"
+    ]
+  },
+  {
+    "id": "rectqNSvUt4brtYS2",
+    "Name": "residence",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recnIif0ZJsNCel53"
+    ]
+  },
+  {
+    "id": "rec797k3CYC8F5O3f",
+    "Name": "311",
+    "Questions": [
+      "rec8KDL9gKmho2qUK"
+    ]
+  },
+  {
+    "id": "rec5EtmXDFLl7QB0k",
+    "Name": "parking",
+    "Questions": [
+      "rec8KDL9gKmho2qUK"
+    ]
+  },
+  {
+    "id": "rectD3gKNXIFdjHUQ",
+    "Name": "violation",
+    "Questions": [
+      "rec8KDL9gKmho2qUK"
+    ]
+  },
+  {
+    "id": "recRJBtqeF69Iewhi",
+    "Name": "report",
+    "Questions": [
+      "rec8KDL9gKmho2qUK"
+    ]
+  },
+  {
+    "id": "recGkXnNzl0pw1ued",
+    "Name": "customer care center",
+    "Questions": [
+      "rec8KDL9gKmho2qUK"
     ]
   }
 ]
