@@ -7,7 +7,7 @@ const CUSTOM_COLORS = {
   'tpi-orange': '#FF5C00',
   'tpi-pink': '#FF8BE6',
 };
-const TARGET_SAFELIST_TAILWIND_PREFIXES = ['from-'];
+const TARGET_SAFELIST_TAILWIND_PREFIXES = ['from-', 'bg-'];
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {

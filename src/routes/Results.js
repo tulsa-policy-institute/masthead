@@ -13,7 +13,7 @@ const TAG_COLOR_LOOKUP = {
   'public services': '#FF8BE6',
 };
 
-const CATEGORY_ICON_LOOKUP = {
+export const CATEGORY_ICON_LOOKUP = {
   'city government & the policy process': 'icon_lg_revenue-spending.png',
   'revenue & spending': 'icon_lg_publ-services.png',
   'policies & regulations': 'icon_lg_policies-regs.png',
@@ -80,14 +80,9 @@ const Results = ({ results, handleChange, typedInput, cookies, onCategoryChange 
         style={{ backgroundColor: selectedFilters.includes(c) ? TAG_COLOR_LOOKUP[c] : '' }}
         className={`text-white select-none bg-gray-200/50 p-2 m-1 rounded-lg text-sm cursor-pointer`}
         onClick={() => {
-          if (selectedFilters.includes(c)) {
-            setFilters(selectedFilters.filter(s => !(s === c)));
-            gaFilteringTracker('unset', c);
-          } else {
-            setFilters([...selectedFilters, c]);
-            gaFilteringTracker('set', c);
-            onCategoryChange(c);
-          }
+          gaFilteringTracker('set', c);
+          setFilters([c]);
+          onCategoryChange(c);
         }}
       >
         <img className='inline w-4 h-4 mr-2' src={`/images/icons/${CATEGORY_ICON_LOOKUP[c]}`} alt={c}/>

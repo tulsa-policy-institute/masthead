@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import Results from './Results';
 import useAnalyticsEventTracker from '../utils/eventTracking';
+import { CATEGORY_ICON_LOOKUP } from './Results';
 // import PLAY_IMAGE from '../images/play.png';
 
 const CATEGORY_COLOR_LOOKUP = {
@@ -11,12 +12,12 @@ const CATEGORY_COLOR_LOOKUP = {
   'public services': 'tpi-pink',
 }
 
-const TypeaheadSearch = ({ setTypedInput, className, typedInput = '' }) => {
+const TypeaheadSearch = ({ setTypedInput, className, typedInput = '', children }) => {
   return <div className={className}>
     <input
       type="text"
       autoFocus={true}
-      value={typedInput}
+      value={typedInput || ''}
       className="
         form-control
         block
@@ -33,6 +34,7 @@ const TypeaheadSearch = ({ setTypedInput, className, typedInput = '' }) => {
         ease-in-out
         m-0
         focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
+        pl-10
       "
       id="search-question"
       placeholder='Ask a question...'
@@ -43,13 +45,14 @@ const TypeaheadSearch = ({ setTypedInput, className, typedInput = '' }) => {
       }}
       onChange={(e) => setTypedInput(e.target.value)}
     />
+    {children}
   </div>;
 }
 
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
   const [, setTypedInput] = useState();
-  const [lastSelectedCategory, updateSelectedCategory] = useState('tpi-blue');
+  const [lastSelectedCategory, updateSelectedCategory] = useState();
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
   const typedInput = searchParams.get('q');
@@ -76,7 +79,14 @@ function Search({ questions, lectures }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredLectures]);
 
-  return <div className={`transition-all duration-300 bg-gradient-to-b from-${lastSelectedCategory} grid gap-8 h-full`}>
+  return <div className={`
+    transition-all
+    duration-300
+    bg-gradient-to-b
+    from-${CATEGORY_COLOR_LOOKUP[lastSelectedCategory] || 'tpi-blue'}
+    grid
+    gap-8
+    h-full`}>
     <div
       style={{ backgroundImage: 'url("/images/landing-mobile_opt.png")', backgroundSize: 'cover' }}
       className={`absolute w-full h-full transition-all duration-300 pointer-events-none ${typedInput ? 'opacity-0' : ''}`}
@@ -88,20 +98,27 @@ function Search({ questions, lectures }) {
     </div>
     <div className={`${typedInput ? '' : 'place-self-center'} flex flex-col container mx-auto p-4 sm:p-8`}>
       <TypeaheadSearch
-        className='w-full sm:w-3/5 place-self-center'
+        className='w-full sm:w-3/5 place-self-center relative'
         typedInput={typedInput}
         setTypedInput={(...args) => {
           gaEventTracker('type', args[0]);
           setTypedInput(...args);
           setSearchParams({ q: args[0] })
         } }
-      />
+      >
+        {lastSelectedCategory && <div className={`absolute rounded mt-1 ml-3 top-0 bg-${CATEGORY_COLOR_LOOKUP[lastSelectedCategory]}`}>
+          <img
+            className='inline w-4 h-4 m-1'
+            src={`/images/icons/${CATEGORY_ICON_LOOKUP[lastSelectedCategory]}`} alt={lastSelectedCategory}
+          />
+        </div>}
+      </TypeaheadSearch>
       {typedInput ? <Results
         results={questions}
         typedInput={typedInput}
         setSelectedQuestion={setSelectedQuestion}
         handleChange={handleChange}
-        onCategoryChange={(category) => updateSelectedCategory(CATEGORY_COLOR_LOOKUP[category])}
+        onCategoryChange={(category) => updateSelectedCategory(category)}
       /> : <></>}
     </div>
   </div>;
