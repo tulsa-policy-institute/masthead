@@ -69,8 +69,8 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
     <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
       {tags.map((c, i) => <div
         key={i}
-        style={{ backgroundColor: TAG_COLOR_LOOKUP[c] }}
-        className={`text-white select-none bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c) ? 'bg-purple-200' : ''}`}
+        style={{ backgroundColor: selectedFilters.includes(c) ? TAG_COLOR_LOOKUP[c] : '' }}
+        className={`text-white select-none bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer`}
         onClick={() => {
           if (selectedFilters.includes(c)) {
             setFilters(selectedFilters.filter(s => !(s === c)));
