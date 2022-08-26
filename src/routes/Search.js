@@ -66,7 +66,7 @@ function Search({ questions, lectures }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredLectures]);
 
-  return <div className='grid gap-8 h-full'>
+  return <div className='bg-gradient-to-b from-tpi-blue grid gap-8 h-full'>
     <div
       style={{ backgroundImage: 'url("/images/landing-mobile_opt.png")', backgroundSize: 'cover' }}
       className={`absolute w-full h-full transition-all duration-300 pointer-events-none ${typedInput ? 'opacity-0' : ''}`}

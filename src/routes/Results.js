@@ -70,7 +70,7 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
       {tags.map((c, i) => <div
         key={i}
         style={{ backgroundColor: selectedFilters.includes(c) ? TAG_COLOR_LOOKUP[c] : '' }}
-        className={`text-white select-none bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer`}
+        className={`text-white select-none bg-gray-200/50 p-2 m-1 rounded-lg text-sm cursor-pointer`}
         onClick={() => {
           if (selectedFilters.includes(c)) {
             setFilters(selectedFilters.filter(s => !(s === c)));
@@ -84,7 +84,7 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
         {c}
       </div>)}
     </div>
-    <div className='shadow-lg mt-4 rounded-2xl'>
+    <div className='shadow-lg mt-4 rounded-2xl bg-[#FBFBFB]'>
       <div className='border-b-gray-200 border-b'>
         <h6 className='text-sm text-gray-400 m-1 p-3 select-none'>
           {typedInput ? (hasResults ? 'Results' : 'No results') : 'Suggested Searches'}

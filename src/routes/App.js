@@ -70,12 +70,12 @@ function App({ cookies }) {
 
   return (
     <CookiesProvider>
-      <header className="p-4 max-w-full shadow-lg shadow-gray-200 header-clip bg-[#FBFBFB]">
+      <header className="p-4 max-w-full shadow-lg shadow-gray-200 bg-[#FBFBFB]">
         <div className='container mx-auto'>
           <Link to='/' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
         </div>
       </header>
-      <main className="max-w-full bg-[#FBFBFB] h-full">
+      <main className="max-w-full h-full">
         <Routes>
           <Route path="/" element={
             <Search questions={questions} lectures={lectures}/>
