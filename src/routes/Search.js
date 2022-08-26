@@ -8,6 +8,7 @@ const TypeaheadSearch = ({ setTypedInput, className }) => {
   return <div className={className}>
     <input
       type="text"
+      autoFocus={true}
       className="
         form-control
         block
