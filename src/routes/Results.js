@@ -6,6 +6,13 @@ import { withCookies } from 'react-cookie';
 import Result from './Result';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 
+const TAG_COLOR_LOOKUP = {
+  'city government & the policy process': '#00AAAD',
+  'revenue & spending': '#FF8BE6',
+  'policies & regulations': '#FF5C00',
+  'public services': '#9747FF',
+};
+
 function randomize(list) {
   return list.sort( () => Math.random() - 0.5)
 }
@@ -62,7 +69,8 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
     <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
       {tags.map((c, i) => <div
         key={i}
-        className={`select-none bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c) ? 'bg-purple-200' : ''}`}
+        style={{ backgroundColor: TAG_COLOR_LOOKUP[c] }}
+        className={`text-white select-none bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c) ? 'bg-purple-200' : ''}`}
         onClick={() => {
           if (selectedFilters.includes(c)) {
             setFilters(selectedFilters.filter(s => !(s === c)));

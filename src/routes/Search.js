@@ -69,14 +69,14 @@ function Search({ questions, lectures }) {
   return <div className='grid gap-8 h-full'>
     <div
       style={{ backgroundImage: 'url("/images/landing-mobile_opt.png")', backgroundSize: 'cover' }}
-      className={`absolute w-full h-full transition-all pointer-events-none ${typedInput ? 'opacity-0' : ''}`}
+      className={`absolute w-full h-full transition-all duration-300 pointer-events-none ${typedInput ? 'opacity-0' : ''}`}
     >
       <video className='h-full w-full hidden sm:block' autoPlay loop muted playsInline>
         <source src="/videos/tpi_marquee.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
     </div>
-    <div className='flex flex-col place-self-center container mx-auto p-4 sm:p-8'>
+    <div className={`${typedInput ? '' : 'place-self-center'} flex flex-col container mx-auto p-4 sm:p-8`}>
       <TypeaheadSearch
         className='w-full sm:w-3/5 place-self-center'
         setTypedInput={(...args) => { gaEventTracker('type', args[0]); setTypedInput(...args) } }
