@@ -66,8 +66,8 @@ function Search({ questions, lectures }) {
   }, [filteredLectures]);
 
   return <div className='grid gap-8 h-full'>
-    <div className={`absolute w-max h-max transition-all ${typedInput ? 'opacity-0' : ''}`}>
-      <video width="100%" height="100%" autoPlay loop muted>
+    <div className={`absolute w-max h-max transition-all pointer-events-none ${typedInput ? 'opacity-0' : ''}`}>
+      <video className='h-full w-full' autoPlay loop muted>
         <source src="/videos/tpi_questions_marquee.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
