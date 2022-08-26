@@ -65,18 +65,24 @@ function Search({ questions, lectures }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredLectures]);
 
-  return <div className='grid gap-8'>
-    <div className='flex flex-col'>
+  return <div className='grid gap-8 h-full'>
+    <div className={`absolute w-max h-max transition-all ${typedInput ? 'opacity-0' : ''}`}>
+      <video width="100%" height="100%" autoPlay loop muted>
+        <source src="/videos/tpi_questions_marquee.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div className='flex flex-col place-self-center container mx-auto p-4 sm:p-8'>
       <TypeaheadSearch
         className='w-full sm:w-3/5 place-self-center'
         setTypedInput={(...args) => { gaEventTracker('type', args[0]); setTypedInput(...args) } }
       />
-      <Results
+      {typedInput ? <Results
         results={questions}
         typedInput={typedInput}
         setSelectedQuestion={setSelectedQuestion}
         handleChange={handleChange}
-      />
+      /> : <></>}
     </div>
   </div>;
 }
