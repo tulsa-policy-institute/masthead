@@ -68,7 +68,7 @@ function Search({ questions, lectures }) {
 
   return <div className='grid gap-8 h-full'>
     <div
-      style={{ backgroundImage: 'url("/images/marquee.png")',   backgroundSize: 'cover' }}
+      style={{ backgroundImage: 'url("/images/landing-mobile_opt.png")', backgroundSize: 'cover' }}
       className={`absolute w-full h-full transition-all pointer-events-none ${typedInput ? 'opacity-0' : ''}`}
     >
       <video className='h-full w-full hidden sm:block' autoPlay loop muted playsInline>
