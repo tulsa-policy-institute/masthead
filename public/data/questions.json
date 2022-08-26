@@ -406,7 +406,7 @@
     "Sources": [
       "recpPbQeeDgWdhDYK"
     ],
-    "Title": "What public hears must City Council hold upon receipt of budgets from the Mayor?",
+    "Title": "What public hearings must City Council hold upon receipt of budgets from the Mayor?",
     "Contributor": "Samuel"
   },
   {
@@ -510,7 +510,7 @@
       "recov7WSAYmy4L4Qr"
     ],
     "Public": true,
-    "Answers": "By convincing the property owners impacted by the zoning change to file a protest against the zoning change, Tulsans can raise the bar for the number of votes required for the zoning ordinance to go into effect - instead requiring the City Council to have three-fourths (3/4) of the entire membership of the Council to enact the zoning change. Such protests must meet two requirement. First, protests must be filed at least three (3) days prior to the hearing of the zoning change by City Council. Second, protests must be supported by either (a) owners of at least 20% of the area of the lots included in the proposed change or (b) owners of at least 50% of the area of the lots within a 300 foot radius of the exterior boundary of the territory included in the proposed change.\n",
+    "Answers": "By convincing the property owners impacted by the zoning change to file a protest against the zoning change, Tulsans can raise the bar for the number of votes required for the zoning ordinance to go into effect - instead requiring the City Council to have three-fourths (3/4) of the entire membership of the Council to enact the zoning change. Such protests must meet two requirements. First, protests must be filed at least three (3) days prior to the hearing of the zoning change by City Council. Second, protests must be supported by either (a) owners of at least 20% of the area of the lots included in the proposed change or (b) owners of at least 50% of the area of the lots within a 300 foot radius of the exterior boundary of the territory included in the proposed change.\n",
     "Sources": [
       "recmP8tQuyN5MtU1k"
     ],
@@ -1712,6 +1712,366 @@
     "Contributor": "Samuel"
   },
   {
+    "id": "recUOJwJNzbczRXpT",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "recbMhrS5udASHOL1",
+      "recxdOAhjRYEtGBIR",
+      "rec6lrWmFyJj2MfoK",
+      "recm6eIXpywCU4s9O",
+      "recgmxBwToQ2fMxpY",
+      "recgJkC22XaeUveje"
+    ],
+    "Public": true,
+    "Answers": "Barring the City Clerk, and the City Attorney, no. \"The Council and Councilors shall not give orders to any subordinate of the Mayor, either publicly or privately; provided, the prohibitions of this sentence shall not apply to the City Clerk and the City Attorney. Violation of this Section by any Councilor shall constitute willful maladministration and be sufficient grounds for removal from office as provided by the laws of Oklahoma\". The answer to this question is sourced from documentation concerning interference with appointments or removals.\n",
+    "Sources": [
+      "recrlApGSQpymdPlv"
+    ],
+    "Title": "Can City Councilors give orders to the Mayor's subordinates?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recQzBzYvxnoI3suZ",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recX9nNDKs0rtBi3g",
+      "rec6lrWmFyJj2MfoK",
+      "recygMhYSJxEH8g89",
+      "recTL4r0Usb9BCNsJ",
+      "recrC4TQvJ11rDrQT",
+      "reccQujlrl8XzpgUR"
+    ],
+    "Public": true,
+    "Answers": "$1 million. \"Where a claim is asserted against the City of Tulsa seeking to recover $1 million or more, prior to any settlement of such claim occurring, whether the total dollar amount claimed is comprised of a single claim or multiple claims arising out of a single act, accident, or the same transaction or occurrence, the settlement shall be approved by both the Mayor and by a majority vote of the entire membership of the Council\".\n",
+    "Sources": [
+      "recGQbFFz9L2lMD2q"
+    ],
+    "Title": "How much money does a claim have to involve before the Mayor's approval and majority vote of the City Council is required?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recRlMXr3TV1Beksw",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor\".\n",
+    "Sources": [
+      "recGQlsRcgRV5WBeJ"
+    ],
+    "Title": "Are all executive powers of the City of Tulsa vested in the Mayor?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recZXSJ48gtJvgOqH",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "Yes. \"The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor\".\n",
+    "Sources": [
+      "recFVcdi2byNdzZ69"
+    ],
+    "Title": "Are all administrative powers of the City of Tulsa vested in the Mayor?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rectTWhDJZd2580bN",
+    "Concepts": [
+      "rec6lrWmFyJj2MfoK",
+      "rec7UduLPBNpWCfHo",
+      "recygMhYSJxEH8g89"
+    ],
+    "Public": true,
+    "Answers": "$105,000.00. \"The Mayor of the City of Tulsa, Oklahoma, shall receive as full compensation for his or her services as Mayor, effective with the term of office commencing April 1, 2002, at 2:00 p.m., an annual salary of One Hundred Five Thousand Dollars ($105,000.00), payable as employees of the City are paid\".\n",
+    "Sources": [
+      "rece2eXCdvV2HvsZN"
+    ],
+    "Title": "What is the salary of Tulsa's Mayor?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recuorLyU9kZV7L79",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g"
+    ],
+    "Public": true,
+    "Answers": "City Council does. \"...the salary to be received by the Mayor may be changed by a majority vote of the entire membership of the Council; provided, no change in salary shall become effective prior to the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term\".\n",
+    "Sources": [
+      "recP03LaJ4ubzuLHZ"
+    ],
+    "Title": "Who determines the salary of Tulsa's Mayor?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recynY04rPrmnQNFl",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR",
+      "recX9nNDKs0rtBi3g",
+      "recqckbuULaQhjRhV"
+    ],
+    "Public": true,
+    "Answers": "The Temporary Mayor. \"The Mayor shall file with the City Clerk, from time to time, a designation of one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor and perform the duties and exercise the powers of the Mayor during the absence or temporary disability of the Mayor or in the event of a vacancy in the office of the Mayor. The designation by the Mayor shall be subject to confirmation by a majority vote of the entire membership of the Council. Should the Mayor fail to file such designation, the Council shall designate one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor\".\n",
+    "Sources": [
+      "rec8mdnIICqmmYfZY"
+    ],
+    "Title": "Who acts in the Mayor's absense?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recH07oybWsE7eMPV",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "The Mayor of Tulsa. \"The Mayor shall be the chief executive and administrative officer of the city...\".\n",
+    "Sources": [
+      "recC6164IsraaBl3E"
+    ],
+    "Title": "Who is the chief executive of the City of Tulsa?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recK9xOfnsH7vmB5o",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "The Mayor of Tulsa. \"The Mayor shall be the chief executive and administrative officer of the city...\".\n",
+    "Sources": [
+      "recODF76gUi4eK4cG"
+    ],
+    "Title": "Who is the administrative officer for the City of Tulsa?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recNRksASdLTkDi8Y",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "The Mayor of Tulsa is to \"identify the needs and establish the objectives and priorities of the city and make recommendations to the Council for meeting the needs and achieving the objectives\".\n",
+    "Sources": [
+      "recEljuRrFsAKzVys"
+    ],
+    "Title": "Who has the authority to establish the City of Tulsa's policy priorities?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rec51pSVOxxEYzQHI",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR",
+      "rec2NdYOcH1a9zvQX",
+      "recLOs35zYYLE35fI",
+      "recfJreUrwUrLyVJL",
+      "recYR0hYFlNEVOnX7",
+      "rec57K3gDdsswz8Qr",
+      "reckq8plKjAmo1oOR"
+    ],
+    "Public": true,
+    "Answers": "The Mayor of Tulsa.\n",
+    "Sources": [
+      "recTvFOFywAe0bI7Q"
+    ],
+    "Title": "Who plans all boards, commissions, authorities, agencies, divisions, and departments of the City of Tulsa?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rec6HZO4BrBbedQRd",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recxdOAhjRYEtGBIR",
+      "rec2NdYOcH1a9zvQX",
+      "recLOs35zYYLE35fI",
+      "recfJreUrwUrLyVJL",
+      "recYR0hYFlNEVOnX7",
+      "rec57K3gDdsswz8Qr",
+      "reckq8plKjAmo1oOR",
+      "recGZ2uhaRVhXOiMS"
+    ],
+    "Public": true,
+    "Answers": "According to the City Charter, it prior to May 1st.\n",
+    "Sources": [
+      "recaGnsE6XbLF9Fnr"
+    ],
+    "Title": "By what date must the Mayor of Tulsa file plans for organizing the city's government for the following year?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rec8UQ0uUqs2KII6H",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recX9nNDKs0rtBi3g",
+      "rec9waV3GVmUG4v9L"
+    ],
+    "Public": true,
+    "Answers": "The Mayor of Tulsa. However, per Article II Section 7.2., City Council can make changes to the budget.\n",
+    "Sources": [
+      "recHGeptKIU9BWSTv"
+    ],
+    "Title": "Who prepares the City of Tulsa's budget?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rec8XeueSO3E5ZOVA",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recX9nNDKs0rtBi3g",
+      "rec9waV3GVmUG4v9L"
+    ],
+    "Public": true,
+    "Answers": "According to the City Charter, it prior to May 1st. In 2022, the Mayor's budget presentation occured on April 20th. However, informal changes to municipal deadlines of any kind are not unusual.\n",
+    "Sources": [
+      "reckl4QyF8LorEFK5"
+    ],
+    "Title": "By what date must the Mayor of Tulsa submit the budget to City Council?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recaXKwMMOfVhGt2t",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recX9nNDKs0rtBi3g",
+      "rec9waV3GVmUG4v9L",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "Yes, the 2017 Public Sales Safety Tax. No revenue derived form this tax may ever be spent for any purpose other than public safety, as defined by Title 43-I.\n",
+    "Sources": [
+      "recgXAwJJyz1WCcr8"
+    ],
+    "Title": "Are there tax-revenue streams in Tulsa that cannot be altered by the Mayor?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recdWq0G0lptcqxhA",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recX9nNDKs0rtBi3g",
+      "rec9waV3GVmUG4v9L",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "Yes, the Mayor of Tulsa is respondible for expending \"...as provided by law the funds of the city in accord with the adopted operating and capital budgets of the city\".\n",
+    "Sources": [
+      "rectyZWJWNz3ZqVVk"
+    ],
+    "Title": "Is the Mayor required to expend the operating and capital budgets of the city?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rechL0MLJ9w6E0vuo",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recX9nNDKs0rtBi3g",
+      "rec9waV3GVmUG4v9L",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "The Mayor. The Mayor is to preserve the peace and enforce ordinances, rules, and regulations.\n",
+    "Sources": [
+      "recWKnMT2wzZ9cNBV"
+    ],
+    "Title": "Who is responsible for preserving the peace in the City of Tulsa?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rechMDG6OW5MTfQ2v",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recX9nNDKs0rtBi3g",
+      "recxdOAhjRYEtGBIR"
+    ],
+    "Public": true,
+    "Answers": "The Mayor. Two exceptions to this are employees of the City Auditor and employees of City Council, who are appointed, supervised, and removed by each, respectively.\n",
+    "Sources": [
+      "reckER0CBC12lmqX7"
+    ],
+    "Title": "Who has the authority to appoint, supervise, and remove all officers and employees of the City of Tulsa?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recko8jYikd4mw1yx",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec6lrWmFyJj2MfoK",
+      "recX9nNDKs0rtBi3g",
+      "recxdOAhjRYEtGBIR",
+      "recLOs35zYYLE35fI",
+      "recKFKtKkpyG5v4lT",
+      "rec2NdYOcH1a9zvQX",
+      "recYR0hYFlNEVOnX7"
+    ],
+    "Public": true,
+    "Answers": "The Mayor appoints the members of all boards, commissions, authorities, and agencies, subject to the confirmation by a majority vote of the entire membership of City Council. All those appointed must be qualified electors and maintain residence within the city limits of the City of Tulsa.\n",
+    "Sources": [
+      "rec0QQyDEckUK0PWw"
+    ],
+    "Title": "How are members of boards, commissions, authorities, and agencies appointed?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "recnIif0ZJsNCel53",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec2NdYOcH1a9zvQX",
+      "recLOs35zYYLE35fI",
+      "recfJreUrwUrLyVJL",
+      "recYR0hYFlNEVOnX7",
+      "rectqNSvUt4brtYS2"
+    ],
+    "Public": true,
+    "Answers": "Yes.\n",
+    "Sources": [
+      "recKs7LsDCg5mEtbS"
+    ],
+    "Title": "Do members of authorities, boards, commissions, and agencies have to live in the city limits of the City of Tulsa?",
+    "Contributor": "Samuel"
+  },
+  {
+    "id": "rec8KDL9gKmho2qUK",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "rec797k3CYC8F5O3f",
+      "rec5EtmXDFLl7QB0k",
+      "rectD3gKNXIFdjHUQ",
+      "recRJBtqeF69Iewhi",
+      "recGkXnNzl0pw1ued"
+    ],
+    "Public": true,
+    "Answers": "Tulsa's 311 Customer Care Center has an online form available [here](https://tulsa311.com/site/wss/redirect/1000261) for citizens to reports cars parked illegally or which appear abandoned. Providing the exact address provides the greatest chance of action being taken. If Tulsa authorities confirm a report, the car will be tagged for towing. \n",
+    "Sources": [
+      "recf9cdQoiDLUN4cX"
+    ],
+    "Title": "How do I report an abandoned or illegally parked car in Tulsa?",
+    "Contributor": "Dan"
+  },
+  {
     "id": "recO99bFUuIOWT8Fc",
     "Lectures": [
       "recW7FzEDgnLxgOXA"
@@ -2156,5 +2516,21 @@
       "recW7FzEDgnLxgOXA"
     ],
     "Title": "How do legislatures conduct oversight over bureaucracies?"
+  },
+  {
+    "id": "recda39WkpMmfBl5P"
+  },
+  {
+    "id": "recal8AuBdMAYtYDX",
+    "Answers": "\n",
+    "Title": "test"
+  },
+  {
+    "id": "rec16kAiXqVGCQLxX",
+    "Answers": "\n"
+  },
+  {
+    "id": "recry97y6F66GyYyJ",
+    "Answers": "\n"
   }
 ]
