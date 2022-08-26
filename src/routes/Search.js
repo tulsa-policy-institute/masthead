@@ -4,8 +4,8 @@ import Results from './Results';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 // import PLAY_IMAGE from '../images/play.png';
 
-const TypeaheadSearch = ({ setTypedInput }) => {
-  return <>
+const TypeaheadSearch = ({ setTypedInput, className }) => {
+  return <div className={className}>
     <input
       type="text"
       className="
@@ -34,7 +34,7 @@ const TypeaheadSearch = ({ setTypedInput }) => {
       }}
       onChange={(e) => setTypedInput(e.target.value)}
     />
-  </>;
+  </div>;
 }
 
 function Search({ questions, lectures }) {
@@ -66,8 +66,9 @@ function Search({ questions, lectures }) {
   }, [filteredLectures]);
 
   return <div className='grid gap-8'>
-    <div className=''>
+    <div className='flex flex-col'>
       <TypeaheadSearch
+        className='w-full sm:w-3/5 place-self-center'
         setTypedInput={(...args) => { gaEventTracker('type', args[0]); setTypedInput(...args) } }
       />
       <Results

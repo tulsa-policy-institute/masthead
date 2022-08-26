@@ -59,7 +59,7 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
   const hasResults = displayResults.length;
 
   return <>
-    <div className='flex flex-wrap mt-4 overflow-wrap'>
+    <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
       {tags.map((c, i) => <div
         key={i}
         className={`select-none bg-gray-200 p-2 m-1 rounded-lg text-sm cursor-pointer ${selectedFilters.includes(c) ? 'bg-purple-200' : ''}`}
