@@ -4,6 +4,13 @@ import Results from './Results';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 // import PLAY_IMAGE from '../images/play.png';
 
+const CATEGORY_COLOR_LOOKUP = {
+  'city government & the policy process': 'tpi-green',
+  'revenue & spending': 'tpi-purple',
+  'policies & regulations': 'tpi-orange',
+  'public services': 'tpi-pink',
+}
+
 const TypeaheadSearch = ({ setTypedInput, className }) => {
   return <div className={className}>
     <input
@@ -41,6 +48,7 @@ const TypeaheadSearch = ({ setTypedInput, className }) => {
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
   const [typedInput, setTypedInput] = useState();
+  const [lastSelectedCategory, updateSelectedCategory] = useState('tpi-blue');
   const navigate = useNavigate();
 
   const gaEventTracker = useAnalyticsEventTracker('Search');
@@ -66,7 +74,7 @@ function Search({ questions, lectures }) {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredLectures]);
 
-  return <div className='bg-gradient-to-b from-tpi-blue grid gap-8 h-full'>
+  return <div className={`transition-all duration-300 bg-gradient-to-b from-${lastSelectedCategory} grid gap-8 h-full`}>
     <div
       style={{ backgroundImage: 'url("/images/landing-mobile_opt.png")', backgroundSize: 'cover' }}
       className={`absolute w-full h-full transition-all duration-300 pointer-events-none ${typedInput ? 'opacity-0' : ''}`}
@@ -86,6 +94,7 @@ function Search({ questions, lectures }) {
         typedInput={typedInput}
         setSelectedQuestion={setSelectedQuestion}
         handleChange={handleChange}
+        onCategoryChange={(category) => updateSelectedCategory(CATEGORY_COLOR_LOOKUP[category])}
       /> : <></>}
     </div>
   </div>;

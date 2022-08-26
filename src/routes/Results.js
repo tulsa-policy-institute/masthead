@@ -6,7 +6,7 @@ import { withCookies } from 'react-cookie';
 import Result from './Result';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 
-const TAG_COLOR_LOOKUP = {
+export const TAG_COLOR_LOOKUP = {
   'city government & the policy process': '#00AAAD',
   'revenue & spending': '#FF8BE6',
   'policies & regulations': '#FF5C00',
@@ -19,7 +19,7 @@ function randomize(list) {
 
 const suggestedSearchCount = isMobile ? 3 : 8;
 
-const Results = ({ results, handleChange, typedInput, cookies }) => {
+const Results = ({ results, handleChange, typedInput, cookies, onCategoryChange }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
   const [selectedFilters, setFilters] = useState([]);
@@ -78,6 +78,7 @@ const Results = ({ results, handleChange, typedInput, cookies }) => {
           } else {
             setFilters([...selectedFilters, c]);
             gaFilteringTracker('set', c);
+            onCategoryChange(c);
           }
         }}
       >
