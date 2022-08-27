@@ -14,10 +14,10 @@ const TAG_COLOR_LOOKUP = {
 };
 
 export const CATEGORY_ICON_LOOKUP = {
-  'city government & the policy process': 'icon_lg_revenue-spending.png',
-  'revenue & spending': 'icon_lg_publ-services.png',
+  'city government & the policy process': 'icon_lg_citygov-policy.png',
+  'revenue & spending': 'icon_lg_revenue-spending.png',
   'policies & regulations': 'icon_lg_policies-regs.png',
-  'public services': 'icon_lg_citygov-policy.png',
+  'public services':  'icon_lg_publ-services.png',
 }
 
 function randomize(list) {
