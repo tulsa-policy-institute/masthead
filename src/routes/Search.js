@@ -58,10 +58,6 @@ function Search({ questions, lectures }) {
   const navigate = useNavigate();
   const typedInput = searchParams.get('q');
   const gaEventTracker = useAnalyticsEventTracker('Search');
-  
-  const handleChange = (selected) => {
-    setSelectedQuestion(selected);
-  }
 
   const filteredLectures = lectures.filter(lecture => {
     if (selectedQuestion) {
@@ -118,7 +114,6 @@ function Search({ questions, lectures }) {
         results={questions}
         typedInput={typedInput}
         setSelectedQuestion={setSelectedQuestion}
-        handleChange={handleChange}
         onCategoryChange={(category) => {
           updateSelectedCategory(category);
         }}

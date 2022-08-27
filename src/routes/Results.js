@@ -26,7 +26,7 @@ function randomize(list) {
 
 const suggestedSearchCount = isMobile ? 3 : 8;
 
-const Results = ({ results, handleChange, typedInput, cookies, onCategoryChange }) => {
+const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
   const [selectedFilters, setFilters] = useState([]);
