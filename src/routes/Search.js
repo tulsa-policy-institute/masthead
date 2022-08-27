@@ -3,6 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import Results from './Results';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 import { CATEGORY_ICON_LOOKUP } from './Results';
+import { withCookies } from 'react-cookie';
 // import PLAY_IMAGE from '../images/play.png';
 
 const CATEGORY_COLOR_LOOKUP = {
@@ -12,11 +13,11 @@ const CATEGORY_COLOR_LOOKUP = {
   'public services': 'tpi-pink',
 }
 
-const TypeaheadSearch = ({ setTypedInput, className, typedInput = '', children }) => {
+const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = '', children, cookies }) => {
   return <div className={className}>
     <input
       type="text"
-      autoFocus={true}
+      autoFocus={cookies.get('email') ? true : false}
       value={typedInput || ''}
       className="
         form-control
@@ -47,7 +48,7 @@ const TypeaheadSearch = ({ setTypedInput, className, typedInput = '', children }
     />
     {children}
   </div>;
-}
+})
 
 function Search({ questions, lectures }) {
   const [selectedQuestion, setSelectedQuestion] = useState();
