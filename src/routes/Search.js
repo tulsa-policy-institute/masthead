@@ -119,7 +119,9 @@ function Search({ questions, lectures }) {
         typedInput={typedInput}
         setSelectedQuestion={setSelectedQuestion}
         handleChange={handleChange}
-        onCategoryChange={(category) => updateSelectedCategory(category)}
+        onCategoryChange={(category) => {
+          updateSelectedCategory(category);
+        }}
       /> : <></>}
     </div>
   </div>;

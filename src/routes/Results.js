@@ -80,9 +80,15 @@ const Results = ({ results, handleChange, typedInput, cookies, onCategoryChange 
         style={{ backgroundColor: selectedFilters.includes(c) ? TAG_COLOR_LOOKUP[c] : '' }}
         className={`text-white select-none bg-gray-200/50 p-2 m-1 rounded-lg text-sm cursor-pointer`}
         onClick={() => {
-          gaFilteringTracker('set', c);
-          setFilters([c]);
-          onCategoryChange(c);
+          if(selectedFilters.includes(c)) {
+            gaFilteringTracker('unset', c);
+            setFilters([]);
+            onCategoryChange('');
+          } else {
+            gaFilteringTracker('set', c);
+            setFilters([c]);
+            onCategoryChange(c);
+          }
         }}
       >
         <img className='inline w-4 h-4 mr-2' src={`/images/icons/${CATEGORY_ICON_LOOKUP[c]}`} alt={c}/>
