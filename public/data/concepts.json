@@ -607,6 +607,10 @@
     "Name": "Franchise Tax",
     "Lectures": [
       "recfA9aPh3r5nzrrD"
+    ],
+    "Questions": [
+      "recAEKSQ88TBxLYPI",
+      "recFkQ2lYwBO2Qkhx"
     ]
   },
   {
@@ -616,7 +620,10 @@
       "recfA9aPh3r5nzrrD"
     ],
     "Questions": [
-      "recZs9CHqvBvKgwrm"
+      "recZs9CHqvBvKgwrm",
+      "recWV07zghrnSDPpm",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB"
     ]
   },
   {
@@ -631,6 +638,10 @@
     "Name": "Use Tax",
     "Lectures": [
       "recfA9aPh3r5nzrrD"
+    ],
+    "Questions": [
+      "recAEKSQ88TBxLYPI",
+      "recDTCprgTaM1imd6"
     ]
   },
   {
@@ -649,9 +660,17 @@
   },
   {
     "id": "rec5KZdLje0u9mbEn",
-    "Name": "Operating Budget",
+    "Name": "operating budget",
     "Lectures": [
       "recfA9aPh3r5nzrrD"
+    ],
+    "Questions": [
+      "rechBQutZZg9QmUND",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe"
     ]
   },
   {
@@ -659,6 +678,15 @@
     "Name": "Capital Budget",
     "Lectures": [
       "recfA9aPh3r5nzrrD"
+    ],
+    "Questions": [
+      "recV6UoGoFOWObyZI",
+      "recVJCg5wacJcdLWf",
+      "recWV07zghrnSDPpm",
+      "recWIpxaGK2kDJf97",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW"
     ]
   },
   {
@@ -725,7 +753,8 @@
     ],
     "Questions": [
       "rec9DiQE6bgvPShgC",
-      "recZs9CHqvBvKgwrm"
+      "recZs9CHqvBvKgwrm",
+      "recWV07zghrnSDPpm"
     ]
   },
   {
@@ -901,6 +930,9 @@
     "Name": "Tulsa County",
     "Lectures": [
       "rec9f3w6LtxksL89f"
+    ],
+    "Questions": [
+      "recO4k4yCl1Ac5X9M"
     ]
   },
   {
@@ -1140,6 +1172,9 @@
     "Lectures": [
       "recsmwioc0RfJII4Q",
       "recwjhFBiLJHy7YVk"
+    ],
+    "Questions": [
+      "recu99NhUY4x8xXpA"
     ]
   },
   {
@@ -1200,9 +1235,20 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "taxes"
+    ],
     "Questions": [
       "rec9DiQE6bgvPShgC",
-      "recZs9CHqvBvKgwrm"
+      "recZs9CHqvBvKgwrm",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd"
     ]
   },
   {
@@ -1210,6 +1256,9 @@
     "Name": "income tax",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "taxes"
     ],
     "Questions": [
       "rec9DiQE6bgvPShgC"
@@ -1221,9 +1270,13 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "fines & fees"
+    ],
     "Questions": [
       "recUs51nsxk0gsqTN",
-      "reckS1G1iXA8aa7QN"
+      "reckS1G1iXA8aa7QN",
+      "recACPg1z2tHA5mX1"
     ]
   },
   {
@@ -1231,6 +1284,9 @@
     "Name": "licensing fees",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "fines & fees"
     ],
     "Questions": [
       "recUs51nsxk0gsqTN",
@@ -1244,6 +1300,9 @@
       "policies & regulations",
       "city government & the policy process"
     ],
+    "MegaName": [
+      "regulations"
+    ],
     "Questions": [
       "reckS1G1iXA8aa7QN",
       "recYLfzqYlK5TjRVy"
@@ -1255,6 +1314,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "taxes"
+    ],
     "Questions": [
       "recl88C1qi94azDuA"
     ]
@@ -1265,8 +1327,26 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "debt"
+    ],
     "Questions": [
-      "recW8BI6yobVdgGbs"
+      "recW8BI6yobVdgGbs",
+      "recWNTMiXDEsQEsyN",
+      "recvilaePrzCVMmK5",
+      "recvvmNNOQJEevlCw",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recFbQt2VYKYSw9zQ",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
     ]
   },
   {
@@ -1274,6 +1354,9 @@
     "Name": "spending",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "spending"
     ],
     "Questions": [
       "recW8BI6yobVdgGbs",
@@ -1287,7 +1370,23 @@
       "recnfegL8rt7wX3Vk",
       "recmmomqhk0MJTDG4",
       "recQzBzYvxnoI3suZ",
-      "rectTWhDJZd2580bN"
+      "rectTWhDJZd2580bN",
+      "recry97y6F66GyYyJ",
+      "rechBQutZZg9QmUND",
+      "reczwTftMoGyQ3UOg",
+      "recQCE3RbasULoeV1",
+      "recQHg1Mu9x0oXQG2",
+      "recS9S4T6LZDwrflb",
+      "recu99NhUY4x8xXpA",
+      "recGtebHqHpJpCtNX",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn",
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "rec4TkBXyyRkv413m",
+      "rec6ZRpr4fjmwghzC",
+      "rec8DfOnx8RTRaC5Y"
     ]
   },
   {
@@ -1295,6 +1394,9 @@
     "Name": "policy enforcement",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "implementation"
     ],
     "Questions": [
       "recBgWfp1vnLa23DG",
@@ -1309,6 +1411,9 @@
     "Name": "governance",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "governance"
     ],
     "Questions": [
       "recnsxGmyRburNO4N",
@@ -1373,6 +1478,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "governance"
+    ],
     "Questions": [
       "recnsxGmyRburNO4N",
       "rec8wvWFld0yEJnNU"
@@ -1383,6 +1491,9 @@
     "Name": "collaboration",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "governance"
     ],
     "Questions": [
       "recnsxGmyRburNO4N",
@@ -1395,6 +1506,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "governance"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1404,6 +1518,9 @@
     "Name": "State of Oklahoma",
     "Tags": [
       "policies & regulations"
+    ],
+    "MegaName": [
+      "state of oklahoma"
     ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
@@ -1415,6 +1532,9 @@
     "Tags": [
       "policies & regulations"
     ],
+    "MegaName": [
+      "federal government"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1424,6 +1544,9 @@
     "Name": "Private corporations",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "non-governmental organizations"
     ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
@@ -1435,6 +1558,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "non-governmental organizations"
+    ],
     "Questions": [
       "rec8wvWFld0yEJnNU"
     ]
@@ -1444,6 +1570,9 @@
     "Name": "waterports",
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "water"
     ],
     "Questions": [
       "recEBvpqZlB2vO3Aj"
@@ -1455,6 +1584,9 @@
     "Tags": [
       "public services"
     ],
+    "MegaName": [
+      "airports"
+    ],
     "Questions": [
       "reciZl4VQxFZ5Pw3T"
     ]
@@ -1465,6 +1597,9 @@
     "Tags": [
       "public services"
     ],
+    "MegaName": [
+      "airports"
+    ],
     "Questions": [
       "reciZl4VQxFZ5Pw3T"
     ]
@@ -1473,7 +1608,11 @@
     "id": "recSJYjYkV67eZeIy",
     "Name": "land use",
     "Tags": [
-      "public services"
+      "public services",
+      "city government & the policy process"
+    ],
+    "MegaName": [
+      "zoning & land use"
     ],
     "Questions": [
       "recYLfzqYlK5TjRVy"
@@ -1485,6 +1624,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "reporting"
+    ],
     "Questions": [
       "recDkJkgHxnqz33EP"
     ]
@@ -1494,6 +1636,10 @@
     "Name": "city council",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "city council",
+      "governance"
     ],
     "Questions": [
       "rec72PZRelFTGbiNs",
@@ -1573,7 +1719,9 @@
       "rec8UQ0uUqs2KII6H",
       "recaXKwMMOfVhGt2t",
       "rechMDG6OW5MTfQ2v",
-      "recko8jYikd4mw1yx"
+      "recko8jYikd4mw1yx",
+      "recdQZ2HMfoofaLNJ",
+      "recdq7r4b4bnBfxin"
     ]
   },
   {
@@ -1583,6 +1731,10 @@
       "policies & regulations",
       "city government & the policy process"
     ],
+    "MegaName": [
+      "city council",
+      "governance"
+    ],
     "Questions": [
       "rec72PZRelFTGbiNs"
     ]
@@ -1590,6 +1742,12 @@
   {
     "id": "recdoCgCxV6RbWD0L",
     "Name": "tulsa",
+    "Tags": [
+      "places & events"
+    ],
+    "MegaName": [
+      "tulsa"
+    ],
     "Questions": [
       "rec4cV0uZuW1I6tWF",
       "recWcMxNuRrmjrQcC",
@@ -1690,7 +1848,129 @@
       "rechMDG6OW5MTfQ2v",
       "recko8jYikd4mw1yx",
       "recnIif0ZJsNCel53",
-      "rec8KDL9gKmho2qUK"
+      "rec8KDL9gKmho2qUK",
+      "recry97y6F66GyYyJ",
+      "rechBQutZZg9QmUND",
+      "reczwTftMoGyQ3UOg",
+      "reco76c0cOfZhPyXW",
+      "recQCE3RbasULoeV1",
+      "recQD3cHdUkpehOss",
+      "recQGAWDHJ84TLDnX",
+      "recQHg1Mu9x0oXQG2",
+      "recS9S4T6LZDwrflb",
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recTN3jIPGHHUy6vD",
+      "recVlyZP4UomxvFmt",
+      "recVlFagseDPRQszI",
+      "recV6UoGoFOWObyZI",
+      "recVJCg5wacJcdLWf",
+      "recWV07zghrnSDPpm",
+      "recWIpxaGK2kDJf97",
+      "recWNTMiXDEsQEsyN",
+      "recXldlsxXNBIKKuI",
+      "recXnlUaGH7YhKojJ",
+      "recYmDVvMvNkbClqk",
+      "recYuen2cG2sfIlyI",
+      "recZTxd0N54AI3X5r",
+      "recZtO4EYdOHfqnJj",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe",
+      "recufBtzaEFzv4ftK",
+      "recu99NhUY4x8xXpA",
+      "recud2YLagZ1EZzC1",
+      "recvilaePrzCVMmK5",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recxLZvEPiZjg20zG",
+      "recy4rZrUhHQdcIL5",
+      "reczkzp9ZGODuisBh",
+      "recA2UfWNMZBSBsiG",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd",
+      "recGcNHgB3IHCgMKb",
+      "recGtebHqHpJpCtNX",
+      "recGxgZPrIGnbfVpN",
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn",
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "recKJ4S0STBIsuvQe",
+      "recL2x9cGL37B7U64",
+      "recL8Z00hfsaXFeWj",
+      "recMMX0nRONZLVn4g",
+      "recO4k4yCl1Ac5X9M",
+      "recOBqTr0OrNwdhmy",
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0",
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ",
+      "rec4TkBXyyRkv413m",
+      "rec5iD61dCE5Kunci",
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn",
+      "rec6ZRpr4fjmwghzC",
+      "rec76WwN5DkLrKYTn",
+      "rec8CCx8AutDf7Qmr",
+      "rec8DfOnx8RTRaC5Y",
+      "rec9TsEtLa35xLFjt",
+      "rec9vdoSWIkpmNyqQ",
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G",
+      "recceKMCT94saVYJL",
+      "recdfXbSjevbdK5WI",
+      "recdPsToTKmkuuOTr",
+      "recdQZ2HMfoofaLNJ",
+      "recdq7r4b4bnBfxin",
+      "recfTA0zRomm1jZVn",
+      "recfUJbm3jkzcBHHE",
+      "recgc4rrZuimM9DPz",
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx",
+      "reciGeZ8fhDlIdZKr",
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v",
+      "reckiIh36zRZ9SZMW",
+      "reckFxi9PRVkXc2bE",
+      "recli69VgyVeee4v3",
+      "reclWdJBU2jotf6WA",
+      "recl74UGhV1dcw0Wz",
+      "reclxsJ5NYEQfrPqf",
+      "recmhBkz9YTKuIHhX",
+      "recmOG09FMJ8dtjEr",
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka",
+      "recpmTFZFCzABjxAN"
     ]
   },
   {
@@ -1698,6 +1978,9 @@
     "Name": "salaries",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "administration"
     ],
     "Questions": [
       "rec4cV0uZuW1I6tWF",
@@ -1709,6 +1992,10 @@
     "Name": "meetings",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "governance",
+      "meetings"
     ],
     "Questions": [
       "recwPqzzGCjWLKXoP",
@@ -1734,6 +2021,11 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "governance",
+      "meetings",
+      "authority"
+    ],
     "Questions": [
       "recQ4Z9ieO76kxkMi"
     ]
@@ -1743,6 +2035,9 @@
     "Name": "mayor",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "mayor"
     ],
     "Questions": [
       "recKUtQmqzyICt2px",
@@ -1772,7 +2067,13 @@
       "rec8UQ0uUqs2KII6H",
       "recaXKwMMOfVhGt2t",
       "rechMDG6OW5MTfQ2v",
-      "recko8jYikd4mw1yx"
+      "recko8jYikd4mw1yx",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G"
     ]
   },
   {
@@ -1780,6 +2081,11 @@
     "Name": "mayor-council relations",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "mayor",
+      "city council",
+      "governance"
     ],
     "Questions": [
       "recKUtQmqzyICt2px",
@@ -1794,6 +2100,11 @@
     "Name": "civil emergency",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "mayor",
+      "city council",
+      "governance"
     ],
     "Questions": [
       "recKUtQmqzyICt2px",
@@ -1813,6 +2124,9 @@
     "Tags": [
       "policies & regulations"
     ],
+    "MegaName": [
+      "state of oklahoma"
+    ],
     "Questions": [
       "recIFNsGqXbgngSEq",
       "recQWNTioQTAzS9WA"
@@ -1823,6 +2137,9 @@
     "Name": "state of oklahoma",
     "Tags": [
       "policies & regulations"
+    ],
+    "MegaName": [
+      "state of oklahoma"
     ],
     "Questions": [
       "recQWNTioQTAzS9WA",
@@ -1835,8 +2152,14 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "governance",
+      "administration"
+    ],
     "Questions": [
-      "recI3uF7NibyH8ZRH"
+      "recI3uF7NibyH8ZRH",
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx"
     ]
   },
   {
@@ -1847,6 +2170,9 @@
       "city government & the policy process",
       "policies & regulations"
     ],
+    "MegaName": [
+      "fines & fees"
+    ],
     "Questions": [
       "reccTMBOeNv6A7ojy",
       "rec3gVv0sol719CIg",
@@ -1854,7 +2180,8 @@
       "recOcX2z6GYD1URAT",
       "recbvPA2CBoYJscfG",
       "rec7NZUk3vNDJrDQM",
-      "recWNHr3FIOHpEz9f"
+      "recWNHr3FIOHpEz9f",
+      "recACPg1z2tHA5mX1"
     ]
   },
   {
@@ -1863,6 +2190,10 @@
     "Tags": [
       "city government & the policy process",
       "policies & regulations"
+    ],
+    "MegaName": [
+      "meetings",
+      "authority"
     ],
     "Questions": [
       "reccTMBOeNv6A7ojy",
@@ -1874,6 +2205,9 @@
     "Name": "punishments",
     "Tags": [
       "policies & regulations"
+    ],
+    "MegaName": [
+      "regulations"
     ],
     "Questions": [
       "recbvPA2CBoYJscfG",
@@ -1889,6 +2223,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "city council"
+    ],
     "Questions": [
       "recDI9C1Q4m6rxeUS",
       "rec6AKLn5Mx88NOwM"
@@ -1900,6 +2237,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "city council"
+    ],
     "Questions": [
       "recDI9C1Q4m6rxeUS"
     ]
@@ -1909,6 +2249,10 @@
     "Name": "subpoena",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "authority",
+      "process"
     ],
     "Questions": [
       "rec2k8EIZMHW2OMh6"
@@ -1920,6 +2264,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "authority"
+    ],
     "Questions": [
       "recCESevPNO9OvkIe"
     ]
@@ -1929,6 +2276,9 @@
     "Name": "qualifications",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "authority"
     ],
     "Questions": [
       "recCESevPNO9OvkIe"
@@ -1940,6 +2290,9 @@
     "Tags": [
       "city government & the policy process"
     ],
+    "MegaName": [
+      "voting & citizen engagement"
+    ],
     "Questions": [
       "recDctKj7bLVOerpI"
     ]
@@ -1949,6 +2302,9 @@
     "Name": "zoning",
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "zoning & land use"
     ],
     "Questions": [
       "recDctKj7bLVOerpI"
@@ -1961,6 +2317,9 @@
       "city government & the policy process",
       "policies & regulations"
     ],
+    "MegaName": [
+      "voting & citizen engagement"
+    ],
     "Questions": [
       "recDctKj7bLVOerpI"
     ]
@@ -1972,6 +2331,9 @@
       "policies & regulations",
       "city government & the policy process"
     ],
+    "MegaName": [
+      "voting & citizen engagement"
+    ],
     "Questions": [
       "recDctKj7bLVOerpI"
     ]
@@ -1981,6 +2343,9 @@
     "Name": "public hearings",
     "Tags": [
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "voting & citizen engagement"
     ],
     "Questions": [
       "recDctKj7bLVOerpI",
@@ -1993,6 +2358,9 @@
     "Tags": [
       "revenue & spending",
       "city government & the policy process"
+    ],
+    "MegaName": [
+      "budgeting"
     ],
     "Questions": [
       "recEkG7YSqnpQ9l4I",
@@ -2098,7 +2466,8 @@
       "recXs1flaptEVIw6G",
       "recfjeXv4Ol0a6SKJ",
       "rec1ytzgav73eUXOD",
-      "rec8FmPSfA9S4pcre"
+      "rec8FmPSfA9S4pcre",
+      "reczwTftMoGyQ3UOg"
     ]
   },
   {
@@ -2245,7 +2614,8 @@
       "city government & the policy process"
     ],
     "Questions": [
-      "recfDl46HX4vYLsU2"
+      "recfDl46HX4vYLsU2",
+      "reclxsJ5NYEQfrPqf"
     ]
   },
   {
@@ -2347,7 +2717,8 @@
       "city government & the policy process"
     ],
     "Questions": [
-      "recGKUTEcX6hXBJUv"
+      "recGKUTEcX6hXBJUv",
+      "recwXYrHBefA4mwhW"
     ]
   },
   {
@@ -2404,7 +2775,9 @@
     ],
     "Questions": [
       "reczUZZWw3qeYAUYf",
-      "recUOJwJNzbczRXpT"
+      "recUOJwJNzbczRXpT",
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G"
     ]
   },
   {
@@ -2559,20 +2932,34 @@
   {
     "id": "rec797k3CYC8F5O3f",
     "Name": "311",
+    "Tags": [
+      "public services"
+    ],
     "Questions": [
-      "rec8KDL9gKmho2qUK"
+      "rec8KDL9gKmho2qUK",
+      "recXnlUaGH7YhKojJ"
     ]
   },
   {
     "id": "rec5EtmXDFLl7QB0k",
     "Name": "parking",
+    "Tags": [
+      "public services",
+      "policies & regulations"
+    ],
     "Questions": [
-      "rec8KDL9gKmho2qUK"
+      "rec8KDL9gKmho2qUK",
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY"
     ]
   },
   {
     "id": "rectD3gKNXIFdjHUQ",
     "Name": "violation",
+    "Tags": [
+      "policies & regulations"
+    ],
     "Questions": [
       "rec8KDL9gKmho2qUK"
     ]
@@ -2580,6 +2967,10 @@
   {
     "id": "recRJBtqeF69Iewhi",
     "Name": "report",
+    "Tags": [
+      "policies & regulations",
+      "public services"
+    ],
     "Questions": [
       "rec8KDL9gKmho2qUK"
     ]
@@ -2587,8 +2978,1995 @@
   {
     "id": "recGkXnNzl0pw1ued",
     "Name": "customer care center",
+    "Tags": [
+      "public services"
+    ],
     "Questions": [
-      "rec8KDL9gKmho2qUK"
+      "rec8KDL9gKmho2qUK",
+      "recli69VgyVeee4v3",
+      "reclWdJBU2jotf6WA",
+      "recl74UGhV1dcw0Wz"
+    ]
+  },
+  {
+    "id": "recNlU5Iz5iBopJ9m",
+    "Name": "budget",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recry97y6F66GyYyJ",
+      "rechBQutZZg9QmUND",
+      "reczwTftMoGyQ3UOg",
+      "reco76c0cOfZhPyXW",
+      "recQCE3RbasULoeV1",
+      "recQD3cHdUkpehOss",
+      "recQGAWDHJ84TLDnX",
+      "recQHg1Mu9x0oXQG2",
+      "recS9S4T6LZDwrflb",
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recTN3jIPGHHUy6vD",
+      "recVlyZP4UomxvFmt",
+      "recVlFagseDPRQszI",
+      "recV6UoGoFOWObyZI",
+      "recVJCg5wacJcdLWf",
+      "recWV07zghrnSDPpm",
+      "recWIpxaGK2kDJf97",
+      "recWNTMiXDEsQEsyN",
+      "recXldlsxXNBIKKuI",
+      "recXnlUaGH7YhKojJ",
+      "recYmDVvMvNkbClqk",
+      "recYuen2cG2sfIlyI",
+      "recZTxd0N54AI3X5r",
+      "recZtO4EYdOHfqnJj",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe",
+      "recufBtzaEFzv4ftK",
+      "recu99NhUY4x8xXpA",
+      "recud2YLagZ1EZzC1",
+      "recvilaePrzCVMmK5",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recxLZvEPiZjg20zG",
+      "recy4rZrUhHQdcIL5",
+      "reczkzp9ZGODuisBh",
+      "recA2UfWNMZBSBsiG",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd",
+      "recGcNHgB3IHCgMKb",
+      "recGtebHqHpJpCtNX",
+      "recGxgZPrIGnbfVpN",
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn",
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "recKJ4S0STBIsuvQe",
+      "recL2x9cGL37B7U64",
+      "recL8Z00hfsaXFeWj",
+      "recMMX0nRONZLVn4g",
+      "recO4k4yCl1Ac5X9M",
+      "recOBqTr0OrNwdhmy",
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0",
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ",
+      "rec4TkBXyyRkv413m",
+      "rec5iD61dCE5Kunci",
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn",
+      "rec6ZRpr4fjmwghzC",
+      "rec76WwN5DkLrKYTn",
+      "rec8DfOnx8RTRaC5Y",
+      "rec9TsEtLa35xLFjt",
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G",
+      "recceKMCT94saVYJL",
+      "recdfXbSjevbdK5WI",
+      "recdPsToTKmkuuOTr",
+      "recdQZ2HMfoofaLNJ",
+      "recdq7r4b4bnBfxin",
+      "recfTA0zRomm1jZVn",
+      "recfUJbm3jkzcBHHE",
+      "recgc4rrZuimM9DPz",
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx",
+      "reciGeZ8fhDlIdZKr",
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v",
+      "reckiIh36zRZ9SZMW",
+      "reckFxi9PRVkXc2bE",
+      "recli69VgyVeee4v3",
+      "reclWdJBU2jotf6WA",
+      "recl74UGhV1dcw0Wz",
+      "reclxsJ5NYEQfrPqf",
+      "recmhBkz9YTKuIHhX",
+      "recmOG09FMJ8dtjEr",
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka",
+      "recpmTFZFCzABjxAN"
+    ]
+  },
+  {
+    "id": "recvcH6UgexrbXmq9",
+    "Name": "payroll",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "rechBQutZZg9QmUND",
+      "recQHg1Mu9x0oXQG2"
+    ]
+  },
+  {
+    "id": "recI2ycsxZZO6fcFB",
+    "Name": "improvements",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "reczwTftMoGyQ3UOg",
+      "recWIpxaGK2kDJf97",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW"
+    ]
+  },
+  {
+    "id": "recRkoks26UJNYZaf",
+    "Name": "economy",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "reco76c0cOfZhPyXW"
+    ]
+  },
+  {
+    "id": "recByHjpLaWIKK5Fj",
+    "Name": "inflation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "reco76c0cOfZhPyXW"
+    ]
+  },
+  {
+    "id": "recvYIjo7YASgdmQQ",
+    "Name": "energy",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "reco76c0cOfZhPyXW"
+    ]
+  },
+  {
+    "id": "rec3JBXzS340jufUz",
+    "Name": "aerospace",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "reco76c0cOfZhPyXW"
+    ]
+  },
+  {
+    "id": "recmI8jq7aDVIZwPI",
+    "Name": "recruitment",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recQCE3RbasULoeV1"
+    ]
+  },
+  {
+    "id": "recD4xTSPIJ16uPjz",
+    "Name": "public safety",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recQCE3RbasULoeV1",
+      "recS9S4T6LZDwrflb",
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn",
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "recKJ4S0STBIsuvQe",
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ]
+  },
+  {
+    "id": "recVswcqhjkahPslp",
+    "Name": "law enforcement",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recQCE3RbasULoeV1",
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn"
+    ]
+  },
+  {
+    "id": "rec49m6RsxVRmpzkl",
+    "Name": "revenue",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recQD3cHdUkpehOss",
+      "recud2YLagZ1EZzC1",
+      "recvilaePrzCVMmK5",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41"
+    ]
+  },
+  {
+    "id": "recs5w170YqWhk0EG",
+    "Name": "general fund",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recQD3cHdUkpehOss",
+      "recQHg1Mu9x0oXQG2",
+      "rec6ZRpr4fjmwghzC"
+    ]
+  },
+  {
+    "id": "recZKGlSopefYlgJl",
+    "Name": "reserve",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recQGAWDHJ84TLDnX"
+    ]
+  },
+  {
+    "id": "recSlLVBIMDqqcsOz",
+    "Name": "emergency",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recQGAWDHJ84TLDnX"
+    ]
+  },
+  {
+    "id": "recqrrvxCjfwfD3Gi",
+    "Name": "stabilization",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recQGAWDHJ84TLDnX"
+    ]
+  },
+  {
+    "id": "rechtfnL0L7SQWySq",
+    "Name": "rainy day fund",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recQGAWDHJ84TLDnX"
+    ]
+  },
+  {
+    "id": "rec8AeklhglYBxGE1",
+    "Name": "expenditure",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recQHg1Mu9x0oXQG2"
+    ]
+  },
+  {
+    "id": "recyjD9HkhKp1tczB",
+    "Name": "resource allocation",
+    "Tags": [
+      "revenue & spending",
+      "public services"
+    ],
+    "Questions": [
+      "recS9S4T6LZDwrflb"
+    ]
+  },
+  {
+    "id": "recWdnRM6FA93ACEx",
+    "Name": "water",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recSCHBhioclRnB4e",
+      "recVJCg5wacJcdLWf"
+    ]
+  },
+  {
+    "id": "reccm8jum85mxl4b2",
+    "Name": "rate",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recSCHBhioclRnB4e"
+    ]
+  },
+  {
+    "id": "recXrn5bEAziLS5hi",
+    "Name": "ratepayer",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH"
+    ]
+  },
+  {
+    "id": "recGGzf4fV3y01tu7",
+    "Name": "utility rates",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recVlyZP4UomxvFmt"
+    ]
+  },
+  {
+    "id": "recQ4YQuzC7U20psh",
+    "Name": "infrastructure",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recVJCg5wacJcdLWf"
+    ]
+  },
+  {
+    "id": "recqjX1JeotlsirPA",
+    "Name": "tmua",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "rec6ZRpr4fjmwghzC"
+    ]
+  },
+  {
+    "id": "rec8kOYbGZaSstxXv",
+    "Name": "city services",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recTN3jIPGHHUy6vD",
+      "recVlyZP4UomxvFmt",
+      "recVJCg5wacJcdLWf",
+      "recWIpxaGK2kDJf97"
+    ]
+  },
+  {
+    "id": "recC80WE0BC0GjA20",
+    "Name": "sewer",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recT81648GjzODKjH",
+      "recVJCg5wacJcdLWf"
+    ]
+  },
+  {
+    "id": "recXIehUTkifUvxMa",
+    "Name": "utility",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recTN3jIPGHHUy6vD",
+      "recVJCg5wacJcdLWf",
+      "rec4TkBXyyRkv413m"
+    ]
+  },
+  {
+    "id": "recQqqKXV7tZV5TZh",
+    "Name": "stormwater",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recTN3jIPGHHUy6vD"
+    ]
+  },
+  {
+    "id": "recP4EVMzwQakaDpC",
+    "Name": "rates",
+    "Tags": [
+      "revenue & spending",
+      "public services"
+    ],
+    "Questions": [
+      "recTN3jIPGHHUy6vD",
+      "recVlFagseDPRQszI"
+    ]
+  },
+  {
+    "id": "recaSm0PXLgOmefo6",
+    "Name": "sanitation",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recVlyZP4UomxvFmt"
+    ]
+  },
+  {
+    "id": "recILQjG3bunQR0s8",
+    "Name": "trash collection",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recVlyZP4UomxvFmt"
+    ]
+  },
+  {
+    "id": "recx3J6Gl3qlC5bMI",
+    "Name": "solid waste",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recVlyZP4UomxvFmt"
+    ]
+  },
+  {
+    "id": "recoJSpwBlG6Tx4G3",
+    "Name": "emsa",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recVlFagseDPRQszI"
+    ]
+  },
+  {
+    "id": "recs2KbDOv7pV75Sy",
+    "Name": "improvement projects",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recV6UoGoFOWObyZI"
+    ]
+  },
+  {
+    "id": "recjHJF8xuHGjzKjw",
+    "Name": "bonds",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recWV07zghrnSDPpm",
+      "recWNTMiXDEsQEsyN",
+      "recvvmNNOQJEevlCw",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recFbQt2VYKYSw9zQ",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
+    ]
+  },
+  {
+    "id": "rec6lAkGREv8TvMN4",
+    "Name": "capital plan",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recWIpxaGK2kDJf97",
+      "recWNTMiXDEsQEsyN"
+    ]
+  },
+  {
+    "id": "recG1IUnFd4nJ1taA",
+    "Name": "improve our tulsa",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recWNTMiXDEsQEsyN"
+    ]
+  },
+  {
+    "id": "reckivnhvEWyCJLZu",
+    "Name": "courts",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recXldlsxXNBIKKuI"
+    ]
+  },
+  {
+    "id": "rec5zuQYV86Tl6otE",
+    "Name": "prosecutor",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recXldlsxXNBIKKuI"
+    ]
+  },
+  {
+    "id": "recYkpPYV94SIDMhN",
+    "Name": "crt",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recXnlUaGH7YhKojJ"
+    ]
+  },
+  {
+    "id": "recZQMiK01PQGJWUu",
+    "Name": "mental health",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recXnlUaGH7YhKojJ"
+    ]
+  },
+  {
+    "id": "recUfSeD3Kz5KHqfr",
+    "Name": "kirkpatrick heights",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "recYmDVvMvNkbClqk"
+    ]
+  },
+  {
+    "id": "recF9VXTa1EcM719b",
+    "Name": "greenwood master plan",
+    "Tags": [
+      "places & events",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recYmDVvMvNkbClqk"
+    ]
+  },
+  {
+    "id": "recYIMb0VrUFDleyD",
+    "Name": "cultural development",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recYmDVvMvNkbClqk"
+    ]
+  },
+  {
+    "id": "rect27FgMNC6spxhc",
+    "Name": "preservation",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recYmDVvMvNkbClqk"
+    ]
+  },
+  {
+    "id": "recWZneru5S6jTv3b",
+    "Name": "1921 race massacre",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "recYuen2cG2sfIlyI"
+    ]
+  },
+  {
+    "id": "recfmDr9RyWV0rCGV",
+    "Name": "victims",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "recYuen2cG2sfIlyI"
+    ]
+  },
+  {
+    "id": "recybi21BpWHEijDu",
+    "Name": "gravesites",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "recYuen2cG2sfIlyI"
+    ]
+  },
+  {
+    "id": "recYi0YH7AoRWSYI0",
+    "Name": "policy",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recZTxd0N54AI3X5r"
+    ]
+  },
+  {
+    "id": "recTfZllChvyNKn9v",
+    "Name": "compliance",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recZTxd0N54AI3X5r",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe"
+    ]
+  },
+  {
+    "id": "rec6MHeMdPDX7tVH2",
+    "Name": "oversight",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recZTxd0N54AI3X5r"
+    ]
+  },
+  {
+    "id": "recYp97CvgQUkDeRu",
+    "Name": "audit",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recZTxd0N54AI3X5r"
+    ]
+  },
+  {
+    "id": "recMu7qTaz3N2KCso",
+    "Name": "strategic planning",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recZtO4EYdOHfqnJj",
+      "recGtebHqHpJpCtNX"
+    ]
+  },
+  {
+    "id": "recUQrAdICNL7AVV3",
+    "Name": "policies",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe"
+    ]
+  },
+  {
+    "id": "recXVgF1cWfOtbdGR",
+    "Name": "state law",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm"
+    ]
+  },
+  {
+    "id": "reccdgNZiuzQArflV",
+    "Name": "finance department",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "recxLZvEPiZjg20zG",
+      "recy4rZrUhHQdcIL5",
+      "reczkzp9ZGODuisBh",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v"
+    ]
+  },
+  {
+    "id": "recTSBaWiz8Jjukdr",
+    "Name": "utilities",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rectMeVTjfwp8ZMRe",
+      "recud2YLagZ1EZzC1",
+      "rec6ZRpr4fjmwghzC"
+    ]
+  },
+  {
+    "id": "recNDEQTaKSNXVxn6",
+    "Name": "risk management",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recufBtzaEFzv4ftK"
+    ]
+  },
+  {
+    "id": "recryw6YTFtLo3PVp",
+    "Name": "liability",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recufBtzaEFzv4ftK",
+      "recFbQt2VYKYSw9zQ"
+    ]
+  },
+  {
+    "id": "recbzwYw7Dr0NSR8c",
+    "Name": "safety",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recufBtzaEFzv4ftK"
+    ]
+  },
+  {
+    "id": "reckoTqYqO2SupOMG",
+    "Name": "insurance",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recufBtzaEFzv4ftK"
+    ]
+  },
+  {
+    "id": "reciK8ERaBnuCNfZM",
+    "Name": "purchasing",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recu99NhUY4x8xXpA"
+    ]
+  },
+  {
+    "id": "recJa5EWQoYMHDXk1",
+    "Name": "bidding",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recu99NhUY4x8xXpA"
+    ]
+  },
+  {
+    "id": "recumoqhRUNLtRKmo",
+    "Name": "enterprise funds",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recud2YLagZ1EZzC1"
+    ]
+  },
+  {
+    "id": "recLdxp1w3fl7G4W9",
+    "Name": "pilot",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recud2YLagZ1EZzC1"
+    ]
+  },
+  {
+    "id": "recvHAmUPPPfP2P2V",
+    "Name": "delinquency",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recvilaePrzCVMmK5"
+    ]
+  },
+  {
+    "id": "recgTWazARLYOpVkS",
+    "Name": "credit",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recvilaePrzCVMmK5",
+      "recoSzoMTnKYitHpq"
+    ]
+  },
+  {
+    "id": "recDbaiqqDl6xBtS6",
+    "Name": "litigation",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recvilaePrzCVMmK5",
+      "recfTA0zRomm1jZVn"
+    ]
+  },
+  {
+    "id": "recTGx0H50NHZXRje",
+    "Name": "financing",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recvvmNNOQJEevlCw",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI"
+    ]
+  },
+  {
+    "id": "reca5Zgna7r4QI3JP",
+    "Name": "cip",
+    "Tags": [
+      "revenue & spending",
+      "public services"
+    ],
+    "Questions": [
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW"
+    ]
+  },
+  {
+    "id": "recQ7YxWailsV4J0j",
+    "Name": "borrowing",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI"
+    ]
+  },
+  {
+    "id": "recnRqKoBfg0sodUS",
+    "Name": "investment",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recxLZvEPiZjg20zG",
+      "recy4rZrUhHQdcIL5",
+      "reczkzp9ZGODuisBh",
+      "recACPg1z2tHA5mX1",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v"
+    ]
+  },
+  {
+    "id": "recuPnWiwcIIaduno",
+    "Name": "auditing",
+    "Tags": [
+      "revenue & spending",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recA2UfWNMZBSBsiG"
+    ]
+  },
+  {
+    "id": "recUvr48FfuQXdJa3",
+    "Name": "accounting",
+    "Tags": [
+      "revenue & spending",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recA2UfWNMZBSBsiG",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v"
+    ]
+  },
+  {
+    "id": "recs4ACxZb3cyhEps",
+    "Name": "enterprise",
+    "Tags": [
+      "revenue & spending",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recACPg1z2tHA5mX1"
+    ]
+  },
+  {
+    "id": "rec1T067E2iYoXi7t",
+    "Name": "licenses",
+    "Tags": [
+      "policies & regulations",
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recACPg1z2tHA5mX1",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0"
+    ]
+  },
+  {
+    "id": "recVypOtuYcUkJEnc",
+    "Name": "permits",
+    "Tags": [
+      "policies & regulations",
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recACPg1z2tHA5mX1",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0"
+    ]
+  },
+  {
+    "id": "recF1C0AXTd58Ca6d",
+    "Name": "forfeiture",
+    "Tags": [
+      "policies & regulations",
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recACPg1z2tHA5mX1"
+    ]
+  },
+  {
+    "id": "recBzl6uNMkwRCH5O",
+    "Name": "hotel/motel tax",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recAEKSQ88TBxLYPI"
+    ]
+  },
+  {
+    "id": "recwzQcFDQjFVInCO",
+    "Name": "ad valorem tax",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recAEKSQ88TBxLYPI",
+      "recFbQt2VYKYSw9zQ"
+    ]
+  },
+  {
+    "id": "recE95h3mqnQmyHTc",
+    "Name": "right of way user fees",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recFkQ2lYwBO2Qkhx"
+    ]
+  },
+  {
+    "id": "recIMTVJuBGTTlkrk",
+    "Name": "hotel/motel taxes",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recFX7o8wiwVpZWZN"
+    ]
+  },
+  {
+    "id": "rec4YeQSwcGTc0Izx",
+    "Name": "tax levy",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recFbQt2VYKYSw9zQ"
+    ]
+  },
+  {
+    "id": "recCRAEN2KiJtgHeW",
+    "Name": "lawsuit",
+    "Tags": [
+      "policies & regulations",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recFbQt2VYKYSw9zQ"
+    ]
+  },
+  {
+    "id": "recbJf8dAMpIEg3vL",
+    "Name": "state taxes",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recFL3FlWVMJk9Gfd"
+    ]
+  },
+  {
+    "id": "recHVrvwsN9Bgch79",
+    "Name": "state grants",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recGcNHgB3IHCgMKb"
+    ]
+  },
+  {
+    "id": "recpYxAcustPTx57u",
+    "Name": "federal grants",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recGcNHgB3IHCgMKb"
+    ]
+  },
+  {
+    "id": "recBxiII0dQVKFkrW",
+    "Name": "municipal aid",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recGcNHgB3IHCgMKb"
+    ]
+  },
+  {
+    "id": "recQmeWJXdEaiIVRR",
+    "Name": "municipal court",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recGxgZPrIGnbfVpN"
+    ]
+  },
+  {
+    "id": "recUwVPxMmsJF1Ew2",
+    "Name": "legal department",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recGxgZPrIGnbfVpN",
+      "recfTA0zRomm1jZVn",
+      "recfUJbm3jkzcBHHE",
+      "recgc4rrZuimM9DPz"
+    ]
+  },
+  {
+    "id": "recN7fXO7AgEJLka9",
+    "Name": "police",
+    "Tags": [
+      "public services",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn"
+    ]
+  },
+  {
+    "id": "recoDDlneXkTqmNsT",
+    "Name": "personnel",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKJ4S0STBIsuvQe",
+      "recMMX0nRONZLVn4g",
+      "rec0ESomB1UfxjSa4",
+      "rec5iD61dCE5Kunci",
+      "rec76WwN5DkLrKYTn",
+      "rec9TsEtLa35xLFjt",
+      "recceuVuSAMHfGq4G",
+      "recdPsToTKmkuuOTr",
+      "recdq7r4b4bnBfxin",
+      "recgc4rrZuimM9DPz",
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx",
+      "reciGeZ8fhDlIdZKr",
+      "reckFxi9PRVkXc2bE",
+      "recl74UGhV1dcw0Wz",
+      "recmOG09FMJ8dtjEr",
+      "recnB8GGSUUevScdY",
+      "recpmTFZFCzABjxAN"
+    ]
+  },
+  {
+    "id": "recqYViQPyUI9t0SW",
+    "Name": "training",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recIf8GWuDZiXM8Zm"
+    ]
+  },
+  {
+    "id": "recEH79RCbuqL9b2s",
+    "Name": "fire department",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "recKJ4S0STBIsuvQe"
+    ]
+  },
+  {
+    "id": "recj3NWnqBpmQn2Yx",
+    "Name": "parks and recreation",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "recL2x9cGL37B7U64",
+      "recL8Z00hfsaXFeWj",
+      "recMMX0nRONZLVn4g",
+      "recO4k4yCl1Ac5X9M"
+    ]
+  },
+  {
+    "id": "recqvf34tgDHcMZrK",
+    "Name": "river parks",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "recO4k4yCl1Ac5X9M"
+    ]
+  },
+  {
+    "id": "recTs6J3JFZFlL2Xb",
+    "Name": "parks and recreations",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "recOBqTr0OrNwdhmy"
+    ]
+  },
+  {
+    "id": "recf9MDE9d0hocJZD",
+    "Name": "contracts",
+    "Tags": [
+      "city government & the policy process",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recOBqTr0OrNwdhmy"
+    ]
+  },
+  {
+    "id": "rechGKl53YLEWSFKy",
+    "Name": "working in neighborhoods",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ]
+  },
+  {
+    "id": "recSaB0ugjsBczpUQ",
+    "Name": "win",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ]
+  },
+  {
+    "id": "reca7dWptHD12yNJx",
+    "Name": "social services",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ]
+  },
+  {
+    "id": "recMTqjiET13Q8QWY",
+    "Name": "housing",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ]
+  },
+  {
+    "id": "receanbM6igYUqV83",
+    "Name": "quality of life",
+    "Questions": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ]
+  },
+  {
+    "id": "recs3820WK1JHT9tI",
+    "Name": "development",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0",
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ",
+      "rec4TkBXyyRkv413m",
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "recOO0Fn8e1VQ6zRQ",
+    "Name": "development services",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0"
+    ]
+  },
+  {
+    "id": "recTiRvU09wXMgM6J",
+    "Name": "inspection",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0"
+    ]
+  },
+  {
+    "id": "recxAR0m4N9LBK6Ig",
+    "Name": "tulsa authority for economic opportunity",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ"
+    ]
+  },
+  {
+    "id": "recsYLnM6D9nA05T7",
+    "Name": "tax increment finance districts",
+    "Tags": [
+      "revenue & spending",
+      "policies & regulations"
+    ],
+    "Questions": [
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ"
+    ]
+  },
+  {
+    "id": "recFGufMoITG3mFkw",
+    "Name": "redevelopment",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ"
+    ]
+  },
+  {
+    "id": "rec0Hv8j1t0UEs5mi",
+    "Name": "affordable housing",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ"
+    ]
+  },
+  {
+    "id": "recbqlsriU6IbD8JP",
+    "Name": "small business",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ"
+    ]
+  },
+  {
+    "id": "recxSuwLECh4KWMK0",
+    "Name": "taeo",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "rec3rWe2XFCKKQObZ"
+    ]
+  },
+  {
+    "id": "recG9ylp0H6MAQMf8",
+    "Name": "engineering services",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec4TkBXyyRkv413m",
+      "rec5iD61dCE5Kunci"
+    ]
+  },
+  {
+    "id": "recXpWekkwgzWHRjd",
+    "Name": "public ways",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec4TkBXyyRkv413m",
+      "rec6ZRpr4fjmwghzC"
+    ]
+  },
+  {
+    "id": "rec6DzgUgFNoHl6AH",
+    "Name": "pso",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec4TkBXyyRkv413m"
+    ]
+  },
+  {
+    "id": "recjZ9tCiMS22I4GJ",
+    "Name": "capital improvement",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec4TkBXyyRkv413m"
+    ]
+  },
+  {
+    "id": "recENjzNbe7BLE2Do",
+    "Name": "stormwater management",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec4TkBXyyRkv413m"
+    ]
+  },
+  {
+    "id": "recq4v6FtV3eR1DZe",
+    "Name": "streets and stormwater",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn",
+      "rec6ZRpr4fjmwghzC",
+      "rec76WwN5DkLrKYTn"
+    ]
+  },
+  {
+    "id": "recgN0fJS2rwWmNjM",
+    "Name": "rights of way",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec51QoLX9u8RYShS"
+    ]
+  },
+  {
+    "id": "recSlK0QKzpjweE7g",
+    "Name": "traffic",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn"
+    ]
+  },
+  {
+    "id": "recseBfZYkw1A6Ldl",
+    "Name": "land management",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec51QoLX9u8RYShS"
+    ]
+  },
+  {
+    "id": "recchqDApy3QBKYYZ",
+    "Name": "recycling",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec51QoLX9u8RYShS"
+    ]
+  },
+  {
+    "id": "recKnhYYUkb7Cz8mj",
+    "Name": "tulsa authority for the recovery of energy",
+    "Tags": [
+      "public services",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "rec51QoLX9u8RYShS"
+    ]
+  },
+  {
+    "id": "reckHd94L8SRUXqLy",
+    "Name": "graffiti",
+    "Questions": [
+      "rec6nNmiaGyB01Stn"
+    ]
+  },
+  {
+    "id": "recjl1HzIv4cx3cKr",
+    "Name": "cdbg",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "rec6ZRpr4fjmwghzC"
+    ]
+  },
+  {
+    "id": "recBTeDboTe5vDD9l",
+    "Name": "tare",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec6ZRpr4fjmwghzC"
+    ]
+  },
+  {
+    "id": "recWTS365ZaJAii1V",
+    "Name": "water and sewer",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec8CCx8AutDf7Qmr",
+      "rec8DfOnx8RTRaC5Y",
+      "rec9TsEtLa35xLFjt"
+    ]
+  },
+  {
+    "id": "reczzjXRKFQwHbmDu",
+    "Name": "transit",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec9vdoSWIkpmNyqQ"
+    ]
+  },
+  {
+    "id": "recVcY0l0LzohS8bh",
+    "Name": "transportation",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec9vdoSWIkpmNyqQ"
+    ]
+  },
+  {
+    "id": "rec1ZoGmQ6gNQLiOP",
+    "Name": "bus",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "rec9vdoSWIkpmNyqQ"
+    ]
+  },
+  {
+    "id": "rec4xZ8UeZVEnw4m6",
+    "Name": "broken arrow",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "rec9vdoSWIkpmNyqQ"
+    ]
+  },
+  {
+    "id": "recuHN8YzNu7H9T5b",
+    "Name": "jenks",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "rec9vdoSWIkpmNyqQ"
+    ]
+  },
+  {
+    "id": "rechuK1lfzzFzWSwU",
+    "Name": "sand springs",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "rec9vdoSWIkpmNyqQ"
+    ]
+  },
+  {
+    "id": "recTIbOjRMIPffL0T",
+    "Name": "Using $2.6 million in franchise fees collected by the City from the Public Service Company of Oklahoma",
+    "Tags": [
+      "revenue & spending",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recb1Zmh7uPqC9fzZ"
+    ]
+  },
+  {
+    "id": "recD1AnBUORfwCKe9",
+    "Name": "Tulsa's Engineering Services department is beginning the process to coordinate burial of power lines located on public rights of way. The department is also increasing staff in order to implement phase two of the City's Stormwater Utility Enterprise Initiative",
+    "Tags": [
+      "public services",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recb1Zmh7uPqC9fzZ"
+    ]
+  },
+  {
+    "id": "recoDsrV2dKNJec5r",
+    "Name": "in conjuction with the Streets and Stormwater department. Phase two involves scheduling and implementation of capital projects",
+    "Tags": [
+      "public services",
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recb1Zmh7uPqC9fzZ"
+    ]
+  },
+  {
+    "id": "recrTEUGfP63fjd6V",
+    "Name": "using information from inspections conducted in phase one.",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "Questions": [
+      "recb1Zmh7uPqC9fzZ"
+    ]
+  },
+  {
+    "id": "recLaeh9i60oXfZoy",
+    "Name": "elected officials",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G",
+      "recceKMCT94saVYJL",
+      "recdfXbSjevbdK5WI",
+      "recdPsToTKmkuuOTr",
+      "recdQZ2HMfoofaLNJ",
+      "recdq7r4b4bnBfxin"
+    ]
+  },
+  {
+    "id": "recZ8wrSVc6ylH9Nv",
+    "Name": "compensation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recbLSfcufd73dktE",
+      "recfUJbm3jkzcBHHE"
+    ]
+  },
+  {
+    "id": "recAYvgbBkz8u57cE",
+    "Name": "city auditor",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recceKMCT94saVYJL",
+      "recdfXbSjevbdK5WI",
+      "recdPsToTKmkuuOTr"
+    ]
+  },
+  {
+    "id": "recv9k4TDLtNQ4BHK",
+    "Name": "operations",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recdfXbSjevbdK5WI"
+    ]
+  },
+  {
+    "id": "rec7ES4m8MO22n4gf",
+    "Name": "attorney",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recfTA0zRomm1jZVn"
+    ]
+  },
+  {
+    "id": "reczzBRSwmcr3NBTl",
+    "Name": "human resources",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx",
+      "reciGeZ8fhDlIdZKr"
+    ]
+  },
+  {
+    "id": "rec8vQgngrzM9iZpr",
+    "Name": "incog",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "recXLUh3o33ckGqzF",
+    "Name": "indian nations council of governments",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "recoJacT6bxOqTcxz",
+    "Name": "planning",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "recFNDPHdW1uN7aK3",
+    "Name": "aging services",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recjUKapkhmNZG9YT"
+    ]
+  },
+  {
+    "id": "recfP45qdDq2WHR4k",
+    "Name": "grants",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "rec3ifMUgWnqCRHMT",
+    "Name": "tulsa metro",
+    "Tags": [
+      "places & events"
+    ],
+    "Questions": [
+      "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "rechTLqF7JgRmiqKw",
+    "Name": "tmapc",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "recNbV0kB3L2VPCAA",
+    "Name": "finance",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v"
+    ]
+  },
+  {
+    "id": "rec5hduOrQRpCn7TS",
+    "Name": "grant funding",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v"
+    ]
+  },
+  {
+    "id": "rechspLKvrZieUeO6",
+    "Name": "information technology",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "reckiIh36zRZ9SZMW",
+      "reckFxi9PRVkXc2bE",
+      "recpmTFZFCzABjxAN"
+    ]
+  },
+  {
+    "id": "recwqmsmyG37gRPXo",
+    "Name": "cybersecurity",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "reckiIh36zRZ9SZMW"
+    ]
+  },
+  {
+    "id": "recSbuqxDsTNwX9nh",
+    "Name": "communications department",
+    "Tags": [
+      "city government & the policy process",
+      "public services"
+    ],
+    "Questions": [
+      "reclxsJ5NYEQfrPqf",
+      "recmhBkz9YTKuIHhX",
+      "recmOG09FMJ8dtjEr"
+    ]
+  },
+  {
+    "id": "recqfb8JxzG6zMJoP",
+    "Name": "public service information",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "reclxsJ5NYEQfrPqf"
+    ]
+  },
+  {
+    "id": "recnOWL9qFDNEHXtK",
+    "Name": "facilities",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY"
+    ]
+  },
+  {
+    "id": "rec7DEXH50BvqGg1U",
+    "Name": "asset management",
+    "Tags": [
+      "public services"
+    ],
+    "Questions": [
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI"
+    ]
+  },
+  {
+    "id": "rec1u8SbNYk22AtgS",
+    "Name": "general obligation",
+    "Tags": [
+      "city government & the policy process"
+    ],
+    "Questions": [
+      "recoSzoMTnKYitHpq",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
+    ]
+  },
+  {
+    "id": "recswu6dyA1AGVmzf",
+    "Name": "debt service",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
+    ]
+  },
+  {
+    "id": "recFo91PsG77aj1jR",
+    "Name": "program based budget",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recpCZ3kufkPeC0nK"
     ]
   }
 ]
