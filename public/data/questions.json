@@ -13,8 +13,8 @@
       "recRJBtqeF69Iewhi",
       "recGkXnNzl0pw1ued"
     ],
-    "Source": "City of Tulsa. _Tulsa 311_\n",
-    "Question-Answer-Code": "Dan_Budget_0"
+    "QA Code": "Dan_Budget_000",
+    "Source": "City of Tulsa. _Tulsa 311_\n"
   },
   {
     "id": "recwvXEbnPiXOjfwd",
@@ -27,7 +27,7 @@
       "recNlU5Iz5iBopJ9m",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_1",
+    "QA Code": "Dan_Budget_001",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n"
   },
   {
@@ -43,7 +43,7 @@
       "recygMhYSJxEH8g89",
       "recvcH6UgexrbXmq9"
     ],
-    "Question-Answer-Code": "Dan_Budget_2",
+    "QA Code": "Dan_Budget_002",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n"
   },
   {
@@ -59,7 +59,7 @@
       "rec17CY4B97WAP1a8",
       "recI2ycsxZZO6fcFB"
     ],
-    "Question-Answer-Code": "Dan_Budget_3",
+    "QA Code": "Dan_Budget_003",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n"
   },
   {
@@ -76,7 +76,7 @@
       "recvYIjo7YASgdmQQ",
       "rec3JBXzS340jufUz"
     ],
-    "Question-Answer-Code": "Dan_Budget_4",
+    "QA Code": "Dan_Budget_004",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7-9, Paragraph 3-4, 1-6, 1-2_\n"
   },
   {
@@ -93,7 +93,7 @@
       "recD4xTSPIJ16uPjz",
       "recVswcqhjkahPslp"
     ],
-    "Question-Answer-Code": "Dan_Budget_5",
+    "QA Code": "Dan_Budget_005",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 9-10, Paragraph 3-5, 1-6_\n"
   },
   {
@@ -108,7 +108,7 @@
       "rec49m6RsxVRmpzkl",
       "recs5w170YqWhk0EG"
     ],
-    "Question-Answer-Code": "Dan_Budget_6",
+    "QA Code": "Dan_Budget_006",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 1_\n"
   },
   {
@@ -125,7 +125,7 @@
       "recqrrvxCjfwfD3Gi",
       "rechtfnL0L7SQWySq"
     ],
-    "Question-Answer-Code": "Dan_Budget_7",
+    "QA Code": "Dan_Budget_007",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 5_\n"
   },
   {
@@ -142,7 +142,7 @@
       "recvcH6UgexrbXmq9",
       "recs5w170YqWhk0EG"
     ],
-    "Question-Answer-Code": "Dan_Budget_8",
+    "QA Code": "Dan_Budget_008",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 6_\n"
   },
   {
@@ -158,7 +158,7 @@
       "recyjD9HkhKp1tczB",
       "recD4xTSPIJ16uPjz"
     ],
-    "Question-Answer-Code": "Dan_Budget_9",
+    "QA Code": "Dan_Budget_009",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 7_\n"
   },
   {
@@ -178,7 +178,7 @@
       "recqjX1JeotlsirPA",
       "rec8kOYbGZaSstxXv"
     ],
-    "Question-Answer-Code": "Dan_Budget_10",
+    "QA Code": "Dan_Budget_010",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n"
   },
   {
@@ -197,7 +197,7 @@
       "recQ4YQuzC7U20psh",
       "rec8kOYbGZaSstxXv"
     ],
-    "Question-Answer-Code": "Dan_Budget_11",
+    "QA Code": "Dan_Budget_011",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n"
   },
   {
@@ -214,7 +214,7 @@
       "recP4EVMzwQakaDpC",
       "rec8kOYbGZaSstxXv"
     ],
-    "Question-Answer-Code": "Dan_Budget_12",
+    "QA Code": "Dan_Budget_012",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 4_\n"
   },
   {
@@ -232,7 +232,7 @@
       "recGGzf4fV3y01tu7",
       "rec8kOYbGZaSstxXv"
     ],
-    "Question-Answer-Code": "Dan_Budget_13",
+    "QA Code": "Dan_Budget_013",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n"
   },
   {
@@ -247,7 +247,7 @@
       "recoJSpwBlG6Tx4G3",
       "recP4EVMzwQakaDpC"
     ],
-    "Question-Answer-Code": "Dan_Budget_14",
+    "QA Code": "Dan_Budget_014",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n"
   },
   {
@@ -262,7 +262,7 @@
       "recsDSESmuePsplUQ",
       "recs2KbDOv7pV75Sy"
     ],
-    "Question-Answer-Code": "Dan_Budget_15",
+    "QA Code": "Dan_Budget_015",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 3_\n"
   },
   {
@@ -281,7 +281,7 @@
       "recC80WE0BC0GjA20",
       "recWdnRM6FA93ACEx"
     ],
-    "Question-Answer-Code": "Dan_Budget_16",
+    "QA Code": "Dan_Budget_016",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 5_\n"
   },
   {
@@ -298,7 +298,7 @@
       "recqHZ3UmD7SG9v5v",
       "rec2bz2lvTwnSaZRh"
     ],
-    "Question-Answer-Code": "Dan_Budget_17",
+    "QA Code": "Dan_Budget_017",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13-14, Paragraph 5, 1_\n"
   },
   {
@@ -315,7 +315,7 @@
       "recI2ycsxZZO6fcFB",
       "rec8kOYbGZaSstxXv"
     ],
-    "Question-Answer-Code": "Dan_Budget_18",
+    "QA Code": "Dan_Budget_018",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 14, Paragraph 2_\n"
   },
   {
@@ -332,7 +332,7 @@
       "recG1IUnFd4nJ1taA",
       "rec6lAkGREv8TvMN4"
     ],
-    "Question-Answer-Code": "Dan_Budget_19",
+    "QA Code": "Dan_Budget_019",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 14, Paragraph 3, 4_\n"
   },
   {
@@ -347,7 +347,7 @@
       "reckivnhvEWyCJLZu",
       "rec5zuQYV86Tl6otE"
     ],
-    "Question-Answer-Code": "Dan_Budget_20",
+    "QA Code": "Dan_Budget_020",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 6_\n"
   },
   {
@@ -363,7 +363,7 @@
       "recZQMiK01PQGJWUu",
       "rec797k3CYC8F5O3f"
     ],
-    "Question-Answer-Code": "Dan_Budget_21",
+    "QA Code": "Dan_Budget_021",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 5_\n"
   },
   {
@@ -380,7 +380,7 @@
       "recYIMb0VrUFDleyD",
       "rect27FgMNC6spxhc"
     ],
-    "Question-Answer-Code": "Dan_Budget_22",
+    "QA Code": "Dan_Budget_022",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n"
   },
   {
@@ -396,7 +396,7 @@
       "recfmDr9RyWV0rCGV",
       "recybi21BpWHEijDu"
     ],
-    "Question-Answer-Code": "Dan_Budget_23",
+    "QA Code": "Dan_Budget_023",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n"
   },
   {
@@ -413,7 +413,7 @@
       "rec6MHeMdPDX7tVH2",
       "recYp97CvgQUkDeRu"
     ],
-    "Question-Answer-Code": "Dan_Budget_24",
+    "QA Code": "Dan_Budget_024",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-19, Paragraph 1-5, 1-3, 1-4, 1-3_\n"
   },
   {
@@ -427,7 +427,7 @@
       "recNlU5Iz5iBopJ9m",
       "recMu7qTaz3N2KCso"
     ],
-    "Question-Answer-Code": "Dan_Budget_25",
+    "QA Code": "Dan_Budget_025",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 1_\n"
   },
   {
@@ -446,7 +446,7 @@
       "rec6lrWmFyJj2MfoK",
       "reccdgNZiuzQArflV"
     ],
-    "Question-Answer-Code": "Dan_Budget_26",
+    "QA Code": "Dan_Budget_026",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
   },
   {
@@ -465,7 +465,7 @@
       "rec6lrWmFyJj2MfoK",
       "reccdgNZiuzQArflV"
     ],
-    "Question-Answer-Code": "Dan_Budget_27",
+    "QA Code": "Dan_Budget_027",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
   },
   {
@@ -484,7 +484,7 @@
       "rec6lrWmFyJj2MfoK",
       "reccdgNZiuzQArflV"
     ],
-    "Question-Answer-Code": "Dan_Budget_28",
+    "QA Code": "Dan_Budget_028",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
   },
   {
@@ -503,7 +503,7 @@
       "rec6lrWmFyJj2MfoK",
       "reccdgNZiuzQArflV"
     ],
-    "Question-Answer-Code": "Dan_Budget_29",
+    "QA Code": "Dan_Budget_029",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
   },
   {
@@ -520,7 +520,7 @@
       "rec5KZdLje0u9mbEn",
       "recTSBaWiz8Jjukdr"
     ],
-    "Question-Answer-Code": "Dan_Budget_30",
+    "QA Code": "Dan_Budget_030",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 -Policies, Subsection 16, Paragraph 2_\n"
   },
   {
@@ -537,7 +537,7 @@
       "recbzwYw7Dr0NSR8c",
       "reckoTqYqO2SupOMG"
     ],
-    "Question-Answer-Code": "Dan_Budget_31",
+    "QA Code": "Dan_Budget_031",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 3_\n"
   },
   {
@@ -554,7 +554,7 @@
       "recygMhYSJxEH8g89",
       "recJa5EWQoYMHDXk1"
     ],
-    "Question-Answer-Code": "Dan_Budget_32",
+    "QA Code": "Dan_Budget_032",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 4_\n"
   },
   {
@@ -571,7 +571,7 @@
       "recLdxp1w3fl7G4W9",
       "recTSBaWiz8Jjukdr"
     ],
-    "Question-Answer-Code": "Dan_Budget_33",
+    "QA Code": "Dan_Budget_033",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-17, Paragraph 5, 1_\n"
   },
   {
@@ -589,7 +589,7 @@
       "recgTWazARLYOpVkS",
       "recDbaiqqDl6xBtS6"
     ],
-    "Question-Answer-Code": "Dan_Budget_34",
+    "QA Code": "Dan_Budget_034",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-18, Paragraph 5, 2_\n"
   },
   {
@@ -607,7 +607,7 @@
       "recqFxYA8XapFzThA",
       "recTGx0H50NHZXRje"
     ],
-    "Question-Answer-Code": "Dan_Budget_35",
+    "QA Code": "Dan_Budget_035",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
   },
   {
@@ -623,7 +623,7 @@
       "recI2ycsxZZO6fcFB",
       "reca5Zgna7r4QI3JP"
     ],
-    "Question-Answer-Code": "Dan_Budget_36",
+    "QA Code": "Dan_Budget_036",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
   },
   {
@@ -640,7 +640,7 @@
       "reca5Zgna7r4QI3JP",
       "recaahrH7a6kRGqnX"
     ],
-    "Question-Answer-Code": "Dan_Budget_37",
+    "QA Code": "Dan_Budget_037",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
   },
   {
@@ -657,7 +657,7 @@
       "recjHJF8xuHGjzKjw",
       "recTGx0H50NHZXRje"
     ],
-    "Question-Answer-Code": "Dan_Budget_38",
+    "QA Code": "Dan_Budget_038",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
   },
   {
@@ -674,7 +674,7 @@
       "recjHJF8xuHGjzKjw",
       "recTGx0H50NHZXRje"
     ],
-    "Question-Answer-Code": "Dan_Budget_39",
+    "QA Code": "Dan_Budget_039",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
   },
   {
@@ -691,7 +691,7 @@
       "recjHJF8xuHGjzKjw",
       "recTGx0H50NHZXRje"
     ],
-    "Question-Answer-Code": "Dan_Budget_40",
+    "QA Code": "Dan_Budget_040",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
   },
   {
@@ -708,7 +708,7 @@
       "recjHJF8xuHGjzKjw",
       "recTGx0H50NHZXRje"
     ],
-    "Question-Answer-Code": "Dan_Budget_41",
+    "QA Code": "Dan_Budget_041",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 1\n"
   },
   {
@@ -723,7 +723,7 @@
       "recnRqKoBfg0sodUS",
       "reccdgNZiuzQArflV"
     ],
-    "Question-Answer-Code": "Dan_Budget_42",
+    "QA Code": "Dan_Budget_042",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2\n"
   },
   {
@@ -738,7 +738,7 @@
       "recnRqKoBfg0sodUS",
       "reccdgNZiuzQArflV"
     ],
-    "Question-Answer-Code": "Dan_Budget_43",
+    "QA Code": "Dan_Budget_043",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2\n"
   },
   {
@@ -753,7 +753,7 @@
       "recnRqKoBfg0sodUS",
       "reccdgNZiuzQArflV"
     ],
-    "Question-Answer-Code": "Dan_Budget_44",
+    "QA Code": "Dan_Budget_044",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2\n"
   },
   {
@@ -768,7 +768,7 @@
       "recuPnWiwcIIaduno",
       "recUvr48FfuQXdJa3"
     ],
-    "Question-Answer-Code": "Dan_Budget_45",
+    "QA Code": "Dan_Budget_045",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 3\n"
   },
   {
@@ -790,7 +790,7 @@
       "recF1C0AXTd58Ca6d",
       "recnRqKoBfg0sodUS"
     ],
-    "Question-Answer-Code": "Dan_Budget_46",
+    "QA Code": "Dan_Budget_046",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 1, Figure 1\n"
   },
   {
@@ -810,7 +810,7 @@
       "recBzl6uNMkwRCH5O",
       "recwzQcFDQjFVInCO"
     ],
-    "Question-Answer-Code": "Dan_Budget_47",
+    "QA Code": "Dan_Budget_047",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5-6, Paragraph 2-5, 1-2\n"
   },
   {
@@ -826,7 +826,7 @@
       "recrcssg4rJQBVqHI",
       "recqHZ3UmD7SG9v5v"
     ],
-    "Question-Answer-Code": "Dan_Budget_48",
+    "QA Code": "Dan_Budget_048",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 3\n"
   },
   {
@@ -842,7 +842,7 @@
       "recrcssg4rJQBVqHI",
       "recEmq1qtcdXQWe3u"
     ],
-    "Question-Answer-Code": "Dan_Budget_49",
+    "QA Code": "Dan_Budget_049",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 4\n"
   },
   {
@@ -859,7 +859,7 @@
       "recObJx9f9qS9Npke",
       "recE95h3mqnQmyHTc"
     ],
-    "Question-Answer-Code": "Dan_Budget_50",
+    "QA Code": "Dan_Budget_050",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 5\n"
   },
   {
@@ -875,7 +875,7 @@
       "recrcssg4rJQBVqHI",
       "recIMTVJuBGTTlkrk"
     ],
-    "Question-Answer-Code": "Dan_Budget_51",
+    "QA Code": "Dan_Budget_051",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 1\n"
   },
   {
@@ -896,7 +896,7 @@
       "recryw6YTFtLo3PVp",
       "recCRAEN2KiJtgHeW"
     ],
-    "Question-Answer-Code": "Dan_Budget_52",
+    "QA Code": "Dan_Budget_052",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 2\n"
   },
   {
@@ -912,7 +912,7 @@
       "recrcssg4rJQBVqHI",
       "recbJf8dAMpIEg3vL"
     ],
-    "Question-Answer-Code": "Dan_Budget_53",
+    "QA Code": "Dan_Budget_053",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 4\n"
   },
   {
@@ -928,7 +928,7 @@
       "recpYxAcustPTx57u",
       "recBxiII0dQVKFkrW"
     ],
-    "Question-Answer-Code": "Dan_Budget_54",
+    "QA Code": "Dan_Budget_054",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 5\n"
   },
   {
@@ -943,7 +943,7 @@
       "recygMhYSJxEH8g89",
       "recMu7qTaz3N2KCso"
     ],
-    "Question-Answer-Code": "Dan_Budget_55",
+    "QA Code": "Dan_Budget_055",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 24, Paragraph 5\n"
   },
   {
@@ -958,7 +958,7 @@
       "recQmeWJXdEaiIVRR",
       "recUwVPxMmsJF1Ew2"
     ],
-    "Question-Answer-Code": "Dan_Budget_56",
+    "QA Code": "Dan_Budget_056",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 3, Paragraph 4, 5\n"
   },
   {
@@ -975,7 +975,7 @@
       "recD4xTSPIJ16uPjz",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_57",
+    "QA Code": "Dan_Budget_057",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 10, Paragraph 4\n"
   },
   {
@@ -993,7 +993,7 @@
       "recoDDlneXkTqmNsT",
       "recqYViQPyUI9t0SW"
     ],
-    "Question-Answer-Code": "Dan_Budget_58",
+    "QA Code": "Dan_Budget_058",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 6, Paragraph 5\n"
   },
   {
@@ -1010,7 +1010,7 @@
       "recD4xTSPIJ16uPjz",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_59",
+    "QA Code": "Dan_Budget_059",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7, Paragraph 1-3\n"
   },
   {
@@ -1027,7 +1027,7 @@
       "recD4xTSPIJ16uPjz",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_60",
+    "QA Code": "Dan_Budget_060",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7-8, Paragraph 3, 1\n"
   },
   {
@@ -1043,7 +1043,7 @@
       "recD4xTSPIJ16uPjz",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_61",
+    "QA Code": "Dan_Budget_061",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3\n"
   },
   {
@@ -1059,7 +1059,7 @@
       "recD4xTSPIJ16uPjz",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_62",
+    "QA Code": "Dan_Budget_062",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3\n"
   },
   {
@@ -1075,7 +1075,7 @@
       "recD4xTSPIJ16uPjz",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_63",
+    "QA Code": "Dan_Budget_063",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 11-12, Paragraph 4, 1\n"
   },
   {
@@ -1091,7 +1091,7 @@
       "recD4xTSPIJ16uPjz",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_64",
+    "QA Code": "Dan_Budget_064",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 14, Paragraph 1\n"
   },
   {
@@ -1105,7 +1105,7 @@
       "recNlU5Iz5iBopJ9m",
       "recj3NWnqBpmQn2Yx"
     ],
-    "Question-Answer-Code": "Dan_Budget_65",
+    "QA Code": "Dan_Budget_065",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 21, Paragraph 2\n"
   },
   {
@@ -1119,7 +1119,7 @@
       "recNlU5Iz5iBopJ9m",
       "recj3NWnqBpmQn2Yx"
     ],
-    "Question-Answer-Code": "Dan_Budget_66",
+    "QA Code": "Dan_Budget_066",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 22, Paragraph 1\n"
   },
   {
@@ -1134,7 +1134,7 @@
       "recj3NWnqBpmQn2Yx",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_67",
+    "QA Code": "Dan_Budget_067",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 24, Paragraph 1-5\n"
   },
   {
@@ -1150,7 +1150,7 @@
       "recqvf34tgDHcMZrK",
       "recsp7uZqHjxA2l3b"
     ],
-    "Question-Answer-Code": "Dan_Budget_68",
+    "QA Code": "Dan_Budget_068",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 25-26, Paragraph 1-3, 1\n"
   },
   {
@@ -1165,7 +1165,7 @@
       "recTs6J3JFZFlL2Xb",
       "recf9MDE9d0hocJZD"
     ],
-    "Question-Answer-Code": "Dan_Budget_69",
+    "QA Code": "Dan_Budget_069",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 29, Paragraph 1-2\n"
   },
   {
@@ -1185,7 +1185,7 @@
       "receanbM6igYUqV83",
       "recs3820WK1JHT9tI"
     ],
-    "Question-Answer-Code": "Dan_Budget_70",
+    "QA Code": "Dan_Budget_070",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 33, Paragraph 2\n"
   },
   {
@@ -1205,7 +1205,7 @@
       "receanbM6igYUqV83",
       "recs3820WK1JHT9tI"
     ],
-    "Question-Answer-Code": "Dan_Budget_71",
+    "QA Code": "Dan_Budget_071",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 34, Paragraph 1\n"
   },
   {
@@ -1225,7 +1225,7 @@
       "receanbM6igYUqV83",
       "recs3820WK1JHT9tI"
     ],
-    "Question-Answer-Code": "Dan_Budget_72",
+    "QA Code": "Dan_Budget_072",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 33, Paragraph 4\n"
   },
   {
@@ -1246,7 +1246,7 @@
       "recs3820WK1JHT9tI",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_73",
+    "QA Code": "Dan_Budget_073",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 35, Paragraph 1-5\n"
   },
   {
@@ -1264,7 +1264,7 @@
       "rec1T067E2iYoXi7t",
       "recTiRvU09wXMgM6J"
     ],
-    "Question-Answer-Code": "Dan_Budget_74",
+    "QA Code": "Dan_Budget_074",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 36, Paragraph 2\n"
   },
   {
@@ -1282,7 +1282,7 @@
       "rec1T067E2iYoXi7t",
       "recTiRvU09wXMgM6J"
     ],
-    "Question-Answer-Code": "Dan_Budget_75",
+    "QA Code": "Dan_Budget_075",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 36, Paragraph 4\n"
   },
   {
@@ -1300,7 +1300,7 @@
       "rec1T067E2iYoXi7t",
       "recTiRvU09wXMgM6J"
     ],
-    "Question-Answer-Code": "Dan_Budget_76",
+    "QA Code": "Dan_Budget_076",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 38, Paragraph 1\n"
   },
   {
@@ -1319,7 +1319,7 @@
       "rec0Hv8j1t0UEs5mi",
       "recbqlsriU6IbD8JP"
     ],
-    "Question-Answer-Code": "Dan_Budget_77",
+    "QA Code": "Dan_Budget_077",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 39, Paragraph 1\n"
   },
   {
@@ -1339,7 +1339,7 @@
       "rec0Hv8j1t0UEs5mi",
       "recbqlsriU6IbD8JP"
     ],
-    "Question-Answer-Code": "Dan_Budget_78",
+    "QA Code": "Dan_Budget_078",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 39, Paragraph 2\n"
   },
   {
@@ -1360,7 +1360,7 @@
       "recXIehUTkifUvxMa",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_79",
+    "QA Code": "Dan_Budget_079",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47, Paragraph 4-5\n"
   },
   {
@@ -1375,7 +1375,7 @@
       "recG9ylp0H6MAQMf8",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_80",
+    "QA Code": "Dan_Budget_080",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47-48, 50 , Paragraph 5, 3, 1-4\n"
   },
   {
@@ -1394,7 +1394,7 @@
       "recchqDApy3QBKYYZ",
       "recKnhYYUkb7Cz8mj"
     ],
-    "Question-Answer-Code": "Dan_Budget_81",
+    "QA Code": "Dan_Budget_081",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 2\n"
   },
   {
@@ -1410,7 +1410,7 @@
       "recSlK0QKzpjweE7g",
       "reckHd94L8SRUXqLy"
     ],
-    "Question-Answer-Code": "Dan_Budget_82",
+    "QA Code": "Dan_Budget_082",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 3\n"
   },
   {
@@ -1431,7 +1431,7 @@
       "recs5w170YqWhk0EG",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_83",
+    "QA Code": "Dan_Budget_083",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 52, Paragraph 1-2\n"
   },
   {
@@ -1446,7 +1446,7 @@
       "recq4v6FtV3eR1DZe",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_84",
+    "QA Code": "Dan_Budget_084",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 54, Paragraph 1-5\n"
   },
   {
@@ -1459,7 +1459,7 @@
       "recdoCgCxV6RbWD0L",
       "recWTS365ZaJAii1V"
     ],
-    "Question-Answer-Code": "Dan_Budget_85",
+    "QA Code": "Dan_Budget_085",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 55, Paragraph 2\n"
   },
   {
@@ -1474,7 +1474,7 @@
       "recNlU5Iz5iBopJ9m",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Dan_Budget_86",
+    "QA Code": "Dan_Budget_086",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 56, Paragraph 1-3\n"
   },
   {
@@ -1489,7 +1489,7 @@
       "recNlU5Iz5iBopJ9m",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_87",
+    "QA Code": "Dan_Budget_087",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 59-60, Paragraph 1-5, 1-4\n"
   },
   {
@@ -1507,7 +1507,7 @@
       "recuHN8YzNu7H9T5b",
       "rechuK1lfzzFzWSwU"
     ],
-    "Question-Answer-Code": "Dan_Budget_88",
+    "QA Code": "Dan_Budget_088",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2\n"
   },
   {
@@ -1522,7 +1522,7 @@
       "recoDsrV2dKNJec5r",
       "recrTEUGfP63fjd6V"
     ],
-    "Question-Answer-Code": "Dan_Budget_89",
+    "QA Code": "Dan_Budget_089",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 62, Paragraph 1-2\n"
   },
   {
@@ -1539,7 +1539,7 @@
       "recm6eIXpywCU4s9O",
       "recZ8wrSVc6ylH9Nv"
     ],
-    "Question-Answer-Code": "Dan_Budget_90",
+    "QA Code": "Dan_Budget_090",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 66, Paragraph 1-2\n"
   },
   {
@@ -1556,7 +1556,7 @@
       "recm6eIXpywCU4s9O",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_91",
+    "QA Code": "Dan_Budget_091",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 67, Paragraph 1\n"
   },
   {
@@ -1571,7 +1571,7 @@
       "recLaeh9i60oXfZoy",
       "recAYvgbBkz8u57cE"
     ],
-    "Question-Answer-Code": "Dan_Budget_92",
+    "QA Code": "Dan_Budget_092",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 65, Paragraph 2\n"
   },
   {
@@ -1587,7 +1587,7 @@
       "recAYvgbBkz8u57cE",
       "recv9k4TDLtNQ4BHK"
     ],
-    "Question-Answer-Code": "Dan_Budget_93",
+    "QA Code": "Dan_Budget_093",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 68, Paragraph 1-3\n"
   },
   {
@@ -1603,7 +1603,7 @@
       "recAYvgbBkz8u57cE",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_94",
+    "QA Code": "Dan_Budget_094",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 69, Paragraph 1\n"
   },
   {
@@ -1618,7 +1618,7 @@
       "recLaeh9i60oXfZoy",
       "recX9nNDKs0rtBi3g"
     ],
-    "Question-Answer-Code": "Dan_Budget_95",
+    "QA Code": "Dan_Budget_095",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 70, Paragraph 1\n"
   },
   {
@@ -1634,7 +1634,7 @@
       "recX9nNDKs0rtBi3g",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_96",
+    "QA Code": "Dan_Budget_096",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 71, Paragraph 1\n"
   },
   {
@@ -1650,7 +1650,7 @@
       "recDbaiqqDl6xBtS6",
       "rec7ES4m8MO22n4gf"
     ],
-    "Question-Answer-Code": "Dan_Budget_97",
+    "QA Code": "Dan_Budget_097",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 72, Paragraph 2\n"
   },
   {
@@ -1665,7 +1665,7 @@
       "recUwVPxMmsJF1Ew2",
       "recZ8wrSVc6ylH9Nv"
     ],
-    "Question-Answer-Code": "Dan_Budget_98",
+    "QA Code": "Dan_Budget_098",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 73, Paragraph 1-3\n"
   },
   {
@@ -1680,7 +1680,7 @@
       "recUwVPxMmsJF1Ew2",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_99",
+    "QA Code": "Dan_Budget_099",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 74, Paragraph 1\n"
   },
   {
@@ -1696,7 +1696,7 @@
       "recFXycyXWuWo47Ix",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_100",
+    "QA Code": "Dan_Budget_100",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 75, Paragraph 2\n"
   },
   {
@@ -1712,7 +1712,7 @@
       "recFXycyXWuWo47Ix",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_101",
+    "QA Code": "Dan_Budget_101",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 76, Paragraph 1-3\n"
   },
   {
@@ -1727,7 +1727,7 @@
       "reczzBRSwmcr3NBTl",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_102",
+    "QA Code": "Dan_Budget_102",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 78, Paragraph 1-3\n"
   },
   {
@@ -1746,7 +1746,7 @@
       "recfP45qdDq2WHR4k",
       "recs3820WK1JHT9tI"
     ],
-    "Question-Answer-Code": "Dan_Budget_103",
+    "QA Code": "Dan_Budget_103",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81, Paragraph 1-5\n"
   },
   {
@@ -1766,7 +1766,7 @@
       "rec3ifMUgWnqCRHMT",
       "rechTLqF7JgRmiqKw"
     ],
-    "Question-Answer-Code": "Dan_Budget_104",
+    "QA Code": "Dan_Budget_104",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81-82, Paragraph 6, 1-3\n"
   },
   {
@@ -1785,7 +1785,7 @@
       "recqFxYA8XapFzThA",
       "rec5hduOrQRpCn7TS"
     ],
-    "Question-Answer-Code": "Dan_Budget_105",
+    "QA Code": "Dan_Budget_105",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2\n"
   },
   {
@@ -1804,7 +1804,7 @@
       "recqFxYA8XapFzThA",
       "rec5hduOrQRpCn7TS"
     ],
-    "Question-Answer-Code": "Dan_Budget_106",
+    "QA Code": "Dan_Budget_106",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2\n"
   },
   {
@@ -1823,7 +1823,7 @@
       "recqFxYA8XapFzThA",
       "rec5hduOrQRpCn7TS"
     ],
-    "Question-Answer-Code": "Dan_Budget_107",
+    "QA Code": "Dan_Budget_107",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 86, Paragraph 1-8\n"
   },
   {
@@ -1831,14 +1831,14 @@
     "Question": "How much does the City of Tulsa spend on its Information Technology Department?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Tulsa's FY23 budget includes** $29.9 million** for the IT Department. Their net budget increased by $3.1 million from FY22. Major changes in the IT department's FY23 budget includes: $1.1 million in salary increases, $287,000 to hire three new positions, $907,000 for the City's network security system, and $4.5 million to update or replace equipment. \n",
+    "Answer": "Tulsa's FY23 budget includes **$29.9 million** for the IT Department. Their net budget increased by $3.1 million from FY22. Major changes in the IT department's FY23 budget includes: $1.1 million in salary increases, $287,000 to hire three new positions, $907,000 for the City's network security system, and $4.5 million to update or replace equipment. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
       "rechspLKvrZieUeO6",
       "recwqmsmyG37gRPXo"
     ],
-    "Question-Answer-Code": "Dan_Budget_108",
+    "QA Code": "Dan_Budget_108",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 89-90, Paragraph 1-3, 1-3\n"
   },
   {
@@ -1853,7 +1853,7 @@
       "recoDDlneXkTqmNsT",
       "rechspLKvrZieUeO6"
     ],
-    "Question-Answer-Code": "Dan_Budget_109",
+    "QA Code": "Dan_Budget_109",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 91, Paragraph 1-4\n"
   },
   {
@@ -1867,7 +1867,7 @@
       "recNlU5Iz5iBopJ9m",
       "recGkXnNzl0pw1ued"
     ],
-    "Question-Answer-Code": "Dan_Budget_110",
+    "QA Code": "Dan_Budget_110",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 92, Paragraph 1-4\n"
   },
   {
@@ -1881,7 +1881,7 @@
       "recNlU5Iz5iBopJ9m",
       "recGkXnNzl0pw1ued"
     ],
-    "Question-Answer-Code": "Dan_Budget_111",
+    "QA Code": "Dan_Budget_111",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 93, Paragraph 1-3\n"
   },
   {
@@ -1896,7 +1896,7 @@
       "recGkXnNzl0pw1ued",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_112",
+    "QA Code": "Dan_Budget_112",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 94\n"
   },
   {
@@ -1912,7 +1912,7 @@
       "recqfb8JxzG6zMJoP",
       "rec1kIEwUix0a4vuI"
     ],
-    "Question-Answer-Code": "Dan_Budget_113",
+    "QA Code": "Dan_Budget_113",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 95, Paragraph 1-2\n"
   },
   {
@@ -1926,7 +1926,7 @@
       "recNlU5Iz5iBopJ9m",
       "recSbuqxDsTNwX9nh"
     ],
-    "Question-Answer-Code": "Dan_Budget_114",
+    "QA Code": "Dan_Budget_114",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 96, Paragraph 1-3\n"
   },
   {
@@ -1941,7 +1941,7 @@
       "recSbuqxDsTNwX9nh",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_115",
+    "QA Code": "Dan_Budget_115",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 97, Paragraph 1-3\n"
   },
   {
@@ -1957,7 +1957,7 @@
       "recnOWL9qFDNEHXtK",
       "rec7DEXH50BvqGg1U"
     ],
-    "Question-Answer-Code": "Dan_Budget_116",
+    "QA Code": "Dan_Budget_116",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 98, Paragraph 1-2\n"
   },
   {
@@ -1973,7 +1973,7 @@
       "recnOWL9qFDNEHXtK",
       "rec7DEXH50BvqGg1U"
     ],
-    "Question-Answer-Code": "Dan_Budget_117",
+    "QA Code": "Dan_Budget_117",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 99-100, Paragraph 1-3, 1\n"
   },
   {
@@ -1989,7 +1989,7 @@
       "recnOWL9qFDNEHXtK",
       "recoDDlneXkTqmNsT"
     ],
-    "Question-Answer-Code": "Dan_Budget_118",
+    "QA Code": "Dan_Budget_118",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 101, Paragraph 1-3\n"
   },
   {
@@ -2007,7 +2007,7 @@
       "rec49m6RsxVRmpzkl",
       "recgTWazARLYOpVkS"
     ],
-    "Question-Answer-Code": "Dan_Budget_119",
+    "QA Code": "Dan_Budget_119",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 2\n"
   },
   {
@@ -2023,7 +2023,7 @@
       "recjHJF8xuHGjzKjw",
       "rec49m6RsxVRmpzkl"
     ],
-    "Question-Answer-Code": "Dan_Budget_120",
+    "QA Code": "Dan_Budget_120",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 1\n"
   },
   {
@@ -2040,7 +2040,7 @@
       "recjHJF8xuHGjzKjw",
       "recswu6dyA1AGVmzf"
     ],
-    "Question-Answer-Code": "Dan_Budget_121",
+    "QA Code": "Dan_Budget_121",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 105, Paragraph 1\n"
   },
   {
@@ -2057,7 +2057,7 @@
       "recjHJF8xuHGjzKjw",
       "recswu6dyA1AGVmzf"
     ],
-    "Question-Answer-Code": "Dan_Budget_122",
+    "QA Code": "Dan_Budget_122",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 104, Paragraph 1\n"
   },
   {
@@ -2072,7 +2072,7 @@
       "recoDDlneXkTqmNsT",
       "rechspLKvrZieUeO6"
     ],
-    "Question-Answer-Code": "Dan_Budget_123",
+    "QA Code": "Dan_Budget_123",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 108, Paragraph 1-5\n"
   },
   {
@@ -2084,7 +2084,7 @@
     "Concepts": [
       "recFo91PsG77aj1jR"
     ],
-    "Question-Answer-Code": "Dan_Budget_124",
+    "QA Code": "Dan_Budget_124",
     "Source": "City of Tulsa. Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 111-140\n"
   },
   {
@@ -2097,7 +2097,7 @@
       "recxdOAhjRYEtGBIR",
       "recyUhPcjsDzsScmC"
     ],
-    "Question-Answer-Code": "Samuel_Code_1",
+    "QA Code": "Samuel_Code_001",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection C\n"
   },
   {
@@ -2111,7 +2111,7 @@
       "recu7T4jWaUtbDQ2V",
       "rec2bz2lvTwnSaZRh"
     ],
-    "Question-Answer-Code": "Samuel_Code_2",
+    "QA Code": "Samuel_Code_002",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D\n"
   },
   {
@@ -2126,7 +2126,7 @@
       "recqHZ3UmD7SG9v5v",
       "rec2bz2lvTwnSaZRh"
     ],
-    "Question-Answer-Code": "Samuel_Code_3",
+    "QA Code": "Samuel_Code_003",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D\n"
   },
   {
@@ -2140,7 +2140,7 @@
       "recKE790vQbaHmbeM",
       "rech2pNnuhsCaWBdI"
     ],
-    "Question-Answer-Code": "Samuel_Code_4",
+    "QA Code": "Samuel_Code_004",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection E\n"
   },
   {
@@ -2155,7 +2155,7 @@
       "rech2pNnuhsCaWBdI",
       "recEs1TA3rbioFjib"
     ],
-    "Question-Answer-Code": "Samuel_Code_5",
+    "QA Code": "Samuel_Code_005",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection E\n"
   },
   {
@@ -2168,7 +2168,7 @@
       "recxdOAhjRYEtGBIR",
       "reck7kIoxu2H5u0Iy"
     ],
-    "Question-Answer-Code": "Samuel_Code_6",
+    "QA Code": "Samuel_Code_006",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection F\n"
   },
   {
@@ -2182,7 +2182,7 @@
       "recqFxYA8XapFzThA",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Samuel_Code_7",
+    "QA Code": "Samuel_Code_007",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection G\n"
   },
   {
@@ -2195,7 +2195,7 @@
       "rec4hf7kl2KbCAAhf",
       "rec6jAl0sv1feJZPs"
     ],
-    "Question-Answer-Code": "Samuel_Code_8",
+    "QA Code": "Samuel_Code_008",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection I\n"
   },
   {
@@ -2208,7 +2208,7 @@
       "rec4hf7kl2KbCAAhf",
       "rec6jAl0sv1feJZPs"
     ],
-    "Question-Answer-Code": "Samuel_Code_9",
+    "QA Code": "Samuel_Code_009",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection J\n"
   },
   {
@@ -2222,7 +2222,7 @@
       "recSGySDo7WKcIwRl",
       "recr78qUqkhp5Zz4o"
     ],
-    "Question-Answer-Code": "Samuel_Code_10",
+    "QA Code": "Samuel_Code_010",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K\n"
   },
   {
@@ -2241,7 +2241,7 @@
       "recbjRBkOBDM1mYbH",
       "recBEtjHtOWJydWze"
     ],
-    "Question-Answer-Code": "Samuel_Code_11",
+    "QA Code": "Samuel_Code_011",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K\n"
   },
   {
@@ -2255,7 +2255,7 @@
       "rec6jAl0sv1feJZPs",
       "recBYNVooM0ZJAzf7"
     ],
-    "Question-Answer-Code": "Samuel_Code_12",
+    "QA Code": "Samuel_Code_012",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L\n"
   },
   {
@@ -2269,7 +2269,7 @@
       "recS9VqXREVYUBP7z",
       "recTxgKBjwHwkDitY"
     ],
-    "Question-Answer-Code": "Samuel_Code_13",
+    "QA Code": "Samuel_Code_013",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L\n"
   },
   {
@@ -2281,7 +2281,7 @@
     "Concepts": [
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Samuel_Code_14",
+    "QA Code": "Samuel_Code_014",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection M\n"
   },
   {
@@ -2295,7 +2295,7 @@
       "rec6jAl0sv1feJZPs",
       "recSJYjYkV67eZeIy"
     ],
-    "Question-Answer-Code": "Samuel_Code_15",
+    "QA Code": "Samuel_Code_015",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection N\n"
   },
   {
@@ -2308,7 +2308,7 @@
       "rec5zG09bsxqZaySm",
       "rec6jAl0sv1feJZPs"
     ],
-    "Question-Answer-Code": "Samuel_Code_16",
+    "QA Code": "Samuel_Code_016",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection O\n"
   },
   {
@@ -2322,7 +2322,7 @@
       "recRUsMirOWqHF097",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_17",
+    "QA Code": "Samuel_Code_017",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 1 - Creation and Function\n"
   },
   {
@@ -2337,7 +2337,7 @@
       "recygMhYSJxEH8g89",
       "recAi1b9s2ensb8nF"
     ],
-    "Question-Answer-Code": "Samuel_Code_18",
+    "QA Code": "Samuel_Code_018",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 2 - Salaries\n"
   },
   {
@@ -2353,7 +2353,7 @@
       "recygMhYSJxEH8g89",
       "recAi1b9s2ensb8nF"
     ],
-    "Question-Answer-Code": "Samuel_Code_19",
+    "QA Code": "Samuel_Code_019",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 2 - Salaries\n"
   },
   {
@@ -2367,7 +2367,7 @@
       "recX9nNDKs0rtBi3g",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Samuel_Code_20",
+    "QA Code": "Samuel_Code_020",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 2 - Salaries\n"
   },
   {
@@ -2381,7 +2381,7 @@
       "recX9nNDKs0rtBi3g",
       "recTduFwT9ATeQB7t"
     ],
-    "Question-Answer-Code": "Samuel_Code_21",
+    "QA Code": "Samuel_Code_021",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings\n"
   },
   {
@@ -2396,7 +2396,7 @@
       "recTduFwT9ATeQB7t",
       "recZkq5S5jOSatcsk"
     ],
-    "Question-Answer-Code": "Samuel_Code_22",
+    "QA Code": "Samuel_Code_022",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings\n"
   },
   {
@@ -2411,7 +2411,7 @@
       "recTduFwT9ATeQB7t",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_23",
+    "QA Code": "Samuel_Code_023",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings\n"
   },
   {
@@ -2426,7 +2426,7 @@
       "recTduFwT9ATeQB7t",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_24",
+    "QA Code": "Samuel_Code_024",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings\n"
   },
   {
@@ -2441,7 +2441,7 @@
       "recTduFwT9ATeQB7t",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_25",
+    "QA Code": "Samuel_Code_025",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings\n"
   },
   {
@@ -2458,7 +2458,7 @@
       "rec8VvbJAupXTEemd",
       "recTduFwT9ATeQB7t"
     ],
-    "Question-Answer-Code": "Samuel_Code_26",
+    "QA Code": "Samuel_Code_026",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies\n"
   },
   {
@@ -2472,7 +2472,7 @@
       "recX9nNDKs0rtBi3g",
       "recTduFwT9ATeQB7t"
     ],
-    "Question-Answer-Code": "Samuel_Code_27",
+    "QA Code": "Samuel_Code_027",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies\n"
   },
   {
@@ -2486,7 +2486,7 @@
       "rec8VvbJAupXTEemd",
       "recdiRERCYuZGHSXd"
     ],
-    "Question-Answer-Code": "Samuel_Code_28",
+    "QA Code": "Samuel_Code_028",
     "Source": "\n"
   },
   {
@@ -2502,7 +2502,7 @@
       "recbMhrS5udASHOL1",
       "recjQZSeuGijmUfoF"
     ],
-    "Question-Answer-Code": "Samuel_Code_29",
+    "QA Code": "Samuel_Code_029",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 3.3 - Open Meetings\n"
   },
   {
@@ -2514,7 +2514,7 @@
       "recex3pj2DIma2nV4",
       "recjQZSeuGijmUfoF"
     ],
-    "Question-Answer-Code": "Samuel_Code_30",
+    "QA Code": "Samuel_Code_030",
     "Source": "\n"
   },
   {
@@ -2529,7 +2529,7 @@
       "recbMhrS5udASHOL1",
       "recFXycyXWuWo47Ix"
     ],
-    "Question-Answer-Code": "Samuel_Code_31",
+    "QA Code": "Samuel_Code_031",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2543,7 +2543,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "SamueL_Code_32",
+    "QA Code": "Samuel_Code_032",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2560,7 +2560,7 @@
       "recTduFwT9ATeQB7t",
       "recVig4UtVDrLlTTL"
     ],
-    "Question-Answer-Code": "Samuel_Code_33",
+    "QA Code": "Samuel_Code_033",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2576,7 +2576,7 @@
       "recxYIRPvYEut8lEN",
       "recTduFwT9ATeQB7t"
     ],
-    "Question-Answer-Code": "Samuel_Code_34",
+    "QA Code": "Samuel_Code_034",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2593,7 +2593,7 @@
       "recTduFwT9ATeQB7t",
       "recVig4UtVDrLlTTL"
     ],
-    "Question-Answer-Code": "Samuel_Code_35",
+    "QA Code": "Samuel_Code_035",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2609,7 +2609,7 @@
       "recxYIRPvYEut8lEN",
       "recTduFwT9ATeQB7t"
     ],
-    "Question-Answer-Code": "Samuel_Code_36",
+    "QA Code": "Samuel_Code_036",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2625,7 +2625,7 @@
       "recxYIRPvYEut8lEN",
       "rec9rnEQuFVJq4IgH"
     ],
-    "Question-Answer-Code": "Samuel_Code_37",
+    "QA Code": "Samuel_Code_037",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2641,7 +2641,7 @@
       "recxYIRPvYEut8lEN",
       "rec9rnEQuFVJq4IgH"
     ],
-    "Question-Answer-Code": "Samuel_Code_38",
+    "QA Code": "Samuel_Code_038",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 4 - Rules\n"
   },
   {
@@ -2657,7 +2657,7 @@
       "recb8y39G2n1fUMpf",
       "recZtZB1zc9lOY8fl"
     ],
-    "Question-Answer-Code": "Samuel_Code_39",
+    "QA Code": "Samuel_Code_039",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 5 - Chairman\n"
   },
   {
@@ -2672,7 +2672,7 @@
       "recX9nNDKs0rtBi3g",
       "recb8y39G2n1fUMpf"
     ],
-    "Question-Answer-Code": "Samuel_Code_40",
+    "QA Code": "Samuel_Code_040",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 5 - Chairman\n"
   },
   {
@@ -2687,7 +2687,7 @@
       "recX9nNDKs0rtBi3g",
       "receacjDdXCI7IGXt"
     ],
-    "Question-Answer-Code": "Samuel_Code_41",
+    "QA Code": "Samuel_Code_041",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications\n"
   },
   {
@@ -2703,7 +2703,7 @@
       "recrCWf24cPQJ3bt8",
       "recjzq9fpGN98fJ4l"
     ],
-    "Question-Answer-Code": "Samuel_Code_42",
+    "QA Code": "Samuel_Code_042",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications\n"
   },
   {
@@ -2718,7 +2718,7 @@
       "recX9nNDKs0rtBi3g",
       "recTduFwT9ATeQB7t"
     ],
-    "Question-Answer-Code": "Samuel_Code_43",
+    "QA Code": "Samuel_Code_043",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting\n"
   },
   {
@@ -2733,7 +2733,7 @@
       "recX9nNDKs0rtBi3g",
       "rech8ZnhQ6xMFXskv"
     ],
-    "Question-Answer-Code": "Samuel_Code_44",
+    "QA Code": "Samuel_Code_044",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting\n"
   },
   {
@@ -2754,7 +2754,7 @@
       "recTduFwT9ATeQB7t",
       "recov7WSAYmy4L4Qr"
     ],
-    "Question-Answer-Code": "Samuel_Code_45",
+    "QA Code": "Samuel_Code_045",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 6.3 - Voting on zoning changes involving protests\n"
   },
   {
@@ -2772,7 +2772,7 @@
       "rec6lrWmFyJj2MfoK",
       "recuuCNjMbaMhXTVC"
     ],
-    "Question-Answer-Code": "Samuel_Code_46",
+    "QA Code": "Samuel_Code_046",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets\n"
   },
   {
@@ -2790,7 +2790,7 @@
       "rec6lrWmFyJj2MfoK",
       "recuuCNjMbaMhXTVC"
     ],
-    "Question-Answer-Code": "Samuel_Code_47",
+    "QA Code": "Samuel_Code_047",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets\n"
   },
   {
@@ -2810,7 +2810,7 @@
       "recTduFwT9ATeQB7t",
       "recov7WSAYmy4L4Qr"
     ],
-    "Question-Answer-Code": "Samuel_Code_48",
+    "QA Code": "Samuel_Code_048",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets\n"
   },
   {
@@ -2828,7 +2828,7 @@
       "rec6lrWmFyJj2MfoK",
       "recuuCNjMbaMhXTVC"
     ],
-    "Question-Answer-Code": "Samuel_Code_49",
+    "QA Code": "Samuel_Code_049",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets\n"
   },
   {
@@ -2845,7 +2845,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_50",
+    "QA Code": "Samuel_Code_050",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.3 - Additional procedures\n"
   },
   {
@@ -2861,7 +2861,7 @@
       "rec5fkRItyK7VCWJO",
       "recdbpewxCXJ0tOiA"
     ],
-    "Question-Answer-Code": "Samuel_Code_51",
+    "QA Code": "Samuel_Code_051",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.4 - Economic stabilization reserve created\n"
   },
   {
@@ -2879,7 +2879,7 @@
       "recdbpewxCXJ0tOiA",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_52",
+    "QA Code": "Samuel_Code_052",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve.\n"
   },
   {
@@ -2897,7 +2897,7 @@
       "rec17CY4B97WAP1a8",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_53",
+    "QA Code": "Samuel_Code_053",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve.\n"
   },
   {
@@ -2915,7 +2915,7 @@
       "recnMN6FZvUqfZPpr",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_54",
+    "QA Code": "Samuel_Code_054",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures\n"
   },
   {
@@ -2933,7 +2933,7 @@
       "recnMN6FZvUqfZPpr",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_55",
+    "QA Code": "Samuel_Code_055",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures\n"
   },
   {
@@ -2950,7 +2950,7 @@
       "rec17CY4B97WAP1a8",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_56",
+    "QA Code": "Samuel_Code_056",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.7 - Use of monies allocated for general purposes\n"
   },
   {
@@ -2965,7 +2965,7 @@
       "recpRzWgONB4fYLgm",
       "recdbpewxCXJ0tOiA"
     ],
-    "Question-Answer-Code": "Samuel_Code_57",
+    "QA Code": "Samuel_Code_057",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.8 - Withdrawals from the economic stabilization reserve.\n"
   },
   {
@@ -2982,7 +2982,7 @@
       "reclEz2L2IRivna0C",
       "recGP41AikxZaToKj"
     ],
-    "Question-Answer-Code": "Samuel_Code_58",
+    "QA Code": "Samuel_Code_058",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve.\n"
   },
   {
@@ -3001,7 +3001,7 @@
       "recckkQsJ4fr64GLe",
       "recpRzWgONB4fYLgm"
     ],
-    "Question-Answer-Code": "Samuel_Code_59",
+    "QA Code": "Samuel_Code_059",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve.\n"
   },
   {
@@ -3020,7 +3020,7 @@
       "recckkQsJ4fr64GLe",
       "recpRzWgONB4fYLgm"
     ],
-    "Question-Answer-Code": "Samuel_Code_60",
+    "QA Code": "Samuel_Code_060",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve.\n"
   },
   {
@@ -3038,7 +3038,7 @@
       "recGP41AikxZaToKj",
       "recckkQsJ4fr64GLe"
     ],
-    "Question-Answer-Code": "Samuel_Code_61",
+    "QA Code": "Samuel_Code_061",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve.\n"
   },
   {
@@ -3056,7 +3056,7 @@
       "recGP41AikxZaToKj",
       "recckkQsJ4fr64GLe"
     ],
-    "Question-Answer-Code": "Samuel_Code_62",
+    "QA Code": "Samuel_Code_062",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve.\n"
   },
   {
@@ -3072,7 +3072,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_63",
+    "QA Code": "Samuel_Code_063",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3088,7 +3088,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_64",
+    "QA Code": "Samuel_Code_064",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3104,7 +3104,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_65",
+    "QA Code": "Samuel_Code_065",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3121,7 +3121,7 @@
       "recbMhrS5udASHOL1",
       "rec9waV3GVmUG4v9L"
     ],
-    "Question-Answer-Code": "Samuel_Code_66",
+    "QA Code": "Samuel_Code_066",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3137,7 +3137,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_67",
+    "QA Code": "Samuel_Code_067",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3153,7 +3153,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_68",
+    "QA Code": "Samuel_Code_068",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3169,7 +3169,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_69",
+    "QA Code": "Samuel_Code_069",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3185,7 +3185,7 @@
       "recX9nNDKs0rtBi3g",
       "recbMhrS5udASHOL1"
     ],
-    "Question-Answer-Code": "Samuel_Code_70",
+    "QA Code": "Samuel_Code_070",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions.\n"
   },
   {
@@ -3202,7 +3202,7 @@
       "recbMhrS5udASHOL1",
       "rec2sygWSOsXvZgta"
     ],
-    "Question-Answer-Code": "Samuel_Code_71",
+    "QA Code": "Samuel_Code_071",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions.\n"
   },
   {
@@ -3219,7 +3219,7 @@
       "recbMhrS5udASHOL1",
       "rec2sygWSOsXvZgta"
     ],
-    "Question-Answer-Code": "Samuel_Code_72",
+    "QA Code": "Samuel_Code_072",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions.\n"
   },
   {
@@ -3236,7 +3236,7 @@
       "recbMhrS5udASHOL1",
       "rec2sygWSOsXvZgta"
     ],
-    "Question-Answer-Code": "Samuel_Code_73",
+    "QA Code": "Samuel_Code_073",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions.\n"
   },
   {
@@ -3253,7 +3253,7 @@
       "recbMhrS5udASHOL1",
       "rec2sygWSOsXvZgta"
     ],
-    "Question-Answer-Code": "Samuel_Code_74",
+    "QA Code": "Samuel_Code_074",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions.\n"
   },
   {
@@ -3271,7 +3271,7 @@
       "rec2sygWSOsXvZgta",
       "rec6lrWmFyJj2MfoK"
     ],
-    "Question-Answer-Code": "Samuel_Code_75",
+    "QA Code": "Samuel_Code_075",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions.\n"
   },
   {
@@ -3288,7 +3288,7 @@
       "recbMhrS5udASHOL1",
       "recArDxIzaR55Bg9n"
     ],
-    "Question-Answer-Code": "Samuel_Code_76",
+    "QA Code": "Samuel_Code_076",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 10 - Approval or veto of ordinances and resolutions.\n"
   },
   {
@@ -3305,7 +3305,7 @@
       "recbMhrS5udASHOL1",
       "recyFsZOyQSoHehhX"
     ],
-    "Question-Answer-Code": "Samuel_Code_77",
+    "QA Code": "Samuel_Code_077",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions.\n"
   },
   {
@@ -3323,7 +3323,7 @@
       "recyFsZOyQSoHehhX",
       "rec1kIEwUix0a4vuI"
     ],
-    "Question-Answer-Code": "Samuel_Code_78",
+    "QA Code": "Samuel_Code_078",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions.\n"
   },
   {
@@ -3343,7 +3343,7 @@
       "recArDxIzaR55Bg9n",
       "recjo2zoepOIemiRP"
     ],
-    "Question-Answer-Code": "Samuel_Code_79",
+    "QA Code": "Samuel_Code_079",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances\n"
   },
   {
@@ -3363,7 +3363,7 @@
       "recArDxIzaR55Bg9n",
       "recjo2zoepOIemiRP"
     ],
-    "Question-Answer-Code": "Samuel_Code_80",
+    "QA Code": "Samuel_Code_080",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances\n"
   },
   {
@@ -3382,7 +3382,7 @@
       "recArDxIzaR55Bg9n",
       "recjo2zoepOIemiRP"
     ],
-    "Question-Answer-Code": "Samuel_Code_81",
+    "QA Code": "Samuel_Code_081",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances\n"
   },
   {
@@ -3400,7 +3400,7 @@
       "rec9rnEQuFVJq4IgH",
       "recoCmCo16FXWqhx8"
     ],
-    "Question-Answer-Code": "Samuel_Code_82",
+    "QA Code": "Samuel_Code_082",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances.\n"
   },
   {
@@ -3418,7 +3418,7 @@
       "rec9rnEQuFVJq4IgH",
       "recxYIRPvYEut8lEN"
     ],
-    "Question-Answer-Code": "Samuel_Code_83",
+    "QA Code": "Samuel_Code_083",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances.\n"
   },
   {
@@ -3435,7 +3435,7 @@
       "recbMhrS5udASHOL1",
       "rec9rnEQuFVJq4IgH"
     ],
-    "Question-Answer-Code": "Samuel_Code_84",
+    "QA Code": "Samuel_Code_084",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances.\n"
   },
   {
@@ -3452,7 +3452,7 @@
       "recbMhrS5udASHOL1",
       "recd19wOCMV6gY71M"
     ],
-    "Question-Answer-Code": "Samuel_Code_85",
+    "QA Code": "Samuel_Code_085",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 14 - Charter Review.\n"
   },
   {
@@ -3469,7 +3469,7 @@
       "recxdOAhjRYEtGBIR",
       "rec3gAkTXHxNLnke9"
     ],
-    "Question-Answer-Code": "Samuel_Code_86",
+    "QA Code": "Samuel_Code_086",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 15 - Initiative and Referendum\n"
   },
   {
@@ -3486,7 +3486,7 @@
       "recbMhrS5udASHOL1",
       "recRACBybqeI1fCXf"
     ],
-    "Question-Answer-Code": "Samuel_Code_87",
+    "QA Code": "Samuel_Code_087",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions\n"
   },
   {
@@ -3503,7 +3503,7 @@
       "recbMhrS5udASHOL1",
       "recRACBybqeI1fCXf"
     ],
-    "Question-Answer-Code": "Samuel_Code_88",
+    "QA Code": "Samuel_Code_088",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions\n"
   },
   {
@@ -3522,7 +3522,7 @@
       "rec5ic94W9hDJJkfc",
       "recaahrH7a6kRGqnX"
     ],
-    "Question-Answer-Code": "Samuel_Code_89",
+    "QA Code": "Samuel_Code_089",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3540,7 +3540,7 @@
       "recgK36yEFw6QRuiJ",
       "rec5ic94W9hDJJkfc"
     ],
-    "Question-Answer-Code": "Samuel_Code_90",
+    "QA Code": "Samuel_Code_090",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3560,7 +3560,7 @@
       "recVGtbiaDBgMqTaG",
       "rechiNVNlkL48X8Xv"
     ],
-    "Question-Answer-Code": "Samuel_Code_91",
+    "QA Code": "Samuel_Code_091",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3580,7 +3580,7 @@
       "recgQvgd3Shu5a7uH",
       "rechiNVNlkL48X8Xv"
     ],
-    "Question-Answer-Code": "Samuel_Code_92",
+    "QA Code": "Samuel_Code_092",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3600,7 +3600,7 @@
       "rechiNVNlkL48X8Xv",
       "recoLoeqCJnpr7eY9"
     ],
-    "Question-Answer-Code": "Samuel_Code_93",
+    "QA Code": "Samuel_Code_093",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3619,7 +3619,7 @@
       "rec5ic94W9hDJJkfc",
       "rechiNVNlkL48X8Xv"
     ],
-    "Question-Answer-Code": "Samuel_Code_94",
+    "QA Code": "Samuel_Code_094",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3637,7 +3637,7 @@
       "recgK36yEFw6QRuiJ",
       "rec5ic94W9hDJJkfc"
     ],
-    "Question-Answer-Code": "Samuel_Code_95",
+    "QA Code": "Samuel_Code_095",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3657,7 +3657,7 @@
       "rechiNVNlkL48X8Xv",
       "rec6lrWmFyJj2MfoK"
     ],
-    "Question-Answer-Code": "Samuel_Code_96",
+    "QA Code": "Samuel_Code_096",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings\n"
   },
   {
@@ -3675,7 +3675,7 @@
       "recxdOAhjRYEtGBIR",
       "rec6lrWmFyJj2MfoK"
     ],
-    "Question-Answer-Code": "Samuel_Code_97",
+    "QA Code": "Samuel_Code_097",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 18 - Delegation of authority to make rules\n"
   },
   {
@@ -3696,7 +3696,7 @@
       "recgmxBwToQ2fMxpY",
       "recgJkC22XaeUveje"
     ],
-    "Question-Answer-Code": "Samuel_Code_98",
+    "QA Code": "Samuel_Code_098",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals\n"
   },
   {
@@ -3715,7 +3715,7 @@
       "recgmxBwToQ2fMxpY",
       "recgJkC22XaeUveje"
     ],
-    "Question-Answer-Code": "Samuel_Code_99",
+    "QA Code": "Samuel_Code_099",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals\n"
   },
   {
@@ -3733,7 +3733,7 @@
       "recrC4TQvJ11rDrQT",
       "reccQujlrl8XzpgUR"
     ],
-    "Question-Answer-Code": "Samuel_Code_100",
+    "QA Code": "Samuel_Code_100",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals\n"
   },
   {
@@ -3747,7 +3747,7 @@
       "rec6lrWmFyJj2MfoK",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_101",
+    "QA Code": "Samuel_Code_101",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor\n"
   },
   {
@@ -3761,7 +3761,7 @@
       "rec6lrWmFyJj2MfoK",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_102",
+    "QA Code": "Samuel_Code_102",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor\n"
   },
   {
@@ -3775,8 +3775,8 @@
       "rec7UduLPBNpWCfHo",
       "recygMhYSJxEH8g89"
     ],
-    "Question-Answer-Code": "Samuel_Code_103",
-    "Source": "City of Tulsa. Code of Ordinances: Charter. Title 4 - Mayor, Auditor and Council. Article 1, Chapter 1, Section 100 - Salary of Mayor. Ord. No. 20190 From Ordinance No. 20190\n"
+    "QA Code": "Samuel_Code_103",
+    "Source": "City of Tulsa. Code of Ordinances: Charter. Title 4 - Mayor, Auditor and Council. Article 1, Chapter 1, Section 100 - Salary of Mayor. From Ordinance No. 20190\n"
   },
   {
     "id": "reczlfibbjwQ3S25D",
@@ -3790,7 +3790,7 @@
       "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g"
     ],
-    "Question-Answer-Code": "Samuel_Code_104",
+    "QA Code": "Samuel_Code_104",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.2. - Salary\n"
   },
   {
@@ -3806,7 +3806,7 @@
       "recX9nNDKs0rtBi3g",
       "recqckbuULaQhjRhV"
     ],
-    "Question-Answer-Code": "Samuel_Code_105",
+    "QA Code": "Samuel_Code_105",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.3. - Absense, temporary disability, or vacancy\n"
   },
   {
@@ -3820,7 +3820,7 @@
       "rec6lrWmFyJj2MfoK",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_106",
+    "QA Code": "Samuel_Code_106",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties\n"
   },
   {
@@ -3834,7 +3834,7 @@
       "rec6lrWmFyJj2MfoK",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_107",
+    "QA Code": "Samuel_Code_107",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties\n"
   },
   {
@@ -3848,7 +3848,7 @@
       "rec6lrWmFyJj2MfoK",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_108",
+    "QA Code": "Samuel_Code_108",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection A\n"
   },
   {
@@ -3868,7 +3868,7 @@
       "rec57K3gDdsswz8Qr",
       "reckq8plKjAmo1oOR"
     ],
-    "Question-Answer-Code": "Samuel_Code_109",
+    "QA Code": "Samuel_Code_109",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B\n"
   },
   {
@@ -3889,7 +3889,7 @@
       "reckq8plKjAmo1oOR",
       "recGZ2uhaRVhXOiMS"
     ],
-    "Question-Answer-Code": "Samuel_Code_110",
+    "QA Code": "Samuel_Code_110",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B\n"
   },
   {
@@ -3904,7 +3904,7 @@
       "recX9nNDKs0rtBi3g",
       "rec9waV3GVmUG4v9L"
     ],
-    "Question-Answer-Code": "Samuel_Code_111",
+    "QA Code": "Samuel_Code_111",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C\n"
   },
   {
@@ -3919,7 +3919,7 @@
       "recX9nNDKs0rtBi3g",
       "rec9waV3GVmUG4v9L"
     ],
-    "Question-Answer-Code": "Samuel_Code_112",
+    "QA Code": "Samuel_Code_112",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C\n"
   },
   {
@@ -3935,7 +3935,7 @@
       "rec9waV3GVmUG4v9L",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_113",
+    "QA Code": "Samuel_Code_113",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C\n"
   },
   {
@@ -3951,7 +3951,7 @@
       "rec9waV3GVmUG4v9L",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_114",
+    "QA Code": "Samuel_Code_114",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection D\n"
   },
   {
@@ -3967,7 +3967,7 @@
       "rec9waV3GVmUG4v9L",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_115",
+    "QA Code": "Samuel_Code_115",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection E\n"
   },
   {
@@ -3982,7 +3982,7 @@
       "recX9nNDKs0rtBi3g",
       "recxdOAhjRYEtGBIR"
     ],
-    "Question-Answer-Code": "Samuel_Code_116",
+    "QA Code": "Samuel_Code_116",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection F\n"
   },
   {
@@ -4001,7 +4001,7 @@
       "rec2NdYOcH1a9zvQX",
       "recYR0hYFlNEVOnX7"
     ],
-    "Question-Answer-Code": "Samuel_Code_117",
+    "QA Code": "Samuel_Code_117",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G\n"
   },
   {
@@ -4018,7 +4018,7 @@
       "recYR0hYFlNEVOnX7",
       "rectqNSvUt4brtYS2"
     ],
-    "Question-Answer-Code": "Samuel_Code_118",
+    "QA Code": "Samuel_Code_118",
     "Source": "City of Tulsa. Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G\n"
   }
 ]
