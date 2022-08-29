@@ -30,23 +30,25 @@ const suggestedSearchCount = isMobile ? 3 : 8;
 const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
+  const [subFilter, setSubFilter] = useState('');
   const [searchParams, setSearchParams] = useSearchParams();
   const [iframeLoaded, iframeDidLoad] = useState(false);
   const gaFilteringTracker = useAnalyticsEventTracker('Filtering');
-  const selectedFilters = searchParams.get('c') || [];
+  const selectedFilters = searchParams.get('c') || '';
 
   useEffect(() => {
     async function getData() {
       const { data } = await axios('/data/concepts.min.json');
       const concepts = data
         .filter(c => c['Questions'])
+        .filter(c => c['Tags'])
         .sort((a, b) => b['Questions'].length - a['Questions'].length);
       const tags = (() => {
         // flatten array
-        const tags = concepts.filter(c => c['Tags']).map(c => c['Tags']).reduce((acc, curr) => [...acc, ...curr], []);
+        const tags = concepts.map(c => c['Tags']).reduce((acc, curr) => [...acc, ...curr], []);
 
         // get unique
-        return  Array.from(new Set(tags));
+        return Array.from(new Set(tags));
       })();
 
       setTags(tags);
@@ -63,12 +65,24 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
   }).map(f => f.obj);
 
   const displayResults = (() => {
-    if (selectedFilters.length) {
-      return results.filter(r => [selectedFilters]
-        .map(f => concepts.filter(c => c['Tags']).find(c => c['Tags'].includes(f))['Questions'])
-        .reduce((acc, curr) => { return [...acc, ...curr] }, [])
-        .includes(r.id)
-      );
+    if (selectedFilters.length && concepts.length) {
+      const matchingConcepts = concepts
+        .filter(c => c['Tags'])
+        .filter(c => c['Tags'].includes(selectedFilters))
+        .map(c => c['Questions'])
+        .reduce((acc, curr) => { return [...acc, ...curr] }, []);
+
+      const matchingMegaNames = concepts
+        .filter(c => c['MegaName'])
+        .filter(c => c['MegaName'].includes(subFilter))
+        .map(c => c['Questions'])
+        .reduce((acc, curr) => { return [...acc, ...curr] }, []);
+
+      return results
+        .filter(r => matchingConcepts.includes(r.id))
+        .filter(r => {
+            return subFilter ? matchingMegaNames.includes(r.id) : r;
+        });
     } else {
       return typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount);
     }
@@ -85,11 +99,13 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
           if(selectedFilters.includes(c)) {
             gaFilteringTracker('unset', c);
             searchParams.set('c', '');
+            setSubFilter('');
             setSearchParams(searchParams);
             onCategoryChange('');
           } else {
             gaFilteringTracker('set', c);
             searchParams.set('c', c);
+            setSubFilter('');
             setSearchParams(searchParams);
             onCategoryChange(c);
           }
@@ -99,6 +115,29 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
         {c}
       </div>)}
     </div>
+    {selectedFilters && <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
+      {Array.from(new Set(concepts
+        .filter(c => c['Tags']?.includes(selectedFilters) && c['Questions'] && c['MegaName'])
+        .map(c => c['MegaName'])
+        .reduce((a, c) => [...a, ...c], [])))
+        .map(
+          (c) => <div
+            onClick={() => {
+              if (c === subFilter) {
+                setSubFilter('');  
+              } else {
+                setSubFilter(c);
+              }
+            }}
+            style={{ backgroundColor: subFilter.includes(c) ? TAG_COLOR_LOOKUP[selectedFilters] : '' }}
+            className='text-white select-none bg-gray-200/50 p-2 m-1 rounded-lg text-sm cursor-pointer'
+            key={c}
+          >
+            {c}
+          </div>
+        )
+      }
+    </div>}
     <div className='shadow-lg mt-4 rounded-2xl bg-[#FBFBFB]'>
       <div className='border-b-gray-200 border-b'>
         <h6 className='text-sm text-gray-400 m-1 p-3 select-none'>
