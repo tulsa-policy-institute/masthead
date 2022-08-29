@@ -30,7 +30,6 @@ const suggestedSearchCount = isMobile ? 3 : 8;
 const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
-  const [, setFilters] = useState([]);
   const [searchParams, setSearchParams] = useSearchParams();
   const [iframeLoaded, iframeDidLoad] = useState(false);
   const gaFilteringTracker = useAnalyticsEventTracker('Filtering');
