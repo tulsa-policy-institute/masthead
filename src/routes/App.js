@@ -4,7 +4,6 @@ import { Routes, Route, Link, useSearchParams } from 'react-router-dom';
 import ReactGA from 'react-ga';
 import { CookiesProvider, withCookies } from 'react-cookie';
 import Modal from '../ui/modal';
-import Lecture from './Lecture';
 import Search from './Search';
 
 ReactGA.initialize('UA-237465950-1');
@@ -83,7 +82,6 @@ function App({ cookies }) {
           <Route path="/" element={
             <Search questions={questions} lectures={lectures}/>
           }/>
-          <Route path="/lectures/:id" element={lectures.length && <Lecture lectures={lectures} questions={questions} />} />
         </Routes>
       </main>
       <footer className='m-4'>
