@@ -8,13 +8,13 @@ const Result = ({ q }) => {
   return <>
     <div
       onClick={() => {
-        if (!open) { gaResultTracker('viewing', q.Title); }
+        if (!open) { gaResultTracker('viewing', q.Question); }
         updateResult(!open);
       }}
       className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'
     >
       <h3 className='sm:text-lg text-md m-1 p-3 pointer-events-none select-none'>
-        {q.Title}
+        {q.Question}
         <svg
           className={`float-right w-6 h-6 rotate-180 shrink-0 ${open ? '' : 'scale-[-1]'}`}
           fill="currentColor"
@@ -25,9 +25,9 @@ const Result = ({ q }) => {
     </div>
     {open &&
         <div className={`p-4 bg-gray-100 ${open ? 'visible' : 'invisible'}`}>
-          <div className='max-w-prose mb-2'>{q.Answers}</div>
+          <div className='max-w-prose mb-2'>{q.Answer}</div>
           <div className='uppercase italic font-mono text-slate-500 text-xs max-w-prose'>
-            Source{q.Sources?.length === 1 ? '' : 's' }: {q.Sources?.map((s, i) => `${s.Source}, ${s.Section}, ${s.Subsection}`).join(', ')}
+            {q.Source}
           </div>
         </div>
       }

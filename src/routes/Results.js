@@ -55,7 +55,7 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
   }, []);
 
   const filteredQuestions = fuzzysort.go(typedInput, results, {
-    key: 'Title',
+    key: 'Question',
     limit: suggestedSearchCount,
     threshold: -5000,
   }).map(f => f.obj);
