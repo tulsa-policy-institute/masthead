@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import * as fuzzysort from 'fuzzysort';
 import { isMobile } from 'react-device-detect';
+import { useSearchParams } from 'react-router-dom';
 import { withCookies } from 'react-cookie';
 import Result from './Result';
 import useAnalyticsEventTracker from '../utils/eventTracking';
@@ -29,9 +30,11 @@ const suggestedSearchCount = isMobile ? 3 : 8;
 const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
-  const [selectedFilters, setFilters] = useState([]);
+  const [, setFilters] = useState([]);
+  const [searchParams, setSearchParams] = useSearchParams();
   const [iframeLoaded, iframeDidLoad] = useState(false);
   const gaFilteringTracker = useAnalyticsEventTracker('Filtering');
+  const selectedFilters = searchParams.get('c') || [];
 
   useEffect(() => {
     async function getData() {
@@ -62,7 +65,7 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
 
   const displayResults = (() => {
     if (selectedFilters.length) {
-      return results.filter(r => selectedFilters
+      return results.filter(r => [selectedFilters]
         .map(f => concepts.filter(c => c['Tags']).find(c => c['Tags'].includes(f))['Questions'])
         .reduce((acc, curr) => { return [...acc, ...curr] }, [])
         .includes(r.id)
@@ -82,11 +85,13 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
         onClick={() => {
           if(selectedFilters.includes(c)) {
             gaFilteringTracker('unset', c);
-            setFilters([]);
+            searchParams.set('c', '');
+            setSearchParams(searchParams);
             onCategoryChange('');
           } else {
             gaFilteringTracker('set', c);
-            setFilters([c]);
+            searchParams.set('c', c);
+            setSearchParams(searchParams);
             onCategoryChange(c);
           }
         }}
