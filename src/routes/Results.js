@@ -92,7 +92,6 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
       return typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount);
     }
   })();
-  const hasTextResults = typedInput && filteredQuestions.length;
 
   return <>
     <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
