@@ -17,7 +17,7 @@ function App({ cookies }) {
   const [modalRoleSelection, setRole] = useState();
   const [searchParams] = useSearchParams();
 
-  const isQuerying = searchParams.get('q') || searchParams.get('c');
+  const isQuerying = searchParams.get('init');
 
   const handleContinue = () => {
     cookies.set('email', modalEmailEntry);

@@ -14,6 +14,8 @@ const CATEGORY_COLOR_LOOKUP = {
 }
 
 const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = '', children, cookies }) => {
+  const [searchParams, setSearchParams] = useSearchParams();
+
   return <div className={className}>
     <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
     <div className="relative">
@@ -35,9 +37,9 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
       />
       {typedInput && <div
         className="flex absolute inset-y-0 right-0 items-center pr-3 text-white cursor-pointer"
-        onClick={() => setTypedInput('')}
+        onClick={() => { searchParams.set('init', true); setSearchParams(searchParams) }}
       >
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
       </div>}
     </div>
   </div>;
@@ -84,7 +86,7 @@ function Search({ questions, lectures }) {
   const [, setTypedInput] = useState();
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
-  const isQuerying = searchParams.get('q') || searchParams.get('c');
+  const isQuerying = searchParams.get('init');
   const typedInput = searchParams.get('q');
   const lastSelectedCategory = searchParams.get('c');
   const gaEventTracker = useAnalyticsEventTracker('Search');
