@@ -15,39 +15,70 @@ const CATEGORY_COLOR_LOOKUP = {
 
 const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = '', children, cookies }) => {
   return <div className={className}>
-    <input
-      type="text"
-      autoFocus={cookies.get('email') ? true : false}
-      value={typedInput || ''}
-      className="
-        form-control
-        block
-        w-full
-        px-3
-        py-1.5
-        text-base
-        font-normal
-        text-gray-700
-        bg-white bg-clip-padding
-        border border-solid border-gray-300
-        rounded
-        transition
-        ease-in-out
-        m-0
-        focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
-        pl-10
-      "
-      id="search-question"
-      placeholder='Ask a question...'
-      style={{
-        borderRadius: '9999px',
-        filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
-        borderColor: '#fff',
-      }}
-      onChange={(e) => setTypedInput(e.target.value)}
-    />
-    {children}
+    <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
+    <div className="relative">
+      <div className="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
+        <svg aria-hidden="true" className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+      </div>
+      <input
+        autoFocus={cookies.get('email') ? true : false}
+        value={typedInput || ''}
+        onChange={(e) => setTypedInput(e.target.value)}
+        type="text"
+        id="default-search"
+        className="p-4 pl-10 w-full text-sm bg-gray-50/25 rounded-3xl border-0 text-white"
+        style={{
+          borderRadius: '9999px',
+          filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
+          borderColor: '#fff',
+        }}
+      />
+      {typedInput && <div
+        className="flex absolute inset-y-0 right-0 items-center pr-3 text-white cursor-pointer"
+        onClick={() => setTypedInput('')}
+      >
+        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+      </div>}
+    </div>
   </div>;
+
+
+  // <div className={className}>
+  //   <input
+  //     type="text"
+  //     autoFocus={cookies.get('email') ? true : false}
+  //     value={typedInput || ''}
+  //     className="
+  //       form-control
+  //       block
+  //       w-full
+  //       px-3
+  //       py-1.5
+  //       text-base
+  //       font-normal
+  //       text-gray-700
+  //       bg-slate-50/75 bg-clip-padding
+  //       border border-solid border-gray-300
+  //       rounded
+  //       transition
+  //       ease-in-out
+  //       m-0
+  //       focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
+  //       pl-10
+  //     "
+  //     id="search-question"
+  //     placeholder='Ask a question...'
+  //     style={{
+  //       borderRadius: '9999px',
+  //       filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
+  //       borderColor: '#fff',
+  //     }}
+  //     onChange={(e) => setTypedInput(e.target.value)}
+  //   />
+  //   {children}
+  // </div>;
 })
 
 function Search({ questions, lectures }) {
