@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import useAnalyticsEventTracker from '../utils/eventTracking';
+import ReactMarkdown from 'https://esm.sh/react-markdown@7'
 
 const Result = ({ q }) => {
   const [open, updateResult] = useState(false);
@@ -25,7 +26,7 @@ const Result = ({ q }) => {
     </div>
     {open &&
         <div className={`p-4 bg-gray-100 ${open ? 'visible' : 'invisible'}`}>
-          <div className='max-w-prose mb-2'>{q.Answer}</div>
+          <div className='max-w-prose mb-2'><ReactMarkdown>{q.Answer}</ReactMarkdown></div>
           <div className='uppercase italic font-mono text-slate-500 text-xs max-w-prose'>
             {q.Source}
           </div>
