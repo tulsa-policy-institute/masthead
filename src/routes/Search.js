@@ -28,11 +28,9 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
         onChange={(e) => setTypedInput(e.target.value)}
         type="text"
         id="default-search"
-        className="p-4 pl-10 w-full text-sm bg-gray-50/25 rounded-3xl border-0 text-white"
+        className="p-4 pl-10 w-full text-sm bg-gray-50/25 rounded-3xl border-0 text-white focus:outline-none"
         style={{
-          borderRadius: '9999px',
           filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
-          borderColor: '#fff',
         }}
       />
       {typedInput && <div
