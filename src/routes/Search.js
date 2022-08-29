@@ -21,9 +21,11 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
     <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
     <div className="relative">
       <div className="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
-        <svg aria-hidden="true" className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-        </svg>
+        {children ? children :
+          <svg aria-hidden="true" className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        }
       </div>
       <input
         autoFocus={cookies.get('email') ? true : false}
@@ -105,9 +107,9 @@ function Search({ questions, lectures }) {
           setSearchParams(searchParams);
         } }
       >
-        {lastSelectedCategory && <div className={`absolute rounded mt-1 ml-3 top-0 bg-${CATEGORY_COLOR_LOOKUP[lastSelectedCategory]}`}>
+        {lastSelectedCategory && <div className={`rounded bg-${CATEGORY_COLOR_LOOKUP[lastSelectedCategory]}`}>
           <img
-            className='inline w-4 h-4 m-1'
+            className='w-4 h-4 m-1'
             src={`/images/icons/${CATEGORY_ICON_LOOKUP[lastSelectedCategory]}`} alt={lastSelectedCategory}
           />
         </div>}
