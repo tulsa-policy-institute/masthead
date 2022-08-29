@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import useAnalyticsEventTracker from '../utils/eventTracking';
-import ReactMarkdown from 'https://esm.sh/react-markdown@7'
+import ReactMarkdown from 'react-markdown'
 
 const Result = ({ q }) => {
   const [open, updateResult] = useState(false);
