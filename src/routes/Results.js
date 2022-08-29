@@ -78,16 +78,21 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
         .map(c => c['Questions'])
         .reduce((acc, curr) => { return [...acc, ...curr] }, []);
 
-      return results
+      const matchingResults = results
         .filter(r => matchingConcepts.includes(r.id))
         .filter(r => {
             return subFilter ? matchingMegaNames.includes(r.id) : r;
         });
+
+      const uniqueTextMatches = filteredQuestions
+        .filter(r => !matchingResults.map(r => r.id).includes(r.id))
+
+      return [...matchingResults, ...(typedInput ? uniqueTextMatches : [])];
     } else {
       return typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount);
     }
   })();
-  const hasResults = displayResults.length;
+  const hasTextResults = typedInput && filteredQuestions.length;
 
   return <>
     <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
@@ -141,7 +146,7 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
     <div className='shadow-lg mt-4 rounded-2xl bg-[#FBFBFB]'>
       <div className='border-b-gray-200 border-b'>
         <h6 className='text-sm text-gray-400 m-1 p-3 select-none'>
-          {typedInput ? (hasResults ? 'Results' : 'No results') : 'Suggested Searches'}
+          {typedInput ? (hasTextResults ? 'Results' : 'No results') : 'Suggested Searches'}
         </h6>
       </div>
       {displayResults.map((q, i) =>
@@ -150,7 +155,7 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
           key={q.id}
         />
       )}
-      {!hasResults ?
+      {!hasTextResults ?
         <div className='max-w'>
           <div className='border-b-gray-200 border-b p-4'>
             <div className='border-4 border-tpi-blue rounded-3xl'>

@@ -27,8 +27,8 @@ const Result = ({ q }) => {
     {open &&
         <div className={`p-4 bg-gray-100 ${open ? 'visible' : 'invisible'}`}>
           <div className='max-w-prose mb-2'><ReactMarkdown className='result-markdown' linkTarget='_blank'>{q.Answer}</ReactMarkdown></div>
-          <div className='uppercase italic font-mono text-slate-500 text-xs max-w-prose'>
-            {q.Source}
+          <div className='italic font-mono text-slate-500 text-xs max-w-prose'>
+            <ReactMarkdown className='result-markdown' linkTarget='_blank'>{q.Source}</ReactMarkdown>
           </div>
         </div>
       }
