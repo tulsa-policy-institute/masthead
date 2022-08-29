@@ -27,7 +27,7 @@ function randomize(list) {
 
 const suggestedSearchCount = isMobile ? 3 : 8;
 
-const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
+const Results = ({ results, typedInput, cookies, isQuerying }) => {
   const [concepts, setConcepts] = useState([]);
   const [tags, setTags] = useState([]);
   const [subFilter, setSubFilter] = useState('');
@@ -87,14 +87,14 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
       const uniqueTextMatches = filteredQuestions
         .filter(r => !matchingResults.map(r => r.id).includes(r.id))
 
-      return [...matchingResults, ...(typedInput ? uniqueTextMatches : [])];
+      return [...(typedInput ? uniqueTextMatches : []), ...matchingResults];
     } else {
       return typedInput ? filteredQuestions : randomize(results).slice(0, suggestedSearchCount);
     }
   })();
 
   return <>
-    <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
+    <div className='flex flex-wrap mt-4 overflow-wrap place-content-center z-10'>
       {tags.filter(t => Object.keys(CATEGORY_ICON_LOOKUP).includes(t)).map((c, i) => <div
         key={i}
         style={{ backgroundColor: selectedFilters.includes(c) ? TAG_COLOR_LOOKUP[c] : '' }}
@@ -105,13 +105,12 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
             searchParams.set('c', '');
             setSubFilter('');
             setSearchParams(searchParams);
-            onCategoryChange('');
           } else {
             gaFilteringTracker('set', c);
             searchParams.set('c', c);
+            searchParams.set('init', true);
             setSubFilter('');
             setSearchParams(searchParams);
-            onCategoryChange(c);
           }
         }}
       >
@@ -142,7 +141,7 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
         )
       }
     </div>}
-    <div className='shadow-lg mt-4 rounded-2xl bg-[#FBFBFB]'>
+    {isQuerying && <div className='shadow-lg mt-4 rounded-2xl bg-[#FBFBFB]'>
       <div className='border-b-gray-200 border-b'>
         <h6 className='text-sm text-gray-400 m-1 p-3 select-none'>
           Results
@@ -178,7 +177,7 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
           </div>
         </div>
       </div>
-    </div>
+    </div>}
   </>
 };
 

@@ -15,6 +15,7 @@ const CATEGORY_COLOR_LOOKUP = {
 
 const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = '', children, cookies }) => {
   const [searchParams, setSearchParams] = useSearchParams();
+  const doSearch = () => { searchParams.set('init', true); setSearchParams(searchParams) };
 
   return <div className={className}>
     <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
@@ -34,51 +35,20 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
         style={{
           filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
         }}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter') {
+            doSearch();
+          }
+        }}
       />
       {typedInput && <div
         className="flex absolute inset-y-0 right-0 items-center pr-3 text-white cursor-pointer"
-        onClick={() => { searchParams.set('init', true); setSearchParams(searchParams) }}
+        onClick={() => doSearch()}
       >
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
       </div>}
     </div>
   </div>;
-
-
-  // <div className={className}>
-  //   <input
-  //     type="text"
-  //     autoFocus={cookies.get('email') ? true : false}
-  //     value={typedInput || ''}
-  //     className="
-  //       form-control
-  //       block
-  //       w-full
-  //       px-3
-  //       py-1.5
-  //       text-base
-  //       font-normal
-  //       text-gray-700
-  //       bg-slate-50/75 bg-clip-padding
-  //       border border-solid border-gray-300
-  //       rounded
-  //       transition
-  //       ease-in-out
-  //       m-0
-  //       focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
-  //       pl-10
-  //     "
-  //     id="search-question"
-  //     placeholder='Ask a question...'
-  //     style={{
-  //       borderRadius: '9999px',
-  //       filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
-  //       borderColor: '#fff',
-  //     }}
-  //     onChange={(e) => setTypedInput(e.target.value)}
-  //   />
-  //   {children}
-  // </div>;
 })
 
 function Search({ questions, lectures }) {
@@ -142,15 +112,12 @@ function Search({ questions, lectures }) {
           />
         </div>}
       </TypeaheadSearch>
-      {isQuerying ? <Results
+      <Results
         results={questions}
         typedInput={typedInput}
         setSelectedQuestion={setSelectedQuestion}
-        onCategoryChange={(category) => {
-          // searchParams.set('c', [category]);
-          // setSearchParams(searchParams);
-        }}
-      /> : <></>}
+        isQuerying={isQuerying}
+      />
     </div>
   </div>;
 }
