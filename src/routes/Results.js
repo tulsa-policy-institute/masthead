@@ -115,7 +115,7 @@ const Results = ({ results, typedInput, cookies, onCategoryChange }) => {
         {c}
       </div>)}
     </div>
-    {selectedFilters && <div className='flex flex-wrap mt-4 overflow-wrap place-content-center'>
+    {selectedFilters && <div className='flex flex-wrap overflow-wrap place-content-center'>
       {Array.from(new Set(concepts
         .filter(c => c['Tags']?.includes(selectedFilters) && c['Questions'] && c['MegaName'])
         .map(c => c['MegaName'])
