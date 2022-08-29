@@ -483,7 +483,7 @@
       "recygMhYSJxEH8g89"
     ],
     "Public": true,
-    "Answers": "The total budget is $944.9 million, an increase of $145.5 million (18.2%) over the prior year's budget. \n",
+    "Answers": "The total budget is **$944.9 million,** an increase of $145.5 million (18.2%) over the prior year's budget. \n",
     "Question-Answer-Code": "Dan_Budget_1",
     "Title": "How much money does the City of Tulsa plan on spending in FY23?",
     "Contributor": "Dan"
@@ -498,7 +498,7 @@
       "recvcH6UgexrbXmq9"
     ],
     "Public": true,
-    "Answers": "The operating budget is $824 million, an increase of $113.5 million (16%) over the prior year's operating budget\n",
+    "Answers": "The operating budget is **$824 million**, an increase of $113.5 million (16%) over the prior year's operating budget\n",
     "Question-Answer-Code": "Dan_Budget_2",
     "Title": "How much money does the FY23 budget dedicate to day-to-day operations?",
     "Contributor": "Dan"
@@ -513,7 +513,7 @@
       "recI2ycsxZZO6fcFB"
     ],
     "Public": true,
-    "Answers": "Tulsa funds improvements through its capital budget. Fiscal year 2022-2023 capital budget is $120.4 million. Capital funding increased by $32 million (36.2%) over the prior year's budget. \n",
+    "Answers": "Tulsa funds improvements through its capital budget. Fiscal year 2022-2023 capital budget is **$120.4 million**. Capital funding increased by $32 million (36.2%) over the prior year's budget. \n",
     "Question-Answer-Code": "Dan_Budget_3",
     "Title": "How much money does Tulsa plan to spend on improvements to its property and services in FY23? ",
     "Contributor": "Dan"
@@ -547,7 +547,7 @@
     "Public": true,
     "Answers": "Filling vacant positions by increasing salary/wage compensation and increasing the budget for recruitment efforts; Improving customer service through technology and \"a 27% increase in customer care agents taking citizen calls...about utility bills and other issues;\" Increasing public safety through focused recruitment efforts at police and fire academies, allocating public safety grant funding, and implementing a Real-time information center (RTIC) to streamline law enforcement intelligence through community surveillance. \n",
     "Question-Answer-Code": "Dan_Budget_5",
-    "Title": "How does Tulsa's FY23 budget further progress on the Kirkpatrick Heights-Greenwood Master Plan? ",
+    "Title": "What were some of Tulsa City government's priorities in the FY23 budget? ",
     "Contributor": "Dan"
   },
   {
@@ -561,7 +561,7 @@
     "Public": true,
     "Answers": "Sales and use taxes account for 63.9% of the General Fund, which is the principal operating fund of the City. General fund revenues for FY2023 are expected to be $358.3 million\n",
     "Question-Answer-Code": "Dan_Budget_6",
-    "Title": "How many parks are there in the City of Tulsa? ",
+    "Title": "From where does Tulsa receive the majority of revenue used to fund its operations? ",
     "Contributor": "Dan"
   },
   {
@@ -577,7 +577,7 @@
     "Public": true,
     "Answers": "The city of Tulsa's primary two reserve funds are the General Fund Emergency Operating Reserve, with a balance of $29.9 million, and the City's Economic Stabilization Reserve (aka Rainy Day Fund), with an expected balance of $12.4 million by the end of FY23. \n",
     "Question-Answer-Code": "Dan_Budget_7",
-    "Title": "Why did funding for Tulsa Fire Department increase by $10 million in FY23 instead of remaining stable (as was initially planned)?",
+    "Title": "How much money does Tulsa have put aside in case of serious economic downturn or disaster? ",
     "Contributor": "Dan"
   },
   {
@@ -593,7 +593,7 @@
     "Public": true,
     "Answers": "The largest expenditure category is payroll, which represents 70.1% of the General Fund budget\n",
     "Question-Answer-Code": "Dan_Budget_8",
-    "Title": "How does state law impact the City of Tulsa's budget-making process?",
+    "Title": "What is the largest expenditure for Tulsa's General (day-to-day) Fund? ",
     "Contributor": "Dan"
   },
   {
@@ -608,7 +608,7 @@
     "Public": true,
     "Answers": "Public safety receives the largest allocation of resources at 53.2% of the General Fund. Public Safety includes the Police Department, Fire Department, EMS, 911 call center, and the City Prosecutor's office. \n",
     "Question-Answer-Code": "Dan_Budget_9",
-    "Title": "What is the largest expenditure for Tulsa's General (day-to-day) Fund? ",
+    "Title": "Where does the City of Tulsa allocate the most significant resources? ",
     "Contributor": "Dan"
   },
   {
@@ -627,7 +627,7 @@
     "Public": true,
     "Answers": "No. Through the success of an asset management program, the TMUA recommended no increase in water rates for FY23. The current rate equals $4.31 per 1,000 gallons of water used. However, the TMUA is recommending a 3% increase for FY24, partially due to increases in chemical costs.\n",
     "Question-Answer-Code": "Dan_Budget_10",
-    "Title": "How many people are employed to support Tulsa City council?",
+    "Title": "As a Tulsa Metropolitan Utility Authority (TMUA) ratepayer, will I have to pay more for water utility service in FY23? ",
     "Contributor": "Dan"
   },
   {
@@ -645,7 +645,7 @@
     "Public": true,
     "Answers": "Yes. A 7% rate increase (from $9.36 to $10.02 per 1,000 gallons of water used per single-family home) is proposed for the sanitary sewer system in FY23.  According to the FY23 budget presentation, debt and scheduled capital improvement projects (together representing nearly half the system's operating budget) are the main drivers of rate increases.\n",
     "Question-Answer-Code": "Dan_Budget_11",
-    "Title": "How much does it cost to operate Tulsa's transit system? ",
+    "Title": "As a Tulsa Metropolitan Utility Authority (TMUA) ratepayer, will I have to pay more for sewage treatment utility service in FY23?  ",
     "Contributor": "Dan"
   },
   {
@@ -661,7 +661,7 @@
     "Public": true,
     "Answers": "Yes. Rates are increasing by 8.5% (from $9.03 to 9.80 per month per residential customer) This rate increase is higher than the 7% increase that was originally proposed for FY23. Budget documents attribute the higher increase to the need for additional capital to fund improvement projects identified as high priority by a strategic planning study. \n",
     "Question-Answer-Code": "Dan_Budget_12",
-    "Title": "Is the City of Tulsa hiring more police officers? ",
+    "Title": "Are rates to maintain the City of Tulsa stormwater management system increasing in FY23? ",
     "Contributor": "Dan"
   },
   {
@@ -678,7 +678,7 @@
     "Public": true,
     "Answers": "Possibly. According to Tulsa's FY23 budget presentation, \"there are currently no changes to rates for trash service in FY23. However, ongoing discussion regarding recent developments involving refuse and recycling services will likely necessitate a rate increase for trash service in mid-FY23 or beginning FY24.\"\n",
     "Question-Answer-Code": "Dan_Budget_13",
-    "Title": "How many people work in tulsa's information call center?",
+    "Title": "Are rates for trash collection set to increase in FY23? ",
     "Contributor": "Dan"
   },
   {
@@ -692,7 +692,7 @@
     "Public": true,
     "Answers": "No.  According to Tulsa's FY23 budget presentation, \"There are currently no changes to the rate for emergency medical services in FY23.\" Households within Tulsa's city limits are currently billed $5.45 per month for EMSA, unless a household chooses to opt out and pay for EMS services out of pocket if and when necessary. \n",
     "Question-Answer-Code": "Dan_Budget_14",
-    "Title": "How long will it take for Tulsa to pay down the debt it currently holds?",
+    "Title": "Are rates for emergency medical services (EMSA) set to increase in FY23 for Tulsa residents? ",
     "Contributor": "Dan"
   },
   {
@@ -706,7 +706,7 @@
     "Public": true,
     "Answers": " According to Tulsa's FY23 budget presentation, \"this budget includes $36.9 million in sales tax funded projects from the 2022 Improve Our Tulsa II program. This program includes funding for critical projects for Police, Fire, Parks, Citywide Public Facilities, Economic Development Infrastructure, Transit rolling stock and Capital Equipment. Priorities in this year’s budget, include $3.9 million for apparatus replacement for the Fire Department, $4.0 million to fully fund the construction of a new parking garage for the Veterans Hospital to be constructed in downtown Tulsa and $14.3 million for Capital Equipment. \n",
     "Question-Answer-Code": "Dan_Budget_15",
-    "Title": "What services does the City of Tulsa receive through its membership in the Indian Nations Council of Governments?",
+    "Title": "How does Tulsa's FY23 budget reinvest the share of sales tax dedicated to the \"Improve Our Tulsa II\" program? ",
     "Contributor": "Dan"
   },
   {
@@ -724,7 +724,7 @@
     "Public": true,
     "Answers": "The FY23 Capital Budget \"provides $49.8 million for water treatment plant work, supply system repairs, water line replacement and relocation projects. Additionally, $33.4 million will be used for sewer treatment plants, pipe replacement and other system work. Stormwater will receive $5.4 million for stormwater pipe extensions, drainage improvements associated with roadway projects, small critical drainage projects and detention pond rehabilitation.\"\n",
     "Question-Answer-Code": "Dan_Budget_16",
-    "Title": "What are the policies governing procurement and purchasing for the City of Tulsa?",
+    "Title": "How much is the City of Tulsa directly investing in utility system infrastructure for FY23?",
     "Contributor": "Dan"
   },
   {
@@ -740,7 +740,7 @@
     "Public": true,
     "Answers": " According to Tulsa's FY23 budget presentation, \"the City has now received over five years of collections from the sales tax approved by voters in April 2016 for the Vision Tulsa economic development capital program which is set at 0.805% for the next three years. Implementation of the project scheduling and financing plan continues. All of the planned revenue bond sales have been completed totaling $346.6 million to provide advance funding for 26 projects. The $510 million program will last 15 years. Directly funded projects total $65.3 million in the proposed budget for nine projects, with the largest allocation going toward debt service.\"\n",
     "Question-Answer-Code": "Dan_Budget_17",
-    "Title": "How does the City of Tulsa manage its parks along the Arkansas River? ",
+    "Title": "How is the City of Tulsa using realized and anticipated tax revenue from the \"Vision Tulsa\" economic development capital program? ",
     "Contributor": "Dan"
   },
   {
@@ -756,7 +756,7 @@
     "Public": true,
     "Answers": "The City's Capital Plan \"focuses on projects that should be considered for funding in the next five years, totaling $553.6 million. Close to two thirds (2/3) of the projects are renewal of existing infrastructure with the balance supporting growth. The plan is dedicated to utility system projects over the next five years as other recently approved capital programs have funded the majority of the City’s other capital needs.\"\n",
     "Question-Answer-Code": "Dan_Budget_18",
-    "Title": "How many people work on parking enforcement and facility management for the City of Tulsa?",
+    "Title": "Where is the City of Tulsa prioritizing cash investment for capital improvement projects over the next five years? ",
     "Contributor": "Dan"
   },
   {
@@ -772,7 +772,7 @@
     "Public": true,
     "Answers": " According to Tulsa's FY23 budget presentation, \"during the upcoming fiscal year, the City anticipates undertaking an issuance of $117.4 million in general obligation bonds. All funds will go toward street projects authorized in the 2014 Improve Our Tulsa program and 2020 Improve Our Tulsa II program. Some $14.8 million in bonds and loans will finance sanitary sewer and stormwater projects that include concrete pipe replacement, interceptor rehabilitation, sewer line rehabilitation and a stormwater outfall line from Hager Creek to the Arkansas River. Funds will be appropriated by budget amendment upon completion of each bond sale. Taken together these bond sales will add $132.1 million in additional funds to the capital budget, bringing the amended total to $253.5 million.\" \n",
     "Question-Answer-Code": "Dan_Budget_19",
-    "Title": "How is the City of Tulsa using realized and anticipated tax revenue from the \"Vision Tulsa\" economic development capital program? ",
+    "Title": "How much debt does the City of Tulsa plan to incur in FY23 in the form of general obligation bonds, and for what purpose? ",
     "Contributor": "Dan"
   },
   {
@@ -786,7 +786,7 @@
     "Public": true,
     "Answers": "The City's budget for FY23 \"funds an additional prosecutor to facilitate the implementation of a night court in the municipal court system.\" City Council Chairperson, Lori Decter Wright, said in her budget address that night court will \"increase accessibility to citizens who are unable to appear before our courts during their regular working hours.\"\n",
     "Question-Answer-Code": "Dan_Budget_20",
-    "Title": "Where is the City of Tulsa prioritizing cash investment for capital improvement projects over the next five years? ",
+    "Title": "What is the City of Tulsa doing to expand access to municipal court services? ",
     "Contributor": "Dan"
   },
   {
@@ -801,7 +801,7 @@
     "Public": true,
     "Answers": "In preparing this budget, City Council prioritized expanding the Community Response Team (CRT). This budget increases CRT's mobile mental health crisis response funding by $250,000 to further \"assist people suffering a mental health emergency and reduce reliance on other emergency services.\"\n",
     "Question-Answer-Code": "Dan_Budget_21",
-    "Title": "What's the maximum amount of debt that the City of Tulsa can carry at any given time?",
+    "Title": "How does Tulsa's FY23 budget address mental health services? ",
     "Contributor": "Dan"
   },
   {
@@ -817,7 +817,7 @@
     "Public": true,
     "Answers": "This budget funds $2 million toward implementation of the plan, \"which will create a vision and framework for redevelopment of 56 acres of publicly-owned property.\"\n",
     "Question-Answer-Code": "Dan_Budget_22",
-    "Title": "How much funding goes to support Tulsa's Working in Neightborhoods department?",
+    "Title": "How does Tulsa's FY23 budget further progress on the Kirkpatrick Heights-Greenwood Master Plan? ",
     "Contributor": "Dan"
   },
   {
@@ -832,7 +832,7 @@
     "Public": true,
     "Answers": " According to Tulsa's FY23 budget presentation, \"this budget includes $1 million to continue the search for the graves of victims of the massacre, including funds for additional excavation and DNA analysis following recommendations from technical experts.\" \n",
     "Question-Answer-Code": "Dan_Budget_23",
-    "Title": "How much does Tulsa spend on managing its assets and enforcing parking?",
+    "Title": "How does Tulsa's FY23 budget contribute to memorializing the victims of the 1921 race massacre? ",
     "Contributor": "Dan"
   },
   {
@@ -848,7 +848,7 @@
     "Public": true,
     "Answers": "City of Tulsa Financial policies address strategic planning, operating budget, risk management, procurement and purchasing, revenues, capital budget and improvements, long term borrowing, investments and deposits, reserves, accounting, trusts and authorities, and pension funds. \n",
     "Question-Answer-Code": "Dan_Budget_24",
-    "Title": "What criteria do Tulsa city officials use to evaluate potential new capital improvement projects? ",
+    "Title": "What are the major areas of compliance that Tulsa city officials must adhere to when crafting the annual budget?",
     "Contributor": "Dan"
   },
   {
@@ -861,7 +861,7 @@
     "Public": true,
     "Answers": " According to Tulsa's budget policy, \"1.) All planning activities, strategies and studies should be comprehensive and integrated on a City-wide basis and 2.) Plans, strategies and studies shall encompass multi-year time frames and be updated annually\"\n",
     "Question-Answer-Code": "Dan_Budget_25",
-    "Title": "What are the sources of revenue for the City of Tulsa? ",
+    "Title": "What are the policies governing how Tulsa city officials must approach strategic planning? ",
     "Contributor": "Dan"
   },
   {
@@ -879,7 +879,7 @@
     "Public": true,
     "Answers": "The Oklahoma Municipal Budget Act is the primary state statute which lays the ground rules for municipal budget-making. In Tulsa, it's the responsibility of the Mayor (through the Department of Finance) to ensure compliance with relevant state law and the timely preparation of the City of Tulsa's annual budget.  \n",
     "Question-Answer-Code": "Dan_Budget_26",
-    "Title": "What is a \"Use Tax\" and how does the City of Tulsa use that money in its budget?",
+    "Title": "How does state law impact the City of Tulsa's budget-making process?",
     "Contributor": "Dan"
   },
   {
@@ -897,7 +897,7 @@
     "Public": true,
     "Answers": "Firstly, the city maintains a budgetary control system to help it adhere to the budget. The public can find out how closely The City adhered to its annual budget by reviewing \"Annual Comprehensive Financial Reports\" here, which compare actual revenues and expenditures to budgeted amounts. Completed ACF reports are due no later than 6 months after the end of the fiscal year. The annual budget also shows projected versus actual revenues and expenditures for at least the most recent fiscal year. \n",
     "Question-Answer-Code": "Dan_Budget_27",
-    "Title": "What criteria do City of Tulsa officials use to evaluate investment opportunities for public funds?",
+    "Title": "After the fiscal year closes, how can the public find out if The City of Tulsa ends up spending more or less than the amount that's budgeted at the beginning of the fiscal year?",
     "Contributor": "Dan"
   },
   {
@@ -915,7 +915,7 @@
     "Public": true,
     "Answers": "As part of the budget-making process, each year the City updates revenue and expenditure projections for the next five years. Projections include estimated operating costs of future capital improvements that are included in the capital budget. The City projects its equipment replacement and maintenance needs for the next several years and will update this projection each year in order to develop a maintenance and replacement schedule. \n",
     "Question-Answer-Code": "Dan_Budget_28",
-    "Title": "What services are provided by the Tulsa Authority for Economic Opportunity? ",
+    "Title": "How far in advance does the City of Tulsa try to estimate future revenue and expenses? And how do officials use that information?",
     "Contributor": "Dan"
   },
   {
@@ -933,7 +933,7 @@
     "Public": true,
     "Answers": "State law and municipal policy aim to prevent a significant budget surplus or deficit by mandating that municipal officials adopt a balanced annual budget.  According to City of Tulsa budget policy, \"It shall be the goal of the City that current operating revenues will be sufficient to support current operating expenses and in no case shall more than five percent (5%) of the operating budget be supported using prior year's fund balances.\"  \n",
     "Question-Answer-Code": "Dan_Budget_29",
-    "Title": "How does the City of Tulsa tax private sales and what is the money used for? ",
+    "Title": "What happens if the City of Tulsa has surplus funds left over at the end of the fiscal year? Can officials \"roll\" those funds over into their calculations for the upcoming fiscal year?",
     "Contributor": "Dan"
   },
   {
@@ -949,7 +949,7 @@
     "Public": true,
     "Answers": "Per City policy, officials examine adjustments to Water, Sewer, Stormwater and Solid Waste Disposal service rates and fees on an annual basis as an integral part of the City's budgetary process. Per budget policy, \"the City establishes all user charges and fees at a level related to the cost of providing the services\" \n",
     "Question-Answer-Code": "Dan_Budget_30",
-    "Title": "How many people work directly under the Mayor of Tulsa? "
+    "Title": "How often do officials review pricing for utility services provided by the City of Tulsa?"
   },
   {
     "id": "recufBtzaEFzv4ftK",
@@ -964,7 +964,7 @@
     "Public": true,
     "Answers": "Municipal budget policy states, \"1.) The City will operate a risk management program to provide for protection against loss and a reduction in exposure to liability. Such program shall include an employee safety training program to minimize financial losses to the City. 2.) The City will establish a self-insurance program to provide for protection against major losses and will purchase excess coverage insurance to cover catastrophic losses where appropriate.\"\n",
     "Question-Answer-Code": "Dan_Budget_31",
-    "Title": "How does Tulsa's FY23 budget contribute to memorializing the victims of the 1921 race massacre? ",
+    "Title": "What are Tulsa's policies regarding how city officials manage financial risk?",
     "Contributor": "Dan"
   },
   {
@@ -980,7 +980,7 @@
     "Public": true,
     "Answers": "Municipal budget policy requires The City of Tulsa to operate a consolidated Purchasing and Procurement System, which \"shall encourage full and open competition\" on all purchases and sales of surplus property via competitive bidding whenever possible.\n",
     "Question-Answer-Code": "Dan_Budget_32",
-    "Title": "Do Tulsa residents have a say in what capital improvement projects get approved? ",
+    "Title": "What are the policies governing procurement and purchasing for the City of Tulsa?",
     "Contributor": "Dan"
   },
   {
@@ -996,7 +996,7 @@
     "Public": true,
     "Answers": "Enterprise funds include the operating and capital funds of various city services (such as utilities) where the public is charged a fee based on usage. The city's general fund receives revenue from enterprise funds annually via a payment-in-lieu-of-taxes scheme. Other enterprise funds include emergency medical services, solid waste collection, and the sale of leases on city-owned property.  Enterprise funds contribute to the City's goal of maintaining \"a diversified and stable revenue system to shelter it from short-run fluctuations in any one revenue source,\" as outlined in municipal budget policy. \n",
     "Question-Answer-Code": "Dan_Budget_33",
-    "Title": "What gets taxed by the City of Tulsa? ",
+    "Title": "What kind of municipal revenue qualifies as \"enterprise funds\" in Tulsa's annual budget?",
     "Contributor": "Dan"
   },
   {
@@ -1013,7 +1013,7 @@
     "Public": true,
     "Answers": "According to municipal budget policy regarding revenue management, \"The City of Tulsa will neither begin business activity nor continue to engage in business activity with an entity that owes the City funds from a delinquent debt. The City, at its discretion, may choose to extend credit for certain obligations. However, \"if payment is not timely, the City reserves the right to refuse future credit as well as take necessary legal action to obtain payment of the debt and collection costs.\" \n",
     "Question-Answer-Code": "Dan_Budget_34",
-    "Title": "How does Tulsa repay its debt? "
+    "Title": "How does the City of Tulsa manage receivable debt owed by outside parties?"
   },
   {
     "id": "recvvmNNOQJEevlCw",
@@ -1029,7 +1029,7 @@
     "Public": true,
     "Answers": "According to municipal budget policy,  \"The City shall maintain a balanced mix of financing for funding capital projects, including pay-as-you-go, grants and debt, without excessive reliance on any one source. No capital project which does not comply with the provisions of and is not contained in the currently approved Capital Improvements Program shall be funded.\"  \n",
     "Question-Answer-Code": "Dan_Budget_35",
-    "Title": "How many people work in the Tulsa City Auditor's office?",
+    "Title": "How does the City of Tulsa fund its capital improvement projects?",
     "Contributor": "Dan"
   },
   {
@@ -1044,7 +1044,7 @@
     "Public": true,
     "Answers": "According to municipal budget policy,  \"capital projects will be scheduled based on the following criteria: The project has been certified by the Planning Commission as being in accordance with City plans; The project will alleviate a service deficiency or replace a deteriorated and/or non-functioning facility; Federal or state law requires it to be done; Federal or state matching funds are available for the project; A Federal or state agency will construct the facility at no cost to the City; The project will encourage economic development; The project is needed to solve an emergency situation; The project will improve the quality of life in the City's neighborhoods.\"\n",
     "Question-Answer-Code": "Dan_Budget_36",
-    "Title": "How much funding does the City of Tulsa receive in the form of state and federal grants? "
+    "Title": "What criteria do Tulsa city officials use to evaluate potential new capital improvement projects? "
   },
   {
     "id": "recwXYrHBefA4mwhW",
@@ -1059,7 +1059,7 @@
     "Public": true,
     "Answers": "Yes.  Public hearings are held before deciding what projects to include in any multi-year capital program, which requires approval by the City Council in the form of an adopted ordinance as part of the annual budget process. \n",
     "Question-Answer-Code": "Dan_Budget_37",
-    "Title": "How far in advance does the City of Tulsa try to estimate future revenue and expenses? And how do officials use that information?"
+    "Title": "Do Tulsa residents have a say in what capital improvement projects get approved? "
   },
   {
     "id": "recwKIBBRgFDtycbF",
@@ -1074,7 +1074,7 @@
     "Public": true,
     "Answers": " According to Tulsa budget policy, \"General Obligation and Revenue Bonds shall only be issued for capital improvements and maintenance, or expenditures related thereto. Revenue bonds shall be used to finance capital improvements wherever possible. No operating expenses shall be funded using any form of long term financing.\"\n",
     "Question-Answer-Code": "Dan_Budget_38",
-    "Title": "What projects are in the pipeline for the City of Tulsa's Engineering Services Department? ",
+    "Title": "Under what circumstances is it acceptable for the City of Tulsa to incur debt by issuing bonds? ",
     "Contributor": "Dan"
   },
   {
@@ -1090,7 +1090,7 @@
     "Public": true,
     "Answers": "Municipal policy prohibits total debt from exceeding \"such levels as to cause the City's credit rating to be impaired, and in all cases the City shall take such actions and adopt such policies and procedures as necessary to maintain a rating equal to at least AA for general obligation debt.\" Additionally,  \"In no event shall the net general obligation debt exceed twenty-five percent (25%) of the net assessed market valuation of the taxable property of the City of Tulsa as established by the County Assessor.\"\n",
     "Question-Answer-Code": "Dan_Budget_39",
-    "Title": "What is an \"Ad Valorem\" tax and what does the City of Tulsa use that money for? ",
+    "Title": "What's the maximum amount of debt that the City of Tulsa can carry at any given time?",
     "Contributor": "Dan"
   },
   {
@@ -1106,7 +1106,7 @@
     "Public": true,
     "Answers": "According to Tulsa budget policy, \"projects financed through the issuance of debt shall not be financed for a period that exceeds the expected useful life of the project and in no event shall the term of any debt exceed twenty-five (25) years.\"\n",
     "Question-Answer-Code": "Dan_Budget_40",
-    "Title": "Where does the City of Tulsa allocate the most significant resources? ",
+    "Title": "What's the maximum timeframe over which the City of Tulsa can finance projects using debt?",
     "Contributor": "Dan"
   },
   {
@@ -1122,7 +1122,7 @@
     "Public": true,
     "Answers": "According to Tulsa budget policy, \"bond sales shall be structured to achieve level debt service payments to the extent possible, taking into consideration the costs of such financings. Either variable or fixed rate financing may be used, subject to applicable laws, depending on the cost benefit to the City of each option. Competitive sale shall be used for all general obligation debt issuances of the City of Tulsa. Negotiated or competitive sale may be used for revenue bonds.\"\n",
     "Question-Answer-Code": "Dan_Budget_41",
-    "Title": "What agency of city government is responsible for approving development permits? ",
+    "Title": "How must Tulsa city officials structure the sale of municipal bonds? ",
     "Contributor": "Dan"
   },
   {
@@ -1136,7 +1136,7 @@
     "Public": true,
     "Answers": "According to Tulsa budget policy, \"responsibility for the investment program of the City shall be vested with the Director of Finance who shall establish an investment program consistent with an adopted investment policy.\"\n",
     "Question-Answer-Code": "Dan_Budget_42",
-    "Title": "How does the City of Tulsa manage its cash flow? ",
+    "Title": "Who is responsible for managing the City of Tulsa's investment portfolio? ",
     "Contributor": "Dan"
   },
   {
@@ -1150,7 +1150,7 @@
     "Public": true,
     "Answers": "According to Tulsa budget policy, \"it shall be the objective of the City of Tulsa to pool and invest public funds in accordance with current legislation and the Charter of the City of Tulsa. Criteria for investing shall adhere to the following order of priority: (1) Safety, (2) Liquidity, (3) Yield.\"\n",
     "Question-Answer-Code": "Dan_Budget_43",
-    "Title": "How many personnel are employed in Tulsa's Engineering Services Department?",
+    "Title": "What criteria do City of Tulsa officials use to evaluate investment opportunities for public funds?",
     "Contributor": "Dan"
   },
   {
@@ -1164,7 +1164,7 @@
     "Public": true,
     "Answers": "Through a cash flow management system \"which includes the preparation of a cash flow analysis of all funds on a regular basis. Disbursement, collection, and deposit of all funds will be scheduled to ensure maximum investment return and cash availability subject to the City's investment policies. The cash flow management system shall ensure the City can offset significant downturns in revenues which could not have been reasonably foreseen and provide sufficient working capital and cash for daily financial needs,\" according to Tulsa budget policy.\n",
     "Question-Answer-Code": "Dan_Budget_44",
-    "Title": "What is the City of Tulsa doing in FY23 to improve roadways? ",
+    "Title": "How does the City of Tulsa manage its cash flow? ",
     "Contributor": "Dan"
   },
   {
@@ -1178,7 +1178,7 @@
     "Public": true,
     "Answers": "Yes. City of Tulsa policy mandates that all financial transactions \"be audited annually by a recognized independent certified public accounting firm and such audit results shall include a management letter detailing areas where improvement is needed. A firm to perform such audit shall be chosen not more than once every five (5) years.\" Additionally, \"the City shall prepare and issue an official Comprehensive Annual Financial Report no later than six (6) months following the fiscal year-end in accordance with Government Finance Officer's Association and Governmental Accounting Standards Board principles and standards. The City of Tulsa shall also must maintain an accounting control environment to help ensure proper authorization for financial transactions and proper procedures for safeguarding assets.\" \n",
     "Question-Answer-Code": "Dan_Budget_45",
-    "Title": "What kind of municipal revenue qualifies as \"enterprise funds\" in Tulsa's annual budget?",
+    "Title": "Does the City of Tulsa have safeguards to prevent and/or identify misappropriation of public funds? ",
     "Contributor": "Dan"
   },
   {
@@ -1199,7 +1199,7 @@
     "Public": true,
     "Answers": "The City of Tulsa categorizes its revenue streams in three broad categories: Taxes, which account for 54% of revenue; Enterprise funds (the profit from goods and services sold by the City to the public for a fee), which account for 35% of total municipal revenue; and \"other\" revenues, which account for 11%. \"Other\" revenues include proceeds from issuing licenses and permits, state/federal/county grants, \"general government\" revenue, fines and forfeitures, investment income, and \"miscellaneous\" revenue. \n",
     "Question-Answer-Code": "Dan_Budget_46",
-    "Title": "What's the tax rate on hotel and motel bookings in the City of Tulsa? ",
+    "Title": "What are the sources of revenue for the City of Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -1218,7 +1218,7 @@
     "Public": true,
     "Answers": "The City of Tulsa collects taxes in five major categories: Sales taxes, Use taxes, Franchise taxes/Right of Way user fees, Hotel/Motel taxes, and Ad Valorem Taxes. \n",
     "Question-Answer-Code": "Dan_Budget_47",
-    "Title": "From where does Tulsa receive the majority of revenue used to fund its operations? ",
+    "Title": "What gets taxed by the City of Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -1233,7 +1233,7 @@
     "Public": true,
     "Answers": "The City of Tulsa taxes sales at 3.65%. 2% goes into the General Fund to support city operations. 1.6% is split between the 2019 \"Improve our Tulsa\" program (.45%) and the \"Vision Tulsa\" (1.15%) funds. The remaining .05% is held in the city's Economic Stabilization Reserve. \n",
     "Question-Answer-Code": "Dan_Budget_48",
-    "Title": "How does the City of Tulsa manage its media and public relations efforts?",
+    "Title": "How does the City of Tulsa tax private sales and what is the money used for? ",
     "Contributor": "Dan"
   },
   {
@@ -1248,7 +1248,7 @@
     "Public": true,
     "Answers": "The City of Tulsa applies a 3.65% tax to personal property which is purchased outside the State of Oklahoma and used within the city. 3.1% goes into the General Fund to support city operations. The remaining 0.55% is allocated to the 2016 \"Tulsa Economic Vision\" Fund. \n",
     "Question-Answer-Code": "Dan_Budget_49",
-    "Title": "How does Tulsa's FY23 budget reinvest the share of sales tax dedicated to the \"Improve Our Tulsa II\" program? ",
+    "Title": "What is a \"Use Tax\" and how does the City of Tulsa use that money in its budget?",
     "Contributor": "Dan"
   },
   {
@@ -1264,7 +1264,7 @@
     "Public": true,
     "Answers": "The City of Tulsa collects taxes and fees from utility service providers and telecommunications companies that build and maintain infrastructure on city-owned rights of way in order to deliver their service to residents and businesses. Revenue from this tax scheme is projected to be $30.4 million in FY23. Almost 50% of that revenue is paid, collectively, by Oklahoma Natural Gas and Public Service Company of Oklahoma.  \n",
     "Question-Answer-Code": "Dan_Budget_50",
-    "Title": "What is the City of Tulsa's credit rating? ",
+    "Title": "Who pays franchise taxes/right of way user fees to the City of Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -1279,7 +1279,7 @@
     "Public": true,
     "Answers": "The City of Tulsa taxes hotel and motel room bookings at 5%. \n",
     "Question-Answer-Code": "Dan_Budget_51",
-    "Title": "How many people are employed across Tulsa's Water and Sewer system? ",
+    "Title": "What's the tax rate on hotel and motel bookings in the City of Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -1299,7 +1299,7 @@
     "Public": true,
     "Answers": "Ad Valorem is Latin for \"according to value.\" In practice, an ad valorem tax in the State of Oklahoma is a property tax. According to the State Constitution, Tulsa must receive sufficient ad valorem taxes each year to make scheduled payments on municipal debt and to cover the value of court judgements granted to plaintiffs who successfully sue the city. Ad valorem tax revenue is deposited into the city's \"sinking fund\" specifically for those purposes. The sinking fund in not treated as a part of Tulsa's operating budget. \n",
     "Question-Answer-Code": "Dan_Budget_52",
-    "Title": "How does the City of Tulsa manage its efforts to spur economic growth? ",
+    "Title": "What is an \"Ad Valorem\" tax and what does the City of Tulsa use that money for? ",
     "Contributor": "Dan"
   },
   {
@@ -1314,7 +1314,7 @@
     "Public": true,
     "Answers": "For FY23, the City of Tulsa projects receiving an $8.1 million share of state tax receipts. \n",
     "Question-Answer-Code": "Dan_Budget_53",
-    "Title": "How much funding does The City of Tulsa contribute to the Indian Nations Council of Governments? ",
+    "Title": "How much revenue does the City of Tulsa receive from state taxes on vehicle licenses, liquor, gasoline and tobacco? ",
     "Contributor": "Dan"
   },
   {
@@ -1329,7 +1329,7 @@
     "Public": true,
     "Answers": "For FY23, the City of Tulsa projects receiving $7.3 million in grant funding from the state and federal governments. \n",
     "Question-Answer-Code": "Dan_Budget_54",
-    "Title": "What are Tulsa's policies regarding how city officials manage financial risk?",
+    "Title": "How much funding does the City of Tulsa receive in the form of state and federal grants? ",
     "Contributor": "Dan"
   },
   {
@@ -1343,7 +1343,7 @@
     "Public": true,
     "Answers": "According to FY23 budget documents, Tulsa city government's top three goals for the next several years are to \"increase the number of uniformed police officers, build cash reserves, and provide annually satisfactory performance increases for the city's workforce.\" Additional goals include to: \"combat homelessness, increase transit access to jobs, improve neighborhood conditions, continue work on equity indicators, economic development and commercial revitalization, tourism and destination districts\"\n",
     "Question-Answer-Code": "Dan_Budget_55",
-    "Title": "How much does the City of Tulsa spend on maintaining its streets and stormwater infrastructure?",
+    "Title": "How do the Mayor of Tulsa and City Council describe their long-term goals for improving quality of life? ",
     "Contributor": "Dan"
   },
   {
@@ -1357,7 +1357,7 @@
     "Public": true,
     "Answers": "This budget adds a new \"configuration coordinator\" position (at a salary of $80,000) to the court's staff to manage the online databases used by court officials and the public. This budget also includes funding for \"mass communication software that utilizes text and email reminders about upcoming court dates and payments due.\" As part of the effort to start up a night court, the FY23 budget also funds hiring an additional public defender specifically to cover expanded hours. Prior to this budget, the municipal court received Coronavirus relief funding \"that will support outreach programs, facility improvements, Mental Health Initiatives and Organizational Development. CRF funding will also fund additional support personnel, including \"administrative support, court reporters, and Spanish greeters.\"\n",
     "Question-Answer-Code": "Dan_Budget_56",
-    "Title": "How many people work in Tulsa's IT Department? ",
+    "Title": "How does Tulsa's FY23 budget expand municipal court services?",
     "Contributor": "Dan"
   },
   {
@@ -1373,7 +1373,7 @@
     "Public": true,
     "Answers": "As of beginning of FY23, Tulsa PD employed 943 sworn police officers. That includes: 743 police officers, 82 sergeants, 83 lieutenants, 23 captains, 9 majors, and 3 deputy chiefs. \n",
     "Question-Answer-Code": "Dan_Budget_57",
-    "Title": "How often do officials review pricing for utility services provided by the City of Tulsa?",
+    "Title": "How many sworn police officers work for the City of Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -1390,7 +1390,7 @@
     "Public": true,
     "Answers": "Yes. Although the total number of sworn police officers did not change from FY22 to FY23, The Mayor of Tulsa and City Council consider police recruitment to be one of the city's highest priorities. In FY23, the police department has $4.5 million in funding to enroll and train 90 cadets at the police academy. \n",
     "Question-Answer-Code": "Dan_Budget_58",
-    "Title": "Why did funding for the Tulsa Police Department increase by more than 20% in one year? ",
+    "Title": "Is the City of Tulsa hiring more police officers? ",
     "Contributor": "Dan"
   },
   {
@@ -1406,7 +1406,7 @@
     "Public": true,
     "Answers": "For FY23, Tulsa PD has an operating budget of $144.8 million, and an additional $4.5 million budget for new and/or upgraded equipment and technology. The PD's total budget increased by $26.7 million (approx. 21.7%) from FY22 to 23. The largest share of police department funding, $118.3 million or 79.2%, comes from the City of Tulsa's general fund. The balance of funding comes from dedicated sales taxes and court fees. \n",
     "Question-Answer-Code": "Dan_Budget_59",
-    "Title": "How many people work in Tulsa's municipal Finance Department? ",
+    "Title": "How much money does it take to run the Tulsa Police Department? ",
     "Contributor": "Dan"
   },
   {
@@ -1422,7 +1422,7 @@
     "Public": true,
     "Answers": "Some of the largest line item changes in the FY23 police operating budget include: an additional $14.78 million for benefits and compensation, $3.4 million to replace 80 marked police vehicles, $3.4 million in overtime compensation, a one-time appropriation of $1.2 million to replace tasers and associated equipment, and $1.2 million for internal equipment maintenance. \n",
     "Question-Answer-Code": "Dan_Budget_60",
-    "Title": "What City services are overseen by the Streets and Stormwater Department? ",
+    "Title": "Why did funding for the Tulsa Police Department increase by more than 20% in one year? ",
     "Contributor": "Dan"
   },
   {
@@ -1437,7 +1437,7 @@
     "Public": true,
     "Answers": "Yes. The Tulsa Fire Department is enrolling 30 cadets in the training academy in FY23 at a cost of $1.28 million and plans to train an additional 30 in FY24. \n",
     "Question-Answer-Code": "Dan_Budget_61",
-    "Title": "How many employees does the City of Tulsa have working to facilitate construction and development applications? ",
+    "Title": "Is the Tulsa Fire Department hiring members? ",
     "Contributor": "Dan"
   },
   {
@@ -1452,7 +1452,7 @@
     "Public": true,
     "Answers": "The Tulsa Fire Department operating budget for FY23 totals $91.7 million dollars, with an additional $3.9 million dollars for upgrades to equipment and technology. \n",
     "Question-Answer-Code": "Dan_Budget_62",
-    "Title": "Who pays franchise taxes/right of way user fees to the City of Tulsa? ",
+    "Title": "How much does it cost to run the Tulsa Fire Department? ",
     "Contributor": "Dan"
   },
   {
@@ -1467,7 +1467,7 @@
     "Public": true,
     "Answers": "The FY23 Fire Department operating budget includes a $5.1 million increase in benefits and compensation in order to \"address recruitment and retention issues.\" Additionally, from FY22 to FY23, the fire department's operating capital increased from $610,000 to $4.5 million. According to the Department highlights section of the FY23 municipal budget, \"the Tulsa Fire Department was awarded a grant to reimburse the cost of sixty new firefighters for three years. As a result, Tulsa Fire Department will utilize those savings to fund operational support replacements and accelerate the replacement of needed fleet equipment in FY23 through FY25\"\n",
     "Question-Answer-Code": "Dan_Budget_63",
-    "Title": "How many people are employed across Tulsa's parks and recreation facilities? ",
+    "Title": "Why did funding for Tulsa Fire Department increase by $10 million in FY23 instead of remaining stable (as was initially planned)?",
     "Contributor": "Dan"
   },
   {
@@ -1482,7 +1482,7 @@
     "Public": true,
     "Answers": "The fire department's budget provides for a 743-person workforce. Of that, 725 staff are first responders or inspection/prevention professionals and 18 hold administrative/support roles. \n",
     "Question-Answer-Code": "Dan_Budget_64",
-    "Title": "How do the Mayor of Tulsa and City Council describe their long-term goals for improving quality of life? ",
+    "Title": "How many people does the Tulsa Fire Department employ?",
     "Contributor": "Dan"
   },
   {
@@ -1495,7 +1495,7 @@
     "Public": true,
     "Answers": "According to Tulsa's FY23 budget presentation, \"the City of Tulsa manages 135 parks covering roughly 6,553 acres. This includes two nature centers, seven community centers including WaterWorks Art Studio, 57 miles of walking trails, two skate parks, three dog parks and five swimming pools. In addition, there are 227 sports fields (132 diamond fields and 95 rectangular fields), 99 playgrounds, 94 tennis courts, 8 pickleball courts, 29 basketball courts and 36 half basketball courts, 13 water playgrounds, 18 splash pads and 96 picnic shelters, four golf courses and eight disc golf courses.\" \n",
     "Question-Answer-Code": "Dan_Budget_65",
-    "Title": "What services does Tulsa's Finance Department provide to officials and the public? ",
+    "Title": "How many parks are there in the City of Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -1508,7 +1508,7 @@
     "Public": true,
     "Answers": "The total parks and recreation budget for FY23 is $18.7 million. The budget includes $14 million in operation funds and $4.7 million for capital projects, equipment and upgrades. \n",
     "Question-Answer-Code": "Dan_Budget_66",
-    "Title": "What are the policies governing how Tulsa city officials must approach strategic planning? ",
+    "Title": "How much money does Tulsa spend on parks and recreation? ",
     "Contributor": "Dan"
   },
   {
@@ -1522,7 +1522,7 @@
     "Public": true,
     "Answers": "Tulsa's parks and recreation facilities employ 175 people in total. 130 positions are full-time. \n",
     "Question-Answer-Code": "Dan_Budget_67",
-    "Title": "Who is responsible for managing the City of Tulsa's investment portfolio? ",
+    "Title": "How many people are employed across Tulsa's parks and recreation facilities? ",
     "Contributor": "Dan"
   },
   {
@@ -1537,7 +1537,7 @@
     "Public": true,
     "Answers": "River parks, including metro trails along the river and the Turkey Mountain Urban Wilderness area are supported by shared investment between the City of Tulsa and Tulsa County. The $748,000 in resources allocated for River Parks are utilized for operational support to maintain the trails, Turkey Mountain Urban Wilderness and rest room facilities along the trail system.\n",
     "Question-Answer-Code": "Dan_Budget_68",
-    "Title": "How does the City of Tulsa handle its legal affairs? ",
+    "Title": "How does the City of Tulsa manage its parks along the Arkansas River? ",
     "Contributor": "Dan"
   },
   {
@@ -1551,7 +1551,7 @@
     "Public": true,
     "Answers": "Yes. The City has engaged in management agreements for the operations of City owned culture and recreation facilities. These facilities include the Tulsa Zoo, Mohawk Soccer Complex, Page and Mohawk golf courses, Performing Arts Center, and the Gilcrease Museum. The Parks and Recreation Department is responsible for the oversight for each of the management agreements. \n",
     "Question-Answer-Code": "Dan_Budget_69",
-    "Title": "What are the major areas of compliance that Tulsa city officials must adhere to when crafting the annual budget?",
+    "Title": "Does the City of Tulsa outsource for management of any city-owned facilities? ",
     "Contributor": "Dan"
   },
   {
@@ -1570,7 +1570,7 @@
     "Public": true,
     "Answers": "Housing – to assist homeowners with emergency housing repairs and rehabilitation; prevent early institutionalization of the elderly; create incentives to develop affordable housing; and address substandard housing and revitalize housing through property maintenance and demolition. Neighborhood Services – increase opportunities for neighborhood reinvestment; serve as the contact between residents and the City to coordinate the delivery of public/private resources; and establish neighborhood associations and/or block groups to stabilize and improve neighborhood\nenvironments. Neighborhood Investigations – promote voluntary compliance and enforcement of City nuisance codes; provide a fair and unbiased enforcement program to correct nuisance violations and land use requirements. Animal Welfare – operate the animal shelter and field services to provide a safe, healthy environment for companion animals; support and empower residents for successful pet ownership and educate about codes. \n",
     "Question-Answer-Code": "Dan_Budget_70",
-    "Title": "How much does it cost to run the Tulsa Fire Department? ",
+    "Title": "What services are provided by the city's Working in Neighborhoods department?",
     "Contributor": "Dan"
   },
   {
@@ -1589,7 +1589,7 @@
     "Public": true,
     "Answers": "The WIN department's total funding for FY23 is $9.5 million. The majority of funding comes from the City's general fund, while $1.3 million comes from intergovernmental Community Development Block Grants which mainly support housing initiatives. \n",
     "Question-Answer-Code": "Dan_Budget_71",
-    "Title": "How many attorneys does Tulsa employ in-house?",
+    "Title": "How much funding goes to support Tulsa's Working in Neightborhoods department?",
     "Contributor": "Dan"
   },
   {
@@ -1608,7 +1608,7 @@
     "Public": true,
     "Answers": "Through the Working in Neighborhoods department, Tulsa is allocating an additional $200,000 to address nuisance abatement needs for an FY23 total of $1.078 million. \n",
     "Question-Answer-Code": "Dan_Budget_72",
-    "Title": "What are the main functions of Tulsa's Finance Department? ",
+    "Title": "What is the City of Tulsa doing to improve quality of life at the neighborhood level? ",
     "Contributor": "Dan"
   },
   {
@@ -1628,7 +1628,7 @@
     "Public": true,
     "Answers": "As of beginning of FY23, the WIN department budget authorizes 83 positions. Majority of positions are engaged in neighborhood investigations (30) and animal welfare (40). \n",
     "Question-Answer-Code": "Dan_Budget_73",
-    "Title": "How much does Tulsa spend on its Communications Department? ",
+    "Title": "How many people are employed by Tulsa's Working in Neighborhoods department? ",
     "Contributor": "Dan"
   },
   {
@@ -1645,7 +1645,7 @@
     "Public": true,
     "Answers": "Tulsa's Development Services Department is responsible for implementation of the City's development permitting process, including infrastructure and building plan review and inspection services for all private development within the City of Tulsa.\n",
     "Question-Answer-Code": "Dan_Budget_74",
-    "Title": "How does the City of Tulsa manage its workforce? ",
+    "Title": "What agency of city government is responsible for approving development permits? ",
     "Contributor": "Dan"
   },
   {
@@ -1662,7 +1662,7 @@
     "Public": true,
     "Answers": "The FY23 municipal budget includes $88,000 in new funding for the Department of Development Services to hire two additional office assistants to \"meet permit licenses and\ncustomer requests.\" The City is also spending $334,000 to replace 11 SUV's used by inspection staff. \n",
     "Question-Answer-Code": "Dan_Budget_75",
-    "Title": "What services are provided by the city's Working in Neighborhoods department?",
+    "Title": "What is the City of Tulsa doing to keep up with demand for building permit and licensing services? ",
     "Contributor": "Dan"
   },
   {
@@ -1679,7 +1679,7 @@
     "Public": true,
     "Answers": "The City's Development Services Department budgets for 72 staff. \n",
     "Question-Answer-Code": "Dan_Budget_76",
-    "Title": "What department oversee parking enforcement in Tulsa? ",
+    "Title": "How many employees does the City of Tulsa have working to facilitate construction and development applications? ",
     "Contributor": "Dan"
   },
   {
@@ -1697,7 +1697,7 @@
     "Public": true,
     "Answers": "Public efforts to drive economic growth in Tulsa are primarily organized through the Tulsa Authority for Economic Opportunity (TAEO). According to the Authority, their mission is to \"create and manage public assets and resources to drive economic growth.\" \n",
     "Question-Answer-Code": "Dan_Budget_77",
-    "Title": "Does the City of Tulsa have safeguards to prevent and/or identify misappropriation of public funds? ",
+    "Title": "How does the City of Tulsa manage its efforts to spur economic growth? ",
     "Contributor": "Dan"
   },
   {
@@ -1716,7 +1716,7 @@
     "Public": true,
     "Answers": "TAEO services include: serving as the lead administrative entity for economic and community development services for the City of Tulsa; Managing the City’s Tax Increment Finance (TIF) Districts; Managing and supporting the City’s bond-financed economic development programs; Executing land acquisition and disposition to leverage private development and redevelopment; Leading asset optimization strategy related to major economic development assets; Managing Downtown Development and Redevelopment loan programs; Managing the Affordable Housing Trust Fund and other housing development programs and incentives; Managing outreach, education, and utilization monitoring for the City’s Small Business Enterprise program.\n",
     "Question-Answer-Code": "Dan_Budget_78",
-    "Title": "Are rates for trash collection set to increase in FY23? ",
+    "Title": "What services are provided by the Tulsa Authority for Economic Opportunity? ",
     "Contributor": "Dan"
   },
   {
@@ -1736,7 +1736,7 @@
     "Public": true,
     "Answers": "Using $2.6 million in franchise fees collected by the City from the Public Service Company of Oklahoma, Tulsa's Engineering Services department is beginning the process to coordinate burial of power lines located on public rights of way. The department is also increasing staff in order to implement phase two of the City's Stormwater Utility Enterprise Initiative, in conjunction with the Streets and Stormwater department. Phase two involves scheduling and implementation of capital projects, using information from inspections conducted in phase one. \n",
     "Question-Answer-Code": "Dan_Budget_79",
-    "Title": "Does Tulsa City Council approve a budget for itself? ",
+    "Title": "What projects are in the pipeline for the City of Tulsa's Engineering Services Department? ",
     "Contributor": "Dan"
   },
   {
@@ -1750,7 +1750,7 @@
     "Public": true,
     "Answers": "The Engineering Services Department employs 166 people. The department allocated $650,000 in FY23 to increase staff in preparation for several stormwater management projects. \n",
     "Question-Answer-Code": "Dan_Budget_80",
-    "Title": "What is the City of Tulsa doing to improve quality of life at the neighborhood level? ",
+    "Title": "How many personnel are employed in Tulsa's Engineering Services Department?",
     "Contributor": "Dan"
   },
   {
@@ -1768,7 +1768,7 @@
     "Public": true,
     "Answers": "The Streets and Stormwater Department’s primary areas of responsibility are street maintenance and rights-of-way inspections, traffic control, stormwater, land management, refuse and recycling service through the Tulsa Authority for the Recovery of Energy (TARE). \n",
     "Question-Answer-Code": "Dan_Budget_81",
-    "Title": "Does the City of Tulsa have a detailed breakdown of the costs to run its programs?",
+    "Title": "What City services are overseen by the Streets and Stormwater Department? ",
     "Contributor": "Dan"
   },
   {
@@ -1783,7 +1783,7 @@
     "Public": true,
     "Answers": "The streets and Stormwater Department is receiving $1.9 million in the FY23 budget to \"manage contracted services for utility pole removal, traffic light conversion and expansion, and median maintenance and beautification. Additionally, two inspectors have been funded to monitor streets and maintenance zones for such needed efforts as well as 2 crew members to remediate graffiti.\" \n",
     "Question-Answer-Code": "Dan_Budget_82",
-    "Title": "Who can I call with questions or complaints regarding the City of Tulsa?",
+    "Title": "What is the City of Tulsa doing in FY23 to improve roadways? ",
     "Contributor": "Dan"
   },
   {
@@ -1803,7 +1803,7 @@
     "Public": true,
     "Answers": "The FY23 operating budget for Tulsa's Streets and Stormwater Department totals $81.4 million. Funding for the department comes from a variety of sources, including transfers from: the City's general fund (21%), the Stormwater enterprise fund (29%), and the City's operating budget for sanitation services (38.9%)\n",
     "Question-Answer-Code": "Dan_Budget_83",
-    "Title": "How far does Tulsa Transit service area reach? ",
+    "Title": "How much does the City of Tulsa spend on maintaining its streets and stormwater infrastructure?",
     "Contributor": "Dan"
   },
   {
@@ -1817,7 +1817,7 @@
     "Public": true,
     "Answers": "The FY23 budget for the Streets and Stormwater Department authorizes 377 total positions. However, only 328 positions are considered full-time. \n",
     "Question-Answer-Code": "Dan_Budget_84",
-    "Title": "What's the maximum timeframe over which the City of Tulsa can finance projects using debt?",
+    "Title": "How many people are employed in Tulsa's Streets and Stormwater Department? ",
     "Contributor": "Dan"
   },
   {
@@ -1829,7 +1829,7 @@
     "Public": true,
     "Answers": "Tulsa’s drinking water comes from two sources: Lakes Spavinaw and Eucha on Spavinaw Creek and Lake Oologah on the Verdigris River. Lakes Spavinaw and Eucha are owned and operated by the City. Lake Oologah is operated by the U.S. Army Corps of Engineers. A third emergency source of water is available from Lake Hudson on Grand River. Water is treated at two treatment plants: Mohawk and A.B. Jewell and provided to customers through a water distribution system. \n",
     "Question-Answer-Code": "Dan_Budget_85",
-    "Title": "How does Tulsa's FY23 budget expand municipal court services?",
+    "Title": "Where does the City of Tulsa's drinking water come from? ",
     "Contributor": "Dan"
   },
   {
@@ -1843,7 +1843,7 @@
     "Public": true,
     "Answers": "The FY23 operating budget for Tulsa's Water and Sewer Department totals $150.5 million, a 16.4% increase since FY22's budget. Officials attributed the budget increase to higher costs of chemicals and electric rates. Additionally, the Water and Sewer Department is budgeting $5.8 million for capital improvement projects in FY23. Operating revenue for the Sewer and Water Department mainly comes from service fees charged to users. \n",
     "Question-Answer-Code": "Dan_Budget_86",
-    "Title": "How much does it cost to fund Tulsa's Human Resources department?",
+    "Title": "How much does the City of Tulsa spend to provide drinking water and treat wastewater? ",
     "Contributor": "Dan"
   },
   {
@@ -1857,7 +1857,7 @@
     "Public": true,
     "Answers": "Tulsa's Water and Sewer Department budget authorizes 670 positions in FY23. \n",
     "Question-Answer-Code": "Dan_Budget_87",
-    "Title": "How much does Tulsa spend on its legal department? ",
+    "Title": "How many people are employed across Tulsa's Water and Sewer system? ",
     "Contributor": "Dan"
   },
   {
@@ -1874,7 +1874,7 @@
     "Public": true,
     "Answers": "Tulsa Transit provides public transportation serving residents in the City of Tulsa, Broken Arrow, Jenks, and Sand Springs. These services include fixed route bus service, ADA paratransit services for persons with disabilities, late evening service “Nightline,” and commuter bus service.\n",
     "Question-Answer-Code": "Dan_Budget_88",
-    "Title": "What is the role of the City Auditor of Tulsa?",
+    "Title": "How far does Tulsa Transit service area reach? ",
     "Contributor": "Dan"
   },
   {
@@ -1888,7 +1888,7 @@
     "Public": true,
     "Answers": "Tulsa Transit's FY23 operating budget totals $11.3 million. The transit system's total budget also includes $1.2 million for capital projects. \n",
     "Question-Answer-Code": "Dan_Budget_89",
-    "Title": "Under what circumstances is it acceptable for the City of Tulsa to incur debt by issuing bonds? ",
+    "Title": "How much does it cost to operate Tulsa's transit system? ",
     "Contributor": "Dan"
   },
   {
@@ -1904,7 +1904,7 @@
     "Public": true,
     "Answers": "The FY23 operating budget for the mayor's office totals $1.5 million, which represents a $104,000 increase from FY22. That increase was attributed to benefit and compensation adjustments. The Mayor's office FY23 budget also includes $1.6 million for capital spending, however the adopted FY23 budget didn't include a capital spending plan. \n",
     "Question-Answer-Code": "Dan_Budget_90",
-    "Title": "After the fiscal year closes, how can the public find out if The City of Tulsa ends up spending more or less than the amount that's budgeted at the beginning of the fiscal year?",
+    "Title": "How much funding goes to the office of Tulsa's Mayor? ",
     "Contributor": "Dan"
   },
   {
@@ -1920,7 +1920,7 @@
     "Public": true,
     "Answers": "Besides the mayor, 14 people are employed in their office. \n",
     "Question-Answer-Code": "Dan_Budget_91",
-    "Title": "How many people are employed by Tulsa's Working in Neighborhoods department? ",
+    "Title": "How many people work directly under the Mayor of Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -1934,7 +1934,7 @@
     "Public": true,
     "Answers": "The Internal Auditor is responsible for keeping an independent watch over City operations and resources to ensure citizens’ resources are safeguarded and efficiently and effectively applied to the intended purposes. The mission of the City Auditor is to provide accountability of city government. \n",
     "Question-Answer-Code": "Dan_Budget_92",
-    "Title": "As a Tulsa Metropolitan Utility Authority (TMUA) ratepayer, will I have to pay more for sewage treatment utility service in FY23?  ",
+    "Title": "What is the role of the City Auditor of Tulsa?",
     "Contributor": "Dan"
   },
   {
@@ -1949,7 +1949,7 @@
     "Public": true,
     "Answers": "The FY23 operating budget for the City Auditor totals $1.4 million. Funding increased by $171,000 since FY22, which included: $109,000 in salary adjustments, and $42,000 for technology. \n",
     "Question-Answer-Code": "Dan_Budget_93",
-    "Title": "How much is the City of Tulsa directly investing in utility system infrastructure for FY23?",
+    "Title": "How much funding goes to supporting the City Auditor's office? ",
     "Contributor": "Dan"
   },
   {
@@ -1964,7 +1964,7 @@
     "Public": true,
     "Answers": "Excluding the City Auditor themself, 11 people work in their office. \n",
     "Question-Answer-Code": "Dan_Budget_94",
-    "Title": "How many people are employed by the City of Tulsa across all its departments?",
+    "Title": "How many people work in the Tulsa City Auditor's office?",
     "Contributor": "Dan"
   },
   {
@@ -1978,7 +1978,7 @@
     "Public": true,
     "Answers": "Yes. City Council's budget for FY23 totals $1.6 million. Council is funded entirely from the City's General Fund. Council's budget increased by $259,000 since FY22, with changes including: an additional $163,000 for compensation, $48,000 for a position that council deferred in FY22, and $15,000 to fund councilors' travel to conferences.\n",
     "Question-Answer-Code": "Dan_Budget_95",
-    "Title": "How many people are employed in Tulsa's Streets and Stormwater Department? ",
+    "Title": "Does Tulsa City Council approve a budget for itself? ",
     "Contributor": "Dan"
   },
   {
@@ -1993,7 +1993,7 @@
     "Public": true,
     "Answers": "Excluding the 9 city councilors, Council's budget includes funding for 14 staff. \n",
     "Question-Answer-Code": "Dan_Budget_96",
-    "Title": "How much revenue does the City of Tulsa receive from state taxes on vehicle licenses, liquor, gasoline and tobacco? ",
+    "Title": "How many people are employed to support Tulsa City council?",
     "Contributor": "Dan"
   },
   {
@@ -2008,7 +2008,7 @@
     "Public": true,
     "Answers": "The City Attorney and the Legal department provide all the City’s municipal legal services. The department prepares and reviews ordinances, resolutions, executive orders, and contracts, and handles litigation, claims and controversies involving the City. Attorneys give advice and legal opinions to the City's elected officials, officers, employees, and to City boards, trusts, authorities, and agencies.\n",
     "Question-Answer-Code": "Dan_Budget_97",
-    "Title": "How much debt does the City of Tulsa plan to incur in FY23 in the form of general obligation bonds, and for what purpose? ",
+    "Title": "How does the City of Tulsa handle its legal affairs? ",
     "Contributor": "Dan"
   },
   {
@@ -2022,7 +2022,7 @@
     "Public": true,
     "Answers": "The FY23 budget for Tulsa's legal department totals $4.8 million. Funding increased by $693,000 since FY22, including: an additional $347,000 for compensation, and $289,000 to fund two new attorneys and a paralegal. 99% of legal department funding comes from the City's General Fund. \n",
     "Question-Answer-Code": "Dan_Budget_98",
-    "Title": "How does the City of Tulsa fund its capital improvement projects?",
+    "Title": "How much does Tulsa spend on its legal department? ",
     "Contributor": "Dan"
   },
   {
@@ -2036,7 +2036,7 @@
     "Public": true,
     "Answers": "Tulsa's Legal Department FY23 budget includes funding for 23 City Attorneys, as well as 12 administrative/support personnel. \n",
     "Question-Answer-Code": "Dan_Budget_99",
-    "Title": "As a Tulsa Metropolitan Utility Authority (TMUA) ratepayer, will I have to pay more for water utility service in FY23? ",
+    "Title": "How many attorneys does Tulsa employ in-house?",
     "Contributor": "Dan"
   },
   {
@@ -2051,7 +2051,7 @@
     "Public": true,
     "Answers": "Through the Human Resources Department. Major responsibilities include: Employment, Compensation and Classification, Occupational Health, Workers’ Compensation, Employee Development, Insurance and Retirement Services. \n",
     "Question-Answer-Code": "Dan_Budget_100",
-    "Title": "How much funding goes to supporting the City Auditor's office? ",
+    "Title": "How does the City of Tulsa manage its workforce? ",
     "Contributor": "Dan"
   },
   {
@@ -2066,7 +2066,7 @@
     "Public": true,
     "Answers": "FY23 funding for Tulsa's HR department totals $30.3 million, including funding for workers' compensation ($5.9 million) and employee benefits ($19.6 million) which are facilitated through the department. Excluding that funding leaves $4.5 million for HR department operations. HR department funding decreased by $1.8 million since FY22, reflecting a savings on insurance costs which was achieved through changing vendors. \n",
     "Question-Answer-Code": "Dan_Budget_101",
-    "Title": "How much money does Tulsa spend on parks and recreation? ",
+    "Title": "How much does it cost to fund Tulsa's Human Resources department?",
     "Contributor": "Dan"
   },
   {
@@ -2080,7 +2080,7 @@
     "Public": true,
     "Answers": "The City's Human Resources Department FY23 budget authorizes 44 positions. \n",
     "Question-Answer-Code": "Dan_Budget_102",
-    "Title": "Are rates for emergency medical services (EMSA) set to increase in FY23 for Tulsa residents? ",
+    "Title": "How many people work in Tulsa's Human Resources Department?",
     "Contributor": "Dan"
   },
   {
@@ -2098,7 +2098,7 @@
     "Public": true,
     "Answers": "Through the City Government's voluntary participation in INCOG, Tulsa receives assistance with city planning, transportation planning and programs, environmental and energy planning, community and economic development, aging services, and public safety. INCOG also acts as a liaison between its member governments and superior (state and federal) governments, advocating for and monitoring legislation that impacts the Tulsa metro area. \n",
     "Question-Answer-Code": "Dan_Budget_103",
-    "Title": "How many sworn police officers work for the City of Tulsa? ",
+    "Title": "What services does the City of Tulsa receive through its membership in the Indian Nations Council of Governments?",
     "Contributor": "Dan"
   },
   {
@@ -2117,7 +2117,7 @@
     "Public": true,
     "Answers": "Tulsa's FY23 contribution to INCOG is budgeted at $3.3 million. According to budget documents, \"resources allocated to INCOG will support services provided to the City of Tulsa for the following: land development reviews for TMAPC in accordance with the comprehensive plan; identifying and securing Federal and State transportation resources; identifying and securing Federal funding for economic development; and for the Destination District and Vibrant Neighborhoods programs.\"\n",
     "Question-Answer-Code": "Dan_Budget_104",
-    "Title": "Where does the City of Tulsa's drinking water come from? ",
+    "Title": "How much funding does The City of Tulsa contribute to the Indian Nations Council of Governments? ",
     "Contributor": "Dan"
   },
   {
@@ -2135,7 +2135,7 @@
     "Public": true,
     "Answers": "According to Tulsa's FY23 budget presentation, Finance Department operations are carried out by eight divisions: administration, budget and planning, treasury, purchasing, accounting, utility services, City Clerk, and the Office of Performance, Strategy and Innovation\n",
     "Question-Answer-Code": "Dan_Budget_105",
-    "Title": "Are rates to maintain the City of Tulsa stormwater management system increasing in FY23? ",
+    "Title": "What are the main functions of Tulsa's Finance Department? ",
     "Contributor": "Dan"
   },
   {
@@ -2153,7 +2153,7 @@
     "Public": true,
     "Answers": "According to Tulsa's FY23 budget presentation, services include: \"accounting for all revenues, expenditures, assets and liabilities; preparing the annual budgets and the capital plan; processing purchase requests; striving for the highest-possible return on the city's investment portfolio; paying all the city's bills, developing and implementing financial policies, administrating the City's debt programs, maintaining the billing system for utilities, and analyzing financial data to inform officials' decision making. \n",
     "Question-Answer-Code": "Dan_Budget_106",
-    "Title": "How much does Tulsa spend to operate its information call center? ",
+    "Title": "What services does Tulsa's Finance Department provide to officials and the public? ",
     "Contributor": "Dan"
   },
   {
@@ -2171,7 +2171,7 @@
     "Public": true,
     "Answers": "Tulsa's FY23 budget authorizes 161 full time positions\n",
     "Question-Answer-Code": "Dan_Budget_107",
-    "Title": "How much debt does Tulsa have on its books?",
+    "Title": "How many people work in Tulsa's municipal Finance Department? ",
     "Contributor": "Dan"
   },
   {
@@ -2185,7 +2185,7 @@
     "Public": true,
     "Answers": "Tulsa's FY23 budget includes $29.9 million for the IT Department. Their net budget increased by $3.1 million from FY22. Major changes in the IT department's FY23 budget includes: $1.1 million in salary increases, $287,000 to hire three new positions, $907,000 for the City's network security system, and $4.5 million to update or replace equipment. \n",
     "Question-Answer-Code": "Dan_Budget_108",
-    "Title": "How much funding goes to the office of Tulsa's Mayor? ",
+    "Title": "How much does the City of Tulsa spend on its Information Technology Department?",
     "Contributor": "Dan"
   },
   {
@@ -2199,7 +2199,7 @@
     "Public": true,
     "Answers": "Tulsa's FY23 budget, authorizes 122 IT positions, all of which are full-time\n",
     "Question-Answer-Code": "Dan_Budget_109",
-    "Title": "How must Tulsa city officials structure the sale of municipal bonds? ",
+    "Title": "How many people work in Tulsa's IT Department? ",
     "Contributor": "Dan"
   },
   {
@@ -2212,7 +2212,7 @@
     "Public": true,
     "Answers": "According to the City's website, Tulsa's 311 Customer Care call center bills itself as \"the central point of contact for the City of Tulsa.\" Available through call, text, and online chat, the service features English and Spanish-speaking live operators who screen and try to resolve calls, or forward them to the proper city department. \n",
     "Question-Answer-Code": "Dan_Budget_110",
-    "Title": "What is the City of Tulsa doing to keep up with demand for building permit and licensing services? ",
+    "Title": "Who can I call with questions or complaints regarding the City of Tulsa?",
     "Contributor": "Dan"
   },
   {
@@ -2225,7 +2225,7 @@
     "Public": true,
     "Answers": "In FY23, Tulsa is budgeting $4 million dollars for its 311 Customer Care Center. The budget increased by 61% since FY22. The department is budgeting $663,000 to hire and train an additional 13 employees, including 10 operators, to deal with increased call volume. Officials also hope to address retention with $375,000 toward compensation adjustments. And the City is spending $120,000 on translation services. \n",
     "Question-Answer-Code": "Dan_Budget_111",
-    "Title": "How many people work in Tulsa's Human Resources Department?",
+    "Title": "How much does Tulsa spend to operate its information call center? ",
     "Contributor": "Dan"
   },
   {
@@ -2239,7 +2239,7 @@
     "Public": true,
     "Answers": "Tulsa's 311 Customer Care Center FY23 budget authorizes 57 full-time positions. \n",
     "Question-Answer-Code": "Dan_Budget_112",
-    "Title": "How much does the City of Tulsa spend on its Information Technology Department?",
+    "Title": "How many people work in tulsa's information call center?",
     "Contributor": "Dan"
   },
   {
@@ -2254,7 +2254,7 @@
     "Public": true,
     "Answers": "Tulsa's Communications Department has the job of shaping how information about the city gets distributed to the public. That includes the traditional role of gathering information to provide to the press, interdepartmental communications, as well as social media/online content, and graphic design. \n",
     "Question-Answer-Code": "Dan_Budget_113",
-    "Title": "How does Tulsa's FY23 budget address mental health services? ",
+    "Title": "How does the City of Tulsa manage its media and public relations efforts?",
     "Contributor": "Dan"
   },
   {
@@ -2267,7 +2267,7 @@
     "Public": true,
     "Answers": "The FY23 budget for Tulsa's Communication Department totals $824,000, a 26% increase from FY22. Budget documents attribute the increase to the need for increased messaging regarding COVID-19. The department is hiring a new graphics specialist at a $56,000 salary in order to meet that need. Existing salaries were also adjusted upward by $101,000 in order to address employee retention. \n",
     "Question-Answer-Code": "Dan_Budget_114",
-    "Title": "How much money does it take to run the Tulsa Police Department? ",
+    "Title": "How much does Tulsa spend on its Communications Department? ",
     "Contributor": "Dan"
   },
   {
@@ -2281,7 +2281,7 @@
     "Public": true,
     "Answers": "The FY23 budget for Tulsa's Communications Department authorizes 9 full-time positions. \n",
     "Question-Answer-Code": "Dan_Budget_115",
-    "Title": "What happens if the City of Tulsa has surplus funds left over at the end of the fiscal year? Can officials \"roll\" those funds over into their calculations for the upcoming fiscal year?",
+    "Title": "How many people work in Tulsa's Communications Department? ",
     "Contributor": "Dan"
   },
   {
@@ -2296,7 +2296,7 @@
     "Public": true,
     "Answers": "Parking enforcement on streets and in public parking garages around Tulsa is overseen by the city's Asset Management Department. The same department is also responsible for repairing and installing parking meters, managing the city's fleet of vehicles,  managing real estate holdings, and providing security for those properties. \n",
     "Question-Answer-Code": "Dan_Budget_116",
-    "Title": "Is the Tulsa Fire Department hiring members? ",
+    "Title": "What department oversee parking enforcement in Tulsa? ",
     "Contributor": "Dan"
   },
   {
@@ -2311,7 +2311,7 @@
     "Public": true,
     "Answers": "The FY23 budget for Tulsa's Asset Management Department totals $42 million, a 25% increase over FY22's budget. A third of that increase is attributable purely to higher gas prices. The City is also spending $2.6 million on improvements to One Technology Center,  and $1.4 million to improve Air Force Plant 3. \n",
     "Question-Answer-Code": "Dan_Budget_117",
-    "Title": "Does the City of Tulsa outsource for management of any city-owned facilities? ",
+    "Title": "How much does Tulsa spend on managing its assets and enforcing parking?",
     "Contributor": "Dan"
   },
   {
@@ -2326,7 +2326,7 @@
     "Public": true,
     "Answers": "Tulsa's Asset Management Department employs 132 people as of FY23. That includes 30 building operations staff, 17 security staff, 67 equipment management staff, and 17 administration staff. \n",
     "Question-Answer-Code": "Dan_Budget_118",
-    "Title": "How does the City of Tulsa manage receivable debt owed by outside parties?",
+    "Title": "How many people work on parking enforcement and facility management for the City of Tulsa?",
     "Contributor": "Dan"
   },
   {
@@ -2343,7 +2343,7 @@
     "Public": true,
     "Answers": "According to the FY23 budget, general obligation bonds issued by Tulsa are rated in the top-tier of creditworthiness by national credit rating agencies. Standard and Poor's rates Tulsa's creditworthiness at AA, their third-highest ranking (only three American companies hold the highest rating). Moody's rates Tulsa at Aa1, their second-highest rating. Higher credit ratings imply less risk, meaning Tulsa is more likely to get favorable repayment terms when it needs to issue debt. \n",
     "Question-Answer-Code": "Dan_Budget_119",
-    "Title": "What is the City of Tulsa doing to expand access to municipal court services? ",
+    "Title": "What is the City of Tulsa's credit rating? ",
     "Contributor": "Dan"
   },
   {
@@ -2358,7 +2358,7 @@
     "Public": true,
     "Answers": "There are two major forms of debt available to Tulsa: general obligation bonds and revenue bonds. General obligation bonds can be used to finance a wide variety of projects and can be repaid using almost any form of revenue, although some states restrict how municipalities can service general obligation debt. In Tulsa, general obligation debt is paid off exclusively using a dedicated portion of property taxes. Revenue bonds are mainly used to finance projects (such as toll roads) that will generate revenue upon completion. Revenue bonds are guaranteed with anticipated future revenue from the project being financed. Strictly speaking, the City of Tulsa has never issued a revenue bond. However, authorities (such as the utilities authority) associated with Tulsa have issued revenue bonds that benefit the City as well. \n",
     "Question-Answer-Code": "Dan_Budget_120",
-    "Title": "How many people work in Tulsa's Communications Department? ",
+    "Title": "How does Tulsa repay its debt? ",
     "Contributor": "Dan"
   },
   {
@@ -2374,7 +2374,7 @@
     "Public": true,
     "Answers": "As of June 30, 2022, the City of Tulsa's total debt liability is $395.3 million on general obligation bonds issued as early as 2013 and as recently as 2022. The cumulative debt originally incurred across all ten currently-active bonds equals $549.4 million. The average interest rate for those bonds is 2.75%. \n",
     "Question-Answer-Code": "Dan_Budget_121",
-    "Title": "What were some of Tulsa City government's priorities in the FY23 budget? ",
+    "Title": "How much debt does Tulsa have on its books?",
     "Contributor": "Dan"
   },
   {
@@ -2390,7 +2390,7 @@
     "Public": true,
     "Answers": "The City of Tulsa is currently liable for ten general obligation bonds (totaling $395.3 million) with varying maturity dates. According to FY23 budget documents, the City plans to satisfy all of its current debt by 2038. Over that timeframe, the City anticipates paying $49.4 million in interest, for a cumulative total debt service of $444.8 million. \n",
     "Question-Answer-Code": "Dan_Budget_122",
-    "Title": "How many people does the Tulsa Fire Department employ?",
+    "Title": "How long will it take for Tulsa to pay down the debt it currently holds?",
     "Contributor": "Dan"
   },
   {
@@ -2404,7 +2404,7 @@
     "Public": true,
     "Answers": "The City of Tulsa's FY23 budget authorizes 4,120 positions. The actual number of employees is subject to change. Almost 75% of positions are in public safety or transportation/public works. City-wide, 4,015 positions are considered full-time. Total staffing increased by 67 positions since FY22. \n",
     "Question-Answer-Code": "Dan_Budget_123",
-    "Title": "How much does the City of Tulsa spend to provide drinking water and treat wastewater? ",
+    "Title": "How many people are employed by the City of Tulsa across all its departments?",
     "Contributor": "Dan"
   },
   {
@@ -2415,7 +2415,7 @@
     "Public": true,
     "Answers": "Yes. For the first time, Tulsa included a \"Program-Based\" budget as an appendix to its standard annual budget for FY23. The PBB, accessible here, provides approximate costs for virtually every program and service funded by the City of Tulsa. The PBB is useful because, in many cases, a single program may rely on collaboration from multiple City departments, making it difficult to calculate total funding from various department budgets. \n",
     "Question-Answer-Code": "Dan_Budget_124",
-    "Title": "How much money does Tulsa have put aside in case of serious economic downturn or disaster? ",
+    "Title": "Does the City of Tulsa have a detailed breakdown of the costs to run its programs?",
     "Contributor": "Dan"
   },
   {
