@@ -7,7 +7,7 @@ import { withCookies } from 'react-cookie';
 // import PLAY_IMAGE from '../images/play.png';
 
 const CATEGORY_COLOR_LOOKUP = {
-  'city government & the policy process': 'tpi-green',
+  'city gov & policy process': 'tpi-green',
   'revenue & spending': 'tpi-purple',
   'policies & regulations': 'tpi-orange',
   'public services': 'tpi-pink',

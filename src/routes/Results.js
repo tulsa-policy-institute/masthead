@@ -7,14 +7,14 @@ import Result from './Result';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 
 const TAG_COLOR_LOOKUP = {
-  'city government & the policy process': '#00AAAD',
+  'city gov & policy process': '#00AAAD',
   'revenue & spending': '#9747FF',
   'policies & regulations': '#FF5C00',
   'public services': '#FF8BE6',
 };
 
 export const CATEGORY_ICON_LOOKUP = {
-  'city government & the policy process': 'icon_lg_citygov-policy.png',
+  'city gov & policy process': 'icon_lg_citygov-policy.png',
   'revenue & spending': 'icon_lg_revenue-spending.png',
   'policies & regulations': 'icon_lg_policies-regs.png',
   'public services':  'icon_lg_publ-services.png',
