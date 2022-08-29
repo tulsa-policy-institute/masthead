@@ -94,11 +94,11 @@ const Results = ({ results, typedInput, cookies, isQuerying }) => {
   })();
 
   return <>
-    <div className='flex flex-wrap mt-4 overflow-wrap place-content-center z-10'>
+    <div className='flex flex-wrap mt-2 overflow-wrap place-content-center z-10'>
       {tags.filter(t => Object.keys(CATEGORY_ICON_LOOKUP).includes(t)).map((c, i) => <div
         key={i}
         style={{ backgroundColor: selectedFilters.includes(c) ? TAG_COLOR_LOOKUP[c] : '' }}
-        className={`text-white select-none bg-gray-200/50 p-2 m-1 rounded-lg text-sm cursor-pointer`}
+        className={`text-white select-none bg-gray-200/60 p-2 m-1 rounded-lg text-xs cursor-pointer`}
         onClick={() => {
           if(selectedFilters.includes(c)) {
             gaFilteringTracker('unset', c);
