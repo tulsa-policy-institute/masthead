@@ -72,7 +72,7 @@ function App({ cookies }) {
 
   return (
     <CookiesProvider>
-      <header className={`p-4 max-w-full shadow-lg shadow-gray-200 border-b-white border-b-2 ${isQuerying ? 'bg-[#FBFBFB]' : 'text-white bg-black'}`}>
+      <header className={`p-4 max-w-full border-b-white border-b-2 ${isQuerying ? 'bg-[#FBFBFB]' : 'text-white bg-black'}`}>
         <div className='container mx-auto'>
           <Link to='/?q=' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
         </div>
