@@ -15,6 +15,8 @@ const CATEGORY_COLOR_LOOKUP = {
 
 const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = '', children, cookies }) => {
   const [searchParams, setSearchParams] = useSearchParams();
+  const isQuerying = searchParams.get('init');
+  const showClear = isQuerying && typedInput;
   const doSearch = () => { searchParams.set('init', true); setSearchParams(searchParams) };
 
   return <div className={className}>
@@ -45,9 +47,14 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
       />
       {typedInput && <div
         className="flex absolute inset-y-0 right-0 items-center pr-3 text-white cursor-pointer"
-        onClick={() => doSearch()}
+        onClick={() => showClear ? setTypedInput('') : doSearch()}
       >
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+        {showClear ? <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        </svg> :
+        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+        </svg>}
       </div>}
     </div>
   </div>;
