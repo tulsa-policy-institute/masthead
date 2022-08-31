@@ -91,7 +91,7 @@ function App({ cookies }) {
       </footer>
       {showModal && <Modal toggle={toggleModal} cont={handleContinue}>
         <div>
-          <h1 className='text-2xl'> You've Got Questions. <br/> We've Got Answers.</h1>
+          <h1 className='text-2xl'> You've Got Questions. We've Got Answers.</h1>
           <br/>
           <p> Even better, they are delivered directly to you. <br/> The way interacting with Tulsa was meant to be, today. </p>
           <br/>
