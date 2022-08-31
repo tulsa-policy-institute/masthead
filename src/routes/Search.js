@@ -55,7 +55,7 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
         className="flex absolute inset-y-0 right-0 items-center pr-3 text-white cursor-pointer"
         onClick={() => showClear ? setTypedInput('') : doSearch()}
       >
-        {showClear ? <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        {showClear ? <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path>
         </svg> :
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
