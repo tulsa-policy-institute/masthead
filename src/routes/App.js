@@ -88,11 +88,11 @@ function App({ cookies }) {
       </footer>
       {showModal && <Modal toggle={toggleModal} cont={handleContinue}>
         <div>
-          <h1 className='text-2xl'> You've Got Questions. We've Got Answers.</h1>
+          <h1 className='text-2xl'> You've Got Questions. <br/> We've Got Answers.</h1>
           <br/>
-          <p>Welcome to Tulsa Policy Institute! We work to make Tulsa the national leader in civic confidence by developing products that answer all your most deeply held questions about government and public policy in the 918.</p>
+          <p> Even better, they are delivered directly to you. <br/> The way interacting with Tulsa was meant to be, today. </p>
           <br/>
-          <p>You have visited during a very special time. September 2022 is our our pilot program where you can explore answers to all your questions about policy and service delivery in Tulsa!</p>
+          <p> Welcome to the TPI September Pilot Launch. </p>
           <br/>
           <div className="flex flex-col justify-start">
             <div className="mb-3 xl:w-96">
