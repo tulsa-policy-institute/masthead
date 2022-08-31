@@ -35,10 +35,6 @@ html, body, #root {
   }
 }
 
-.result-markdown a {
-  text-decoration: underline;
-}
-
 .tpi-blur {
   backdrop-filter: blur(20px);
 }
