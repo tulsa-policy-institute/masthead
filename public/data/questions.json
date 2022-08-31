@@ -4030,8 +4030,9 @@
   {
     "id": "reczt6Hm5A1Kx9Ux2",
     "Question": "How do I register my neighborhood association with the City of Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "To get your neighborhood association registered with the City of Tulsa, you will need to provide the name of the association, its boundaries (north, east, south, west), and primary contact information. This information must be provided on the Working in Neighborhoods' neighborhood association registration form. As of August 2022, this form can be found [here](https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/neighborhoods/registration/). Alternatively, you may submit this information to us and we at Tulsa Policy Institute will be happy to file the form for you.\n",
-    "Source": "City of Tulsa. _City Website. Neighborhood Registration Form._\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recKwdNep7HvUUvgc",
@@ -4039,13 +4040,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_001",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "City of Tulsa. _City Website. Neighborhood Registration Form._\n"
   },
   {
     "id": "recOPQEfE3apeagD2",
     "Question": "What recomendations does the Tulsa Planning Office have for making an effective neighborhood association?",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Establish leadership and defined roles while including all residents and encouraging volunteers. Further, establish structured meetings that allow for public input. Finally, seek to secure funding and establish partnerships with businesses and organizations. Please submit inquiry to us if your neighborhood association is interested in partnerning with the Tulsa Policy Institute.\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4055,28 +4056,28 @@
       "recoS1cd55VZ046k2"
     ],
     "QA Code": "Samuel_Planning_002",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
   },
   {
     "id": "recsKttkmpMeNapAR",
     "Question": "Is joining a neighborhood association voluntary in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "**Yes.** Neighborhood associations cannot require your participation, unlike homeowner associations. Homeowner associations can compel your participation and adherence to rules, fines, and fees.\n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
     "Concepts": [
       "recKwdNep7HvUUvgc",
       "rec4wpWPzMkrZUALU",
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_003",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
   },
   {
     "id": "recFqk6yAVtx07Ggb",
     "Question": "May anyone living within the boundaries of a neighborhood association join it?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "**Yes.** Membership is open to homeowners and tenants alike. \n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
     "Concepts": [
       "recKwdNep7HvUUvgc",
       "rec4wpWPzMkrZUALU",
@@ -4084,14 +4085,14 @@
       "rec5lKU0z4aujZLfa"
     ],
     "QA Code": "Samuel_Planning_004",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
   },
   {
     "id": "recy45EtuDTN1g5We",
     "Question": "Can neighborhood associations in Tulsa establish membership fees?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "**Yes**, if they so choose.\n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
     "Concepts": [
       "recKwdNep7HvUUvgc",
       "rec4wpWPzMkrZUALU",
@@ -4100,28 +4101,28 @@
       "recKE790vQbaHmbeM"
     ],
     "QA Code": "Samuel_Planning_005",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
   },
   {
     "id": "recM8n8csurCdda7x",
     "Question": "What are the benefits of registering my neighborhood association with the City of Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Through registering with the City of Tulsa, neighborhood associations can receive assistance with organizing** block parties**, receive **leadership trainings**, as well as participate in city programs such as **dumpster days** and the **neighborhood identity sign program**.\n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
     "Concepts": [
       "recKwdNep7HvUUvgc",
       "rec4wpWPzMkrZUALU",
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_006",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
   },
   {
     "id": "recHZT20iold95BRF",
     "Question": "What is the difference between a neighborhood association and a homeowner's association in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "A neighborhood association is a voluntary organization that is open to all homeowners and renters that inhabit the territory over which the organization is organized. These organizations lack the legal authority to levy liens or fees and they cannot compel residents to follow covenants. However, they can require membership dues. Homeowners associations are mandatory for all homeowners in the subdivision and are required to pay for services. These associations create policy in the form of covenants that all homeowners must follow. The homeowner association can levy fines, fees, and liens against a homeowner's property for refusal to follow the covenant. In the words of the Tulsa Planning Office, homeowner associations \"...act as a hyper-local form of government\".\n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
     "Concepts": [
       "recKwdNep7HvUUvgc",
       "rec4wpWPzMkrZUALU",
@@ -4130,14 +4131,14 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_007",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
   },
   {
     "id": "recmFt4iIh8PQhmWW",
     "Question": "What is a Tulsa neighborhood identity sign and how can my neighborhood association have them implemented in our neighborhood?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Neighborhood signs are signs that are unique to each neighborhood, representing significant or historical features of the neighborhood. In order to see your sign implemented in your neighorbood, you must complete the following. First, your neighborhood association must submit a wrtitten proposal with a map of proposed sign locations to Traffic Operations, which will review and tentatively approve such locations. Second, you must develop a design for your sign (cannot have red text on white background, white text on red background, black text on yellow background, or black text on orange background). Third, you must submit your design to the Tulsa Planning Office to be added to the Arts Commission Agenda. Fourth, you must present your design at the Arts Commission meeting at which point the commission may offer suggestions or request changes to your design. Fifth, a sign manufacturer will make your signs according to your the city's specifications after which you will deliver your completed signs to the city. Finally, the city's Streets & Stormwater division will install your signs in the approved location.\n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recKwdNep7HvUUvgc",
@@ -4146,14 +4147,14 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_008",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n"
   },
   {
     "id": "recp5SnTHLjr4XA3d",
     "Question": "How do I develop a neighborhood identity sign in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "According to Tulsa Planning Office's Neighborhood Toolkit, neighborhood associations recognized by the City of Tulsa can design welcome signs commemorating the historical or unique features of their slice of Tulsa. The process begins by submitting a written proposal and neighborhood map with proposed sign locations for tentative approval by the Traffic Operations Department. After that, your community can begin designing the sign according to certain specifications. Once its ready, submit the design to the Tulsa Planning Office. You'll have the opportunity to present your design to the Arts Commission, which may offer suggestions or request changes. After their approval, find a sign manufacturer and deliver your completed signs to the City of Tulsa. The Streets and Stormwater Department will install the signs at their designated locations. For more detailed information, review the toolkit. \n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recKwdNep7HvUUvgc",
@@ -4162,14 +4163,14 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_009",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n"
   },
   {
     "id": "recF0vRein4FKuYAG",
     "Question": "How do I throw a block party in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "According to Tulsa Planning Office's Neighborhood Toolkit, neighborhood associations registered with the City can organize block parties in their community to bring neighbors closer together, celebrate, fundraise, or just have a good time. The only requirements are that the association notifies the City of when the party is scheduled, and that the association acquires barriers if the party is using a public street. Beyond that, the tookit recommends some common sense steps like checking the weather forecast, scheduling a rain date, organizing a party planning committee, and coordinate on who will provide which activities/food. \n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 8._\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "reco1OdEL91D6SdZx",
@@ -4177,14 +4178,14 @@
       "recOv5VE6tdQiwyPA"
     ],
     "QA Code": "Samuel_Planning_010",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 8._\n"
   },
   {
     "id": "recjC9hwVLu8yJE23",
     "Question": "How do I organize a neighborhood cleanup in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "According to Tulsa Planning Office's Neighborhood Toolkit, registered neighborhood associations can get help from the City to beautify their community through a neighborhood cleanup. cleanup project could include, picking up litter, clearing sidewalks, planting, or helping a neighbor with a necessary home renovation. The City will even provide a 30-yard dumpster for free, just fill out a request here. During the summer months, associations could be eligible for additional free supplies through the Great American Cleanup sponsored by the Oklahoma affiliate of Keep America beautiful. Find out about additional resources in the Neighborhood Toolkit\n",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 9-10._\n\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recKwdNep7HvUUvgc",
@@ -4192,12 +4193,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_011",
-    "Public": true,
-    "Contributor": "Samuel"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 9-10._\n\n"
   },
   {
     "id": "recdJyCbuHpkXOHLu",
     "Question": "How do I report code violations in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Tulsa has several ordinances, or codes, which apply to how property owners must maintain their property. The Tulsa Planning Office's Neighborhood Toolkit has a helpful list of common violations including tall grass, and debris in the yard. Before taking action against a neighbor regarding a potential violation, it's worth reviewing municipal codes and the bylaws of your Homeowners Association (if you belong to one) in order to determine which policies apply. If you suspect a violation of municipal code, you can report it by calling 3-1-1, visiting [tulsa311.com](https://tulsa311.com/site/wss/home), or through the Tulsa311 mobile app. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4206,13 +4208,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_012",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 11-12._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 11-12._\n"
   },
   {
     "id": "recIXjskCTgB35RHJ",
     "Question": "Can my neighbor keep their inoperable vehicle in their front yard?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "**No**, according to the Tulsa Zoning Code Section 45.140. While the Tulsa Planning Office's Neighborhood Toolkit states \"Inoperable vehicles must be stored in a fully enclosed structure\"(11), the Tulsa Zoning Codes states that inoperable vehicles may be placed in the back yard. Further, note that a vehicle is not inoperable merely because it \"...does not include a motor vehicle that has been rendered temporarily incapable of being driven under its own motor power, solely to perform ordinary service or repair operations\"(Section 95.120). A vehicle is only inoperable if, for a seven day period, the vehicle's engine, wheels, or other parts are removed OR in which the engine, wheels, or other parts have been damaged, altered, or modified such that the vehicle is not capable of being driven.\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4223,13 +4225,13 @@
       "recLbp4zqgMf7Kk0v"
     ],
     "QA Code": "Samuel_Planning_013",
-    "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n"
   },
   {
     "id": "recprRZEmaiFQcIZc",
     "Question": "How do I establish a neighborhood tool library in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Starting a community tool library in your Tulsa neighborhood is relatively straightforward and, unlike some other community initiatives, doesn't require any approvals from the City. An informal tool library can simply be verbal agreements between neighbors. Resources like digital spreadsheets, social media groups, and free online platforms can help your neighborhood support a more complex tool library with multiple participants. [Sharestarter](http://sharestarter.org) has helpful guides on how to setup a robust tool library, and online lending platforms like [Myturn](https://myturn.com/) can help you manage loans and returns. Visit the Tulsa Planning Office's Neighborhood Toolkit for more tips.\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4240,13 +4242,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_014",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 13._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 13._\n"
   },
   {
     "id": "rec8aGzJTsY9GTzMN",
     "Question": "What is an alert neighbors program?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "An Alert Neighbors program is a framework for members of a community to organize around protecting the safety of themselves and their neighbors through education, vigilance and cooperation. The foundation of an alert neighbors program is building familiarity with your neighbors through communication and observation, to be able to spot suspicious activity if/when it occurs. A well-functioning program will hold meetings, organize educational presentations from public safety officials, and centralize important communications through a social media group or contact list. For more tips, review the Tulsa Planning Office's Neighborhood Toolkit.\n",
     "Concepts": [
       "recKwdNep7HvUUvgc",
@@ -4254,13 +4256,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_015",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n"
   },
   {
     "id": "recQ6ib28eweg2yaC",
     "Question": "How do I start an alert neighbors program in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "An Alert Neighbors program is an entirely grassroots organization. Step one is to discuss the idea with neighbors and identify somebody who has the time and dedication to serve as program coordinator for your neighborhood. The coordinator(s) will establish a meeting schedule, invite speakers to give presentations, establish social media or other communications methods, recruit block captains, and organize training. Block captains help manage communications within a single block or apartment building. Simply participating in an Alert Neighbors program and becoming more familiar with your neighbors will go a long way in building trust in your community and learning to identify unusual or suspicious activity in your neighborhood. For more tips about organizing and growing an Alert Neighbors program, review the Tulsa Planning Office's Neighborhood Toolkit. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4269,13 +4271,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_016",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n"
   },
   {
     "id": "recb2mqOhYvTzuBtm",
     "Question": "How do I prepare for an emergency in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Natural disasters, especially in Tulsa, can pose a significant risk to life and property. Each type of disaster can pose unique challenges, but a few proactive steps can put you in a better spot for any disaster. For instance, having a plan ahead of time about when to leave your home, where to go, and how to maintain contact with loved ones can save significant decision time when disaster strikes. Having a go-bag, or emergency kit, packed with essentials also reduces the risk of being unprepared if you have to leave. If you have the time and resources, modifications to boost your home's resiliency are often worth the expense. Tulsa 311 also offers a service where residents can easily find out the risk of flooding at their residence. For in-depth tips and guides to disaster planning, visit [American Red Cross](http://redcross.org) and [Ready](http://ready.gov).\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4284,13 +4286,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_017",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 15._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 15._\n"
   },
   {
     "id": "recD7qV5csbm3Afgh",
     "Question": "How do I install a storm shelter in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Storm shelters and safe rooms are the best ways to keep you and your family safe from a tornado. But they can be expensive, frequently costing between $2,500 and $8,000.  In Oklahoma, there are options to help you finance a storm shelter on your property. The State of Oklahoma offers rebates granted by lottery through the [Sooner Safe](https://www.ok.gov/OEM/saferoom/app/) program.  Storm shelter loans are available at many local credit unions and FHA loans can be used to install a safe room in your home. Regardless of how it's financed, shelters or safe rooms should be installed by reputable and insured companies. Shelters built to FEMA standards are designed to withstand winds from an E-5 tornado. Once installed, [register](https://survey123.arcgis.com/share/4e885823f3b846d59906f183c428b642) your new shelter or safe room with the City of Tulsa so first responders can find you. Review the Tulsa Planning Office's Neighborhood Toolkit for more tips on disaster preparedness and installing storm sheltering.\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4298,13 +4300,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_018",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 16._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 16._\n"
   },
   {
     "id": "recKurmkfCL7WXRMH",
     "Question": "How do I plant and care for trees in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Planting a tree is a deceptively significant decision that requires some careful planning to avoid serious challenges as the tree matures. Those who wish to plant a tree on their property must account for the tree's suitability to the climate, the risk of root systems damaging foundations or utilities, the risk of top-growth damaging power lines, the tree's ability to withstand severe weather, and how they'll care for the tree in the long-term. If you want to plant a tree within 12 feet of the curb, you'll need a permit and a License Agreement from the City of Tulsa. Before buying a tree, visit [Tulsa Master Gardeners](http://tulsamastergardeners.org) to find out which trees thrive in Tulsa. Before planting, regardless of location, call 8-1-1 or visit [Okie811](http://okie811.org) to have utility workers mark the location of buried utility lines that must be avoided. Review the Tulsa Planning Office's Neighborhood Toolkit for more info and resources about trees. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4313,41 +4315,41 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_019",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 17._\n",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 17._\n"
   },
   {
     "id": "recRtAR1YVxpadQyh",
     "Question": "How do I install rain barrels in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "You'll want to place your barrel near an existing downspout from your gutters, and elevate the barrel on a steady base for gravity to help water run through your hose. Empty and clean the barrel at the end of summer to prevent freezing damage. At some points in time, the City of Tulsa partners with a business to offer discounted rain barrels. Follow City of Tulsa social media channels to find out when discounts are available. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recuSesYtVg40gW5d",
       "recdoCgCxV6RbWD0L"
     ],
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 19._\n",
     "QA Code": "Samuel_Planning_020",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 19._\n"
   },
   {
     "id": "rec9gnsbyLJA9OXN5",
     "Question": "How do I plant a rain garden in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Rain gardens can both enhance the beauty of your yard and contribute to flood mitigation by absorbing rainwater that would otherwise become storm water runoff. The best spot for a rain garden is the lowest point in your yard, where rainwater flows naturally. To determine the size of your garden, multiply the square footage of hard surfaces (roof, patio, sidewalk) on your property by 5-10%. Keep in mind that not all of those hard surfaces may direct rain water to your garden. Once your garden is situated, dig out a six to eight inch deep depression for maximum absorption. The key factor for a rain garden is the rate at which water infiltrates the soil. If you find that the soil is hard-packed or doesn't drain well, it's worth picking a different spot or digging deeper to amend the soil with sand. When its time to plant, choose native varieties to attract pollinators, specifically ones that can tolerate wet roots for a day or two.  The OSU extension office has a helpful plant selection guide [here.](https://extension.okstate.edu/fact-sheets/sustainable-landscapes-designing-a-rain-garden-for-residential-property.html)\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recDNE4Khu45LY42t",
       "recdoCgCxV6RbWD0L"
     ],
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 20._\n",
     "QA Code": "Samuel_Planning_021",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 20._\n"
   },
   {
     "id": "recd73crvkSwsZu19",
     "Question": "How do I request mixed-use zoning along BRT Route?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "If you own property within a half-mile of a Bus Rapid Transit station on Peoria Ave. in Tulsa, your property may be eligible for re-zoning as a mixed-use district. Mixed-use zoning allows you to develop or redevelop your property to support any combination of residential, retail, and/or office space. The Tulsa Planning Office has a map and staff to help you find out if your property is eligible. If it is, you can submit an application for free (instead of the standard $2,000 cost) until Dec 31, 2023. Staff at the Tulsa Metropolitan Planning Commission will review your application and notify neighbors of their opportunity to comment on the application. TMAPC staff will recommend approval or denial of your application at a public meeting. If recommended for approval, your case will then appear before Tulsa City council for a final vote on approval. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4356,14 +4358,14 @@
       "rec6l9YWOd4MXGsTr",
       "recdoCgCxV6RbWD0L"
     ],
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n",
     "QA Code": "Samuel_Planning_022",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n"
   },
   {
     "id": "recAPXs5A94TmKxCN",
     "Question": "How do I get a free dumpster to use for my neighborhood cleanup?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Neighborhood associations which are registered with the City of Tulsa can request a free 30 yard dumpster, dropped off and picked up by the City. The City of Tulsa's Neighborhood Dumpster Program is a service available to registered neighborhood associations to perform neighborhood clean-up activities. Participating groups can make use of 30-yard containers to dispose of eligible household items twice a year. _Please note: During inclement weather, employees assigned to the Neighborhood Dumpster Program will be reassigned to work the weather event. In this case, your drop-off/pick-up dates may be adjusted._\n\nDumpster Use Rules:\n1. Dumpsters are for use at residential sites and **CANNOT** be used for commercial purposes (for example, to clean out rental properties).\n2. Use Restrictions: Some items are not permitted to be put into City of Tulsa dumpsters. Examples include limbs, grass clippings, Freon bearing appliance (such as refrigerators), and roofing materials. \n3. Dumpsters are not designed to be more than 3/4ths full and items are not permitted to be placed on the ground around the dumpster.\n4. Neighborhood Associations can request up to two dumpsters per year.\n\nApply [Here](https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/neighborhoods/dumpster-program/dumpster-request-for-neighborhood-cleanups/) to Request your Dumpster!\n\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4372,14 +4374,14 @@
       "recELqo4B4ZEocOqI",
       "recdoCgCxV6RbWD0L"
     ],
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 9. _\nCity of Tulsa. _City Website. Dumpster Program._\n",
     "QA Code": "Samuel_Planning_023",
-    "Contributor": "Samuel",
-    "Public": true
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 9. _\nCity of Tulsa. _City Website. Dumpster Program._\n"
   },
   {
     "id": "rec638d4hB1GBsyyw",
     "Question": "How do I dispose of large furniture or appliances in Tulsa? ",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Tulsa residents can call 918.596.9777 to arrange for pickup of their large, bulky waste, including furniture and appliances. The cost for pickup is $10 per eight cubic yards.\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4391,13 +4393,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Dan_Planning_01",
-    "Contributor": "Samuel",
-    "Public": true,
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n"
   },
   {
     "id": "rec6LRo20sasivYGs",
     "Question": "How can I safely dispose of hazardous household chemicals/materials in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "Tulsa's Household Pollutant Collection Facility accepts many items not allowed in regular trash pickup, including lawn chemicals, paints, fluorescent lights, and more. \n\nTulsa residents can drop-off for **free **by showing a drivers license or City of Tulsa utility bill.\n\n**Acceptable Items**\n- Aerosols\n- Automotive Fluids\n- Cooking Oil/Grease\n- Flammable Liquids\n- Fluorescent and CFL Light bulbs\n- Household and Car Batteries\n- Household Cleaners\n- Latex Paint\n- Lawn Chemicals\n- Mercury Thermostats\n- Oil-Based Paints and Paint Thinner\n- Pool Chemicals\n- Small Electronics\n\n**Not Acceptable Items**\n- Ammunition/Explosives\n- Asbestos\n- Industrial or Commercially Generated Waste (including NHIW waste)\n- Large Electronics (TV's, Monitors, Computers)\n- [Medical](https://www.cityoftulsa.org/government/departments/water-and-sewer/wastewater/wastewater-pollution-prevention/medication-disposal/) or Biomedical Waste Food or Organic Waste\n- Radioactive Material\n- Tires\n- Unknown Materials or Substances \n\n_To find out where to dispose of items that are not accepted by the Household Pollutant Collection Facility, click [here.](https://www.cityoftulsa.org/government/departments/streets-and-stormwater/household-pollutant-collection-facility/disposal-of-non-accepted-items/)_\n\n**Don't live in the City of Tulsa? No problem.**\nIf you live outside of City Limits, but still inside of Tulsa County, you can obtain a voucher from the Metropolitan Environmental Trust to drop off the first 45 pounds of pollutants for free. After this, it costs $1.33 per pound and can be paid with Mastercard or Visa. Call 918.584.0584 to obtain the voucher that is required prior to dropping off your pollutants.\n\nHousehold Pollutant Collection Facility Hours of Operation: \n**Wednesday** and **Saturday**: 8AM - 11:3AM & 12PM - 4:30PM\n4502 S. Galveston Ave. | Tulsa, OK 74107. 918.591.4325. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4409,13 +4411,13 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_024",
-    "Contributor": "Samuel",
-    "Public": true,
     "Source": "City of Tulsa. _City Website. Household Pollutant Collection Facility._\nTulsa Planning Office. _Neighborhood Toolkit. Page 10._\n"
   },
   {
     "id": "recM1UFoS5OrSPXXt",
     "Question": "Where can I dispose of fallen limbs, leaves, or other green waste in Tulsa for free?",
+    "Contributor": "Samuel",
+    "Public": true,
     "Answer": "The City of Tulsa offers **free** yard waste drop-off. \n\n**Drop-off Location**\n2100 N. 145th Ave.\nDrop-off available 7:30AM to 5PM daily, except City holidays.\n\n**What Can You Dispose Here?**\nResidents may dispose of grass, leaves, brush and tree limbs. \n\n**What Will You Need to Bring?**\nA current drivers license with a Tulsa address or a City of Tulsa utility bill.\n\nWood chips are available for free, as well!\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4426,8 +4428,6 @@
       "recBTeDboTe5vDD9l",
       "recdoCgCxV6RbWD0L"
     ],
-    "Contributor": "Samuel",
-    "Public": true,
     "QA Code": "Samuel_Planning_025",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n"
   },

@@ -1,22 +1,12 @@
 [
   {
-    "id": "rec2VD0zCtU2grRJv",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
-    "id": "reck4Jk1vuHzSycXr",
-    "Name": "36 Degrees North",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
     "id": "rec797k3CYC8F5O3f",
     "Name": "311",
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "service requestions & reporting"
     ],
     "Questions_old": [
       "rec8KDL9gKmho2qUK",
@@ -25,9 +15,6 @@
     "Questions": [
       "recdHriMxUy8wNHSe",
       "rec2k9rNXRjPpvFhd"
-    ],
-    "MegaName": [
-      "Service Requests & Reporting"
     ]
   },
   {
@@ -36,36 +23,14 @@
     "Tags": [
       "places & events"
     ],
+    "MegaName": [
+      "Greenwood"
+    ],
     "Questions_old": [
       "recYuen2cG2sfIlyI"
     ],
     "Questions": [
       "rec3r2UFtQejntCwc"
-    ],
-    "MegaName": [
-      "Greenwood"
-    ]
-  },
-  {
-    "id": "rec78yf5bXRrODH13",
-    "Name": "A Better Way",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "reczamJOaeYN8uZSk",
-    "Name": "A Way Home for Tulsa",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "rechjPCJncdo1AAbY",
-    "Name": "Accountability Structures",
-    "Lectures": [
-      "recjgeKZP1QkDmN80",
-      "recsmwioc0RfJII4Q"
     ]
   },
   {
@@ -74,6 +39,9 @@
     "Tags": [
       "revenue & spending",
       "policies & regulations"
+    ],
+    "MegaName": [
+      "budgeting"
     ],
     "Questions_old": [
       "recA2UfWNMZBSBsiG",
@@ -86,9 +54,6 @@
       "reco1m0uDfemvy5Kv",
       "reco8BFEctRkrbT2N",
       "recooO1gi4GCnD60Z"
-    ],
-    "MegaName": [
-      "spending"
     ]
   },
   {
@@ -97,6 +62,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "taxes"
+    ],
     "Questions_old": [
       "recAEKSQ88TBxLYPI",
       "recFbQt2VYKYSw9zQ"
@@ -104,9 +72,6 @@
     "Questions": [
       "recFByptpi5sFwfNc",
       "recK8E0Fc8WP0hqxk"
-    ],
-    "MegaName": [
-      "taxes"
     ]
   },
   {
@@ -114,6 +79,9 @@
     "Name": "administration",
     "Tags": [
       "policies & regulations"
+    ],
+    "MegaName": [
+      "administration"
     ],
     "Questions_old": [
       "reczUZZWw3qeYAUYf",
@@ -126,9 +94,6 @@
       "rechbis79KYynrH2a",
       "recERNwzNdC56lbWJ",
       "recZLx3m4Jn3HCenn"
-    ],
-    "MegaName": [
-      "administration"
     ]
   },
   {
@@ -137,6 +102,9 @@
     "Tags": [
       "city gov & policy process"
     ],
+    "MegaName": [
+      "administration"
+    ],
     "Questions_old": [
       "rec1ds5meCdh84sx3",
       "rec3Jn0DlrFfUHiOy"
@@ -144,9 +112,6 @@
     "Questions": [
       "rec6agCZvMp8gPJvx",
       "rec8GbxgCBR62szM2"
-    ],
-    "MegaName": [
-      "administration"
     ]
   },
   {
@@ -155,14 +120,14 @@
     "Tags": [
       "public services"
     ],
+    "MegaName": [
+      "industry"
+    ],
     "Questions_old": [
       "reco76c0cOfZhPyXW"
     ],
     "Questions": [
       "rect4UJDtYrQpAPVq"
-    ],
-    "MegaName": [
-      "industry"
     ]
   },
   {
@@ -171,6 +136,9 @@
     "Tags": [
       "public services"
     ],
+    "MegaName": [
+      "housing"
+    ],
     "Questions_old": [
       "rec3atOAVAHQYLHom",
       "rec3rWe2XFCKKQObZ"
@@ -178,9 +146,6 @@
     "Questions": [
       "rec87hldcKTH6wYmQ",
       "rec8oKLFePOBSB59t"
-    ],
-    "MegaName": [
-      "housing"
     ]
   },
   {
@@ -188,6 +153,9 @@
     "Name": "agencies",
     "Tags": [
       "city gov & policy process"
+    ],
+    "MegaName": [
+      "administration"
     ],
     "Questions_old": [
       "rec51pSVOxxEYzQHI",
@@ -200,16 +168,6 @@
       "recbENlHSBN2mY7PH",
       "recplWQBzupVuhiw1",
       "recsF6MDgTEEKZC3x"
-    ],
-    "MegaName": [
-      "administration"
-    ]
-  },
-  {
-    "id": "recNnD3TEKQDCq0Ra",
-    "Name": "Agglomeration Economies",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
     ]
   },
   {
@@ -218,14 +176,14 @@
     "Tags": [
       "public services"
     ],
+    "MegaName": [
+      "social services"
+    ],
     "Questions_old": [
       "recjUKapkhmNZG9YT"
     ],
     "Questions": [
       "recoRyH2BryE7rqWn"
-    ],
-    "MegaName": [
-      "social services"
     ]
   },
   {
@@ -263,16 +221,15 @@
   {
     "id": "recVOu4S7qEpwiFz9",
     "Name": "alert neighbors program",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public safety"
+    ],
     "Questions": [
       "rec8aGzJTsY9GTzMN",
       "recQ6ib28eweg2yaC"
-    ]
-  },
-  {
-    "id": "recujibGuh3oHZMdX",
-    "Name": "American Federalism",
-    "Lectures": [
-      "recoMyza69V02sfCv"
     ]
   },
   {
@@ -280,28 +237,9 @@
     "Name": "animals",
     "Tags": [
       "public services"
-    ]
-  },
-  {
-    "id": "recA6GnQTZIBjhxPT",
-    "Name": "Ann & Henry Zarrow Foundation",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
-    "id": "recgmxBwToQ2fMxpY",
-    "Name": "Appointments",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
     ],
-    "Questions_old": [
-      "reczUZZWw3qeYAUYf",
-      "recUOJwJNzbczRXpT"
-    ],
-    "Questions": [
-      "recERNwzNdC56lbWJ",
-      "recZLx3m4Jn3HCenn"
+    "MegaName": [
+      "animal welfare"
     ]
   },
   {
@@ -309,6 +247,9 @@
     "Name": "asset management",
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "administration"
     ],
     "Questions_old": [
       "recn6OLV23Hs9KVtc",
@@ -339,6 +280,9 @@
       "policies & regulations",
       "city gov & policy process"
     ],
+    "MegaName": [
+      "oversight"
+    ],
     "Questions_old": [
       "recZTxd0N54AI3X5r"
     ],
@@ -353,6 +297,9 @@
       "revenue & spending",
       "policies & regulations"
     ],
+    "MegaName": [
+      "oversight"
+    ],
     "Questions_old": [
       "recA2UfWNMZBSBsiG"
     ],
@@ -361,27 +308,14 @@
     ]
   },
   {
-    "id": "rec2NdYOcH1a9zvQX",
-    "Name": "authorities",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
-    ],
-    "Questions_old": [
-      "rec51pSVOxxEYzQHI",
-      "rec6HZO4BrBbedQRd",
-      "recko8jYikd4mw1yx",
-      "recnIif0ZJsNCel53"
-    ],
-    "Questions": [
-      "recaYdpy5HJv6k7Fc",
-      "recbENlHSBN2mY7PH",
-      "recplWQBzupVuhiw1",
-      "recsF6MDgTEEKZC3x"
-    ]
-  },
-  {
     "id": "recxdOAhjRYEtGBIR",
     "Name": "authority",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration"
+    ],
     "Questions_old": [
       "recO99bFUuIOWT8Fc",
       "reclGjy18Ovhszv3Y",
@@ -485,6 +419,9 @@
       "revenue & spending",
       "city gov & policy process"
     ],
+    "MegaName": [
+      "spending"
+    ],
     "Questions_old": [
       "recu99NhUY4x8xXpA"
     ],
@@ -493,15 +430,14 @@
     ]
   },
   {
-    "id": "reckvtWne0dxhk8yu",
-    "Name": "Biding Proccesses",
-    "Lectures": [
-      "recsmwioc0RfJII4Q"
-    ]
-  },
-  {
     "id": "recCqZ0iIe1Qu9MWz",
     "Name": "billing",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "pay my bills"
+    ],
     "Questions": [
       "recLmK4VpaNtFVKvV",
       "recZrqUgzNK95KbGi"
@@ -510,34 +446,14 @@
   {
     "id": "reco1OdEL91D6SdZx",
     "Name": "block party",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "how do i"
+    ],
     "Questions": [
       "recF0vRein4FKuYAG"
-    ]
-  },
-  {
-    "id": "recLOs35zYYLE35fI",
-    "Name": "boards",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
-    ],
-    "Questions_old": [
-      "rec51pSVOxxEYzQHI",
-      "rec6HZO4BrBbedQRd",
-      "recko8jYikd4mw1yx",
-      "recnIif0ZJsNCel53"
-    ],
-    "Questions": [
-      "recaYdpy5HJv6k7Fc",
-      "recbENlHSBN2mY7PH",
-      "recplWQBzupVuhiw1",
-      "recsF6MDgTEEKZC3x"
-    ]
-  },
-  {
-    "id": "recbsSiNhA5ctGGfg",
-    "Name": "Bonding",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
     ]
   },
   {
@@ -545,6 +461,9 @@
     "Name": "bonds",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "budgeting"
     ],
     "Questions_old": [
       "recWV07zghrnSDPpm",
@@ -581,6 +500,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "budgeting"
+    ],
     "Questions_old": [
       "recwKIBBRgFDtycbF",
       "recxjKLYkyFw1NnnS",
@@ -595,24 +517,13 @@
     ]
   },
   {
-    "id": "recqcq7C8OY8YIHlo",
-    "Name": "Bounded Rationality",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
-    "id": "recL4OHo2lhdBcRFF",
-    "Name": "Bridging",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
-    ]
-  },
-  {
     "id": "rec4xZ8UeZVEnw4m6",
     "Name": "broken arrow",
     "Tags": [
       "places & events"
+    ],
+    "MegaName": [
+      "broken arrow"
     ],
     "Questions_old": [
       "rec9vdoSWIkpmNyqQ"
@@ -624,6 +535,12 @@
   {
     "id": "rec6l9YWOd4MXGsTr",
     "Name": "brt route",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public transit"
+    ],
     "Questions": [
       "recd73crvkSwsZu19"
     ]
@@ -633,6 +550,9 @@
     "Name": "budget",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "budgeting"
     ],
     "Questions_old": [
       "recry97y6F66GyYyJ",
@@ -880,13 +800,6 @@
     ]
   },
   {
-    "id": "rec96dhEWp7ZPcxAc",
-    "Name": "Budget Items",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
-    ]
-  },
-  {
     "id": "rec9waV3GVmUG4v9L",
     "Name": "budgets",
     "Tags": [
@@ -950,6 +863,12 @@
   {
     "id": "recIuuMLg0ka4tV4b",
     "Name": "building",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "permits"
+    ],
     "Questions": [
       "rectHaqVPSkDxULn8",
       "reciIzpjhVeUJjFHP",
@@ -969,17 +888,13 @@
     ]
   },
   {
-    "id": "rec2Q91Wp6xImXY3l",
-    "Name": "Bureaucratic Drift",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA"
-    ]
-  },
-  {
     "id": "rec1ZoGmQ6gNQLiOP",
     "Name": "bus",
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "public transit"
     ],
     "Questions_old": [
       "rec9vdoSWIkpmNyqQ"
@@ -989,24 +904,13 @@
     ]
   },
   {
-    "id": "receA02yhiWmYtJ7S",
-    "Name": "Capacity",
-    "Lectures": [
-      "recoMyza69V02sfCv"
-    ]
-  },
-  {
-    "id": "recxe5ymD72XAJnGa",
-    "Name": "Capacity for Joint Action",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
-    ]
-  },
-  {
     "id": "rec17CY4B97WAP1a8",
     "Name": "capital",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "spending"
     ],
     "Questions_old": [
       "recq94IbAD8EnVIHN",
@@ -1034,35 +938,13 @@
     ]
   },
   {
-    "id": "recsDSESmuePsplUQ",
-    "Name": "Capital Budget",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ],
-    "Questions_old": [
-      "recV6UoGoFOWObyZI",
-      "recVJCg5wacJcdLWf",
-      "recWV07zghrnSDPpm",
-      "recWIpxaGK2kDJf97",
-      "recvvmNNOQJEevlCw",
-      "recwO2YKhEepKdNhh",
-      "recwXYrHBefA4mwhW"
-    ],
-    "Questions": [
-      "rec03IVjFP0NWWPXc",
-      "rec0GqNINkoAkY2UJ",
-      "rec1SOEcxrDe0o6nQ",
-      "rec1Fd4NXUebLuw7B",
-      "recAsakq50VvmgCA0",
-      "recBLQvnyOqgSY4fL",
-      "recBUMYkSorrc7Nfq"
-    ]
-  },
-  {
     "id": "recjZ9tCiMS22I4GJ",
     "Name": "capital improvement",
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "infrastructure"
     ],
     "Questions_old": [
       "rec4TkBXyyRkv413m"
@@ -1087,27 +969,6 @@
     ]
   },
   {
-    "id": "recLUqc731XmFpP0w",
-    "Name": "Capital Program",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ]
-  },
-  {
-    "id": "recwrKsMIltz2sM5E",
-    "Name": "Causal Inference",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "recj4QjONVQraxy5N",
-    "Name": "Causality",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
-    ]
-  },
-  {
     "id": "recjl1HzIv4cx3cKr",
     "Name": "cdbg",
     "Tags": [
@@ -1118,20 +979,6 @@
     ],
     "Questions": [
       "recbWFW4lpvdE1yx6"
-    ]
-  },
-  {
-    "id": "recCs4YM60GaXAgUY",
-    "Name": "Centrality",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
-    ]
-  },
-  {
-    "id": "rec0ObzmjvisioWMC",
-    "Name": "Centralization",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
     ]
   },
   {
@@ -1186,19 +1033,6 @@
     ]
   },
   {
-    "id": "recd19wOCMV6gY71M",
-    "Name": "City Charter",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
-    ],
-    "Questions_old": [
-      "recs7sGDHP8jrTAkC"
-    ],
-    "Questions": [
-      "recx4gdgYZkazERi6"
-    ]
-  },
-  {
     "id": "recyFsZOyQSoHehhX",
     "Name": "city clerk",
     "Tags": [
@@ -1225,7 +1059,7 @@
     ],
     "MegaName": [
       "city council",
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "rec72PZRelFTGbiNs",
@@ -1401,13 +1235,6 @@
     ]
   },
   {
-    "id": "recLcXx1LR9sJd9Z2",
-    "Name": "City Limits",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
     "id": "rec8kOYbGZaSstxXv",
     "Name": "city services",
     "Tags": [
@@ -1459,7 +1286,7 @@
     "MegaName": [
       "mayor",
       "city council",
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "recKUtQmqzyICt2px",
@@ -1481,13 +1308,6 @@
     ],
     "Questions": [
       "recVwp6BMHzfQOJst"
-    ]
-  },
-  {
-    "id": "recpRpkXa7CmTiygK",
-    "Name": "Classificatory Decision Rules",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
     ]
   },
   {
@@ -1522,7 +1342,7 @@
       "city gov & policy process"
     ],
     "MegaName": [
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "recnsxGmyRburNO4N",
@@ -1531,21 +1351,6 @@
     "Questions": [
       "recspldZP1nlzy52h",
       "recdtjtiCncpMuELo"
-    ]
-  },
-  {
-    "id": "recBVXOmC1GnPj6go",
-    "Name": "Collaborative Governance",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX",
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "recynb6mEPFdI70Bq",
-    "Name": "Collaborative Governance Regimes",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
     ]
   },
   {
@@ -1559,30 +1364,6 @@
     ],
     "Questions": [
       "recplWQBzupVuhiw1"
-    ]
-  },
-  {
-    "id": "recfJreUrwUrLyVJL",
-    "Name": "commissions",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
-    ],
-    "Questions_old": [
-      "rec51pSVOxxEYzQHI",
-      "rec6HZO4BrBbedQRd",
-      "recnIif0ZJsNCel53"
-    ],
-    "Questions": [
-      "recaYdpy5HJv6k7Fc",
-      "recbENlHSBN2mY7PH",
-      "recsF6MDgTEEKZC3x"
-    ]
-  },
-  {
-    "id": "recSvUavFQNifWCW8",
-    "Name": "Committees",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
     ]
   },
   {
@@ -1601,13 +1382,6 @@
       "recquggI48QHnc6oJ",
       "recrepRcq85BCtYfr",
       "recrLuxMWWVZleACV"
-    ]
-  },
-  {
-    "id": "recr1Vv4sSZjbqYkG",
-    "Name": "Community Service Council",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
     ]
   },
   {
@@ -1650,13 +1424,6 @@
     ]
   },
   {
-    "id": "rec65laOplE8uXAEy",
-    "Name": "Constitutive Decision Rules",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
-    ]
-  },
-  {
     "id": "recmjTVmhqoXN6Y2o",
     "Name": "construction",
     "Questions": [
@@ -1686,13 +1453,6 @@
     ]
   },
   {
-    "id": "recVkEEClHXcNeRE7",
-    "Name": "Continuum of Care",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
     "id": "recf9MDE9d0hocJZD",
     "Name": "contracts",
     "Tags": [
@@ -1704,13 +1464,6 @@
     ],
     "Questions": [
       "recTyeq4hYDEEYyk2"
-    ]
-  },
-  {
-    "id": "reczlt8OPAPgv3ZYs",
-    "Name": "Coterminosity",
-    "Lectures": [
-      "recoMyza69V02sfCv"
     ]
   },
   {
@@ -1756,13 +1509,6 @@
     ]
   },
   {
-    "id": "recoGKQ09fXy07HYn",
-    "Name": "Cross-Sector Bargains",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
     "id": "recYkpPYV94SIDMhN",
     "Name": "crt",
     "Tags": [
@@ -1805,13 +1551,6 @@
       "recqfUGyxI75mZltx",
       "recqT1gebcvfB0nU4",
       "recq4Srjy5d4khhU3"
-    ]
-  },
-  {
-    "id": "recN4o7zWg78yhnMP",
-    "Name": "Customer Satisfaction",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
     ]
   },
   {
@@ -1904,13 +1643,6 @@
     ]
   },
   {
-    "id": "recLNlJ0yTV2qyeVt",
-    "Name": "Delegation",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
     "id": "recvHAmUPPPfP2P2V",
     "Name": "delinquency",
     "Tags": [
@@ -1921,13 +1653,6 @@
     ],
     "Questions": [
       "recAf9HR6BLt3xDIz"
-    ]
-  },
-  {
-    "id": "recaW0o7hG0IH9QA7",
-    "Name": "Department of Housing & Urban Development",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
     ]
   },
   {
@@ -1998,27 +1723,6 @@
     ]
   },
   {
-    "id": "recxn0EvIrsEmCBbs",
-    "Name": "Development Waves",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
-    "id": "recReZK3dzr30qz2Z",
-    "Name": "Dillon's Rule",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
-    ]
-  },
-  {
-    "id": "recGrJoyUY62iGhnq",
-    "Name": "Disarticulated State",
-    "Lectures": [
-      "recoMyza69V02sfCv"
-    ]
-  },
-  {
     "id": "recEZ7OOZ3hy6PH24",
     "Name": "disaster",
     "Questions": [
@@ -2046,13 +1750,6 @@
     ]
   },
   {
-    "id": "rec0mux5A8DTFOOKX",
-    "Name": "District Boundaries",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
-    ]
-  },
-  {
     "id": "recRUsMirOWqHF097",
     "Name": "districts",
     "Tags": [
@@ -2061,7 +1758,7 @@
     ],
     "MegaName": [
       "city council",
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "rec72PZRelFTGbiNs"
@@ -2144,31 +1841,10 @@
     ]
   },
   {
-    "id": "recW8S5oMic7f66Ps",
-    "Name": "Double Loop Learning",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
-    ]
-  },
-  {
-    "id": "recXNKsggdCpGuG2X",
-    "Name": "Downtown Tulsa Partnership",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
     "id": "recJxDjSSZ5eRk109",
     "Name": "dumpster",
     "Questions": [
       "recAPXs5A94TmKxCN"
-    ]
-  },
-  {
-    "id": "recHe6gwlEKL2QdUh",
-    "Name": "Economic Geography",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
     ]
   },
   {
@@ -2225,14 +1901,6 @@
     ]
   },
   {
-    "id": "recqCNT3QUhp7H8Ct",
-    "Name": "Economies of Scale",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR",
-      "recoMyza69V02sfCv"
-    ]
-  },
-  {
     "id": "recRkoks26UJNYZaf",
     "Name": "economy",
     "Tags": [
@@ -2243,27 +1911,6 @@
     ],
     "Questions": [
       "rect4UJDtYrQpAPVq"
-    ]
-  },
-  {
-    "id": "recmWszLF03ji7lKE",
-    "Name": "Edifice Error",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
-    "id": "recsc3j9AFxiWBXWU",
-    "Name": "Effectiveness",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
-    ]
-  },
-  {
-    "id": "recM262ngbuTEBcut",
-    "Name": "Efficiency",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
     ]
   },
   {
@@ -2289,23 +1936,6 @@
       "reciMgq1aUybCf5RV",
       "reciNNzk3pAfnV2Ld",
       "recinVYHseneJ0OgR"
-    ]
-  },
-  {
-    "id": "rec2bz2lvTwnSaZRh",
-    "Name": "elections",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
-    ],
-    "Questions_old": [
-      "rec9DiQE6bgvPShgC",
-      "recZs9CHqvBvKgwrm",
-      "recWV07zghrnSDPpm"
-    ],
-    "Questions": [
-      "rec1SOEcxrDe0o6nQ",
-      "receA6nhnlsmXDye6",
-      "rec4pX9kHFNmS1NpQ"
     ]
   },
   {
@@ -2357,7 +1987,7 @@
       "city gov & policy process"
     ],
     "MegaName": [
-      "governance",
+      "governance & administration",
       "administration"
     ],
     "Questions_old": [
@@ -2383,13 +2013,6 @@
     "Questions": [
       "rec0itHTJoPGZBJxc",
       "rec1hJM0z7sHFxMAX"
-    ]
-  },
-  {
-    "id": "recZIbqJE3DsdawuS",
-    "Name": "Endorsements",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
     ]
   },
   {
@@ -2442,13 +2065,6 @@
     ]
   },
   {
-    "id": "rec2aQNVU4Wx0Bwrx",
-    "Name": "Enterprise Fund",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ]
-  },
-  {
     "id": "recumoqhRUNLtRKmo",
     "Name": "enterprise funds",
     "Tags": [
@@ -2490,13 +2106,6 @@
     ]
   },
   {
-    "id": "recxK9tmj62O5qT2U",
-    "Name": "Executive Order",
-    "Lectures": [
-      "recwjhFBiLJHy7YVk"
-    ]
-  },
-  {
     "id": "rec8AeklhglYBxGE1",
     "Name": "expenditure",
     "Tags": [
@@ -2507,13 +2116,6 @@
     ],
     "Questions": [
       "recVE4ypLjJRwI7Ew"
-    ]
-  },
-  {
-    "id": "recDKPo9h6gXbUesz",
-    "Name": "Externalities",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
     ]
   },
   {
@@ -2531,13 +2133,6 @@
       "recs3CiyjdTjhvcrG",
       "recs4eqMmxCdtotTc",
       "recsyWdj9465DDtbs"
-    ]
-  },
-  {
-    "id": "recntUyvmX00sjXlA",
-    "Name": "Family & Children's Services",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
     ]
   },
   {
@@ -2740,21 +2335,6 @@
     ]
   },
   {
-    "id": "recObJx9f9qS9Npke",
-    "Name": "Franchise Tax",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ],
-    "Questions_old": [
-      "recAEKSQ88TBxLYPI",
-      "recFkQ2lYwBO2Qkhx"
-    ],
-    "Questions": [
-      "recFByptpi5sFwfNc",
-      "recKhEzYfGNFaBBf1"
-    ]
-  },
-  {
     "id": "recs5w170YqWhk0EG",
     "Name": "general fund",
     "Tags": [
@@ -2812,49 +2392,13 @@
     ]
   },
   {
-    "id": "rec1Mbtut6dLzz8Bj",
-    "Name": "General Obligation Bonds",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ]
-  },
-  {
-    "id": "recDyOzB2BeAHfCfr",
-    "Name": "George Kaiser Family Foundation",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
-    "id": "recnJZQVtMQNcYPXR",
-    "Name": "Goal Ambiguity",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA",
-      "recjgeKZP1QkDmN80"
-    ]
-  },
-  {
-    "id": "recopFgxj39QjOyzJ",
-    "Name": "Goal Displacement",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
-    "id": "rec5hQQHn3AkmIJcV",
-    "Name": "Goal Displacement",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
-    ]
-  },
-  {
     "id": "recbMhrS5udASHOL1",
     "Name": "governance",
     "Tags": [
       "city gov & policy process"
     ],
     "MegaName": [
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "recnsxGmyRburNO4N",
@@ -2970,13 +2514,6 @@
     ]
   },
   {
-    "id": "rechpRniIiigwjPCU",
-    "Name": "Governmental Capital",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ]
-  },
-  {
     "id": "reckHd94L8SRUXqLy",
     "Name": "graffiti",
     "Questions_old": [
@@ -3032,20 +2569,6 @@
     ]
   },
   {
-    "id": "recInzFche3bvfF05",
-    "Name": "Green Tape",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
-    "id": "reckvAgiMDfNbxWkn",
-    "Name": "Greenwood",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
     "id": "recF9VXTa1EcM719b",
     "Name": "greenwood master plan",
     "Tags": [
@@ -3057,13 +2580,6 @@
     ],
     "Questions": [
       "rec3jrs83FZbjnCoO"
-    ]
-  },
-  {
-    "id": "recMBbBIYAv9IDeQL",
-    "Name": "Growth Machines",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
     ]
   },
   {
@@ -3093,13 +2609,6 @@
     ]
   },
   {
-    "id": "recLMSnqezZRVEsCV",
-    "Name": "HOME Investment Partnership",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
     "id": "recI5o1ZfuGhyBI3f",
     "Name": "homeowner",
     "Questions": [
@@ -3119,13 +2628,6 @@
     "Name": "homeowners",
     "Questions": [
       "recHZT20iold95BRF"
-    ]
-  },
-  {
-    "id": "recpuKleovOuYvWZT",
-    "Name": "Hotel & Motel Tax",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
     ]
   },
   {
@@ -3174,27 +2676,6 @@
     ]
   },
   {
-    "id": "recgAEnAYXpaESAcd",
-    "Name": "Housing Authority",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "recI6irjVU7iTIV1Z",
-    "Name": "Housing First",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "recCldnZORiknpsk5",
-    "Name": "Housing Solutions",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
     "id": "reczzBRSwmcr3NBTl",
     "Name": "human resources",
     "Tags": [
@@ -3217,13 +2698,6 @@
     "Questions": [
       "recmFt4iIh8PQhmWW",
       "recp5SnTHLjr4XA3d"
-    ]
-  },
-  {
-    "id": "recUsrtw12nhWycjO",
-    "Name": "Implementation Games",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA"
     ]
   },
   {
@@ -3302,13 +2776,6 @@
     ]
   },
   {
-    "id": "recZWdt8XcY0AWd7f",
-    "Name": "Incentive Asymmetry",
-    "Lectures": [
-      "recsmwioc0RfJII4Q"
-    ]
-  },
-  {
     "id": "rec8vQgngrzM9iZpr",
     "Name": "incog",
     "Tags": [
@@ -3340,20 +2807,6 @@
     ]
   },
   {
-    "id": "recTfJ7lzHSw2jb1J",
-    "Name": "Independent Auditor",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ]
-  },
-  {
-    "id": "recifBWwcxWg3ERaD",
-    "Name": "Indian Nation Council of Governments (INCOG)",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
-    ]
-  },
-  {
     "id": "recXLUh3o33ckGqzF",
     "Name": "indian nations council of governments",
     "Tags": [
@@ -3369,13 +2822,6 @@
     ]
   },
   {
-    "id": "rec90cdtdy4vK03Wv",
-    "Name": "Industrial Clusters",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
     "id": "recByHjpLaWIKK5Fj",
     "Name": "inflation",
     "Tags": [
@@ -3386,15 +2832,6 @@
     ],
     "Questions": [
       "rect4UJDtYrQpAPVq"
-    ]
-  },
-  {
-    "id": "recct9JpOTgiUjHA8",
-    "Name": "Information Asymmetry",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA",
-      "recjgeKZP1QkDmN80",
-      "recZj9mjJqwOB83UE"
     ]
   },
   {
@@ -3448,13 +2885,6 @@
     ]
   },
   {
-    "id": "recPPzkrQUsgKWvJO",
-    "Name": "Infrastructure Maintenance",
-    "Lectures": [
-      "recwjhFBiLJHy7YVk"
-    ]
-  },
-  {
     "id": "recTiRvU09wXMgM6J",
     "Name": "inspection",
     "Tags": [
@@ -3486,27 +2916,13 @@
     ]
   },
   {
-    "id": "recg6Ow9P4c5VSX3W",
-    "Name": "Inter-organizational Agreements",
-    "Lectures": [
-      "recsmwioc0RfJII4Q"
-    ]
-  },
-  {
-    "id": "recoacfETde4T2jpm",
-    "Name": "Interest Groups",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
-    ]
-  },
-  {
     "id": "recSGySDo7WKcIwRl",
     "Name": "intergovernmental relations",
     "Tags": [
       "city gov & policy process"
     ],
     "MegaName": [
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "recnsxGmyRburNO4N",
@@ -3524,7 +2940,7 @@
       "city gov & policy process"
     ],
     "MegaName": [
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "rec8wvWFld0yEJnNU"
@@ -3612,21 +3028,6 @@
     ],
     "Questions": [
       "recHBGL86X00WgBGI"
-    ]
-  },
-  {
-    "id": "rec4hf7kl2KbCAAhf",
-    "Name": "jurisdiction",
-    "Lectures": [
-      "recoMyza69V02sfCv"
-    ],
-    "Questions_old": [
-      "recBgWfp1vnLa23DG",
-      "recOA5ltx4YJJ69zq"
-    ],
-    "Questions": [
-      "recGdKM2iFzCiNkBa",
-      "recTxTS6OeaARRqxU"
     ]
   },
   {
@@ -3732,13 +3133,6 @@
     ],
     "Questions": [
       "recVwp6BMHzfQOJst"
-    ]
-  },
-  {
-    "id": "rec7oLp5ZeSkfc8AH",
-    "Name": "Leadership Tulsa",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
     ]
   },
   {
@@ -3935,13 +3329,6 @@
     ]
   },
   {
-    "id": "recehmjTdJfYz3PfT",
-    "Name": "Mayor-Council Form of Government",
-    "Lectures": [
-      "recwjhFBiLJHy7YVk"
-    ]
-  },
-  {
     "id": "recuuCNjMbaMhXTVC",
     "Name": "mayor-council relations",
     "Tags": [
@@ -3950,7 +3337,7 @@
     "MegaName": [
       "mayor",
       "city council",
-      "governance"
+      "governance & administration"
     ],
     "Questions_old": [
       "recKUtQmqzyICt2px",
@@ -3968,20 +3355,13 @@
     ]
   },
   {
-    "id": "recWt97nNeXLFp4ez",
-    "Name": "Meeting Agenda",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
-    ]
-  },
-  {
     "id": "recTduFwT9ATeQB7t",
     "Name": "meetings",
     "Tags": [
       "city gov & policy process"
     ],
     "MegaName": [
-      "governance",
+      "governance & administration",
       "meetings"
     ],
     "Questions_old": [
@@ -4051,13 +3431,6 @@
     "Name": "mixed-use zoning",
     "Questions": [
       "recd73crvkSwsZu19"
-    ]
-  },
-  {
-    "id": "recrAbKFKmTloljxh",
-    "Name": "Monitoring Mechanisms",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
     ]
   },
   {
@@ -4143,34 +3516,6 @@
     ]
   },
   {
-    "id": "rec8MjOu0QeK9E08K",
-    "Name": "Networks",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
-    ]
-  },
-  {
-    "id": "rectogalt6pP7SQG5",
-    "Name": "New Public Management",
-    "Lectures": [
-      "recsmwioc0RfJII4Q"
-    ]
-  },
-  {
-    "id": "recYNX74h8LF2lydB",
-    "Name": "Non-Substitutability",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
-    "id": "recGqUJp2kFOk9PPX",
-    "Name": "Nonpartisan Elections",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
-    ]
-  },
-  {
     "id": "recTBiVxKt5P8D7B4",
     "Name": "nonprofit",
     "Questions": [
@@ -4253,29 +3598,6 @@
     ]
   },
   {
-    "id": "rec5KZdLje0u9mbEn",
-    "Name": "operating budget",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ],
-    "Questions_old": [
-      "rechBQutZZg9QmUND",
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "rectMeVTjfwp8ZMRe"
-    ],
-    "Questions": [
-      "recmyE16g9s0Y7bL7",
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recyJ2swApIggK3PI"
-    ]
-  },
-  {
     "id": "reclEz2L2IRivna0C",
     "Name": "operating reserve",
     "Tags": [
@@ -4307,112 +3629,6 @@
     ],
     "Questions": [
       "recicLIvAoH2lvmUc"
-    ]
-  },
-  {
-    "id": "recJH86OEizJrRuWQ",
-    "Name": "Ordinance Veto",
-    "Lectures": [
-      "recwjhFBiLJHy7YVk"
-    ]
-  },
-  {
-    "id": "rech8ZnhQ6xMFXskv",
-    "Name": "ordinances",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
-    ],
-    "Questions_old": [
-      "reclF9NgSrsJW92dI",
-      "recDctKj7bLVOerpI",
-      "recpZT3q1xsg1ueCk",
-      "rec1VN6atVxRUlmnT",
-      "recfNuLpuMTv1mcF2",
-      "reckKaWp4EkNwUJDr",
-      "recGYfeKeg1n83sq4",
-      "recJ0UrR0XFC2qPfG",
-      "rec1ymuI0SzKyUk6F",
-      "reckwtnIsWpDL1fgX",
-      "recJzAooe967Ct1xJ",
-      "recZHpStuZfLdBWcV",
-      "recaeurItpV3zCf38",
-      "recI4GTiCISyRF6VD",
-      "recEQZOozsoC3Cj7W",
-      "recuDxASxgBKeY728",
-      "recOqf3VDixaaq1es",
-      "recfDl46HX4vYLsU2",
-      "recvpitaSSSVzoI73",
-      "reclq0b7jcBkQT7Ay",
-      "recNdX8y3jgzE5uBD",
-      "recYJpTO43OKiz8gD",
-      "recWNHr3FIOHpEz9f",
-      "recLWuW1Pd9GAC7So",
-      "recs7sGDHP8jrTAkC",
-      "rec1ds5meCdh84sx3",
-      "rec3Jn0DlrFfUHiOy",
-      "recGKUTEcX6hXBJUv",
-      "rec2t2g8O4cKwQnSa",
-      "rec8MDgogQxyQd72T",
-      "recJTBtPNNCOkfttt",
-      "recfT87Zh1Ku5lapV",
-      "recngl4yrD4mYhHOu",
-      "recP19FQxiRhGq9jq",
-      "recT2hPeqmUfQsHqy",
-      "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf"
-    ],
-    "Questions": [
-      "recqCXkT9BEA4Ujbc",
-      "recI9hhWolXMWZInc",
-      "recuWHA3iHE79fvAO",
-      "rec6SBDNK5JI26Dln",
-      "reckKii2LW5m97tDw",
-      "recpHYt2lOwEEF0BV",
-      "recLV3LnvqdegOJoy",
-      "recOXIYuh7Rtab6da",
-      "rec6va1lh2LBGFB49",
-      "recpthUlJ6BuTMwer",
-      "recOwoV1vjiYKeivd",
-      "rec4Edp6L9rClmdap",
-      "recfbiYlKz7UHnw1C",
-      "recN1uqVTS4pZqnT7",
-      "recJNNl1QCAtbnA5q",
-      "reczAl7vOqNBmJo0C",
-      "recTn3AyUsJ1ibicW",
-      "reckA9BJY7gm6wJSw",
-      "recAm60N924MH9Z5x",
-      "recqnOIKAmNbYEoy2",
-      "recSaLFbktsqMQLz7",
-      "rec3Gdqrld0Bqkpe7",
-      "rec1KvYGWS0yxpQ7J",
-      "recQTitE6nlxInoQS",
-      "recx4gdgYZkazERi6",
-      "rec6agCZvMp8gPJvx",
-      "rec8GbxgCBR62szM2",
-      "recLHIqht7i85m0SZ",
-      "rec7qQNL5eoBEBEQE",
-      "recdJrN1x0JpYYo0n",
-      "recOQp0s4XOFs0KrX",
-      "reckQWECybWld6rnp",
-      "recsd9BbINgd62YMY",
-      "recUYXctOs38ObqhU",
-      "recYZ5mRHw66YdYo2",
-      "recP08q8Yh5pUYflk",
-      "recERNwzNdC56lbWJ"
-    ]
-  },
-  {
-    "id": "recWGFQGGlhi3hBRd",
-    "Name": "Outcome",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
-    ]
-  },
-  {
-    "id": "recPhb052MmW0BPg9",
-    "Name": "Output",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
     ]
   },
   {
@@ -4504,13 +3720,6 @@
     "Questions": [
       "recmyE16g9s0Y7bL7",
       "recVE4ypLjJRwI7Ew"
-    ]
-  },
-  {
-    "id": "rec6WsdymAoz96XiF",
-    "Name": "Penny Sales Tax",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
     ]
   },
   {
@@ -4739,13 +3948,6 @@
     ]
   },
   {
-    "id": "receqNASjEeV48gtY",
-    "Name": "Political Fragmentation",
-    "Lectures": [
-      "recoMyza69V02sfCv"
-    ]
-  },
-  {
     "id": "recETZKzvZIxk74ml",
     "Name": "pool",
     "Questions": [
@@ -4766,13 +3968,6 @@
     ],
     "Questions": [
       "recdtjtiCncpMuELo"
-    ]
-  },
-  {
-    "id": "recLZHxyDLZOtgLpj",
-    "Name": "Preemption",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
     ]
   },
   {
@@ -4812,48 +4007,6 @@
     ]
   },
   {
-    "id": "reclH5JnIQpN909tl",
-    "Name": "Private Values",
-    "Lectures": [
-      "recoMyza69V02sfCv"
-    ]
-  },
-  {
-    "id": "recwb2w2AnEnkF7Kv",
-    "Name": "Privatization",
-    "Lectures": [
-      "recsmwioc0RfJII4Q"
-    ]
-  },
-  {
-    "id": "recIXTV1Aq58pXWSH",
-    "Name": "Procedural Votes",
-    "Lectures": [
-      "recZuMJbhrN8KhMBP"
-    ]
-  },
-  {
-    "id": "recYiiP3RcVALFX2h",
-    "Name": "Procurement",
-    "Lectures": [
-      "recsmwioc0RfJII4Q",
-      "recwjhFBiLJHy7YVk"
-    ],
-    "Questions_old": [
-      "recu99NhUY4x8xXpA"
-    ],
-    "Questions": [
-      "recz6XkUb8gogien4"
-    ]
-  },
-  {
-    "id": "recP96BwfKjZS41Yz",
-    "Name": "Program Accumulation Paradox",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA"
-    ]
-  },
-  {
     "id": "recFo91PsG77aj1jR",
     "Name": "program based budget",
     "Tags": [
@@ -4881,20 +4034,6 @@
     ],
     "Questions": [
       "recI9hhWolXMWZInc"
-    ]
-  },
-  {
-    "id": "recTktnduTPscjskW",
-    "Name": "Property Tax",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ]
-  },
-  {
-    "id": "recM8MM98dp2bCLIU",
-    "Name": "Proposed Budget",
-    "Lectures": [
-      "recwjhFBiLJHy7YVk"
     ]
   },
   {
@@ -4940,13 +4079,6 @@
     "Questions": [
       "rec9Q88API3bDPi1Q",
       "rec1EAnNPRpA7bLa3"
-    ]
-  },
-  {
-    "id": "rec8029tY6QGmOft8",
-    "Name": "Public Authority",
-    "Lectures": [
-      "recoMyza69V02sfCv"
     ]
   },
   {
@@ -5241,13 +4373,6 @@
     ]
   },
   {
-    "id": "recbUDZqhmOe17rqJ",
-    "Name": "Reconstitutive Decision Rules",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
-    ]
-  },
-  {
     "id": "recmI8jq7aDVIZwPI",
     "Name": "recruitment",
     "Tags": [
@@ -5272,13 +4397,6 @@
     "Questions": [
       "recaYEVoejGZZJ9fm",
       "recocZNwmoAtpvzGA"
-    ]
-  },
-  {
-    "id": "reckQEQ5QydTfCQHK",
-    "Name": "Red Tape",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
     ]
   },
   {
@@ -5307,13 +4425,6 @@
       "recocZNwmoAtpvzGA",
       "rec8hwMCqZbVhtirp",
       "recl9bAOW2diBS2EB"
-    ]
-  },
-  {
-    "id": "recbj9quAS6eQO9ws",
-    "Name": "Regional Paradox",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
     ]
   },
   {
@@ -5355,13 +4466,6 @@
     "Questions": [
       "recERNwzNdC56lbWJ",
       "recZLx3m4Jn3HCenn"
-    ]
-  },
-  {
-    "id": "recfIbnOrFwt205H2",
-    "Name": "Reorganization",
-    "Lectures": [
-      "recwjhFBiLJHy7YVk"
     ]
   },
   {
@@ -5510,13 +4614,6 @@
     ]
   },
   {
-    "id": "rec192rQcizZ3KdNT",
-    "Name": "Resource Dependence",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
     "id": "rec49m6RsxVRmpzkl",
     "Name": "revenue",
     "Tags": [
@@ -5607,20 +4704,6 @@
     ]
   },
   {
-    "id": "recxA5qxTW4SDADcE",
-    "Name": "Rule Consistency",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
-    "id": "recxLC5xsub1iTLiG",
-    "Name": "Rule Formalization",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
     "id": "recbzwYw7Dr0NSR8c",
     "Name": "safety",
     "Tags": [
@@ -5662,25 +4745,6 @@
     ],
     "Questions": [
       "recyQKOg09pTdTh9h"
-    ]
-  },
-  {
-    "id": "recqHZ3UmD7SG9v5v",
-    "Name": "sales tax",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ],
-    "Questions_old": [
-      "recZs9CHqvBvKgwrm",
-      "recWV07zghrnSDPpm",
-      "recAEKSQ88TBxLYPI",
-      "recANicclNKlovocB"
-    ],
-    "Questions": [
-      "rec1SOEcxrDe0o6nQ",
-      "recFByptpi5sFwfNc",
-      "recFK6JPCXWcwgFa5",
-      "rec4pX9kHFNmS1NpQ"
     ]
   },
   {
@@ -5741,19 +4805,6 @@
     ]
   },
   {
-    "id": "recyUhPcjsDzsScmC",
-    "Name": "service delivery",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA"
-    ],
-    "Questions_old": [
-      "reclGjy18Ovhszv3Y"
-    ],
-    "Questions": [
-      "recqD75EpYH8AkM1s"
-    ]
-  },
-  {
     "id": "recC80WE0BC0GjA20",
     "Name": "sewer",
     "Tags": [
@@ -5769,32 +4820,11 @@
     ]
   },
   {
-    "id": "recG6dIURKaUyzVKQ",
-    "Name": "Shared Motivation",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
-    ]
-  },
-  {
     "id": "rec0sQtvGgcgXg7jH",
     "Name": "sign",
     "Questions": [
       "recmFt4iIh8PQhmWW",
       "recp5SnTHLjr4XA3d"
-    ]
-  },
-  {
-    "id": "recqwajnQ1AnXdG8v",
-    "Name": "Single Loop Learning",
-    "Lectures": [
-      "recjgeKZP1QkDmN80"
-    ]
-  },
-  {
-    "id": "rec1x3rPXtO4BGFdT",
-    "Name": "Sinking Fund",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
     ]
   },
   {
@@ -5859,21 +4889,6 @@
     ]
   },
   {
-    "id": "recTdGAHqUFl5MZiW",
-    "Name": "Space-Time Cycle",
-    "Lectures": [
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
-    "id": "recH1VpqS6HtCenxK",
-    "Name": "Spatial Mismatch",
-    "Lectures": [
-      "recoMyza69V02sfCv",
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
     "id": "rec65mwzeCqZrmncE",
     "Name": "special assebly",
     "Questions": [
@@ -5897,20 +4912,13 @@
     ]
   },
   {
-    "id": "recJO0LiTqJMFmeFZ",
-    "Name": "Special District Government",
-    "Lectures": [
-      "recoMyza69V02sfCv"
-    ]
-  },
-  {
     "id": "recZkq5S5jOSatcsk",
     "Name": "special meetings",
     "Tags": [
       "city gov & policy process"
     ],
     "MegaName": [
-      "governance",
+      "governance & administration",
       "meetings",
       "authority"
     ],
@@ -5919,20 +4927,6 @@
     ],
     "Questions": [
       "recV1NGVvYjXsiBKM"
-    ]
-  },
-  {
-    "id": "rec9gMoj9p9KgjI8b",
-    "Name": "Special Revenue",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ]
-  },
-  {
-    "id": "recYuKZo8o1UWVCXf",
-    "Name": "Specialization",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
     ]
   },
   {
@@ -6149,13 +5143,6 @@
     ]
   },
   {
-    "id": "recF1ZUrkd9t7KWiX",
-    "Name": "Street-Level",
-    "Lectures": [
-      "recsc9bAdCJMpxmUR"
-    ]
-  },
-  {
     "id": "recq4v6FtV3eR1DZe",
     "Name": "streets and stormwater",
     "Tags": [
@@ -6242,13 +5229,6 @@
     ]
   },
   {
-    "id": "rec53CmMzRuy8glbW",
-    "Name": "Task Forces",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
-    ]
-  },
-  {
     "id": "recsYLnM6D9nA05T7",
     "Name": "tax increment finance districts",
     "Tags": [
@@ -6312,14 +5292,6 @@
     ]
   },
   {
-    "id": "recp8HSzpkaqBykir",
-    "Name": "Temporal Mismatch",
-    "Lectures": [
-      "recoMyza69V02sfCv",
-      "rec4zu3A34ouYqihS"
-    ]
-  },
-  {
     "id": "recqckbuULaQhjRhV",
     "Name": "temporary mayor",
     "Tags": [
@@ -6344,41 +5316,6 @@
     ],
     "Questions": [
       "reckQWECybWld6rnp"
-    ]
-  },
-  {
-    "id": "rec6qQ8Tb9C1SHnq5",
-    "Name": "TGOV",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
-    ]
-  },
-  {
-    "id": "rec5JRkUz4lxo7w3b",
-    "Name": "The Marketplace for Public Services",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA"
-    ]
-  },
-  {
-    "id": "recDZ9iCsZT8UC0zd",
-    "Name": "The Mental Health Association of Tulsa",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "recZGYXKlh8RlEwdK",
-    "Name": "The Politics-Administration Dichotomy",
-    "Lectures": [
-      "recW7FzEDgnLxgOXA"
-    ]
-  },
-  {
-    "id": "recpuF5zQ4f15bTtj",
-    "Name": "The Regional Problem",
-    "Lectures": [
-      "recoMyza69V02sfCv"
     ]
   },
   {
@@ -6445,13 +5382,6 @@
     ]
   },
   {
-    "id": "recyxconZIHjf0aNu",
-    "Name": "Township",
-    "Lectures": [
-      "recoMyza69V02sfCv"
-    ]
-  },
-  {
     "id": "recQab7UGmkPuTB5O",
     "Name": "tpo",
     "Questions": [
@@ -6488,13 +5418,6 @@
     ]
   },
   {
-    "id": "recy4VMDrxLQodPuv",
-    "Name": "Transaction Costs",
-    "Lectures": [
-      "recsmwioc0RfJII4Q"
-    ]
-  },
-  {
     "id": "reczzjXRKFQwHbmDu",
     "Name": "transit",
     "Tags": [
@@ -6505,13 +5428,6 @@
     ],
     "Questions": [
       "reces1VvdSwguyPok"
-    ]
-  },
-  {
-    "id": "recppoan5D7lcWjKy",
-    "Name": "Transitivity",
-    "Lectures": [
-      "recQYGFd7fNX3QDfX"
     ]
   },
   {
@@ -6553,13 +5469,6 @@
     "Questions": [
       "recKurmkfCL7WXRMH",
       "rec1EAnNPRpA7bLa3"
-    ]
-  },
-  {
-    "id": "recf1JbbIMd50DT2F",
-    "Name": "Trusts",
-    "Lectures": [
-      "recZj9mjJqwOB83UE"
     ]
   },
   {
@@ -7105,40 +6014,6 @@
     ]
   },
   {
-    "id": "recoWTJMRYpwdd275",
-    "Name": "Tulsa Boys' Home",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "recsp7uZqHjxA2l3b",
-    "Name": "Tulsa County",
-    "Lectures": [
-      "rec9f3w6LtxksL89f"
-    ],
-    "Questions_old": [
-      "recO4k4yCl1Ac5X9M"
-    ],
-    "Questions": [
-      "recT18BbTvdrkQe7g"
-    ]
-  },
-  {
-    "id": "recf65fPNznsVG7Pq",
-    "Name": "Tulsa Day Center",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "rec3XH4D0ilxTSnfn",
-    "Name": "Tulsa Development Authority",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
     "id": "recdiRERCYuZGHSXd",
     "Name": "tulsa dictionary",
     "Questions_old": [
@@ -7146,20 +6021,6 @@
     ],
     "Questions": [
       "rec2JgSrbjUMIUk5z"
-    ]
-  },
-  {
-    "id": "recKb4KgI7YmdZIpL",
-    "Name": "Tulsa Economic Development Corporation",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
-    "id": "recCf6N8LQqLA15GU",
-    "Name": "Tulsa Girls' Home",
-    "Lectures": [
-      "recbWrwKyQ9DAaC6g"
     ]
   },
   {
@@ -7183,21 +6044,6 @@
     ]
   },
   {
-    "id": "rec3pWViBm0sBkBVS",
-    "Name": "Tulsa Regional Chamber of Commerce",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ",
-      "recbWrwKyQ9DAaC6g"
-    ]
-  },
-  {
-    "id": "recESnoEzedolmvrn",
-    "Name": "Tulsa Remote",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
     "id": "recD1AnBUORfwCKe9",
     "Name": "Tulsa's Engineering Services department is beginning the process to coordinate burial of power lines located on public rights of way. The department is also increasing staff in order to implement phase two of the City's Stormwater Utility Enterprise Initiative",
     "Tags": [
@@ -7209,49 +6055,6 @@
     ],
     "Questions": [
       "recgYNTUoE1hKUwxt"
-    ]
-  },
-  {
-    "id": "recUXdtUaXfRXRjtQ",
-    "Name": "Tulsa's Future",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
-    "id": "recIefi4nsOe4X6JE",
-    "Name": "TYPROS",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
-    "id": "recuqh1DzEfysQtg9",
-    "Name": "Urban Data Pioneers",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
-    ]
-  },
-  {
-    "id": "recEmq1qtcdXQWe3u",
-    "Name": "Use Tax",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ],
-    "Questions_old": [
-      "recAEKSQ88TBxLYPI",
-      "recDTCprgTaM1imd6"
-    ],
-    "Questions": [
-      "recFByptpi5sFwfNc",
-      "recIQqW4x3mD93DbA"
-    ]
-  },
-  {
-    "id": "rec697to3maUurA4A",
-    "Name": "User Fees",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
     ]
   },
   {
@@ -7279,13 +6082,6 @@
     ],
     "Questions": [
       "recgYNTUoE1hKUwxt"
-    ]
-  },
-  {
-    "id": "recyqbcWBHWyXEOzb",
-    "Name": "Utica Square",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
     ]
   },
   {
@@ -7414,13 +6210,6 @@
     "Questions": [
       "recdHriMxUy8wNHSe",
       "recZrqUgzNK95KbGi"
-    ]
-  },
-  {
-    "id": "recwXP0wcv5nWZfaR",
-    "Name": "Vision 2025",
-    "Lectures": [
-      "recd9JPu21UuzHKwQ"
     ]
   },
   {
@@ -7562,6 +6351,1289 @@
     "Questions": [
       "recI9hhWolXMWZInc",
       "recd73crvkSwsZu19"
+    ]
+  },
+  {
+    "id": "recqcq7C8OY8YIHlo",
+    "Name": "Bounded Rationality",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "rec0ObzmjvisioWMC",
+    "Name": "Centralization",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recLNlJ0yTV2qyeVt",
+    "Name": "Delegation",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recopFgxj39QjOyzJ",
+    "Name": "Goal Displacement",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recInzFche3bvfF05",
+    "Name": "Green Tape",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recYNX74h8LF2lydB",
+    "Name": "Non-Substitutability",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "reckQEQ5QydTfCQHK",
+    "Name": "Red Tape",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "rec192rQcizZ3KdNT",
+    "Name": "Resource Dependence",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recxA5qxTW4SDADcE",
+    "Name": "Rule Consistency",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recxLC5xsub1iTLiG",
+    "Name": "Rule Formalization",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recYuKZo8o1UWVCXf",
+    "Name": "Specialization",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recF1ZUrkd9t7KWiX",
+    "Name": "Street-Level",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR"
+    ]
+  },
+  {
+    "id": "recqCNT3QUhp7H8Ct",
+    "Name": "Economies of Scale",
+    "Lectures": [
+      "recsc9bAdCJMpxmUR",
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "recbsSiNhA5ctGGfg",
+    "Name": "Bonding",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "recL4OHo2lhdBcRFF",
+    "Name": "Bridging",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "recxe5ymD72XAJnGa",
+    "Name": "Capacity for Joint Action",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "recCs4YM60GaXAgUY",
+    "Name": "Centrality",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "recynb6mEPFdI70Bq",
+    "Name": "Collaborative Governance Regimes",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "rec8MjOu0QeK9E08K",
+    "Name": "Networks",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "recG6dIURKaUyzVKQ",
+    "Name": "Shared Motivation",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "recppoan5D7lcWjKy",
+    "Name": "Transitivity",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX"
+    ]
+  },
+  {
+    "id": "recBVXOmC1GnPj6go",
+    "Name": "Collaborative Governance",
+    "Lectures": [
+      "recQYGFd7fNX3QDfX",
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "rec2VD0zCtU2grRJv",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recNnD3TEKQDCq0Ra",
+    "Name": "Agglomeration Economies",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recLcXx1LR9sJd9Z2",
+    "Name": "City Limits",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recoGKQ09fXy07HYn",
+    "Name": "Cross-Sector Bargains",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recxn0EvIrsEmCBbs",
+    "Name": "Development Waves",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recmWszLF03ji7lKE",
+    "Name": "Edifice Error",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recMBbBIYAv9IDeQL",
+    "Name": "Growth Machines",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recbj9quAS6eQO9ws",
+    "Name": "Regional Paradox",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recTdGAHqUFl5MZiW",
+    "Name": "Space-Time Cycle",
+    "Lectures": [
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "rec78yf5bXRrODH13",
+    "Name": "A Better Way",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "reczamJOaeYN8uZSk",
+    "Name": "A Way Home for Tulsa",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recwrKsMIltz2sM5E",
+    "Name": "Causal Inference",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recr1Vv4sSZjbqYkG",
+    "Name": "Community Service Council",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recVkEEClHXcNeRE7",
+    "Name": "Continuum of Care",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recaW0o7hG0IH9QA7",
+    "Name": "Department of Housing & Urban Development",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recntUyvmX00sjXlA",
+    "Name": "Family & Children's Services",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recLMSnqezZRVEsCV",
+    "Name": "HOME Investment Partnership",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recgAEnAYXpaESAcd",
+    "Name": "Housing Authority",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recI6irjVU7iTIV1Z",
+    "Name": "Housing First",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recCldnZORiknpsk5",
+    "Name": "Housing Solutions",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recDZ9iCsZT8UC0zd",
+    "Name": "The Mental Health Association of Tulsa",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recoWTJMRYpwdd275",
+    "Name": "Tulsa Boys' Home",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recf65fPNznsVG7Pq",
+    "Name": "Tulsa Day Center",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recCf6N8LQqLA15GU",
+    "Name": "Tulsa Girls' Home",
+    "Lectures": [
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "recujibGuh3oHZMdX",
+    "Name": "American Federalism",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "receA02yhiWmYtJ7S",
+    "Name": "Capacity",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "reczlt8OPAPgv3ZYs",
+    "Name": "Coterminosity",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "recGrJoyUY62iGhnq",
+    "Name": "Disarticulated State",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "rec4hf7kl2KbCAAhf",
+    "Name": "jurisdiction",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ],
+    "Questions_old": [
+      "recBgWfp1vnLa23DG",
+      "recOA5ltx4YJJ69zq"
+    ],
+    "Questions": [
+      "recGdKM2iFzCiNkBa",
+      "recTxTS6OeaARRqxU"
+    ]
+  },
+  {
+    "id": "receqNASjEeV48gtY",
+    "Name": "Political Fragmentation",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "reclH5JnIQpN909tl",
+    "Name": "Private Values",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "rec8029tY6QGmOft8",
+    "Name": "Public Authority",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "recJO0LiTqJMFmeFZ",
+    "Name": "Special District Government",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "recpuF5zQ4f15bTtj",
+    "Name": "The Regional Problem",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "recyxconZIHjf0aNu",
+    "Name": "Township",
+    "Lectures": [
+      "recoMyza69V02sfCv"
+    ]
+  },
+  {
+    "id": "recH1VpqS6HtCenxK",
+    "Name": "Spatial Mismatch",
+    "Lectures": [
+      "recoMyza69V02sfCv",
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recp8HSzpkaqBykir",
+    "Name": "Temporal Mismatch",
+    "Lectures": [
+      "recoMyza69V02sfCv",
+      "rec4zu3A34ouYqihS"
+    ]
+  },
+  {
+    "id": "recj4QjONVQraxy5N",
+    "Name": "Causality",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recN4o7zWg78yhnMP",
+    "Name": "Customer Satisfaction",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recW8S5oMic7f66Ps",
+    "Name": "Double Loop Learning",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recsc3j9AFxiWBXWU",
+    "Name": "Effectiveness",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recM262ngbuTEBcut",
+    "Name": "Efficiency",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recDKPo9h6gXbUesz",
+    "Name": "Externalities",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "rec5hQQHn3AkmIJcV",
+    "Name": "Goal Displacement",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recrAbKFKmTloljxh",
+    "Name": "Monitoring Mechanisms",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recWGFQGGlhi3hBRd",
+    "Name": "Outcome",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recPhb052MmW0BPg9",
+    "Name": "Output",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recqwajnQ1AnXdG8v",
+    "Name": "Single Loop Learning",
+    "Lectures": [
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "rechjPCJncdo1AAbY",
+    "Name": "Accountability Structures",
+    "Lectures": [
+      "recjgeKZP1QkDmN80",
+      "recsmwioc0RfJII4Q"
+    ]
+  },
+  {
+    "id": "recgmxBwToQ2fMxpY",
+    "Name": "Appointments",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ],
+    "Questions_old": [
+      "reczUZZWw3qeYAUYf",
+      "recUOJwJNzbczRXpT"
+    ],
+    "Questions": [
+      "recERNwzNdC56lbWJ",
+      "recZLx3m4Jn3HCenn"
+    ]
+  },
+  {
+    "id": "rec2NdYOcH1a9zvQX",
+    "Name": "authorities",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ],
+    "Questions_old": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recko8jYikd4mw1yx",
+      "recnIif0ZJsNCel53"
+    ],
+    "Questions": [
+      "recaYdpy5HJv6k7Fc",
+      "recbENlHSBN2mY7PH",
+      "recplWQBzupVuhiw1",
+      "recsF6MDgTEEKZC3x"
+    ]
+  },
+  {
+    "id": "recLOs35zYYLE35fI",
+    "Name": "boards",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ],
+    "Questions_old": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recko8jYikd4mw1yx",
+      "recnIif0ZJsNCel53"
+    ],
+    "Questions": [
+      "recaYdpy5HJv6k7Fc",
+      "recbENlHSBN2mY7PH",
+      "recplWQBzupVuhiw1",
+      "recsF6MDgTEEKZC3x"
+    ]
+  },
+  {
+    "id": "recfJreUrwUrLyVJL",
+    "Name": "commissions",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ],
+    "Questions_old": [
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recnIif0ZJsNCel53"
+    ],
+    "Questions": [
+      "recaYdpy5HJv6k7Fc",
+      "recbENlHSBN2mY7PH",
+      "recsF6MDgTEEKZC3x"
+    ]
+  },
+  {
+    "id": "recSvUavFQNifWCW8",
+    "Name": "Committees",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ]
+  },
+  {
+    "id": "recWt97nNeXLFp4ez",
+    "Name": "Meeting Agenda",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ]
+  },
+  {
+    "id": "rec53CmMzRuy8glbW",
+    "Name": "Task Forces",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ]
+  },
+  {
+    "id": "rec6qQ8Tb9C1SHnq5",
+    "Name": "TGOV",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ]
+  },
+  {
+    "id": "recf1JbbIMd50DT2F",
+    "Name": "Trusts",
+    "Lectures": [
+      "recZj9mjJqwOB83UE"
+    ]
+  },
+  {
+    "id": "recsDSESmuePsplUQ",
+    "Name": "Capital Budget",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ],
+    "Questions_old": [
+      "recV6UoGoFOWObyZI",
+      "recVJCg5wacJcdLWf",
+      "recWV07zghrnSDPpm",
+      "recWIpxaGK2kDJf97",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW"
+    ],
+    "Questions": [
+      "rec03IVjFP0NWWPXc",
+      "rec0GqNINkoAkY2UJ",
+      "rec1SOEcxrDe0o6nQ",
+      "rec1Fd4NXUebLuw7B",
+      "recAsakq50VvmgCA0",
+      "recBLQvnyOqgSY4fL",
+      "recBUMYkSorrc7Nfq"
+    ]
+  },
+  {
+    "id": "recLUqc731XmFpP0w",
+    "Name": "Capital Program",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "rec2aQNVU4Wx0Bwrx",
+    "Name": "Enterprise Fund",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "recObJx9f9qS9Npke",
+    "Name": "Franchise Tax",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ],
+    "Questions_old": [
+      "recAEKSQ88TBxLYPI",
+      "recFkQ2lYwBO2Qkhx"
+    ],
+    "Questions": [
+      "recFByptpi5sFwfNc",
+      "recKhEzYfGNFaBBf1"
+    ]
+  },
+  {
+    "id": "rec1Mbtut6dLzz8Bj",
+    "Name": "General Obligation Bonds",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "rechpRniIiigwjPCU",
+    "Name": "Governmental Capital",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "recpuKleovOuYvWZT",
+    "Name": "Hotel & Motel Tax",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "recTfJ7lzHSw2jb1J",
+    "Name": "Independent Auditor",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "rec5KZdLje0u9mbEn",
+    "Name": "operating budget",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ],
+    "Questions_old": [
+      "rechBQutZZg9QmUND",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe"
+    ],
+    "Questions": [
+      "recmyE16g9s0Y7bL7",
+      "recv1DWIEkBxAILJu",
+      "recxn1NjDkOGBVTXq",
+      "recyQafES0fUJlDlb",
+      "recyFZh17SRJ4rnDQ",
+      "recyJ2swApIggK3PI"
+    ]
+  },
+  {
+    "id": "rec6WsdymAoz96XiF",
+    "Name": "Penny Sales Tax",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "recTktnduTPscjskW",
+    "Name": "Property Tax",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "recqHZ3UmD7SG9v5v",
+    "Name": "sales tax",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ],
+    "Questions_old": [
+      "recZs9CHqvBvKgwrm",
+      "recWV07zghrnSDPpm",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB"
+    ],
+    "Questions": [
+      "rec1SOEcxrDe0o6nQ",
+      "recFByptpi5sFwfNc",
+      "recFK6JPCXWcwgFa5",
+      "rec4pX9kHFNmS1NpQ"
+    ]
+  },
+  {
+    "id": "rec1x3rPXtO4BGFdT",
+    "Name": "Sinking Fund",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "rec9gMoj9p9KgjI8b",
+    "Name": "Special Revenue",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "recEmq1qtcdXQWe3u",
+    "Name": "Use Tax",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ],
+    "Questions_old": [
+      "recAEKSQ88TBxLYPI",
+      "recDTCprgTaM1imd6"
+    ],
+    "Questions": [
+      "recFByptpi5sFwfNc",
+      "recIQqW4x3mD93DbA"
+    ]
+  },
+  {
+    "id": "rec697to3maUurA4A",
+    "Name": "User Fees",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ]
+  },
+  {
+    "id": "rec96dhEWp7ZPcxAc",
+    "Name": "Budget Items",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ]
+  },
+  {
+    "id": "rec0mux5A8DTFOOKX",
+    "Name": "District Boundaries",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ]
+  },
+  {
+    "id": "rec2bz2lvTwnSaZRh",
+    "Name": "elections",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ],
+    "Questions_old": [
+      "rec9DiQE6bgvPShgC",
+      "recZs9CHqvBvKgwrm",
+      "recWV07zghrnSDPpm"
+    ],
+    "Questions": [
+      "rec1SOEcxrDe0o6nQ",
+      "receA6nhnlsmXDye6",
+      "rec4pX9kHFNmS1NpQ"
+    ]
+  },
+  {
+    "id": "recZIbqJE3DsdawuS",
+    "Name": "Endorsements",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ]
+  },
+  {
+    "id": "recoacfETde4T2jpm",
+    "Name": "Interest Groups",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ]
+  },
+  {
+    "id": "recGqUJp2kFOk9PPX",
+    "Name": "Nonpartisan Elections",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ]
+  },
+  {
+    "id": "rech8ZnhQ6xMFXskv",
+    "Name": "ordinances",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ],
+    "Questions_old": [
+      "reclF9NgSrsJW92dI",
+      "recDctKj7bLVOerpI",
+      "recpZT3q1xsg1ueCk",
+      "rec1VN6atVxRUlmnT",
+      "recfNuLpuMTv1mcF2",
+      "reckKaWp4EkNwUJDr",
+      "recGYfeKeg1n83sq4",
+      "recJ0UrR0XFC2qPfG",
+      "rec1ymuI0SzKyUk6F",
+      "reckwtnIsWpDL1fgX",
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W",
+      "recuDxASxgBKeY728",
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So",
+      "recs7sGDHP8jrTAkC",
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy",
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf"
+    ],
+    "Questions": [
+      "recqCXkT9BEA4Ujbc",
+      "recI9hhWolXMWZInc",
+      "recuWHA3iHE79fvAO",
+      "rec6SBDNK5JI26Dln",
+      "reckKii2LW5m97tDw",
+      "recpHYt2lOwEEF0BV",
+      "recLV3LnvqdegOJoy",
+      "recOXIYuh7Rtab6da",
+      "rec6va1lh2LBGFB49",
+      "recpthUlJ6BuTMwer",
+      "recOwoV1vjiYKeivd",
+      "rec4Edp6L9rClmdap",
+      "recfbiYlKz7UHnw1C",
+      "recN1uqVTS4pZqnT7",
+      "recJNNl1QCAtbnA5q",
+      "reczAl7vOqNBmJo0C",
+      "recTn3AyUsJ1ibicW",
+      "reckA9BJY7gm6wJSw",
+      "recAm60N924MH9Z5x",
+      "recqnOIKAmNbYEoy2",
+      "recSaLFbktsqMQLz7",
+      "rec3Gdqrld0Bqkpe7",
+      "rec1KvYGWS0yxpQ7J",
+      "recQTitE6nlxInoQS",
+      "recx4gdgYZkazERi6",
+      "rec6agCZvMp8gPJvx",
+      "rec8GbxgCBR62szM2",
+      "recLHIqht7i85m0SZ",
+      "rec7qQNL5eoBEBEQE",
+      "recdJrN1x0JpYYo0n",
+      "recOQp0s4XOFs0KrX",
+      "reckQWECybWld6rnp",
+      "recsd9BbINgd62YMY",
+      "recUYXctOs38ObqhU",
+      "recYZ5mRHw66YdYo2",
+      "recP08q8Yh5pUYflk",
+      "recERNwzNdC56lbWJ"
+    ]
+  },
+  {
+    "id": "recIXTV1Aq58pXWSH",
+    "Name": "Procedural Votes",
+    "Lectures": [
+      "recZuMJbhrN8KhMBP"
+    ]
+  },
+  {
+    "id": "recxK9tmj62O5qT2U",
+    "Name": "Executive Order",
+    "Lectures": [
+      "recwjhFBiLJHy7YVk"
+    ]
+  },
+  {
+    "id": "recPPzkrQUsgKWvJO",
+    "Name": "Infrastructure Maintenance",
+    "Lectures": [
+      "recwjhFBiLJHy7YVk"
+    ]
+  },
+  {
+    "id": "recehmjTdJfYz3PfT",
+    "Name": "Mayor-Council Form of Government",
+    "Lectures": [
+      "recwjhFBiLJHy7YVk"
+    ]
+  },
+  {
+    "id": "recJH86OEizJrRuWQ",
+    "Name": "Ordinance Veto",
+    "Lectures": [
+      "recwjhFBiLJHy7YVk"
+    ]
+  },
+  {
+    "id": "recM8MM98dp2bCLIU",
+    "Name": "Proposed Budget",
+    "Lectures": [
+      "recwjhFBiLJHy7YVk"
+    ]
+  },
+  {
+    "id": "recfIbnOrFwt205H2",
+    "Name": "Reorganization",
+    "Lectures": [
+      "recwjhFBiLJHy7YVk"
+    ]
+  },
+  {
+    "id": "recd19wOCMV6gY71M",
+    "Name": "City Charter",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ],
+    "Questions_old": [
+      "recs7sGDHP8jrTAkC"
+    ],
+    "Questions": [
+      "recx4gdgYZkazERi6"
+    ]
+  },
+  {
+    "id": "recpRpkXa7CmTiygK",
+    "Name": "Classificatory Decision Rules",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ]
+  },
+  {
+    "id": "rec65laOplE8uXAEy",
+    "Name": "Constitutive Decision Rules",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ]
+  },
+  {
+    "id": "recReZK3dzr30qz2Z",
+    "Name": "Dillon's Rule",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ]
+  },
+  {
+    "id": "recifBWwcxWg3ERaD",
+    "Name": "Indian Nation Council of Governments (INCOG)",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ]
+  },
+  {
+    "id": "recLZHxyDLZOtgLpj",
+    "Name": "Preemption",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ]
+  },
+  {
+    "id": "recbUDZqhmOe17rqJ",
+    "Name": "Reconstitutive Decision Rules",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ]
+  },
+  {
+    "id": "recsp7uZqHjxA2l3b",
+    "Name": "Tulsa County",
+    "Lectures": [
+      "rec9f3w6LtxksL89f"
+    ],
+    "Questions_old": [
+      "recO4k4yCl1Ac5X9M"
+    ],
+    "Questions": [
+      "recT18BbTvdrkQe7g"
+    ]
+  },
+  {
+    "id": "rec2Q91Wp6xImXY3l",
+    "Name": "Bureaucratic Drift",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA"
+    ]
+  },
+  {
+    "id": "recUsrtw12nhWycjO",
+    "Name": "Implementation Games",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA"
+    ]
+  },
+  {
+    "id": "recP96BwfKjZS41Yz",
+    "Name": "Program Accumulation Paradox",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA"
+    ]
+  },
+  {
+    "id": "recyUhPcjsDzsScmC",
+    "Name": "service delivery",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA"
+    ],
+    "Questions_old": [
+      "reclGjy18Ovhszv3Y"
+    ],
+    "Questions": [
+      "recqD75EpYH8AkM1s"
+    ]
+  },
+  {
+    "id": "rec5JRkUz4lxo7w3b",
+    "Name": "The Marketplace for Public Services",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA"
+    ]
+  },
+  {
+    "id": "recZGYXKlh8RlEwdK",
+    "Name": "The Politics-Administration Dichotomy",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA"
+    ]
+  },
+  {
+    "id": "recnJZQVtMQNcYPXR",
+    "Name": "Goal Ambiguity",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA",
+      "recjgeKZP1QkDmN80"
+    ]
+  },
+  {
+    "id": "recct9JpOTgiUjHA8",
+    "Name": "Information Asymmetry",
+    "Lectures": [
+      "recW7FzEDgnLxgOXA",
+      "recjgeKZP1QkDmN80",
+      "recZj9mjJqwOB83UE"
+    ]
+  },
+  {
+    "id": "reck4Jk1vuHzSycXr",
+    "Name": "36 Degrees North",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recA6GnQTZIBjhxPT",
+    "Name": "Ann & Henry Zarrow Foundation",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recXNKsggdCpGuG2X",
+    "Name": "Downtown Tulsa Partnership",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recHe6gwlEKL2QdUh",
+    "Name": "Economic Geography",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recDyOzB2BeAHfCfr",
+    "Name": "George Kaiser Family Foundation",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "reckvAgiMDfNbxWkn",
+    "Name": "Greenwood",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "rec90cdtdy4vK03Wv",
+    "Name": "Industrial Clusters",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "rec7oLp5ZeSkfc8AH",
+    "Name": "Leadership Tulsa",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "rec3XH4D0ilxTSnfn",
+    "Name": "Tulsa Development Authority",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recKb4KgI7YmdZIpL",
+    "Name": "Tulsa Economic Development Corporation",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recESnoEzedolmvrn",
+    "Name": "Tulsa Remote",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recUXdtUaXfRXRjtQ",
+    "Name": "Tulsa's Future",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recIefi4nsOe4X6JE",
+    "Name": "TYPROS",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recuqh1DzEfysQtg9",
+    "Name": "Urban Data Pioneers",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recyqbcWBHWyXEOzb",
+    "Name": "Utica Square",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "recwXP0wcv5nWZfaR",
+    "Name": "Vision 2025",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ"
+    ]
+  },
+  {
+    "id": "rec3pWViBm0sBkBVS",
+    "Name": "Tulsa Regional Chamber of Commerce",
+    "Lectures": [
+      "recd9JPu21UuzHKwQ",
+      "recbWrwKyQ9DAaC6g"
+    ]
+  },
+  {
+    "id": "reckvtWne0dxhk8yu",
+    "Name": "Biding Proccesses",
+    "Lectures": [
+      "recsmwioc0RfJII4Q"
+    ]
+  },
+  {
+    "id": "recZWdt8XcY0AWd7f",
+    "Name": "Incentive Asymmetry",
+    "Lectures": [
+      "recsmwioc0RfJII4Q"
+    ]
+  },
+  {
+    "id": "recg6Ow9P4c5VSX3W",
+    "Name": "Inter-organizational Agreements",
+    "Lectures": [
+      "recsmwioc0RfJII4Q"
+    ]
+  },
+  {
+    "id": "rectogalt6pP7SQG5",
+    "Name": "New Public Management",
+    "Lectures": [
+      "recsmwioc0RfJII4Q"
+    ]
+  },
+  {
+    "id": "recwb2w2AnEnkF7Kv",
+    "Name": "Privatization",
+    "Lectures": [
+      "recsmwioc0RfJII4Q"
+    ]
+  },
+  {
+    "id": "recy4VMDrxLQodPuv",
+    "Name": "Transaction Costs",
+    "Lectures": [
+      "recsmwioc0RfJII4Q"
+    ]
+  },
+  {
+    "id": "recYiiP3RcVALFX2h",
+    "Name": "Procurement",
+    "Lectures": [
+      "recsmwioc0RfJII4Q",
+      "recwjhFBiLJHy7YVk"
+    ],
+    "Questions_old": [
+      "recu99NhUY4x8xXpA"
+    ],
+    "Questions": [
+      "recz6XkUb8gogien4"
     ]
   }
 ]
