@@ -3,6 +3,7 @@ import axios from 'axios';
 import { Routes, Route, Link, useSearchParams } from 'react-router-dom';
 import ReactGA from 'react-ga';
 import { CookiesProvider, withCookies } from 'react-cookie';
+import Logo from '../ui/logo';
 import Modal from '../ui/modal';
 import Search from './Search';
 
@@ -72,10 +73,12 @@ function App({ cookies }) {
 
   return (
     <CookiesProvider>
-      <header className={`p-4 max-w-full border-b-white border-b-2 ${isQuerying ? 'bg-[#FBFBFB]' : 'text-white bg-black'}`}>
-        <div className='container mx-auto'>
-          <Link to='/?q=' className="text-md md:text-5xl font-semibold">	<span className="text-tpi-blue">&#47;&#47;</span> Tulsa Policy Institute</Link>
-        </div>
+      <header className={`container mx-auto p-4 max-w-full border-b-white border-b-2 ${isQuerying ? 'bg-[#FBFBFB]' : 'text-white bg-black'}`}>
+        <Link to='/?q='>
+          <div className='container mx-auto'>
+            <Logo className='max-h-[20px] sm:max-h-[52px]' fill={isQuerying ? 'black' : 'white'} />
+          </div>
+        </Link>
       </header>
       <main className="max-w-full h-full">
         <Routes>
