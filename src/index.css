@@ -38,3 +38,12 @@ html, body, #root {
 .tpi-blur {
   backdrop-filter: blur(20px);
 }
+
+.tpi-marquee {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+}

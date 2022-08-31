@@ -1,4 +1,4 @@
-function Logo({ fill, className, width='500px' }) {
+function Logo({ fill, className, width='50%' }) {
   return <svg width={width} viewBox="0 0 573 56" fill="none" xmlns="http://www.w3.org/2000/svg" className={className}>
     <path d="M112.709 43V0.608032H119.037V43H112.709Z" fill={fill}/>
     <path d="M62.3085 7.16003V43H68.8605V7.16003H79.7805V1.28003H51.2205V7.16003H62.3085Z" fill={fill}/>

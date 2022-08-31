@@ -104,7 +104,7 @@ function Search({ questions, lectures }) {
       style={{ backgroundImage: 'url("/images/landing-mobile_opt.png")', backgroundSize: 'cover' }}
       className={`absolute w-full h-full transition-all duration-300 pointer-events-none ${isQuerying ? 'opacity-0' : ''}`}
     >
-      <video className='h-full w-full hidden sm:block' autoPlay loop muted playsInline>
+      <video className='tpi-marquee' autoPlay loop muted playsInline poster="/images/landing-mobile_opt.png">
         <source src="/videos/tpi_marquee.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
