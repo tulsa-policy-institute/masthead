@@ -116,6 +116,9 @@ function Search({ questions, lectures }) {
           gaEventTracker('type', args[0]);
           setTypedInput(...args);
           searchParams.set('q', args[0]);
+          if (!searchParams.get('init')) {
+            searchParams.set('init', true);
+          }
           setSearchParams(searchParams);
         } }
       >
