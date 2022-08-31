@@ -22,29 +22,36 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
   return <div className={className}>
     <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
     <div className="relative">
-      <div className="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
+      <div className="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none z-10">
         {children ? children :
           <svg aria-hidden="true" className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
           </svg>
         }
       </div>
-      <input
-        autoFocus={cookies.get('email') ? true : false}
-        value={typedInput || ''}
-        onChange={(e) => setTypedInput(e.target.value)}
-        type="text"
-        id="default-search"
-        className="p-4 pl-10 w-full text-sm bg-gray-50/20 rounded-3xl border-0 text-white focus:outline-none"
+      <div
+        className='bg-transparent'
         style={{
-          filter: 'drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1))',
+          boxShadow: '1px 8px 20px -5px rgba(0, 0, 0, 0.5)',
+          backdropFilter: 'blur(20px)',
+          borderRadius: '36px',
+          background: 'rgba(255, 255, 255, 0.2)',
         }}
-        onKeyDown={(e) => {
-          if (e.key === 'Enter') {
-            doSearch();
-          }
-        }}
-      />
+      >
+        <input
+          autoFocus={cookies.get('email') ? true : false}
+          value={typedInput || ''}
+          onChange={(e) => setTypedInput(e.target.value)}
+          type="text"
+          id="default-search"
+          className="p-4 pl-10 w-full text-sm bg-transparent rounded-3xl border-0 text-white focus:outline-none"
+          onKeyDown={(e) => {
+            if (e.key === 'Enter') {
+              doSearch();
+            }
+          }}
+        />
+      </div>
       {typedInput && <div
         className="flex absolute inset-y-0 right-0 items-center pr-3 text-white cursor-pointer"
         onClick={() => showClear ? setTypedInput('') : doSearch()}
