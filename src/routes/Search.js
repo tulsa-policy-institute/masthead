@@ -30,12 +30,11 @@ const TypeaheadSearch = withCookies(({ setTypedInput, className, typedInput = ''
         }
       </div>
       <div
-        className='bg-transparent'
+        className='bg-transparent tpi-blur'
         style={{
-          boxShadow: '1px 8px 20px -5px rgba(0, 0, 0, 0.5)',
-          backdropFilter: 'blur(20px)',
           borderRadius: '36px',
           background: 'rgba(255, 255, 255, 0.2)',
+          boxShadow: '1px 8px 20px -5px rgba(0, 0, 0, 0.5)',
         }}
       >
         <input
