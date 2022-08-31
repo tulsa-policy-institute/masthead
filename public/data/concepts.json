@@ -153,7 +153,7 @@
       "public services"
     ],
     "MegaName": [
-      "infrastructure"
+      "public works & infrastructure"
     ],
     "Questions_old": [
       "recTN3jIPGHHUy6vD",
@@ -263,7 +263,7 @@
       "public services"
     ],
     "MegaName": [
-      "infrastructure"
+      "public works & infrastructure"
     ],
     "Questions_old": [
       "recSCHBhioclRnB4e",
@@ -289,7 +289,7 @@
       "public services"
     ],
     "MegaName": [
-      "infrastructure"
+      "public works & infrastructure"
     ],
     "Questions_old": [
       "recSCHBhioclRnB4e",
@@ -311,7 +311,7 @@
       "public services"
     ],
     "MegaName": [
-      "infrastructure"
+      "public works & infrastructure"
     ],
     "Questions_old": [
       "recSCHBhioclRnB4e",
@@ -1094,6 +1094,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "budgeting"
+    ],
     "Questions_old": [
       "recpCZ3kufkPeC0nK"
     ],
@@ -1148,14 +1151,14 @@
       "city gov & policy process",
       "policies & regulations"
     ],
+    "MegaName": [
+      "collaboration & outsourcing"
+    ],
     "Questions_old": [
       "recOBqTr0OrNwdhmy"
     ],
     "Questions": [
       "recTyeq4hYDEEYyk2"
-    ],
-    "MegaName": [
-      "collaboration & outsourcing"
     ]
   },
   {
@@ -1164,6 +1167,9 @@
     "Tags": [
       "city gov & policy process",
       "public services"
+    ],
+    "MegaName": [
+      "parks, culture, & recreation"
     ],
     "Questions_old": [
       "recOBqTr0OrNwdhmy"
@@ -1370,6 +1376,9 @@
     "Tags": [
       "city gov & policy process"
     ],
+    "MegaName": [
+      "administration"
+    ],
     "Questions_old": [
       "recFLeOGgaR9kA2Sd",
       "recdgthAZOpFRVa69"
@@ -1384,6 +1393,9 @@
     "Name": "general fund",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "budgeting"
     ],
     "Questions_old": [
       "recQD3cHdUkpehOss",
@@ -1401,6 +1413,9 @@
     "Name": "revenue",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "spending"
     ],
     "Questions_old": [
       "recQD3cHdUkpehOss",
@@ -1439,6 +1454,9 @@
     "Tags": [
       "city gov & policy process"
     ],
+    "MegaName": [
+      "authorities, boards, & commissions"
+    ],
     "Questions_old": [
       "recko8jYikd4mw1yx"
     ],
@@ -1449,6 +1467,12 @@
   {
     "id": "recQab7UGmkPuTB5O",
     "Name": "tpo",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "neighborhood management"
+    ],
     "Questions": [
       "recFi3e8eDF2OSp9B"
     ]
@@ -1456,6 +1480,13 @@
   {
     "id": "recqcNghusgnZYF1X",
     "Name": "council districts",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration",
+      "voting & citizen engagement"
+    ],
     "Questions": [
       "rec8xRk3pQw0auRa8"
     ]
@@ -1463,6 +1494,12 @@
   {
     "id": "recNk1hJFap0wM73G",
     "Name": "municipal government",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration"
+    ],
     "Questions": [
       "rec8xRk3pQw0auRa8"
     ]
@@ -1470,20 +1507,39 @@
   {
     "id": "rec7CRt7SqLSMHpq0",
     "Name": "self service city council",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration",
+      "voting & citizen engagement"
+    ],
     "Questions": [
       "rec8xRk3pQw0auRa8"
     ]
   },
   {
-    "id": "recTBiVxKt5P8D7B4",
-    "Name": "nonprofit",
+    "id": "reciadpYORsfn5Qbg",
+    "Name": "volunteer",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "voting & citizen engagement"
+    ],
     "Questions": [
       "reclwDtRstU3qHBnu"
     ]
   },
   {
-    "id": "reciadpYORsfn5Qbg",
-    "Name": "volunteer",
+    "id": "recTBiVxKt5P8D7B4",
+    "Name": "nonprofit",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "collaboration & outsourcing"
+    ],
     "Questions": [
       "reclwDtRstU3qHBnu"
     ]
@@ -1577,6 +1633,12 @@
   {
     "id": "rec754rVxMJQaT6iC",
     "Name": "city hall",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration"
+    ],
     "Questions": [
       "recZekbRTdqP7GLre",
       "recLdVK9I3LfGlAbo"
@@ -1585,6 +1647,12 @@
   {
     "id": "recfjJwBURwqfGO8D",
     "Name": "fire",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "permits"
+    ],
     "Questions": [
       "recYxyozUofEDYmrt"
     ]
@@ -1592,6 +1660,12 @@
   {
     "id": "recmjTVmhqoXN6Y2o",
     "Name": "construction",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "permits"
+    ],
     "Questions": [
       "recYxyozUofEDYmrt",
       "rectHaqVPSkDxULn8",
@@ -1601,6 +1675,12 @@
   {
     "id": "recAtWXbEzVaD72ND",
     "Name": "electrical",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "permits"
+    ],
     "Questions": [
       "recYxyozUofEDYmrt",
       "rechB3tyvdB14vB3f"
@@ -1609,6 +1689,13 @@
   {
     "id": "reck1kwu0Ax8s2U3s",
     "Name": "public works",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public works & infrastructure",
+      "how do i"
+    ],
     "Questions": [
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
@@ -1620,6 +1707,12 @@
   {
     "id": "recws8bLQ6cyFvH6B",
     "Name": "refuse",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "trash, & waste collection"
+    ],
     "Questions": [
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
@@ -1636,6 +1729,9 @@
     "Tags": [
       "public services"
     ],
+    "MegaName": [
+      "public library"
+    ],
     "Questions": [
       "recprRZEmaiFQcIZc"
     ]
@@ -1643,6 +1739,9 @@
   {
     "id": "recGuE0gbK9WuV26W",
     "Name": "tools",
+    "MegaName": [
+      "neighborhood management"
+    ],
     "Questions": [
       "recprRZEmaiFQcIZc"
     ]
@@ -5680,7 +5779,7 @@
       "public services"
     ],
     "MegaName": [
-      "infrastructure"
+      "public works & infrastructure"
     ],
     "Questions_old": [
       "rec4TkBXyyRkv413m"
