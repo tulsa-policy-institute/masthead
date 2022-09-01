@@ -514,7 +514,7 @@
     "Question": "After the fiscal year closes, how can the public find out if The City of Tulsa ends up spending more or less than the amount that's budgeted at the beginning of the fiscal year?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Firstly, the city maintains a budgetary control system to help it adhere to the budget. The public can find out how closely The City adhered to its annual budget by reviewing [\"Annual Comprehensive Financial Reports\"](https://www.cityoftulsa.org/government/departments/finance/financial-reports/annual-comprehensive-financial-reports/), which compare actual revenues and expenditures to budgeted amounts. Completed ACF reports are due no later than 6 months after the end of the fiscal year. The annual budget also shows projected versus actual revenues and expenditures for at least the most recent fiscal year. \n",
+    "Answer": "Firstly, the city maintains a budgetary control system to help it adhere to the budget. The public can find out how closely The City adhered to its annual budget by reviewing  [Annual Comprehensive Financial Reports](https://www.cityoftulsa.org/government/departments/finance/financial-reports/annual-comprehensive-financial-reports/), which compare actual revenues and expenditures to budgeted amounts. Completed ACF reports are due no later than 6 months after the end of the fiscal year. The annual budget also shows projected versus actual revenues and expenditures for at least the most recent fiscal year. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1095,7 +1095,7 @@
     "Question": "Is the Tulsa Fire Department hiring members? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "**Yes. **The Tulsa Fire Department is enrolling 30 cadets in the training academy in FY23 at a cost of $1.28 million and plans to train an additional 30 in FY24. \n",
+    "Answer": "**Yes.** The Tulsa Fire Department is enrolling 30 cadets in the training academy in FY23 at a cost of $1.28 million and plans to train an additional 30 in FY24. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1218,7 +1218,7 @@
     "Question": "Does the City of Tulsa outsource for management of any city-owned facilities? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "**Yes. **The City has engaged in management agreements for the operations of City owned culture and recreation facilities. These facilities include the Tulsa Zoo, Mohawk Soccer Complex, Page and Mohawk golf courses, Performing Arts Center, and the Gilcrease Museum. The Parks and Recreation Department is responsible for the oversight for each of the management agreements. \n",
+    "Answer": "**Yes.** The City has engaged in management agreements for the operations of City owned culture and recreation facilities. These facilities include the Tulsa Zoo, Mohawk Soccer Complex, Page and Mohawk golf courses, Performing Arts Center, and the Gilcrease Museum. The Parks and Recreation Department is responsible for the oversight for each of the management agreements. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1273,7 +1273,7 @@
     "Question": "What is the City of Tulsa doing to improve quality of life at the neighborhood level? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Through the Working in Neighborhoods department, Tulsa is allocating an additional** $200,000 to address nuisance abatement needs **for an FY23 total of $1.078 million. \n",
+    "Answer": "Through the Working in Neighborhoods department, Tulsa is allocating an additional **$200,000 to address nuisance abatement needs** for an FY23 total of $1.078 million. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -2893,7 +2893,7 @@
   },
   {
     "id": "recrjcT3yucDREUEy",
-    "Question": "Can Tulsa's City Council establish additional procedures for the preparation, adoption, and amendment of budgets?, for the transfer of appropriations, and for supplemental and emergency appropriations which are not in conflict with the provisions of this amended Charter or with the laws of ",
+    "Question": "Can Tulsa's City Council establish additional procedures for the preparation, adoption, and amendment of budgets?",
     "Contributor": "Samuel",
     "Public": true,
     "Answer": "**Yes.** \"The Council may establish by ordinance additional procedures for the preparation, adoption, and amendment of budgets, for the transfer of appropriations, and for supplemental and emergency appropriations which are not in conflict with the provisions of this amended Charter or with the laws of Oklahoma\"\n",
