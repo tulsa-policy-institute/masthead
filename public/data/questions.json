@@ -73,7 +73,7 @@
     "Question": "What economic conditions were present during the process of crafting Tulsa's FY23 budget?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "According to Tulsa's FY23 budget presentation, \"**High inflation**: The average price of household necessities rose 8.3% in April 2022; **Increased energy costs and slowing investment**, attributable to unfavorable federal policy, by gas and oil companies (major employers) into the region; **Aerospace industry**: Major employers in the Tulsa metro area which are promising to increase investment and employment in support infrastructure at the Tulsa airport; **increased employment and average income**; **stagnant wage growth\"**\n",
+    "Answer": "Tulsa's FY23 budget presentation highlights several economic conditions that may have informed the budget process. Among these are the following.\n\n- **High inflation**: For example, average price of household necessities rose 8.3% in April 2022.\n- **Increased energy costs and slowing investment**: This is thought to be attributed to unfavorable federal policy and/or major employers in the region. Notably, this refers to oil and gas companies.\n- **Developments in Aerospace: **Major employers in the Tulsa metro area have promised to increase investment and employment to support infrastructure at the Tulsa airport.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -87,10 +87,10 @@
   },
   {
     "id": "recVzsAuskELT9vTv",
-    "Question": "What were some of Tulsa City government's priorities in the FY23 budget? ",
+    "Question": "What were some of the City of Tulsa's priorities in the FY23 budget? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Filling vacant positions by increasing salary/wage compensation and increasing the budget for recruitment efforts; Improving customer service through technology and \"a 27% increase in customer care agents taking citizen calls...about utility bills and other issues;\" Increasing public safety through focused recruitment efforts at police and fire academies, allocating public safety grant funding, and implementing a Real-time information center (RTIC) to streamline law enforcement intelligence through community surveillance. \n",
+    "Answer": "The City of Tulsa's priorities for the FY23 budget, in no particular order, include the following. \n\n- Funding **recruitment** efforts to fill vacant positions. Notably, this concerns increasing salary/wage compensation.\n- Improving **customer service** through technology and \"a 27% increase in customer care agents taking citizen calls...about utility bills and other issues\".\n- Increasing **public safety** through focused recruitment efforts at police and fire academies, allocating public safety grant funding, and implementing a Real-time information center (RTIC) to streamline law enforcement intelligence through community surveillance. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -107,7 +107,7 @@
     "Question": "From where does Tulsa receive the majority of revenue used to fund its operations? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Sales and use taxes account for 63.9% of the General Fund, which is the principal operating fund of the City. General fund revenues for FY2023 are expected to be $358.3 million\n",
+    "Answer": "Sales and use taxes account for 63.9% of the General Fund, which is the principal operating fund of the City. General fund revenues for FY2023 are expected to be $358.3 million.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -122,7 +122,7 @@
     "Question": "How much money does Tulsa have put aside in case of serious economic downturn or disaster? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "The city of Tulsa's primary two reserve funds are the General Fund Emergency Operating Reserve, with a balance of **$29.9 million**, and the City's Economic Stabilization Reserve (aka Rainy Day Fund), with an expected balance of **$12.4 million **by the end of FY23. \n",
+    "Answer": "The City of Tulsa's primary two reserve funds are the General Fund Emergency Operating Reserve, with a balance of **$29.9 million**, and the City's Economic Stabilization Reserve (aka Rainy Day Fund), with an expected balance of **$12.4 million **by the end of FY23. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -139,7 +139,7 @@
     "Question": "What is the largest expenditure for Tulsa's General (day-to-day) Fund? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "The largest expenditure category is **payroll**, which represents 70.1% of the General Fund budget\n",
+    "Answer": "The largest expenditure category is **payroll**, which represents 70.1% of the General Fund.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -156,7 +156,7 @@
     "Question": "Where does the City of Tulsa allocate the most significant resources? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Public safety receives the largest allocation of resources at 53.2% of the General Fund. Public Safety includes the Police Department, Fire Department, EMS, 911 call center, and the City Prosecutor's office. \n",
+    "Answer": "Public safety receives the largest allocation of resources at 53.2% of the General Fund. Public Safety includes the following organizations.\n\n- Police Department\n- Fire Department\n- EMS\n- 911 call center\n- Prosecutor's Office. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -172,7 +172,7 @@
     "Question": "As a Tulsa Metropolitan Utility Authority (TMUA) ratepayer, will I have to pay more for water utility service in FY23? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "**No.** Through the success of an asset management program, the TMUA recommended no increase in water rates for FY23. The current rate equals $4.31 per 1,000 gallons of water used. However, the TMUA is recommending a 3% increase for FY24, partially due to increases in chemical costs.\n",
+    "Answer": "**No.** Resulting from the success of an asset management program, the TMUA did not recommend increases to water rates for FY23. \n\n_Current Rates_\nThe current rate equals $4.31 per 1,000 gallons of water used. \n\n_FY24 Recommendations_\nThe TMUA is recommending a 3% increase for FY24, partially due to increases in chemical costs.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -185,6 +185,26 @@
       "rec8kOYbGZaSstxXv"
     ],
     "QA Code": "Dan_Budget_010",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n"
+  },
+  {
+    "id": "recJr9JJWxjSVkEIC",
+    "Question": "How much do I pay for water utility service in Tulsa in 2023.",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "**$4.31 per 1,000 gallons of water used. **\n",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recNlU5Iz5iBopJ9m",
+      "recWdnRM6FA93ACEx",
+      "reccm8jum85mxl4b2",
+      "recXrn5bEAziLS5hi",
+      "recGGzf4fV3y01tu7",
+      "recQ4YQuzC7U20psh",
+      "recqjX1JeotlsirPA",
+      "rec8kOYbGZaSstxXv"
+    ],
+    "QA Code": "Samuel_Budget_X001",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n"
   },
   {
@@ -207,11 +227,30 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n"
   },
   {
+    "id": "recrQofXv9pfxknWX",
+    "Question": "How much do I pay for sewage treatment in Tulsa in 2023?",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "**$10.02 per 1,000 gallons of water** used per single-family home for FY23. In FY22, the cost of sewage treatment for the same water was $9.36.\n",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recNlU5Iz5iBopJ9m",
+      "recC80WE0BC0GjA20",
+      "recGGzf4fV3y01tu7",
+      "recqjX1JeotlsirPA",
+      "recXrn5bEAziLS5hi",
+      "recQ4YQuzC7U20psh",
+      "rec8kOYbGZaSstxXv"
+    ],
+    "QA Code": "Samuel_Budget_X002",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n"
+  },
+  {
     "id": "recYKRQl6QTy2jnt7",
     "Question": "Are rates to maintain the City of Tulsa stormwater management system increasing in FY23? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "**Yes.** Rates are increasing by 8.5% (from $9.03 to 9.80 per month per residential customer) This rate increase is higher than the 7% increase that was originally proposed for FY23. Budget documents attribute the higher increase to the need for additional capital to fund improvement projects identified as high priority by a strategic planning study. \n",
+    "Answer": "**Yes.** Rates are increasing by 8.5% (from $9.03 to 9.80 per month per residential customer). This rate increase is higher than the 7% increase that was originally proposed for FY23. Budget documents attribute the higher increase to the need for additional capital to fund improvement projects identified as high priority by a strategic planning study. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -246,7 +285,7 @@
     "Question": "Are rates for emergency medical services (EMSA) set to increase in FY23 for Tulsa residents? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "**No.**  According to Tulsa's FY23 budget presentation, \"There are currently no changes to the rate for emergency medical services in FY23.\" Households within Tulsa's city limits are currently billed $5.45 per month for EMSA, unless a household chooses to opt out and pay for EMS services out of pocket if and when necessary. \n",
+    "Answer": "**No.**  According to Tulsa's FY23 budget presentation, \"There are currently no changes to the rate for emergency medical services in FY23\". Households within Tulsa's city limits are currently billed $5.45 per month for EMSA, unless a household chooses to opt out and pay for EMS services out of pocket if and when necessary. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -254,6 +293,21 @@
       "recP4EVMzwQakaDpC"
     ],
     "QA Code": "Dan_Budget_014",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n"
+  },
+  {
+    "id": "recijrAotbr9UfEfV",
+    "Question": "What is the cost for emergency medical services (EMSA) in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "Households within Tulsa's city limits are currently billed **$5.45 per month** for EMSA. Alternatively, households may opt out and pay for EMS services out of pocket.\n",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recNlU5Iz5iBopJ9m",
+      "recoJSpwBlG6Tx4G3",
+      "recP4EVMzwQakaDpC"
+    ],
+    "QA Code": "Samuel_Budget_X003",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n"
   },
   {
