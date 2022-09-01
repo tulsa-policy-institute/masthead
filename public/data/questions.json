@@ -2054,7 +2054,7 @@
     "Question": "How long will it take for Tulsa to pay down the debt it currently holds?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "The City of Tulsa is currently liable for ten general obligation bonds (totaling $395.3 million) with varying maturity dates. According to FY23 budget documents, the City plans to satisfy all of its current debt by 2038. Over that timeframe, the City anticipates paying $49.4 million in interest, for a cumulative total debt service of $444.8 million. \n",
+    "Answer": "The City of Tulsa is currently liable for ten general obligation bonds (totaling $395.3 million) with varying maturity dates. According to FY23 budget documents, the City plans to satisfy all of its current debt by 2038. Over that time frame, the City anticipates paying $49.4 million in interest, for a cumulative total debt service of $444.8 million. \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -4730,7 +4730,7 @@
   {
     "id": "rechB3tyvdB14vB3f",
     "Question": "What occupations are licensed by the City of Oklahoma?",
-    "Answer": "You need a license from the City to legally work in most contractor roles, including:electrical, residential electrical, electrical with security alarm, general contractor, mechanical, and plubming. Additionally, you need to be licensed to work on fire alarm and sprinkler and suppression systems. Fire suppresison system installation businesses also must hold a business license. Occupational license applications are available on Tulsa's self service portal. \n",
+    "Answer": "You need a license from the City to legally work in most contractor roles, including the following:\n\n- Electrical\n- Residential electrical\n- Electrical with security alarm\n- General contractor\n- Mechanical\n- Plumbing.\n\nAdditionally, licenses are required to work on fire alarm and sprinkler and suppression systems. Fire suppression system installation businesses also must hold a business license. \n\nOccupational license applications are available on Tulsa's [self service portal](https://tulsaok-energovweb.tylerhost.net/apps/selfservice#/home). \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "rec1Od7vtYRXy79YZ",
@@ -4780,7 +4780,7 @@
   {
     "id": "rec5rz5PiayKqG53s",
     "Question": "How do I obtain public records from the City of Tulsa?",
-    "Answer": "Information about requesting public records from the City of Tulsa is available on the City Finance Department's webpage. There you can download a request form, learn about what records are considered public, find conact information for the custodian of those particular records, and find out how much it may cost to obtain those records. \n",
+    "Answer": "Information about requesting public records from the City of Tulsa is available on the City Finance Department's webpage. There you can download a request form, learn about what records are considered public, find contact information for the custodian of those particular records, and find out how much it may cost to obtain those records. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "reced3M3XwUKN3vYM",
@@ -4821,7 +4821,7 @@
   {
     "id": "recBeu2kRrxU0TKQm",
     "Question": "Why is there a road closure in Tulsa?",
-    "Answer": "The City of Tulsa offers a live traffic map showing road closures around the city and the reason for the closure. \n",
+    "Answer": "The City of Tulsa offers a live traffic map that displays road closures around the city, also providing an explanation of the cause of the closure. Where closure is due to construction, the contractor and price is also displayed. This tool can be  found [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=0910c978896e423e8f4f826953b83b48).\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recSlK0QKzpjweE7g",
