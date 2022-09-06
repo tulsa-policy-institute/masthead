@@ -4881,7 +4881,10 @@
       "recSlK0QKzpjweE7g",
       "recdoCgCxV6RbWD0L",
       "recyJCadYKnbBRD0a"
-    ]
+    ],
+    "Public": true,
+    "Source": "City of Tulsa. _Traffic Flow Map_. \n",
+    "QA Code": "Samuel_Tools_01"
   },
   {
     "id": "recBHG04HEVgMAPNw",
@@ -4897,5 +4900,11 @@
     ],
     "QA Code": "Sub_Samuel_01",
     "Source": "City of Tulsa. _Website. Meetings._\nCity of Tulsa. _Website. Submit a Public Comment._\n"
+  },
+  {
+    "id": "recTHQ7p2ei0oiMs2",
+    "Question": "How much tax money goes into the Tulsa Zoo?",
+    "Answer": "The FY23 City of Tulsa budget allocates **$6,772,000** to manage the Tulsa Zoo. The City plans to spend **$6,942,000** in FY24.\n\nWhile the zoo grounds and its physical structures are owned by the city of Tulsa\n\nTHE ZOO GROUNDS AND PHYSICAL STRUCTURES ARE OWNED BY THE\nCITY OF TULSA. \n",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 30._\n\n\n"
   }
 ]
