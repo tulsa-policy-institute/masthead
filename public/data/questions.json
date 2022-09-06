@@ -4875,6 +4875,7 @@
   {
     "id": "recBeu2kRrxU0TKQm",
     "Question": "Why is there a road closure in Tulsa?",
+    "Public": true,
     "Answer": "The City of Tulsa offers a live traffic map that displays road closures around the city, also providing an explanation of the cause of the closure. Where closure is due to construction, the contractor and price is also displayed. This tool can be  found [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=0910c978896e423e8f4f826953b83b48).\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -4882,9 +4883,8 @@
       "recdoCgCxV6RbWD0L",
       "recyJCadYKnbBRD0a"
     ],
-    "Public": true,
-    "Source": "City of Tulsa. _Traffic Flow Map_. \n",
-    "QA Code": "Samuel_Tools_01"
+    "QA Code": "Samuel_Tools_01",
+    "Source": "City of Tulsa. _Traffic Flow Map_. \n"
   },
   {
     "id": "recBHG04HEVgMAPNw",
