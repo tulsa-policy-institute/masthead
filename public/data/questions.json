@@ -481,7 +481,7 @@
     "Question": "What are the policies governing how Tulsa city officials must approach strategic planning? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "According to Tulsa's budget policy, \"1.) All planning activities, strategies and studies should be comprehensive and integrated on a City-wide basis and 2.) Plans, strategies and studies shall encompass multi-year time frames and be updated annually\".\n",
+    "Answer": "According to Tulsa's budget policy, \n> 1.) All planning activities, strategies and studies should be comprehensive and integrated on a City-wide basis and 2.) Plans, strategies and studies shall encompass multi-year time frames and be updated annually.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1814,7 +1814,7 @@
     "Question": "How much funding does The City of Tulsa contribute to the Indian Nations Council of Governments? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Tulsa's FY23 contribution to INCOG is budgeted at **$3.3 million**.\n> \"...resources allocated to INCOG will support services provided to the City of Tulsa for the following: land development reviews for TMAPC in accordance with the comprehensive plan; identifying and securing Federal and State transportation resources; identifying and securing Federal funding for economic development; and for the Destination District and Vibrant Neighborhoods programs\".\n",
+    "Answer": "Tulsa's FY23 contribution to INCOG is budgeted at **$3.3 million**.\n> ...resources allocated to INCOG will support services provided to the City of Tulsa for the following: land development reviews for TMAPC in accordance with the comprehensive plan; identifying and securing Federal and State transportation resources; identifying and securing Federal funding for economic development; and for the Destination District and Vibrant Neighborhoods programs.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -2179,7 +2179,7 @@
     "Question": "Can the City of Tulsa change the sales tax?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "Through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect sales tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". Also, it is possible for the State of Oklahoma to preempt such laws?\n",
+    "Answer": "Through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect sales tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". \n",
     "Concepts": [
       "recxdOAhjRYEtGBIR",
       "recrcssg4rJQBVqHI",
@@ -2611,7 +2611,7 @@
     "Question": "Can Tulsa's City Council fine its own members for disorderly conduct at a Council meeting?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"\n",
+    "Answer": "> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -2628,7 +2628,7 @@
     "Question": "Can Tulsa's City Council fine its own members for violation of Council rules?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"\n",
+    "Answer": "> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -2677,7 +2677,7 @@
     "Question": "How much can Tulsa's City Council fine its members or other persons for a single offense?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "$100 dollars. \"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"\n",
+    "Answer": "**$100 dollars.** \n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -2693,7 +2693,7 @@
     "Question": "How much of Tulsa's City Council does it take to impose a fine on a fellow City Councilor?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "Two-thirds of the entire City Council. When each of the nine seats are filled, this means six Councilors must vote to impose such fine. \"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city\".\n",
+    "Answer": "Two-thirds of the entire City Council. When each of the nine seats are filled, this means six Councilors must vote to impose such fine. \n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3253,7 +3253,7 @@
     "Question": "Once the Mayor recieves ordinances voted in by the City of Tulsa, how long does the Mayor have to either approve or veto the ordinance?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "15 days. \"Within fifteen (15) working days following such delivery, the Mayor shall either approve or veto the ordinance or resolution. If vetoed, the ordinance or resolution shall be returned to the Council with a written statement of the objections of the Mayor. If neither approved nor vetoed by the Mayor in the time specified, the ordinance or resolution shall take effect as though approved by the Mayor. A veto by the Mayor shall suspend further action of the Council upon the ordinance or resolution for a period of seven (7) days, after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor. If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period\"\n",
+    "Answer": "**15 days.** \n> Within fifteen (15) working days following such delivery, the Mayor shall either approve or veto the ordinance or resolution. If vetoed, the ordinance or resolution shall be returned to the Council with a written statement of the objections of the Mayor. If neither approved nor vetoed by the Mayor in the time specified, the ordinance or resolution shall take effect as though approved by the Mayor. A veto by the Mayor shall suspend further action of the Council upon the ordinance or resolution for a period of seven (7) days, after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor. If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -3304,7 +3304,7 @@
     "Question": "If Tulsa's City Council fails to overturn the Mayor's veto on a given ordinance, how long must the Council wait before the ordinance can be reconsidered?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "90 days. \"f the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period\".\n",
+    "Answer": "**90 days.** \"If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period\".\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -3829,7 +3829,7 @@
     "Question": "What is the salary of Tulsa's Mayor?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**$105,000.** \"The Mayor of the City of Tulsa, Oklahoma, shall receive as full compensation for his or her services as Mayor, effective with the term of office commencing April 1, 2002, at 2:00 p.m., an annual salary of One Hundred Five Thousand Dollars ($105,000.00), payable as employees of the City are paid\".\n",
+    "Answer": "**$105,000.** \n> The Mayor of the City of Tulsa, Oklahoma, shall receive as full compensation for his or her services as Mayor, effective with the term of office commencing April 1, 2002, at 2:00 p.m., an annual salary of One Hundred Five Thousand Dollars ($105,000.00), payable as employees of the City are paid.\n",
     "Concepts": [
       "rec6lrWmFyJj2MfoK",
       "rec7UduLPBNpWCfHo",
@@ -3858,7 +3858,7 @@
     "Question": "Who acts in the Mayor's absence?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "The Temporary Mayor. \"The Mayor shall file with the City Clerk, from time to time, a designation of one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor and perform the duties and exercise the powers of the Mayor during the absence or temporary disability of the Mayor or in the event of a vacancy in the office of the Mayor. The designation by the Mayor shall be subject to confirmation by a majority vote of the entire membership of the Council. Should the Mayor fail to file such designation, the Council shall designate one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor\".\n",
+    "Answer": "**The Temporary Mayor.** \"The Mayor shall file with the City Clerk, from time to time, a designation of one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor and perform the duties and exercise the powers of the Mayor during the absence or temporary disability of the Mayor or in the event of a vacancy in the office of the Mayor. The designation by the Mayor shall be subject to confirmation by a majority vote of the entire membership of the Council. Should the Mayor fail to file such designation, the Council shall designate one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor\".\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -4098,7 +4098,7 @@
   },
   {
     "id": "recOPQEfE3apeagD2",
-    "Question": "What recomendations does the Tulsa Planning Office have for making an effective neighborhood association?",
+    "Question": "What recommendations does the Tulsa Planning Office have for making an effective neighborhood association?",
     "Contributor": "Samuel",
     "Public": true,
     "Answer": "Establish leadership and defined roles while including all residents and encouraging volunteers. Further, establish structured meetings that allow for public input. Finally, seek to secure funding and establish partnerships with businesses and organizations. Please submit inquiry to us if your neighborhood association is interested in partnerning with the Tulsa Policy Institute.\n",
