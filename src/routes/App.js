@@ -73,12 +73,23 @@ function App({ cookies }) {
 
   return (
     <CookiesProvider>
-      <header className={`container mx-auto p-4 max-w-full border-b-white border-b-2 ${isQuerying ? 'bg-[#FBFBFB]' : 'text-white bg-black'}`}>
-        <Link to='/?q='>
-          <div className='container mx-auto'>
-            <Logo className='max-h-[20px] sm:max-h-[52px]' fill={isQuerying ? 'black' : 'white'} />
+      <header className={`mx-auto p-4 max-w-full border-b-white border-b-2 ${isQuerying ? 'bg-[#FBFBFB]' : 'text-white bg-black'}`}>
+        <div className='container md:px-8 mx-auto'>
+          <div className='flex items-center w-full'>
+            <div className='basis-1/2'>
+              <Link className='w-1/2' to='/?q='>
+                <Logo className='inline' fill={isQuerying ? 'black' : 'white'} />
+              </Link>
+            </div>
+            <div className='basis-1/2'>
+              <span className='float-right '>
+                <a href="https://airtable.com/shrCUY2iaVckOGjbX" target="_blank" className='text-sm rounded border-black border-solid border p-2' rel="noreferrer">
+                  Ask a Question
+                </a>
+              </span>
+            </div>
           </div>
-        </Link>
+        </div>
       </header>
       <main className="max-w-full h-full">
         <Routes>
