@@ -18,7 +18,7 @@ const QuestionForm = ({ typedInput = '', cookies  }) => {
           title='question submission'
           onLoad={() => {iframeDidLoad(true)}}
           className={`${iframeLoaded ? 'visible' : 'invisible'} w-full rounded-3xl airtable-embed airtable-dynamic-height`}
-          src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput}&prefill_Email=${cookies.get('email') || ''}&prefill_Role=${cookies.get('role') || ''}`}
+          src={`https://airtable.com/embed/shrCUY2iaVckOGjbX?prefill_Question=${typedInput || ''}&prefill_Email=${cookies.get('email') || ''}&prefill_Role=${cookies.get('role') || ''}`}
           frameBorder="0"
           height="500"
           style={{

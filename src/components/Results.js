@@ -150,12 +150,17 @@ const Results = ({ results, typedInput, cookies, isQuerying }) => {
         </h6>
       </div>
       {displayResults.map((q, index, array) =>
-        <Result
-          q={q}
-          key={q.id}
-          index={index}
-          array={array}
-        />
+        <>
+          {(array.length > 5 && index === 5) && <div className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'>
+            <QuestionForm
+              typedInput={typedInput}
+            />
+          </div>}
+          <Result
+            q={q}
+            key={q.id}
+          />
+        </>
       )}
       <QuestionForm
         typedInput={typedInput}

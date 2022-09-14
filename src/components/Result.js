@@ -1,16 +1,12 @@
 import React, { useState } from 'react';
 import useAnalyticsEventTracker from '../utils/eventTracking';
 import ReactMarkdown from 'react-markdown'
-import QuestionForm from './QuestionForm';
 
-const Result = ({ q, index, array }) => {
+const Result = ({ q }) => {
   const [open, updateResult] = useState(false);
   const gaResultTracker = useAnalyticsEventTracker('Result');
 
   return <>
-    {(array.length > 5 && index === 5) && <div className='cursor-pointer hover:bg-slate-100 m-0 border-b-gray-200 border-b'>
-      <QuestionForm />
-    </div>}
     <div
       onClick={() => {
         if (!open) { gaResultTracker('viewing', q.Question); }
