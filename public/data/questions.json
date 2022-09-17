@@ -1,9 +1,486 @@
 [
   {
-    "id": "rec7XboladnljlfwG"
+    "id": "recWqw0tDxDtthVtm",
+    "Question": "How do I dispose of my recycling in Tulsa? ",
+    "Answer": "The City of Tulsa offers curbside recycling for many common recyclables on regular trash days. If you live in a building that doesn't offer recycling bins, or can't access curbside recycling for another reason, there are three recycling centers where you can drop it off: 3495 S. Sheridan Rd in Central Tulsa, 1101 S. Cincinnati Ave. in Downtown, and 2160 Garnett Rd at Plaza Santa Cecilia in East Tulsa. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recSaB0ugjsBczpUQ",
+      "rechGKl53YLEWSFKy",
+      "recws8bLQ6cyFvH6B",
+      "reck1kwu0Ax8s2U3s",
+      "recBTeDboTe5vDD9l",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
   },
   {
-    "id": "recVDXd6UuUitzo4P"
+    "id": "recYxyozUofEDYmrt",
+    "Question": "How do I apply for a building, electrical or fire permit from the City of Tulsa? ",
+    "Answer": "Tulsa operates an online self-service portal where property owners can search for, apply, and track the progress of 160 different types of permits. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recVypOtuYcUkJEnc",
+      "recmjTVmhqoXN6Y2o",
+      "recfjJwBURwqfGO8D",
+      "recAtWXbEzVaD72ND",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recZekbRTdqP7GLre",
+    "Question": "How do I activate utility service at my new residence in Tulsa?",
+    "Answer": "Activating utility service can be as simple as sending an email to [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or making a call to Tulsa's 311 Customer Care Center. You could also visit the Utilities Customer Service Office at City Hall during busines shours. If you're calling or visiting in person, be prepared to provide your: name, telephone number, social security number, and address for service. If you activate via e-mail, provide all that information except for SSN, a Customer Care representative will follow up via phone to collect it. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recTSBaWiz8Jjukdr",
+      "rec1Od7vtYRXy79YZ",
+      "recqjX1JeotlsirPA",
+      "rec754rVxMJQaT6iC",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "recZrqUgzNK95KbGi",
+    "Question": "Can I pay a traffic or parking ticket online in Tulsa?",
+    "Answer": "**Yes.** But it depends on the ticket. If the ticket you receive doesn't display a dollar amount for your fine in large font, but instead has the word \"COURT\" printed near the top, you cannot pay online and must appear in court. If your ticket does have a dollar amount, regardless of the amount, you can pay online through this web page. Be aware: tickets take 7-10 days to post online, if you try to pay before then you may not find it so it's worth checking back later. You can also use the system to pay fines for certain criminal code violations.\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recVswcqhjkahPslp",
+      "rectD3gKNXIFdjHUQ",
+      "recbDMq2PvDBET39y",
+      "recgEFDA1BHBx8LRL",
+      "recCqZ0iIe1Qu9MWz",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "rectHaqVPSkDxULn8",
+    "Question": "Do I need a permit from the City of Tulsa to build a detached shed or garage on my property? ",
+    "Answer": "**Yes.** You'll need a residential accessory structure permit. The permit is required for any detached structure on the same parcel of property as a principal structure (house) and the use of which is incidental (related to, in support of) the principal structure. You can apply for such a permit here \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recIuuMLg0ka4tV4b",
+      "recmjTVmhqoXN6Y2o",
+      "recI5o1ZfuGhyBI3f",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recuvoyP7aTEcrWRF",
+    "Question": "Do I need a permit from the City of Tulsa to build an outdoor storm shelter on my property?",
+    "Answer": "**Yes.** You'll need a residential outdoor storm shelter permit. Be aware: you should only apply for this permit if the shelter you intend to install a shelter that meets FEMA or ICC standards. Plans must be sealed bu an Oklahoma registered engineer or bear a valid and current FEMA certification. You can apply for a permit through Tulsa's self service portal.\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recVypOtuYcUkJEnc",
+      "recIuuMLg0ka4tV4b",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recuAGwtc736aGtNn",
+    "Question": "Do I need a permit from the City of Tulsa to build a pool on my property?",
+    "Answer": "**Yes.** You need a permit for both above-ground and in-ground pools. You can apply for one through Tulsa's permit self service portal. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recIuuMLg0ka4tV4b",
+      "recETZKzvZIxk74ml",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recy2kKsEtjXqj2yd",
+    "Question": "Do I need a permit from the City of Tulsa to improve the drainage on my property or change its grade?",
+    "Answer": "You may need a residential watershed permit to move earth on your property for activities such as: excavating, grading, regrading, land filling, land clearing, etc. You can apply for a permit through Tulsa's self service portal. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recVypOtuYcUkJEnc",
+      "recQqqKXV7tZV5TZh",
+      "recI5o1ZfuGhyBI3f"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recCHaTr7GPnNqXc4",
+    "Question": "Do I need a permit from the City of Tulsa to build a retaining wall on my property?",
+    "Answer": "**Yes.** You'll need a residential retaining wall permit. Be aware: you'll need an engineer's seal on your plans for them to be approved. You can apply for a permit through Tulsa's self service portal.\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recIuuMLg0ka4tV4b",
+      "recVypOtuYcUkJEnc",
+      "recOq5l1PZm4vQCyk",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recEojYIYnlBCKvxJ",
+    "Question": "What kind of records are considered public in Tulsa?",
+    "Answer": "Management of public records in Tulsa and all other municipalities in the state is governed by Oklahoma's Open Records Act. That law, similar to other states, considers the overwhelming majority of government records as public by default. Generally speaking, the only records produced by, or in the custody of, government agencies/departments that are exempt from public disclosure are those which contain private medical information, information about children, or certain personal information about public employees (such as their home address or disciplinary investigations on their record).  \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "reced3M3XwUKN3vYM",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ]
+  },
+  {
+    "id": "recFi3e8eDF2OSp9B",
+    "Question": "How can I find out if I live in a part of Tulsa with a neighborhood association? ",
+    "Answer": "If you just moved in to an area with a neighborhood association, there's a chance that an association member will try to reach out to invite you to join. If you don't hear anything or you've lived at your residence for a while and are curious, Tulsa has an online map showing each registered association, its boundaries, and contact information. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recSaB0ugjsBczpUQ",
+      "rec4wpWPzMkrZUALU",
+      "recQab7UGmkPuTB5O",
+      "recoJacT6bxOqTcxz",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "recG6HLRAg8ji5ImW",
+    "Question": "Do I need a permit from the City of Tulsa to have storm shelter installed in my residence?",
+    "Answer": "**Yes.** You'll need a residential indoor storm shelter permit. Be aware: you should only apply for this permit if the shelter you intend to install a shelter that meets FEMA or ICC standards. Plans must be sealed bu an Oklahoma registered engineer or bear a valid and current FEMA certification. You can apply for a permit through Tulsa's self service portal.\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recVypOtuYcUkJEnc",
+      "recIuuMLg0ka4tV4b",
+      "recdoCgCxV6RbWD0L",
+      "rec8t9nmRIbtvxP1x"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recLmK4VpaNtFVKvV",
+    "Question": "Can I pay my City of Tulsa utility bill online?",
+    "Answer": "The City of Tulsa offers a self-service portal where residents can pay their utility bills and find information about their meter readings. You'll need your customer ID and Customer account number to setup your online account. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recTSBaWiz8Jjukdr",
+      "rec1Od7vtYRXy79YZ",
+      "recCqZ0iIe1Qu9MWz",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "recLdVK9I3LfGlAbo",
+    "Question": "How do I shut-off or transfer my utility service to a new address?",
+    "Answer": "If you are listed on the utility account, you can shut off or transfer service by emailing [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or calling 3-1-1. You can also visit the Utilities Customer Service Office at City Hall during business hours. You'll need to provide your customer ID and Customer account number. For shut offs, you'll need to provide a a forwarding address for the final bill (if applicable). After submitting a request, it usually takes 3 business days to transfer service or shut it off. For shut-offs, any outstanding balance will be charged against any deposit, then a final bill will be sent to you. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recTSBaWiz8Jjukdr",
+      "rec1Od7vtYRXy79YZ",
+      "recqjX1JeotlsirPA",
+      "rec754rVxMJQaT6iC",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "recLJB4zNZyKJov59",
+    "Question": "Do I need a permit from the City of Tulsa to hold a wedding or other large gathering at my residence?",
+    "Answer": "You may need a permit for a special assembly if you're holding a special event such as a holiday party, wedding reception, or hosting entertainment at a facility not designated for assembly (such as your house). If you need a special assembly permit, you may need a special event permit as well. Consider contacting the Tulsa Fire Department or Tulsa 3-1-1 for help determining whether your gathering requires a permit and which ones to apply for. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "rec65mwzeCqZrmncE",
+      "recZoil9936fwmqaL",
+      "recVypOtuYcUkJEnc"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "rec0l9LFxEcUDNj2G",
+    "Question": "How do I register my storm shelter with the City of Tulsa?",
+    "Answer": "If you live within the city limits, and your storm shelter or safe room meets FEMA and /or ICC building standards, you can register your shelter with the city so First Responders know where to find you in case of a natural disaster. Add your information to the Tulsa Storm Shelter Registry at this webpage\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec8t9nmRIbtvxP1x",
+      "recAcDhrN7CzL5Cue",
+      "recSlLVBIMDqqcsOz",
+      "recEZ7OOZ3hy6PH24"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ]
+  },
+  {
+    "id": "rec0FbPnpWxYbPSyv",
+    "Question": "How do I submit a request for Open Public Records from the City of Tulsa?",
+    "Answer": "A request for Open Public Records must be made in writing. Citizens can do this themselves with a specific form provided by the City. The form is straightforward, but it helps to do some research beforehand about what information you need and what department/agency has the record. Your success in obtaining public records depends largely on how specific you are in describing the information you need. Ideally, you can tell the records custodian the exact name of the document, database, report etc. that you need information from. If not, the custodian is still legally obligated to make a good faith effort to produce the records you request. Once you've completed the form, use information on this page to find the relevant records custodian and submit the form either in-person or via e-mail. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "reced3M3XwUKN3vYM",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ]
+  },
+  {
+    "id": "rec1hJM0z7sHFxMAX",
+    "Question": "How do I opt out of paying Tulsa EMS Authority fees?",
+    "Answer": "You can choose to opt-out your household from Tulsa EMSA online. You'll need to login to your utility account here or register an account if you don't have one. Tulsa's 3-1-1 Customer Care Center can help you through the process if you have questions. Be aware that opting-out means you'll have to pay for EMS out-of-pocket if you or somebody in your household needs assistance. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recTSBaWiz8Jjukdr",
+      "rec1Od7vtYRXy79YZ",
+      "recoJSpwBlG6Tx4G3",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "rec1EAnNPRpA7bLa3",
+    "Question": "Who can I contact if I'm concerned about a tree damaging power lines near my residence?",
+    "Answer": "According to the Tulsa Planning Office's Neighborhood Toolkit, \"If you are concerned about trees on your property that are close to overhead utilities, call PSO’s Forestry Infoline at 1-877-367-6815. If needed, they will send a forester to you to determine if trimming or removal is best. If the best option is to remove the tree, PSO often provide vouchers you can use to receive a discount on the purchase of replacement trees and shrubs at participating local nurseries.\"\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recSaB0ugjsBczpUQ",
+      "rechGKl53YLEWSFKy",
+      "rec6DzgUgFNoHl6AH",
+      "recWxmWWRzxnMHenv",
+      "recdZj59grW6AoCkH",
+      "recTSBaWiz8Jjukdr",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "rec3GdEUIDmHwSBfS",
+    "Question": "Do I need a permit from the City of Tulsa to remodel my kitchen or bathroom?",
+    "Answer": "**Yes.** You'll need a residential alteration permit. Such permits are required for any changes to an existing structure which don't increase the floor area. You can apply for one through Tulsa's permit self service portal online. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recIuuMLg0ka4tV4b",
+      "recVypOtuYcUkJEnc",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "rec5rz5PiayKqG53s",
+    "Question": "How do I obtain public records from the City of Tulsa?",
+    "Answer": "Information about requesting public records from the City of Tulsa is available on the City Finance Department's webpage. There you can download a request form, learn about what records are considered public, find contact information for the custodian of those particular records, and find out how much it may cost to obtain those records. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "reced3M3XwUKN3vYM",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ]
+  },
+  {
+    "id": "rec8hwMCqZbVhtirp",
+    "Question": "How do I schedule a time for the City of Tulsa to pick up my bulky waste?",
+    "Answer": "You can schedule a pick-up for bulky waste by calling 918-596-9777 or through your online utilities account. Go here to login or register your account. You'll need your customer ID number, account number, and your SSN. Bulky waste pick-up costs $10 per 8 cubic feet. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recTSBaWiz8Jjukdr",
+      "recws8bLQ6cyFvH6B",
+      "recBTeDboTe5vDD9l",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "rec8xRk3pQw0auRa8",
+    "Question": "How can I find which Tulsa City Council District I live in?",
+    "Answer": "Visit Tulsa's online district map here. You can see how districts are drawn and search for a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District and contact information for the Councilor who represents it. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec7CRt7SqLSMHpq0",
+      "recqcNghusgnZYF1X",
+      "recNk1hJFap0wM73G",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ]
+  },
+  {
+    "id": "rechyIcFk8RqZkDx8",
+    "Question": "Do I need a permit from the City of Tulsa to build a deck on my property?",
+    "Answer": "\n**Yes.** You'll need a residential deck permit. You can apply for one through Tulsa's permit self service portal. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recIuuMLg0ka4tV4b",
+      "recVypOtuYcUkJEnc",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "rechB3tyvdB14vB3f",
+    "Question": "What occupations are licensed by the City of Oklahoma?",
+    "Answer": "You need a license from the City to legally work in most contractor roles, including the following:\n\n- Electrical\n- Residential electrical\n- Electrical with security alarm\n- General contractor\n- Mechanical\n- Plumbing.\n\nAdditionally, licenses are required to work on fire alarm and sprinkler and suppression systems. Fire suppression system installation businesses also must hold a business license. \n\nOccupational license applications are available on Tulsa's [self service portal](https://tulsaok-energovweb.tylerhost.net/apps/selfservice#/home). \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recd5Eg4UNwMH4CFQ",
+      "recgVOta2Pkb0k7NP",
+      "recdoCgCxV6RbWD0L",
+      "recT56q21gskzFrmD",
+      "recAtWXbEzVaD72ND",
+      "recQqTtEpxpp6AbHy"
+    ]
+  },
+  {
+    "id": "reciIzpjhVeUJjFHP",
+    "Question": "Do I need a permit from the City of Tulsa to build an addition onto my home?",
+    "Answer": "**Yes.** You'll need a residential addition permit. You can apply for one through Tulsa's permit self-service portal. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "reckEjpC9UPsBgbnF",
+      "recIuuMLg0ka4tV4b",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recl9bAOW2diBS2EB",
+    "Question": "How do I know what day to put out my trash for collection in Tulsa?",
+    "Answer": "Your weekly collection day depends on your neighborhood. Tulsa offers a map to help you  determine your collection day. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recws8bLQ6cyFvH6B",
+      "recBTeDboTe5vDD9l",
+      "reck1kwu0Ax8s2U3s",
+      "recq4v6FtV3eR1DZe"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "reclwDtRstU3qHBnu",
+    "Question": "How can I volunteer my time or skills to help others in Tulsa?",
+    "Answer": "The City of Tulsa maintains a list of volunteer opportunities with both local organizations and larger ones that benefit Tulsans. You can find out about the organization, the help they need, when/how often they need it, and whether your skills could benefit others through the role. Find out more here. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "reciadpYORsfn5Qbg",
+      "recTBiVxKt5P8D7B4",
+      "recdoCgCxV6RbWD0L"
+    ]
+  },
+  {
+    "id": "recniWCBkP8PRsMu9",
+    "Question": "Do I have to pay to obtain public records from the City of Tulsa?",
+    "Answer": "Sometimes, depending on what kind of records you request, how many you request, and what you need them for. The city's full fee schedule for public records is here. According to Oklahoma's Open Records Act, government bodies should charge citizens only for the direct cost of producing the record. Paper copies cost $0.25 per sheet, Certified Copies cost $1 per sheet, etc. However, if records are requested for commercial purposes, or if the quantity of records requested is such that producing them will disrupt the essential functions of the government body, the City of Tulsa charges $30/hour. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recQZe9wGJYchUmSF",
+      "recdoCgCxV6RbWD0L",
+      "recrhc9ForZ6fHB3W"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ]
+  },
+  {
+    "id": "recn0Od7TdioxlCNb",
+    "Question": "Do I need a permit from the City of Tulsa to build a fence or wall on my property?",
+    "Answer": "**Yes.** You'll need a residential fence or wall fence permit. Be aware: this permit is not intended for a retaining wall, which requires a separate permit. If you intend to build a masonry wall fence over four feet tall, you'll also need to get plan approval from an engineer. To apply for a permit, visit Tulsa's self service portal. \n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "rec1Od7vtYRXy79YZ",
+      "recVypOtuYcUkJEnc",
+      "recmjTVmhqoXN6Y2o",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "policies & regulations"
+    ]
+  },
+  {
+    "id": "recocZNwmoAtpvzGA",
+    "Question": "Where can I bring all my recyclable materials that aren't accepted in Tulsa's blue curbside recycling bins?",
+    "Answer": "The Metropolitan Environmental Trust (M.e.t.) operates free drop-off recycling centers throughout the metro area, including three in Tulsa. Many of these locations accept items not collected in your blue curbside recycling bin, including plastic bags, motor oil, cooking oil, antifreeze, batteries, electronic waste, and eyeglasses. Visit metrecycle.com for a full list of items and hours. \naccepted at each location\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recSaB0ugjsBczpUQ",
+      "recBTeDboTe5vDD9l",
+      "recws8bLQ6cyFvH6B",
+      "recchqDApy3QBKYYZ",
+      "rechGKl53YLEWSFKy",
+      "recppFWF7pFbf4qUq",
+      "recwVwtuJ9JH8GyXW",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "recTHQ7p2ei0oiMs2",
+    "Question": "How much tax money goes into the Tulsa Zoo?",
+    "Answer": "The FY23 City of Tulsa budget allocates **$6,772,000** to manage the Tulsa Zoo. The City plans to spend **$6,942,000** in FY24.\n\nWhile the zoo grounds and its physical structures are owned by the city of Tulsa\n\nTHE ZOO GROUNDS AND PHYSICAL STRUCTURES ARE OWNED BY THE\nCITY OF TULSA. \n",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 30._\n\n\n",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recdHriMxUy8wNHSe",
@@ -20,7 +497,11 @@
       "recGkXnNzl0pw1ued"
     ],
     "QA Code": "Dan_Budget_000",
-    "Source": "City of Tulsa. _Tulsa 311_\n"
+    "Source": "City of Tulsa. _Tulsa 311_\n",
+    "Author": "Dan",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recwvXEbnPiXOjfwd",
@@ -34,7 +515,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_001",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recmyE16g9s0Y7bL7",
@@ -50,7 +535,11 @@
       "recvcH6UgexrbXmq9"
     ],
     "QA Code": "Dan_Budget_002",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recEtHM63ySpYObMK",
@@ -66,7 +555,11 @@
       "recI2ycsxZZO6fcFB"
     ],
     "QA Code": "Dan_Budget_003",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rect4UJDtYrQpAPVq",
@@ -83,7 +576,11 @@
       "rec3JBXzS340jufUz"
     ],
     "QA Code": "Dan_Budget_004",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7-9, Paragraph 3-4, 1-6, 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7-9, Paragraph 3-4, 1-6, 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recVzsAuskELT9vTv",
@@ -100,7 +597,11 @@
       "recVswcqhjkahPslp"
     ],
     "QA Code": "Dan_Budget_005",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 9-10, Paragraph 3-5, 1-6_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 9-10, Paragraph 3-5, 1-6_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recVARJku4wgm25qW",
@@ -115,7 +616,11 @@
       "recs5w170YqWhk0EG"
     ],
     "QA Code": "Dan_Budget_006",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recVDotgYTkV1wUlr",
@@ -132,7 +637,11 @@
       "rechtfnL0L7SQWySq"
     ],
     "QA Code": "Dan_Budget_007",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recVE4ypLjJRwI7Ew",
@@ -149,7 +658,11 @@
       "recs5w170YqWhk0EG"
     ],
     "QA Code": "Dan_Budget_008",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 6_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 6_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recX6GBwnVbuEcwjF",
@@ -165,7 +678,11 @@
       "recD4xTSPIJ16uPjz"
     ],
     "QA Code": "Dan_Budget_009",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 7_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 11, Paragraph 7_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recXzv8UzyocZ8S2I",
@@ -185,27 +702,11 @@
       "rec8kOYbGZaSstxXv"
     ],
     "QA Code": "Dan_Budget_010",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n"
-  },
-  {
-    "id": "recJr9JJWxjSVkEIC",
-    "Question": "How much will I pay for water utility service in Tulsa in 2023?",
-    "Contributor": "Samuel",
-    "Public": true,
-    "Answer": "**$4.31 per 1,000 gallons** of water used.\n",
-    "Concepts": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recWdnRM6FA93ACEx",
-      "reccm8jum85mxl4b2",
-      "recXrn5bEAziLS5hi",
-      "recGGzf4fV3y01tu7",
-      "recQ4YQuzC7U20psh",
-      "recqjX1JeotlsirPA",
-      "rec8kOYbGZaSstxXv"
-    ],
-    "QA Code": "Samuel_Budget_X001",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recY5PDHpQvqWo1hb",
@@ -224,26 +725,11 @@
       "rec8kOYbGZaSstxXv"
     ],
     "QA Code": "Dan_Budget_011",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n"
-  },
-  {
-    "id": "recrQofXv9pfxknWX",
-    "Question": "How much do I pay for sewage treatment in Tulsa in 2023?",
-    "Contributor": "Samuel",
-    "Public": true,
-    "Answer": "**$10.02 per 1,000 gallons of water** used per single-family home for FY23. In FY22, the cost of sewage treatment for the same water was $9.36.\n",
-    "Concepts": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recC80WE0BC0GjA20",
-      "recGGzf4fV3y01tu7",
-      "recqjX1JeotlsirPA",
-      "recXrn5bEAziLS5hi",
-      "recQ4YQuzC7U20psh",
-      "rec8kOYbGZaSstxXv"
-    ],
-    "QA Code": "Samuel_Budget_X002",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recYKRQl6QTy2jnt7",
@@ -260,7 +746,11 @@
       "rec8kOYbGZaSstxXv"
     ],
     "QA Code": "Dan_Budget_012",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec0imwsl4AdFgWkX",
@@ -278,7 +768,11 @@
       "rec8kOYbGZaSstxXv"
     ],
     "QA Code": "Dan_Budget_013",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec0itHTJoPGZBJxc",
@@ -293,22 +787,11 @@
       "recP4EVMzwQakaDpC"
     ],
     "QA Code": "Dan_Budget_014",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n"
-  },
-  {
-    "id": "recijrAotbr9UfEfV",
-    "Question": "What is the cost for emergency medical services (EMSA) in Tulsa?",
-    "Contributor": "Samuel",
-    "Public": true,
-    "Answer": "Households within Tulsa's city limits are currently billed **$5.45 per month** for EMSA. Alternatively, households may opt out and pay for EMS services out of pocket.\n",
-    "Concepts": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recoJSpwBlG6Tx4G3",
-      "recP4EVMzwQakaDpC"
-    ],
-    "QA Code": "Samuel_Budget_X003",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec03IVjFP0NWWPXc",
@@ -323,7 +806,11 @@
       "recs2KbDOv7pV75Sy"
     ],
     "QA Code": "Dan_Budget_015",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec0GqNINkoAkY2UJ",
@@ -342,7 +829,11 @@
       "recWdnRM6FA93ACEx"
     ],
     "QA Code": "Dan_Budget_016",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec1SOEcxrDe0o6nQ",
@@ -359,7 +850,11 @@
       "rec2bz2lvTwnSaZRh"
     ],
     "QA Code": "Dan_Budget_017",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13-14, Paragraph 5, 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13-14, Paragraph 5, 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec1Fd4NXUebLuw7B",
@@ -376,7 +871,11 @@
       "rec8kOYbGZaSstxXv"
     ],
     "QA Code": "Dan_Budget_018",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 14, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 14, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec1KHjVeNQjYpJwh",
@@ -393,7 +892,11 @@
       "rec6lAkGREv8TvMN4"
     ],
     "QA Code": "Dan_Budget_019",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 14, Paragraph 3, 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 14, Paragraph 3, 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec2i1S5O7ZsQv1sc",
@@ -408,7 +911,11 @@
       "rec5zuQYV86Tl6otE"
     ],
     "QA Code": "Dan_Budget_020",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 6_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 6_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec2k9rNXRjPpvFhd",
@@ -424,7 +931,11 @@
       "rec797k3CYC8F5O3f"
     ],
     "QA Code": "Dan_Budget_021",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec3jrs83FZbjnCoO",
@@ -441,7 +952,11 @@
       "rect27FgMNC6spxhc"
     ],
     "QA Code": "Dan_Budget_022",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec3r2UFtQejntCwc",
@@ -457,7 +972,11 @@
       "recybi21BpWHEijDu"
     ],
     "QA Code": "Dan_Budget_023",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec4QlKD4fgrQOe3V",
@@ -474,7 +993,11 @@
       "recYp97CvgQUkDeRu"
     ],
     "QA Code": "Dan_Budget_024",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-19, Paragraph 1-5, 1-3, 1-4, 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-19, Paragraph 1-5, 1-3, 1-4, 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec4qCBhfn0ynbEHN",
@@ -488,7 +1011,11 @@
       "recMu7qTaz3N2KCso"
     ],
     "QA Code": "Dan_Budget_025",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recv1DWIEkBxAILJu",
@@ -507,7 +1034,11 @@
       "reccdgNZiuzQArflV"
     ],
     "QA Code": "Dan_Budget_026",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recxn1NjDkOGBVTXq",
@@ -526,7 +1057,11 @@
       "reccdgNZiuzQArflV"
     ],
     "QA Code": "Dan_Budget_027",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recyQafES0fUJlDlb",
@@ -545,7 +1080,11 @@
       "reccdgNZiuzQArflV"
     ],
     "QA Code": "Dan_Budget_028",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recyFZh17SRJ4rnDQ",
@@ -564,7 +1103,11 @@
       "reccdgNZiuzQArflV"
     ],
     "QA Code": "Dan_Budget_029",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recyJ2swApIggK3PI",
@@ -581,7 +1124,11 @@
       "recTSBaWiz8Jjukdr"
     ],
     "QA Code": "Dan_Budget_030",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 -Policies, Subsection 16, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 -Policies, Subsection 16, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reczcp0crORqDPwre",
@@ -598,7 +1145,11 @@
       "reckoTqYqO2SupOMG"
     ],
     "QA Code": "Dan_Budget_031",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recz6XkUb8gogien4",
@@ -615,7 +1166,11 @@
       "recJa5EWQoYMHDXk1"
     ],
     "QA Code": "Dan_Budget_032",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16, Paragraph 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reczaQvorqbSMKQAv",
@@ -632,7 +1187,11 @@
       "recTSBaWiz8Jjukdr"
     ],
     "QA Code": "Dan_Budget_033",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-17, Paragraph 5, 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-17, Paragraph 5, 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recAf9HR6BLt3xDIz",
@@ -650,7 +1209,11 @@
       "recDbaiqqDl6xBtS6"
     ],
     "QA Code": "Dan_Budget_034",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-18, Paragraph 5, 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-18, Paragraph 5, 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recAsakq50VvmgCA0",
@@ -668,7 +1231,11 @@
       "recTGx0H50NHZXRje"
     ],
     "QA Code": "Dan_Budget_035",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recBLQvnyOqgSY4fL",
@@ -684,7 +1251,11 @@
       "reca5Zgna7r4QI3JP"
     ],
     "QA Code": "Dan_Budget_036",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recBUMYkSorrc7Nfq",
@@ -701,7 +1272,11 @@
       "recaahrH7a6kRGqnX"
     ],
     "QA Code": "Dan_Budget_037",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recBHw8e8qRuBjt99",
@@ -718,7 +1293,11 @@
       "recTGx0H50NHZXRje"
     ],
     "QA Code": "Dan_Budget_038",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recCgyiBBIRn9yElm",
@@ -735,7 +1314,11 @@
       "recTGx0H50NHZXRje"
     ],
     "QA Code": "Dan_Budget_039",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recC9ACxGlJV48u8t",
@@ -752,7 +1335,11 @@
       "recTGx0H50NHZXRje"
     ],
     "QA Code": "Dan_Budget_040",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recCHPmcHNW9AdVbc",
@@ -769,7 +1356,11 @@
       "recTGx0H50NHZXRje"
     ],
     "QA Code": "Dan_Budget_041",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recCIN2h6sbaoNhxa",
@@ -784,7 +1375,11 @@
       "reccdgNZiuzQArflV"
     ],
     "QA Code": "Dan_Budget_042",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recD1fw4brTHlXZJz",
@@ -799,7 +1394,11 @@
       "reccdgNZiuzQArflV"
     ],
     "QA Code": "Dan_Budget_043",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recEhnWMgQ0uC3JzL",
@@ -814,7 +1413,11 @@
       "reccdgNZiuzQArflV"
     ],
     "QA Code": "Dan_Budget_044",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recFZIMz4Wbs0mJga",
@@ -829,7 +1432,11 @@
       "recUvr48FfuQXdJa3"
     ],
     "QA Code": "Dan_Budget_045",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recFzDNEQcFyIQDVv",
@@ -851,7 +1458,11 @@
       "recnRqKoBfg0sodUS"
     ],
     "QA Code": "Dan_Budget_046",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 1, Figure 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 1, Figure 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recFByptpi5sFwfNc",
@@ -871,7 +1482,11 @@
       "recwzQcFDQjFVInCO"
     ],
     "QA Code": "Dan_Budget_047",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5-6, Paragraph 2-5, 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5-6, Paragraph 2-5, 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recFK6JPCXWcwgFa5",
@@ -887,7 +1502,11 @@
       "recqHZ3UmD7SG9v5v"
     ],
     "QA Code": "Dan_Budget_048",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recIQqW4x3mD93DbA",
@@ -903,7 +1522,11 @@
       "recEmq1qtcdXQWe3u"
     ],
     "QA Code": "Dan_Budget_049",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recKhEzYfGNFaBBf1",
@@ -920,7 +1543,11 @@
       "recE95h3mqnQmyHTc"
     ],
     "QA Code": "Dan_Budget_050",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recKUVVLNsIMxKdXh",
@@ -936,7 +1563,11 @@
       "recIMTVJuBGTTlkrk"
     ],
     "QA Code": "Dan_Budget_051",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recK8E0Fc8WP0hqxk",
@@ -957,7 +1588,11 @@
       "recCRAEN2KiJtgHeW"
     ],
     "QA Code": "Dan_Budget_052",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recKIRcYd5YAsUXdH",
@@ -973,7 +1608,11 @@
       "recbJf8dAMpIEg3vL"
     ],
     "QA Code": "Dan_Budget_053",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recL9BeTSdUyK13IF",
@@ -989,7 +1628,11 @@
       "recBxiII0dQVKFkrW"
     ],
     "QA Code": "Dan_Budget_054",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recLq2IkHRBAxnKLr",
@@ -1004,7 +1647,11 @@
       "recMu7qTaz3N2KCso"
     ],
     "QA Code": "Dan_Budget_055",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 24, Paragraph 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 24, Paragraph 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recLu4wsISSej0cnh",
@@ -1019,7 +1666,11 @@
       "recUwVPxMmsJF1Ew2"
     ],
     "QA Code": "Dan_Budget_056",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 3, Paragraph 4, 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 3, Paragraph 4, 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recMlb9api3t7g0hK",
@@ -1036,7 +1687,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_057",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 10, Paragraph 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 10, Paragraph 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recNcWdzLNb95xpXQ",
@@ -1054,7 +1709,11 @@
       "recqYViQPyUI9t0SW"
     ],
     "QA Code": "Dan_Budget_058",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 6, Paragraph 5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 6, Paragraph 5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recPfdIeMn4aS6jmU",
@@ -1071,7 +1730,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_059",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recPiUDXZgx741hfR",
@@ -1088,7 +1751,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_060",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7-8, Paragraph 3, 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7-8, Paragraph 3, 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recP6f8ViefZ8ZbTQ",
@@ -1104,7 +1771,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_061",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recP61UvotZYLEdTI",
@@ -1120,7 +1791,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_062",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recPqpOe3yEMlRnab",
@@ -1136,7 +1811,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_063",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 11-12, Paragraph 4, 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 11-12, Paragraph 4, 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recPGSpD93NzAfMOI",
@@ -1152,7 +1831,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_064",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 14, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 14, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recQZlGPXVfYJSb4y",
@@ -1166,7 +1849,11 @@
       "recj3NWnqBpmQn2Yx"
     ],
     "QA Code": "Dan_Budget_065",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 21, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 21, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recQ5NxDypE15qvUN",
@@ -1180,7 +1867,11 @@
       "recj3NWnqBpmQn2Yx"
     ],
     "QA Code": "Dan_Budget_066",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 22, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 22, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recRJLx08YZQTGE2K",
@@ -1195,7 +1886,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_067",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 24, Paragraph 1-5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 24, Paragraph 1-5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recT18BbTvdrkQe7g",
@@ -1211,7 +1906,11 @@
       "recsp7uZqHjxA2l3b"
     ],
     "QA Code": "Dan_Budget_068",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 25-26, Paragraph 1-3, 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 25-26, Paragraph 1-3, 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recTyeq4hYDEEYyk2",
@@ -1226,7 +1925,11 @@
       "recf9MDE9d0hocJZD"
     ],
     "QA Code": "Dan_Budget_069",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 29, Paragraph 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 29, Paragraph 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recUU3AZHM33FZ5tc",
@@ -1246,7 +1949,11 @@
       "recs3820WK1JHT9tI"
     ],
     "QA Code": "Dan_Budget_070",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 33, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 33, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec5af8c2Wj4lJqig",
@@ -1266,7 +1973,11 @@
       "recs3820WK1JHT9tI"
     ],
     "QA Code": "Dan_Budget_071",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 34, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 34, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec5xBn66Tlp9QO7G",
@@ -1286,7 +1997,11 @@
       "recs3820WK1JHT9tI"
     ],
     "QA Code": "Dan_Budget_072",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 33, Paragraph 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 33, Paragraph 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec5BGVZSb66F498y",
@@ -1307,7 +2022,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_073",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 35, Paragraph 1-5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 35, Paragraph 1-5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec5DPPBTSeHQAdmx",
@@ -1325,7 +2044,11 @@
       "recTiRvU09wXMgM6J"
     ],
     "QA Code": "Dan_Budget_074",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 36, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 36, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec6h0q8bhjVwxyIr",
@@ -1343,7 +2066,11 @@
       "recTiRvU09wXMgM6J"
     ],
     "QA Code": "Dan_Budget_075",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 36, Paragraph 4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 36, Paragraph 4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec77R1MCxJABvLcu",
@@ -1361,7 +2088,11 @@
       "recTiRvU09wXMgM6J"
     ],
     "QA Code": "Dan_Budget_076",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 38, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 38, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec87hldcKTH6wYmQ",
@@ -1380,7 +2111,11 @@
       "recbqlsriU6IbD8JP"
     ],
     "QA Code": "Dan_Budget_077",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 39, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 39, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec8oKLFePOBSB59t",
@@ -1400,7 +2135,11 @@
       "recbqlsriU6IbD8JP"
     ],
     "QA Code": "Dan_Budget_078",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 39, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 39, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec9Q88API3bDPi1Q",
@@ -1421,7 +2160,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_079",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47, Paragraph 4-5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47, Paragraph 4-5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recafrDEuMQWSfEaM",
@@ -1436,7 +2179,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_080",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47-48, 50 , Paragraph 5, 3, 1-4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47-48, 50 , Paragraph 5, 3, 1-4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recaYEVoejGZZJ9fm",
@@ -1455,7 +2202,11 @@
       "recKnhYYUkb7Cz8mj"
     ],
     "QA Code": "Dan_Budget_081",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recbkBTVrQKs8M9rR",
@@ -1471,7 +2222,11 @@
       "reckHd94L8SRUXqLy"
     ],
     "QA Code": "Dan_Budget_082",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recbWFW4lpvdE1yx6",
@@ -1492,7 +2247,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_083",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 52, Paragraph 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 52, Paragraph 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recc3K3qmNwCzvfRR",
@@ -1507,7 +2266,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_084",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 54, Paragraph 1-5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 54, Paragraph 1-5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recdzq4LREFunS7kV",
@@ -1520,7 +2283,11 @@
       "recWTS365ZaJAii1V"
     ],
     "QA Code": "Dan_Budget_085",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 55, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 55, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recdA3l0Oi3KZVT3s",
@@ -1535,7 +2302,11 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Dan_Budget_086",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 56, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 56, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "receQgb62kfWFwWhX",
@@ -1550,7 +2321,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_087",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 59-60, Paragraph 1-5, 1-4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 59-60, Paragraph 1-5, 1-4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reces1VvdSwguyPok",
@@ -1568,7 +2343,11 @@
       "rechuK1lfzzFzWSwU"
     ],
     "QA Code": "Dan_Budget_088",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recgYNTUoE1hKUwxt",
@@ -1583,7 +2362,11 @@
       "recrTEUGfP63fjd6V"
     ],
     "QA Code": "Dan_Budget_089",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 62, Paragraph 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 62, Paragraph 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recgIGMPLppYbYBr8",
@@ -1600,7 +2383,11 @@
       "recZ8wrSVc6ylH9Nv"
     ],
     "QA Code": "Dan_Budget_090",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 66, Paragraph 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 66, Paragraph 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rechbis79KYynrH2a",
@@ -1617,7 +2404,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_091",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 67, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 67, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rechbyjfajgjiGfHf",
@@ -1632,7 +2423,11 @@
       "recAYvgbBkz8u57cE"
     ],
     "QA Code": "Dan_Budget_092",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 65, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 65, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recicLIvAoH2lvmUc",
@@ -1648,7 +2443,11 @@
       "recv9k4TDLtNQ4BHK"
     ],
     "QA Code": "Dan_Budget_093",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 68, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 68, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reciMgq1aUybCf5RV",
@@ -1664,7 +2463,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_094",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 69, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 69, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reciNNzk3pAfnV2Ld",
@@ -1679,7 +2482,11 @@
       "recX9nNDKs0rtBi3g"
     ],
     "QA Code": "Dan_Budget_095",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 70, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 70, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recinVYHseneJ0OgR",
@@ -1695,7 +2502,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_096",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 71, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 71, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reckQoxc8yyd94gTR",
@@ -1711,7 +2522,11 @@
       "rec7ES4m8MO22n4gf"
     ],
     "QA Code": "Dan_Budget_097",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 72, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 72, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reckRxIZktwqkmYF8",
@@ -1726,7 +2541,11 @@
       "recZ8wrSVc6ylH9Nv"
     ],
     "QA Code": "Dan_Budget_098",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 73, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 73, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recl9SY4gEudUUUN3",
@@ -1741,7 +2560,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_099",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 74, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 74, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reclKGMmQcw3nB68G",
@@ -1757,7 +2580,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_100",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 75, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 75, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recmIKJscZE6RGvN1",
@@ -1773,7 +2600,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_101",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 76, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 76, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recnD2wLwrPcQYgIV",
@@ -1788,7 +2619,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_102",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 78, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 78, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recoRyH2BryE7rqWn",
@@ -1807,7 +2642,11 @@
       "recs3820WK1JHT9tI"
     ],
     "QA Code": "Dan_Budget_103",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81, Paragraph 1-5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81, Paragraph 1-5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recoXr2lbsDXGHK1t",
@@ -1827,7 +2666,11 @@
       "rechTLqF7JgRmiqKw"
     ],
     "QA Code": "Dan_Budget_104",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81-82, Paragraph 6, 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81-82, Paragraph 6, 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reco1m0uDfemvy5Kv",
@@ -1846,7 +2689,11 @@
       "rec5hduOrQRpCn7TS"
     ],
     "QA Code": "Dan_Budget_105",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "reco8BFEctRkrbT2N",
@@ -1865,7 +2712,11 @@
       "rec5hduOrQRpCn7TS"
     ],
     "QA Code": "Dan_Budget_106",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recooO1gi4GCnD60Z",
@@ -1884,7 +2735,11 @@
       "rec5hduOrQRpCn7TS"
     ],
     "QA Code": "Dan_Budget_107",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 86, Paragraph 1-8_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 86, Paragraph 1-8_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recpfwOGnJ3QhDgKq",
@@ -1899,7 +2754,11 @@
       "recwqmsmyG37gRPXo"
     ],
     "QA Code": "Dan_Budget_108",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 89-90, Paragraph 1-3, 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 89-90, Paragraph 1-3, 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recpClPM617b5Xj98",
@@ -1914,7 +2773,11 @@
       "rechspLKvrZieUeO6"
     ],
     "QA Code": "Dan_Budget_109",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 91, Paragraph 1-4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 91, Paragraph 1-4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recqfUGyxI75mZltx",
@@ -1928,7 +2791,11 @@
       "recGkXnNzl0pw1ued"
     ],
     "QA Code": "Dan_Budget_110",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 92, Paragraph 1-4_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 92, Paragraph 1-4_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recqT1gebcvfB0nU4",
@@ -1942,7 +2809,11 @@
       "recGkXnNzl0pw1ued"
     ],
     "QA Code": "Dan_Budget_111",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 93, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 93, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recq4Srjy5d4khhU3",
@@ -1957,7 +2828,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_112",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 94_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 94_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recquggI48QHnc6oJ",
@@ -1973,7 +2848,11 @@
       "rec1kIEwUix0a4vuI"
     ],
     "QA Code": "Dan_Budget_113",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 95, Paragraph 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 95, Paragraph 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recrepRcq85BCtYfr",
@@ -1987,7 +2866,11 @@
       "recSbuqxDsTNwX9nh"
     ],
     "QA Code": "Dan_Budget_114",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 96, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 96, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recrLuxMWWVZleACV",
@@ -2002,7 +2885,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_115",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 97, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 97, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recs3CiyjdTjhvcrG",
@@ -2018,7 +2905,11 @@
       "rec7DEXH50BvqGg1U"
     ],
     "QA Code": "Dan_Budget_116",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 98, Paragraph 1-2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 98, Paragraph 1-2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recs4eqMmxCdtotTc",
@@ -2034,7 +2925,11 @@
       "rec7DEXH50BvqGg1U"
     ],
     "QA Code": "Dan_Budget_117",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 99-100, Paragraph 1-3, 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 99-100, Paragraph 1-3, 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recsyWdj9465DDtbs",
@@ -2050,7 +2945,11 @@
       "recoDDlneXkTqmNsT"
     ],
     "QA Code": "Dan_Budget_118",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 101, Paragraph 1-3_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 101, Paragraph 1-3_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rectPnVpaxWPqeYnU",
@@ -2068,7 +2967,11 @@
       "recgTWazARLYOpVkS"
     ],
     "QA Code": "Dan_Budget_119",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 2_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rectTLEgLXnQVwg2v",
@@ -2084,7 +2987,11 @@
       "rec49m6RsxVRmpzkl"
     ],
     "QA Code": "Dan_Budget_120",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rectxTvEW3HoFWMOX",
@@ -2101,7 +3008,11 @@
       "recswu6dyA1AGVmzf"
     ],
     "QA Code": "Dan_Budget_121",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 105, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 105, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "rectJkLdNy5PHcLiE",
@@ -2118,7 +3029,11 @@
       "recswu6dyA1AGVmzf"
     ],
     "QA Code": "Dan_Budget_122",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 104, Paragraph 1_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 104, Paragraph 1_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recujHcCWMLrJ4Oyh",
@@ -2133,7 +3048,11 @@
       "rechspLKvrZieUeO6"
     ],
     "QA Code": "Dan_Budget_123",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 108, Paragraph 1-5_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 108, Paragraph 1-5_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recuzNAXLpwGmnhle",
@@ -2145,7 +3064,99 @@
       "recFo91PsG77aj1jR"
     ],
     "QA Code": "Dan_Budget_124",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 111-140_\n"
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 111-140_\n",
+    "Author": "Dan",
+    "Tags": [
+      "revenue & spending"
+    ]
+  },
+  {
+    "id": "rec638d4hB1GBsyyw",
+    "Question": "How do I dispose of large furniture or appliances in Tulsa? ",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "Tulsa residents can call 918-596-9777 to arrange for pickup of their large, bulky waste, including furniture and appliances. The cost for pickup is $10 per eight cubic yards.\n",
+    "Concepts": [
+      "recmM3m7G1ByTAI1T",
+      "recSaB0ugjsBczpUQ",
+      "rechGKl53YLEWSFKy",
+      "recws8bLQ6cyFvH6B",
+      "reck1kwu0Ax8s2U3s",
+      "recBTeDboTe5vDD9l",
+      "recdoCgCxV6RbWD0L"
+    ],
+    "QA Code": "Dan_Planning_01",
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n",
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
+  },
+  {
+    "id": "recJr9JJWxjSVkEIC",
+    "Question": "How much will I pay for water utility service in Tulsa in 2023?",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "**$4.31 per 1,000 gallons** of water used.\n",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recNlU5Iz5iBopJ9m",
+      "recWdnRM6FA93ACEx",
+      "reccm8jum85mxl4b2",
+      "recXrn5bEAziLS5hi",
+      "recGGzf4fV3y01tu7",
+      "recQ4YQuzC7U20psh",
+      "recqjX1JeotlsirPA",
+      "rec8kOYbGZaSstxXv"
+    ],
+    "QA Code": "Samuel_Budget_X001",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "revenue & spending"
+    ]
+  },
+  {
+    "id": "recrQofXv9pfxknWX",
+    "Question": "How much do I pay for sewage treatment in Tulsa in 2023?",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "**$10.02 per 1,000 gallons of water** used per single-family home for FY23. In FY22, the cost of sewage treatment for the same water was $9.36.\n",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recNlU5Iz5iBopJ9m",
+      "recC80WE0BC0GjA20",
+      "recGGzf4fV3y01tu7",
+      "recqjX1JeotlsirPA",
+      "recXrn5bEAziLS5hi",
+      "recQ4YQuzC7U20psh",
+      "rec8kOYbGZaSstxXv"
+    ],
+    "QA Code": "Samuel_Budget_X002",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "revenue & spending"
+    ]
+  },
+  {
+    "id": "recijrAotbr9UfEfV",
+    "Question": "What is the cost for emergency medical services (EMSA) in Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "Households within Tulsa's city limits are currently billed **$5.45 per month** for EMSA. Alternatively, households may opt out and pay for EMS services out of pocket.\n",
+    "Concepts": [
+      "recdoCgCxV6RbWD0L",
+      "recNlU5Iz5iBopJ9m",
+      "recoJSpwBlG6Tx4G3",
+      "recP4EVMzwQakaDpC"
+    ],
+    "QA Code": "Samuel_Budget_X003",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "revenue & spending"
+    ]
   },
   {
     "id": "recqD75EpYH8AkM1s",
@@ -2158,7 +3169,11 @@
       "recyUhPcjsDzsScmC"
     ],
     "QA Code": "Samuel_Code_001",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection C_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection C_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "receA6nhnlsmXDye6",
@@ -2172,7 +3187,12 @@
       "rec2bz2lvTwnSaZRh"
     ],
     "QA Code": "Samuel_Code_002",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec4pX9kHFNmS1NpQ",
@@ -2187,7 +3207,12 @@
       "rec2bz2lvTwnSaZRh"
     ],
     "QA Code": "Samuel_Code_003",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recZpTy0JHwRodHRh",
@@ -2201,7 +3226,12 @@
       "rech2pNnuhsCaWBdI"
     ],
     "QA Code": "Samuel_Code_004",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection E_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection E_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recpPPdEz7MZiVoOh",
@@ -2216,7 +3246,11 @@
       "recEs1TA3rbioFjib"
     ],
     "QA Code": "Samuel_Code_005",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection E_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection E_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recq5W9EHslVikUs4",
@@ -2229,7 +3263,8 @@
       "reck7kIoxu2H5u0Iy"
     ],
     "QA Code": "Samuel_Code_006",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection F_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection F_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec15pfJPynMl1X9W",
@@ -2243,7 +3278,8 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Samuel_Code_007",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection G_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection G_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recGdKM2iFzCiNkBa",
@@ -2256,7 +3292,8 @@
       "rec6jAl0sv1feJZPs"
     ],
     "QA Code": "Samuel_Code_008",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection I_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection I_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recTxTS6OeaARRqxU",
@@ -2269,7 +3306,8 @@
       "rec6jAl0sv1feJZPs"
     ],
     "QA Code": "Samuel_Code_009",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection J_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection J_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recspldZP1nlzy52h",
@@ -2283,7 +3321,8 @@
       "recr78qUqkhp5Zz4o"
     ],
     "QA Code": "Samuel_Code_010",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recdtjtiCncpMuELo",
@@ -2302,7 +3341,8 @@
       "recBEtjHtOWJydWze"
     ],
     "QA Code": "Samuel_Code_011",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recJyjW3gvNTDzkyN",
@@ -2316,7 +3356,8 @@
       "recBYNVooM0ZJAzf7"
     ],
     "QA Code": "Samuel_Code_012",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recnW9By7HRQdAN1n",
@@ -2330,7 +3371,8 @@
       "recTxgKBjwHwkDitY"
     ],
     "QA Code": "Samuel_Code_013",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recd8ZE3SOb02ZwLh",
@@ -2342,7 +3384,8 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Samuel_Code_014",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection M_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection M_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec3I363fvWW148T2",
@@ -2356,7 +3399,8 @@
       "recSJYjYkV67eZeIy"
     ],
     "QA Code": "Samuel_Code_015",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection N_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection N_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recIhxRTYHzhHOkCj",
@@ -2369,7 +3413,8 @@
       "rec6jAl0sv1feJZPs"
     ],
     "QA Code": "Samuel_Code_016",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection O_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection O_\n",
+    "Author": "Samuel"
   },
   {
     "id": "reccZDwuvvRKOWzLW",
@@ -2383,7 +3428,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_017",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 1 - Creation and Function_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 1 - Creation and Function_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec99Jx7gE8SQRKU9",
@@ -2398,7 +3444,8 @@
       "recAi1b9s2ensb8nF"
     ],
     "QA Code": "Samuel_Code_018",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec19A4qL1Ddrc7a6",
@@ -2414,7 +3461,8 @@
       "recAi1b9s2ensb8nF"
     ],
     "QA Code": "Samuel_Code_019",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec9TbZ4sOfNr41Gt",
@@ -2428,7 +3476,8 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Samuel_Code_020",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recBMe6cXMvNTvemj",
@@ -2442,7 +3491,8 @@
       "recTduFwT9ATeQB7t"
     ],
     "QA Code": "Samuel_Code_021",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recV1NGVvYjXsiBKM",
@@ -2457,7 +3507,8 @@
       "recZkq5S5jOSatcsk"
     ],
     "QA Code": "Samuel_Code_022",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recf0ryGoDG3jEzsp",
@@ -2472,7 +3523,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_023",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recZ4n6AUIJ0Ko0pm",
@@ -2487,7 +3539,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_024",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rectU1pwt8qsoVWOv",
@@ -2502,7 +3555,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_025",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recPRhnZHJKzKejn1",
@@ -2519,7 +3573,8 @@
       "recTduFwT9ATeQB7t"
     ],
     "QA Code": "Samuel_Code_026",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recZdIUA7H1Osj5N2",
@@ -2533,7 +3588,8 @@
       "recTduFwT9ATeQB7t"
     ],
     "QA Code": "Samuel_Code_027",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec2JgSrbjUMIUk5z",
@@ -2547,7 +3603,8 @@
       "recdiRERCYuZGHSXd"
     ],
     "QA Code": "Samuel_Code_028",
-    "Source": "\n"
+    "Source": "\n",
+    "Author": "Samuel"
   },
   {
     "id": "recNCBZjH7n7v19CU",
@@ -2563,7 +3620,8 @@
       "recjQZSeuGijmUfoF"
     ],
     "QA Code": "Samuel_Code_029",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.3 - Open Meetings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.3 - Open Meetings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recVTBqVF05rHDqU4",
@@ -2575,7 +3633,8 @@
       "recjQZSeuGijmUfoF"
     ],
     "QA Code": "Samuel_Code_030",
-    "Source": "\n"
+    "Source": "\n",
+    "Author": "Samuel"
   },
   {
     "id": "recN0icK4snpPTgPb",
@@ -2590,7 +3649,8 @@
       "recFXycyXWuWo47Ix"
     ],
     "QA Code": "Samuel_Code_031",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec9qxJGbqTxskUt5",
@@ -2604,7 +3664,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_032",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rechQA8rvXHXISFh2",
@@ -2621,7 +3682,8 @@
       "recVig4UtVDrLlTTL"
     ],
     "QA Code": "Samuel_Code_033",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec8dJ2DJyxY9UTGK",
@@ -2637,7 +3699,8 @@
       "recTduFwT9ATeQB7t"
     ],
     "QA Code": "Samuel_Code_034",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "receT1bJaQ85jTJkX",
@@ -2654,7 +3717,8 @@
       "recVig4UtVDrLlTTL"
     ],
     "QA Code": "Samuel_Code_035",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recT9LzcnQau9F8yn",
@@ -2670,7 +3734,8 @@
       "recTduFwT9ATeQB7t"
     ],
     "QA Code": "Samuel_Code_036",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recgsD7FTLAPRdtda",
@@ -2686,7 +3751,8 @@
       "rec9rnEQuFVJq4IgH"
     ],
     "QA Code": "Samuel_Code_037",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "reccKNrXkFZuRcUOg",
@@ -2702,7 +3768,8 @@
       "rec9rnEQuFVJq4IgH"
     ],
     "QA Code": "Samuel_Code_038",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recIFX9E7eyXzivSm",
@@ -2718,7 +3785,8 @@
       "recZtZB1zc9lOY8fl"
     ],
     "QA Code": "Samuel_Code_039",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 5 - Chairman_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 5 - Chairman_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recbxyi0mWJZgy5ug",
@@ -2733,7 +3801,8 @@
       "recb8y39G2n1fUMpf"
     ],
     "QA Code": "Samuel_Code_040",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 5 - Chairman_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 5 - Chairman_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec7hWblgWTNaz3fA",
@@ -2748,7 +3817,8 @@
       "receacjDdXCI7IGXt"
     ],
     "QA Code": "Samuel_Code_041",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recHBGL86X00WgBGI",
@@ -2764,7 +3834,8 @@
       "recjzq9fpGN98fJ4l"
     ],
     "QA Code": "Samuel_Code_042",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recTW00UExSnnNQ0X",
@@ -2779,7 +3850,8 @@
       "recTduFwT9ATeQB7t"
     ],
     "QA Code": "Samuel_Code_043",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recqCXkT9BEA4Ujbc",
@@ -2794,7 +3866,8 @@
       "rech8ZnhQ6xMFXskv"
     ],
     "QA Code": "Samuel_Code_044",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recI9hhWolXMWZInc",
@@ -2815,7 +3888,8 @@
       "recov7WSAYmy4L4Qr"
     ],
     "QA Code": "Samuel_Code_045",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.3 - Voting on zoning changes involving protests_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.3 - Voting on zoning changes involving protests_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recJhuEB9AzgYUC2c",
@@ -2833,7 +3907,8 @@
       "recuuCNjMbaMhXTVC"
     ],
     "QA Code": "Samuel_Code_046",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recEzaBNMAdt0bQ2c",
@@ -2851,7 +3926,8 @@
       "recuuCNjMbaMhXTVC"
     ],
     "QA Code": "Samuel_Code_047",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recEbVluDWBTk6MvJ",
@@ -2871,7 +3947,8 @@
       "recov7WSAYmy4L4Qr"
     ],
     "QA Code": "Samuel_Code_048",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recsc2NopBFYEIkTO",
@@ -2889,7 +3966,8 @@
       "recuuCNjMbaMhXTVC"
     ],
     "QA Code": "Samuel_Code_049",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recrjcT3yucDREUEy",
@@ -2906,7 +3984,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_050",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.3 - Additional procedures_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.3 - Additional procedures_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec3DfrbS7vyX9HcT",
@@ -2922,7 +4001,8 @@
       "recdbpewxCXJ0tOiA"
     ],
     "QA Code": "Samuel_Code_051",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.4 - Economic stabilization reserve created_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.4 - Economic stabilization reserve created_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recfNzcg0IAtftZe9",
@@ -2940,7 +4020,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_052",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recv6SfORNkvvGZFh",
@@ -2958,7 +4039,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_053",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recKI2ljxk30sljQH",
@@ -2976,7 +4058,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_054",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recidhOdgYBwZGr4D",
@@ -2994,7 +4077,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_055",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recspUm1ijTd6LFwG",
@@ -3011,7 +4095,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_056",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.7 - Use of monies allocated for general purposes_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.7 - Use of monies allocated for general purposes_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recTjmf7h0JsMBHep",
@@ -3026,7 +4111,8 @@
       "recdbpewxCXJ0tOiA"
     ],
     "QA Code": "Samuel_Code_057",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.8 - Withdrawals from the economic stabilization reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.8 - Withdrawals from the economic stabilization reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "reclX64XyLqLyBccN",
@@ -3043,7 +4129,8 @@
       "recGP41AikxZaToKj"
     ],
     "QA Code": "Samuel_Code_058",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec2pPMYrzFv3tN4a",
@@ -3062,7 +4149,8 @@
       "recpRzWgONB4fYLgm"
     ],
     "QA Code": "Samuel_Code_059",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "reckg2u8lYxRiR9Id",
@@ -3081,7 +4169,8 @@
       "recpRzWgONB4fYLgm"
     ],
     "QA Code": "Samuel_Code_060",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec6vh6TrFjUmFeM7",
@@ -3099,7 +4188,8 @@
       "recckkQsJ4fr64GLe"
     ],
     "QA Code": "Samuel_Code_061",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recdCamvwKlJcatpI",
@@ -3117,7 +4207,8 @@
       "recckkQsJ4fr64GLe"
     ],
     "QA Code": "Samuel_Code_062",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recuWHA3iHE79fvAO",
@@ -3133,7 +4224,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_063",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec6SBDNK5JI26Dln",
@@ -3149,7 +4241,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_064",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "reckKii2LW5m97tDw",
@@ -3165,7 +4258,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_065",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recpHYt2lOwEEF0BV",
@@ -3182,7 +4276,8 @@
       "rec9waV3GVmUG4v9L"
     ],
     "QA Code": "Samuel_Code_066",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recLV3LnvqdegOJoy",
@@ -3198,7 +4293,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_067",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recOXIYuh7Rtab6da",
@@ -3214,7 +4310,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_068",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec6va1lh2LBGFB49",
@@ -3230,7 +4327,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_069",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recpthUlJ6BuTMwer",
@@ -3246,7 +4344,8 @@
       "recbMhrS5udASHOL1"
     ],
     "QA Code": "Samuel_Code_070",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recOwoV1vjiYKeivd",
@@ -3263,7 +4362,8 @@
       "rec2sygWSOsXvZgta"
     ],
     "QA Code": "Samuel_Code_071",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec4Edp6L9rClmdap",
@@ -3280,7 +4380,8 @@
       "rec2sygWSOsXvZgta"
     ],
     "QA Code": "Samuel_Code_072",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recfbiYlKz7UHnw1C",
@@ -3297,7 +4398,8 @@
       "rec2sygWSOsXvZgta"
     ],
     "QA Code": "Samuel_Code_073",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recN1uqVTS4pZqnT7",
@@ -3314,7 +4416,8 @@
       "rec2sygWSOsXvZgta"
     ],
     "QA Code": "Samuel_Code_074",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recJNNl1QCAtbnA5q",
@@ -3332,7 +4435,8 @@
       "rec6lrWmFyJj2MfoK"
     ],
     "QA Code": "Samuel_Code_075",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "reczAl7vOqNBmJo0C",
@@ -3349,7 +4453,8 @@
       "recArDxIzaR55Bg9n"
     ],
     "QA Code": "Samuel_Code_076",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 10 - Approval or veto of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 10 - Approval or veto of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recTn3AyUsJ1ibicW",
@@ -3366,7 +4471,8 @@
       "recyFsZOyQSoHehhX"
     ],
     "QA Code": "Samuel_Code_077",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "reckA9BJY7gm6wJSw",
@@ -3384,7 +4490,8 @@
       "rec1kIEwUix0a4vuI"
     ],
     "QA Code": "Samuel_Code_078",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recAm60N924MH9Z5x",
@@ -3404,7 +4511,8 @@
       "recjo2zoepOIemiRP"
     ],
     "QA Code": "Samuel_Code_079",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recqnOIKAmNbYEoy2",
@@ -3424,7 +4532,8 @@
       "recjo2zoepOIemiRP"
     ],
     "QA Code": "Samuel_Code_080",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recSaLFbktsqMQLz7",
@@ -3443,7 +4552,8 @@
       "recjo2zoepOIemiRP"
     ],
     "QA Code": "Samuel_Code_081",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec3Gdqrld0Bqkpe7",
@@ -3461,7 +4571,8 @@
       "recoCmCo16FXWqhx8"
     ],
     "QA Code": "Samuel_Code_082",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec1KvYGWS0yxpQ7J",
@@ -3479,7 +4590,8 @@
       "recxYIRPvYEut8lEN"
     ],
     "QA Code": "Samuel_Code_083",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recQTitE6nlxInoQS",
@@ -3496,7 +4608,8 @@
       "rec9rnEQuFVJq4IgH"
     ],
     "QA Code": "Samuel_Code_084",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recx4gdgYZkazERi6",
@@ -3513,7 +4626,8 @@
       "recd19wOCMV6gY71M"
     ],
     "QA Code": "Samuel_Code_085",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 14 - Charter Review._\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 14 - Charter Review._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recOTqXp5EXhSgHUt",
@@ -3530,7 +4644,8 @@
       "rec3gAkTXHxNLnke9"
     ],
     "QA Code": "Samuel_Code_086",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 15 - Initiative and Referendum_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 15 - Initiative and Referendum_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec6agCZvMp8gPJvx",
@@ -3547,7 +4662,8 @@
       "recRACBybqeI1fCXf"
     ],
     "QA Code": "Samuel_Code_087",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec8GbxgCBR62szM2",
@@ -3564,7 +4680,8 @@
       "recRACBybqeI1fCXf"
     ],
     "QA Code": "Samuel_Code_088",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recLHIqht7i85m0SZ",
@@ -3583,7 +4700,8 @@
       "recaahrH7a6kRGqnX"
     ],
     "QA Code": "Samuel_Code_089",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec7qQNL5eoBEBEQE",
@@ -3601,7 +4719,8 @@
       "rec5ic94W9hDJJkfc"
     ],
     "QA Code": "Samuel_Code_090",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recdJrN1x0JpYYo0n",
@@ -3621,7 +4740,8 @@
       "rechiNVNlkL48X8Xv"
     ],
     "QA Code": "Samuel_Code_091",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recOQp0s4XOFs0KrX",
@@ -3641,7 +4761,8 @@
       "rechiNVNlkL48X8Xv"
     ],
     "QA Code": "Samuel_Code_092",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "reckQWECybWld6rnp",
@@ -3661,7 +4782,8 @@
       "recoLoeqCJnpr7eY9"
     ],
     "QA Code": "Samuel_Code_093",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recsd9BbINgd62YMY",
@@ -3680,7 +4802,8 @@
       "rechiNVNlkL48X8Xv"
     ],
     "QA Code": "Samuel_Code_094",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recUYXctOs38ObqhU",
@@ -3698,7 +4821,8 @@
       "rec5ic94W9hDJJkfc"
     ],
     "QA Code": "Samuel_Code_095",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recYZ5mRHw66YdYo2",
@@ -3718,7 +4842,8 @@
       "rec6lrWmFyJj2MfoK"
     ],
     "QA Code": "Samuel_Code_096",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recP08q8Yh5pUYflk",
@@ -3736,7 +4861,8 @@
       "rec6lrWmFyJj2MfoK"
     ],
     "QA Code": "Samuel_Code_097",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 18 - Delegation of authority to make rules_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 18 - Delegation of authority to make rules_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recERNwzNdC56lbWJ",
@@ -3757,7 +4883,8 @@
       "recgJkC22XaeUveje"
     ],
     "QA Code": "Samuel_Code_098",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recZLx3m4Jn3HCenn",
@@ -3776,7 +4903,8 @@
       "recgJkC22XaeUveje"
     ],
     "QA Code": "Samuel_Code_099",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recVwp6BMHzfQOJst",
@@ -3794,7 +4922,8 @@
       "reccQujlrl8XzpgUR"
     ],
     "QA Code": "Samuel_Code_100",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recWiAu4k37SJZBq0",
@@ -3808,7 +4937,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_101",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor_\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec4UGgHpqFAD15ob",
@@ -3822,7 +4952,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_102",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recyQKOg09pTdTh9h",
@@ -3836,7 +4967,8 @@
       "recygMhYSJxEH8g89"
     ],
     "QA Code": "Samuel_Code_103",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Title 4 - Mayor, Auditor and Council. Article 1, Chapter 1, Section 100 - Salary of Mayor. From Ordinance No. 20190_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Title 4 - Mayor, Auditor and Council. Article 1, Chapter 1, Section 100 - Salary of Mayor. From Ordinance No. 20190_\n",
+    "Author": "Samuel"
   },
   {
     "id": "reczlfibbjwQ3S25D",
@@ -3851,7 +4983,8 @@
       "recX9nNDKs0rtBi3g"
     ],
     "QA Code": "Samuel_Code_104",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.2. - Salary_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.2. - Salary_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recDkMxHIZDdvB4DP",
@@ -3867,7 +5000,8 @@
       "recqckbuULaQhjRhV"
     ],
     "QA Code": "Samuel_Code_105",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.3. - Absense, temporary disability, or vacancy_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.3. - Absense, temporary disability, or vacancy_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recMXVVbs6EvfZ3Np",
@@ -3881,7 +5015,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_106",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recP6llSECTYD7S3S",
@@ -3895,7 +5030,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_107",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recSO8Zd9nXKsoz6s",
@@ -3909,7 +5045,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_108",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection A_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection A_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recaYdpy5HJv6k7Fc",
@@ -3929,7 +5066,8 @@
       "reckq8plKjAmo1oOR"
     ],
     "QA Code": "Samuel_Code_109",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recbENlHSBN2mY7PH",
@@ -3950,7 +5088,8 @@
       "recGZ2uhaRVhXOiMS"
     ],
     "QA Code": "Samuel_Code_110",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recdREx7bAETStZ4b",
@@ -3965,7 +5104,8 @@
       "rec9waV3GVmUG4v9L"
     ],
     "QA Code": "Samuel_Code_111",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recdU21R9YfvdK5T4",
@@ -3980,7 +5120,8 @@
       "rec9waV3GVmUG4v9L"
     ],
     "QA Code": "Samuel_Code_112",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recfUy3p3YrMprK0X",
@@ -3996,7 +5137,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_113",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n",
+    "Author": "Samuel"
   },
   {
     "id": "reciTexjhvBkkbOf4",
@@ -4012,7 +5154,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_114",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection D_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection D_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recmIOjo0jIXMLMsS",
@@ -4028,7 +5171,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_115",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection E_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection E_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recmJrdJ56hD1070Z",
@@ -4043,7 +5187,8 @@
       "recxdOAhjRYEtGBIR"
     ],
     "QA Code": "Samuel_Code_116",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection F_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection F_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recplWQBzupVuhiw1",
@@ -4062,7 +5207,8 @@
       "recYR0hYFlNEVOnX7"
     ],
     "QA Code": "Samuel_Code_117",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G_\n",
+    "Author": "Samuel"
   },
   {
     "id": "recsF6MDgTEEKZC3x",
@@ -4079,7 +5225,8 @@
       "rectqNSvUt4brtYS2"
     ],
     "QA Code": "Samuel_Code_118",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G_\n"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G_\n",
+    "Author": "Samuel"
   },
   {
     "id": "reczt6Hm5A1Kx9Ux2",
@@ -4094,7 +5241,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_001",
-    "Source": "City of Tulsa. _City Website. Neighborhood Registration Form._\n"
+    "Source": "City of Tulsa. _City Website. Neighborhood Registration Form._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recOPQEfE3apeagD2",
@@ -4110,7 +5258,8 @@
       "recoS1cd55VZ046k2"
     ],
     "QA Code": "Samuel_Planning_002",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recsKttkmpMeNapAR",
@@ -4124,7 +5273,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_003",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recFqk6yAVtx07Ggb",
@@ -4139,7 +5289,8 @@
       "rec5lKU0z4aujZLfa"
     ],
     "QA Code": "Samuel_Planning_004",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recy45EtuDTN1g5We",
@@ -4155,7 +5306,8 @@
       "recKE790vQbaHmbeM"
     ],
     "QA Code": "Samuel_Planning_005",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recM8n8csurCdda7x",
@@ -4169,7 +5321,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_006",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recHZT20iold95BRF",
@@ -4185,7 +5338,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_007",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recmFt4iIh8PQhmWW",
@@ -4201,7 +5355,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_008",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recp5SnTHLjr4XA3d",
@@ -4217,7 +5372,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_009",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recF0vRein4FKuYAG",
@@ -4232,7 +5388,8 @@
       "recOv5VE6tdQiwyPA"
     ],
     "QA Code": "Samuel_Planning_010",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 8._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 8._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recjC9hwVLu8yJE23",
@@ -4247,7 +5404,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_011",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 9-10._\n\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 9-10._\n\n",
+    "Author": "Samuel"
   },
   {
     "id": "recdJyCbuHpkXOHLu",
@@ -4262,7 +5420,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_012",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 11-12._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 11-12._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recIXjskCTgB35RHJ",
@@ -4279,7 +5438,8 @@
       "recLbp4zqgMf7Kk0v"
     ],
     "QA Code": "Samuel_Planning_013",
-    "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n"
+    "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recprRZEmaiFQcIZc",
@@ -4296,7 +5456,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_014",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 13._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 13._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec8aGzJTsY9GTzMN",
@@ -4310,7 +5471,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_015",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recQ6ib28eweg2yaC",
@@ -4325,7 +5487,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_016",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recb2mqOhYvTzuBtm",
@@ -4340,7 +5503,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_017",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 15._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 15._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recD7qV5csbm3Afgh",
@@ -4354,7 +5518,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_018",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 16._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 16._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recKurmkfCL7WXRMH",
@@ -4369,7 +5534,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_019",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 17._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 17._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recRtAR1YVxpadQyh",
@@ -4383,7 +5549,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_020",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 19._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 19._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec9gnsbyLJA9OXN5",
@@ -4397,7 +5564,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_021",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 20._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 20._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recd73crvkSwsZu19",
@@ -4413,7 +5581,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_022",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recAPXs5A94TmKxCN",
@@ -4429,25 +5598,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_023",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 9. _\nCity of Tulsa. _City Website. Dumpster Program._\n"
-  },
-  {
-    "id": "rec638d4hB1GBsyyw",
-    "Question": "How do I dispose of large furniture or appliances in Tulsa? ",
-    "Contributor": "Samuel",
-    "Public": true,
-    "Answer": "Tulsa residents can call 918-596-9777 to arrange for pickup of their large, bulky waste, including furniture and appliances. The cost for pickup is $10 per eight cubic yards.\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rechGKl53YLEWSFKy",
-      "recws8bLQ6cyFvH6B",
-      "reck1kwu0Ax8s2U3s",
-      "recBTeDboTe5vDD9l",
-      "recdoCgCxV6RbWD0L"
-    ],
-    "QA Code": "Dan_Planning_01",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n"
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 9. _\nCity of Tulsa. _City Website. Dumpster Program._\n",
+    "Author": "Samuel"
   },
   {
     "id": "rec6LRo20sasivYGs",
@@ -4465,7 +5617,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_024",
-    "Source": "City of Tulsa. _City Website. Household Pollutant Collection Facility._\nTulsa Planning Office. _Neighborhood Toolkit. Page 10._\n"
+    "Source": "City of Tulsa. _City Website. Household Pollutant Collection Facility._\nTulsa Planning Office. _Neighborhood Toolkit. Page 10._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recM1UFoS5OrSPXXt",
@@ -4483,394 +5636,8 @@
       "recdoCgCxV6RbWD0L"
     ],
     "QA Code": "Samuel_Planning_025",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n"
-  },
-  {
-    "id": "recWqw0tDxDtthVtm",
-    "Question": "How do I dispose of my recycling in Tulsa? ",
-    "Answer": "The City of Tulsa offers curbside recycling for many common recyclables on regular trash days. If you live in a building that doesn't offer recycling bins, or can't access curbside recycling for another reason, there are three recycling centers where you can drop it off: 3495 S. Sheridan Rd in Central Tulsa, 1101 S. Cincinnati Ave. in Downtown, and 2160 Garnett Rd at Plaza Santa Cecilia in East Tulsa. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rechGKl53YLEWSFKy",
-      "recws8bLQ6cyFvH6B",
-      "reck1kwu0Ax8s2U3s",
-      "recBTeDboTe5vDD9l",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recocZNwmoAtpvzGA",
-    "Question": "Where can I bring all my recyclable materials that aren't accepted in Tulsa's blue curbside recycling bins?",
-    "Answer": "The Metropolitan Environmental Trust (M.e.t.) operates free drop-off recycling centers throughout the metro area, including three in Tulsa. Many of these locations accept items not collected in your blue curbside recycling bin, including plastic bags, motor oil, cooking oil, antifreeze, batteries, electronic waste, and eyeglasses. Visit metrecycle.com for a full list of items and hours. \naccepted at each location\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "recBTeDboTe5vDD9l",
-      "recws8bLQ6cyFvH6B",
-      "recchqDApy3QBKYYZ",
-      "rechGKl53YLEWSFKy",
-      "recppFWF7pFbf4qUq",
-      "recwVwtuJ9JH8GyXW",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recFi3e8eDF2OSp9B",
-    "Question": "How can I find out if I live in a part of Tulsa with a neighborhood association? ",
-    "Answer": "If you just moved in to an area with a neighborhood association, there's a chance that an association member will try to reach out to invite you to join. If you don't hear anything or you've lived at your residence for a while and are curious, Tulsa has an online map showing each registered association, its boundaries, and contact information. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rec4wpWPzMkrZUALU",
-      "recQab7UGmkPuTB5O",
-      "recoJacT6bxOqTcxz",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rec1EAnNPRpA7bLa3",
-    "Question": "Who can I contact if I'm concerned about a tree damaging power lines near my residence?",
-    "Answer": "According to the Tulsa Planning Office's Neighborhood Toolkit, \"If you are concerned about trees on your property that are close to overhead utilities, call PSO’s Forestry Infoline at 1-877-367-6815. If needed, they will send a forester to you to determine if trimming or removal is best. If the best option is to remove the tree, PSO often provide vouchers you can use to receive a discount on the purchase of replacement trees and shrubs at participating local nurseries.\"\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rechGKl53YLEWSFKy",
-      "rec6DzgUgFNoHl6AH",
-      "recWxmWWRzxnMHenv",
-      "recdZj59grW6AoCkH",
-      "recTSBaWiz8Jjukdr",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recLmK4VpaNtFVKvV",
-    "Question": "Can I pay my City of Tulsa utility bill online?",
-    "Answer": "The City of Tulsa offers a self-service portal where residents can pay their utility bills and find information about their meter readings. You'll need your customer ID and Customer account number to setup your online account. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recCqZ0iIe1Qu9MWz",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recZekbRTdqP7GLre",
-    "Question": "How do I activate utility service at my new residence in Tulsa?",
-    "Answer": "Activating utility service can be as simple as sending an email to [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or making a call to Tulsa's 311 Customer Care Center. You could also visit the Utilities Customer Service Office at City Hall during busines shours. If you're calling or visiting in person, be prepared to provide your: name, telephone number, social security number, and address for service. If you activate via e-mail, provide all that information except for SSN, a Customer Care representative will follow up via phone to collect it. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recqjX1JeotlsirPA",
-      "rec754rVxMJQaT6iC",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recLdVK9I3LfGlAbo",
-    "Question": "How do I shut-off or transfer my utility service to a new address?",
-    "Answer": "If you are listed on the utility account, you can shut off or transfer service by emailing [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or calling 3-1-1. You can also visit the Utilities Customer Service Office at City Hall during business hours. You'll need to provide your customer ID and Customer account number. For shut offs, you'll need to provide a a forwarding address for the final bill (if applicable). After submitting a request, it usually takes 3 business days to transfer service or shut it off. For shut-offs, any outstanding balance will be charged against any deposit, then a final bill will be sent to you. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recqjX1JeotlsirPA",
-      "rec754rVxMJQaT6iC",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rec1hJM0z7sHFxMAX",
-    "Question": "How do I opt out of paying Tulsa EMS Authority fees?",
-    "Answer": "You can choose to opt-out your household from Tulsa EMSA online. You'll need to login to your utility account here or register an account if you don't have one. Tulsa's 3-1-1 Customer Care Center can help you through the process if you have questions. Be aware that opting-out means you'll have to pay for EMS out-of-pocket if you or somebody in your household needs assistance. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recoJSpwBlG6Tx4G3",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rec8hwMCqZbVhtirp",
-    "Question": "How do I schedule a time for the City of Tulsa to pick up my bulky waste?",
-    "Answer": "You can schedule a pick-up for bulky waste by calling 918-596-9777 or through your online utilities account. Go here to login or register your account. You'll need your customer ID number, account number, and your SSN. Bulky waste pick-up costs $10 per 8 cubic feet. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "recws8bLQ6cyFvH6B",
-      "recBTeDboTe5vDD9l",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recZrqUgzNK95KbGi",
-    "Question": "Can I pay a traffic or parking ticket online in Tulsa?",
-    "Answer": "**Yes.** But it depends on the ticket. If the ticket you receive doesn't display a dollar amount for your fine in large font, but instead has the word \"COURT\" printed near the top, you cannot pay online and must appear in court. If your ticket does have a dollar amount, regardless of the amount, you can pay online through this web page. Be aware: tickets take 7-10 days to post online, if you try to pay before then you may not find it so it's worth checking back later. You can also use the system to pay fines for certain criminal code violations.\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVswcqhjkahPslp",
-      "rectD3gKNXIFdjHUQ",
-      "recbDMq2PvDBET39y",
-      "recgEFDA1BHBx8LRL",
-      "recCqZ0iIe1Qu9MWz",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rec8xRk3pQw0auRa8",
-    "Question": "How can I found which Tulsa City Council District I live in?",
-    "Answer": "Visit Tulsa's online district map here. You can see how districts are drawn and search for a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District and contact information for the Councilor who represents it. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec7CRt7SqLSMHpq0",
-      "recqcNghusgnZYF1X",
-      "recNk1hJFap0wM73G",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recYxyozUofEDYmrt",
-    "Question": "How do I apply for a building, electrical or fire permit from the City of Tulsa? ",
-    "Answer": "Tulsa operates an online self-service portal where property owners can search for, apply, and track the progress of 160 different types of permits. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recmjTVmhqoXN6Y2o",
-      "recfjJwBURwqfGO8D",
-      "recAtWXbEzVaD72ND",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rectHaqVPSkDxULn8",
-    "Question": "Do I need a permit from the City of Tulsa to build a detached shed or garage on my property? ",
-    "Answer": "**Yes.** You'll need a residential accessory structure permit. The permit is required for any detached structure on the same parcel of property as a principal structure (house) and the use of which is incidental (related to, in support of) the principal structure. You can apply for such a permit here \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recmjTVmhqoXN6Y2o",
-      "recI5o1ZfuGhyBI3f",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "reciIzpjhVeUJjFHP",
-    "Question": "Do I need a permit from the City of Tulsa to build an addition onto my home?",
-    "Answer": "**Yes.** You'll need a residential addition permit. You can apply for one through Tulsa's permit self-service portal. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "reckEjpC9UPsBgbnF",
-      "recIuuMLg0ka4tV4b",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rec3GdEUIDmHwSBfS",
-    "Question": "Do I need a permit from the City of Tulsa to remodel my kitchen or bathroom?",
-    "Answer": "**Yes.** You'll need a residential alteration permit. Such permits are required for any changes to an existing structure which don't increase the floor area. You can apply for one through Tulsa's permit self service portal online. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recVypOtuYcUkJEnc",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rechyIcFk8RqZkDx8",
-    "Question": "Do I need a permit from the City of Tulsa to build a deck on my property?",
-    "Answer": "\n**Yes.** You'll need a residential deck permit. You can apply for one through Tulsa's permit self service portal. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recVypOtuYcUkJEnc",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recn0Od7TdioxlCNb",
-    "Question": "Do I need a permit from the City of Tulsa to build a fence or wall on my property",
-    "Answer": "**Yes.** You'll need a residential fence or wall fence permit. Be aware: this permit is not intended for a retaining wall, which requires a separate permit. If you intend to build a masonry wall fence over four feet tall, you'll also need to get plan approval from an engineer. To apply for a permit, visit Tulsa's self service portal. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recmjTVmhqoXN6Y2o",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recG6HLRAg8ji5ImW",
-    "Question": "Do I need a permit from the City of Tulsa to have storm shelter installed in my residence?",
-    "Answer": "**Yes.** You'll need a residential indoor storm shelter permit. Be aware: you should only apply for this permit if the shelter you intend to install a shelter that meets FEMA or ICC standards. Plans must be sealed bu an Oklahoma registered engineer or bear a valid and current FEMA certification. You can apply for a permit through Tulsa's self service portal.\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recIuuMLg0ka4tV4b",
-      "recdoCgCxV6RbWD0L",
-      "rec8t9nmRIbtvxP1x"
-    ]
-  },
-  {
-    "id": "recuvoyP7aTEcrWRF",
-    "Question": "Do I need a permit from the City of Tulsa to build an outdoor storm shelter on my property?",
-    "Answer": "**Yes.** You'll need a residential outdoor storm shelter permit. Be aware: you should only apply for this permit if the shelter you intend to install a shelter that meets FEMA or ICC standards. Plans must be sealed bu an Oklahoma registered engineer or bear a valid and current FEMA certification. You can apply for a permit through Tulsa's self service portal.\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recIuuMLg0ka4tV4b",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recCHaTr7GPnNqXc4",
-    "Question": "Do I need a permit from the City of Tulsa to build a retaining wall on my property?",
-    "Answer": "**Yes.** You'll need a residential retaining wall permit. Be aware: you'll need an engineer's seal on your plans for them to be approved. You can apply for a permit through Tulsa's self service portal.\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recVypOtuYcUkJEnc",
-      "recOq5l1PZm4vQCyk",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recuAGwtc736aGtNn",
-    "Question": "Do I need a permit from the City of Tulsa to build a pool on my property?",
-    "Answer": "**Yes.** You need a permit for both above-ground and in-ground pools. You can apply for one through Tulsa's permit self service portal. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recETZKzvZIxk74ml",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recLJB4zNZyKJov59",
-    "Question": "Do I need a permit from the City of Tulsa to hold a wedding or other large gathering at my residence?",
-    "Answer": "You may need a permit for a special assembly if you're holding a special event such as a holiday party, wedding reception, or hosting entertainment at a facility not designated for assembly (such as your house). If you need a special assembly permit, you may need a special event permit as well. Consider contacting the Tulsa Fire Department or Tulsa 3-1-1 for help determining whether your gathering requires a permit and which ones to apply for. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "rec65mwzeCqZrmncE",
-      "recZoil9936fwmqaL",
-      "recVypOtuYcUkJEnc"
-    ]
-  },
-  {
-    "id": "recy2kKsEtjXqj2yd",
-    "Question": "Do I need a permit from the City of Tulsa to improve the drainage on my property or change its grade?",
-    "Answer": "You may need a residential watershed permit to move earth on your property for activities such as: excavating, grading, regrading, land filling, land clearing, etc. You can apply for a permit through Tulsa's self service portal. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recQqqKXV7tZV5TZh",
-      "recI5o1ZfuGhyBI3f"
-    ]
-  },
-  {
-    "id": "rechB3tyvdB14vB3f",
-    "Question": "What occupations are licensed by the City of Oklahoma?",
-    "Answer": "You need a license from the City to legally work in most contractor roles, including the following:\n\n- Electrical\n- Residential electrical\n- Electrical with security alarm\n- General contractor\n- Mechanical\n- Plumbing.\n\nAdditionally, licenses are required to work on fire alarm and sprinkler and suppression systems. Fire suppression system installation businesses also must hold a business license. \n\nOccupational license applications are available on Tulsa's [self service portal](https://tulsaok-energovweb.tylerhost.net/apps/selfservice#/home). \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recd5Eg4UNwMH4CFQ",
-      "recgVOta2Pkb0k7NP",
-      "recdoCgCxV6RbWD0L",
-      "recT56q21gskzFrmD",
-      "recAtWXbEzVaD72ND",
-      "recQqTtEpxpp6AbHy"
-    ]
-  },
-  {
-    "id": "reclwDtRstU3qHBnu",
-    "Question": "How can I volunteer my time or skills to help others in Tulsa?",
-    "Answer": "The City of Tulsa maintains a list of volunteer opportunities with both local organizations and larger ones that benefit Tulsans. You can find out about the organization, the help they need, when/how often they need it, and whether your skills could benefit others through the role. Find out more here. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "reciadpYORsfn5Qbg",
-      "recTBiVxKt5P8D7B4",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recl9bAOW2diBS2EB",
-    "Question": "How do I know what day to put out my trash for collection in Tulsa?",
-    "Answer": "Your weekly collection day depends on your neighborhood. Tulsa offers a map to help you  determine your collection day. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recws8bLQ6cyFvH6B",
-      "recBTeDboTe5vDD9l",
-      "reck1kwu0Ax8s2U3s",
-      "recq4v6FtV3eR1DZe"
-    ]
-  },
-  {
-    "id": "rec0l9LFxEcUDNj2G",
-    "Question": "How do I register my storm shelter with the City of tulsa",
-    "Answer": "If you live within the city limits, and your storm shelter or safe room meets FEMA and /or ICC building standards, you can register your shelter with the city so First Responders know where to find you in case of a natural disaster. Add your information to the Tulsa Storm Shelter Registry at this webpage\n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "rec8t9nmRIbtvxP1x",
-      "recAcDhrN7CzL5Cue",
-      "recSlLVBIMDqqcsOz",
-      "recEZ7OOZ3hy6PH24"
-    ]
-  },
-  {
-    "id": "rec5rz5PiayKqG53s",
-    "Question": "How do I obtain public records from the City of Tulsa?",
-    "Answer": "Information about requesting public records from the City of Tulsa is available on the City Finance Department's webpage. There you can download a request form, learn about what records are considered public, find contact information for the custodian of those particular records, and find out how much it may cost to obtain those records. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "reced3M3XwUKN3vYM",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recEojYIYnlBCKvxJ",
-    "Question": "What kind of records are considered public in Tulsa?",
-    "Answer": "Management of public records in Tulsa and all other municipalities in the state is governed by Oklahoma's Open Records Act. That law, similar to other states, considers the overwhelming majority of government records as public by default. Generally speaking, the only records produced by, or in the custody of, government agencies/departments that are exempt from public disclosure are those which contain private medical information, information about children, or certain personal information about public employees (such as their home address or disciplinary investigations on their record).  \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "reced3M3XwUKN3vYM",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "rec0FbPnpWxYbPSyv",
-    "Question": "How do I submit a request for Open Public Records from the City of Tulsa?",
-    "Answer": "A request for Open Public Records must be made in writing. Citizens can do this themselves with a specific form provided by the City. The form is straightforward, but it helps to do some research beforehand about what information you need and what department/agency has the record. Your success in obtaining public records depends largely on how specific you are in describing the information you need. Ideally, you can tell the records custodian the exact name of the document, database, report etc. that you need information from. If not, the custodian is still legally obligated to make a good faith effort to produce the records you request. Once you've completed the form, use information on this page to find the relevant records custodian and submit the form either in-person or via e-mail. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "reced3M3XwUKN3vYM",
-      "recdoCgCxV6RbWD0L"
-    ]
-  },
-  {
-    "id": "recniWCBkP8PRsMu9",
-    "Question": "Do I have to pay to obtain public records from the City of Tulsa?",
-    "Answer": "Sometimes, depending on what kind of records you request, how many you request, and what you need them for. The city's full fee schedule for public records is here. According to Oklahoma's Open Records Act, government bodies should charge citizens only for the direct cost of producing the record. Paper copies cost $0.25 per sheet, Certified Copies cost $1 per sheet, etc. However, if records are requested for commercial purposes, or if the quantity of records requested is such that producing them will disrupt the essential functions of the government body, the City of Tulsa charges $30/hour. \n",
-    "Concepts": [
-      "recmM3m7G1ByTAI1T",
-      "recQZe9wGJYchUmSF",
-      "recdoCgCxV6RbWD0L",
-      "recrhc9ForZ6fHB3W"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recBeu2kRrxU0TKQm",
@@ -4884,7 +5651,22 @@
       "recyJCadYKnbBRD0a"
     ],
     "QA Code": "Samuel_Tools_01",
-    "Source": "City of Tulsa. _Traffic Flow Map_. \n"
+    "Source": "City of Tulsa. _Traffic Flow Map_. \n",
+    "Author": "Samuel"
+  },
+  {
+    "id": "recr3fqVsuIhbUaai",
+    "Question": "What classes are offered by the City of Tulsa?",
+    "Contributor": "Samuel",
+    "Public": true,
+    "Answer": "The Parks, Culture, & Recreation Department offers a variety of classes and programs, as can be seen [here](https://guide.tulsaparks.org/CourseActivities.aspx?id=22&cat=8).  Most of these are listed below.\n\nFor most courses, the associated costs include each class session, which vary by program. For example, most fitness classes include 8-13 sessions.\n\n**Educational**\n- English Classes (All ages. $0)\n- Junior Naturalist Program (Ages 8-12. $100)\n- Kids Programs (Ages 1-8. $0-135)\n- United Health Care Open [Medicare] Enrollment (Ages 65+. $0)\n\n**Fitness**\n- Low-Impact Aerobics (Ages 18+. $25 for residents. $31 for non-residents)\n- Senior X-R-Cise (Ages 16+. $35 for residents. $44 for non-residents)\n- Self-Defense and Fitness (Ages 18+. $25 for residents. $31 for non-residents)\n- Ladies Private Weight Training (Ages 18-99. $2 for residents. $0 for non-residents)\n- Small Group Weight Training (Ages 16-65. $15)\n- Balancing Exercises (Ages 55-100. $0)\n- 30 Minute Workout (Ages 9-99. $2)\n- Family Dance & Exercise (Ages 5-99. $5)\n- Refit Revolution (Ages 13+. $25)\n- Strong Nation (Cardio + HIIT) (Ages 13-99. $25)\n- H.I.I.T (High Intensity Interval Train) (Ages 16-99. $25)\n- Zumba (Ages 16+. $35 for residents. $44 for non-residents)\n- Zumba with Sarah (Ages 16+. $30 for residents. $37 for non-residents)\n- Classics Morning Walk (All ages. $0)\n- Walk and Talk (Ages 18-99. $0)\n\n**Sports & Athletics**\n\n_Basketball, Soccer, Volleyball, Tennis, & Pickleball_\n- 40+ Basketball (Ages 40-99. $0)\n- Youth Soccer (Ages 7-9 or 9-12. $75 for residents. $91 for non-residents).\n- Volleyball Developmental Program (Grades 4-5 or 6-8. $50 for residents or $62 for non-residents)\n- Open Adult Volleyball (All ages. $0)\n- Open Pickleball (Ages 18+. $0)\n\n_Archery_\n- Archery (Ages 8-80. $20 for residents. $25 for non-residents)\n\n_Martial Arts_\n- Tae Kwon Do (Ages 5-100. $25 for residents. 31$ for non-residents)\n- Shotokan (Ages 9+. $25 for residents. 31$ for non-residents)\n- Karate (Ages 5-11 or 12-17. $5 for residents. 0$ for non-residents)\n- Young Samurai Martial Arts (Ages 6-14. $35 for residents. $45 for non-residents)\n- Close Combat Martial Arts (Ages 15-95. $50)\n- Weapons Martial Arts (Ages 15-95. $60)\n- Light Saber Martial Arts (Ages 8-95 or 99. $20 for residents. $25 for non-residents)\n\n_Gymnastics_\n- Tiny Tumbling (Ages 3-6. $40 for residents. $50 for non-residents)\n- Beginner Tumbling (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Little Kinder Kids (Ages 2-4. $40 for residents. $50 for non-residents)\n- Gymnastics - Kinder Kids (Ages 4-6. $40 for residents. $50 for non-residents)\n- Gymnastics Kinderplus (Ages 3-5. $45 for residents. 54$ for non-residents)\n- Gymnastics - Jam & Slam (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Girls Pre Team (Ages 5-17 or 18. $75 for residents. $90 for non-residents)\n- Gymnastics - Boys Pre Team (Ages 6-18. $50 or $85 for residents. $60 or $105 for non-residents)\n- Gymnastics Team Level 1, 3, & 4 (Ages5-18)\n    - Level 1: $85 for residents. $105 for non-residents.\n    - Level 3: $95 for residents. $120 for non-residents.\n    - Level 4: $115 for residents. $140 for non-residents.\n- Gymnastics - Beginner (Ages 6-8 or 12. $45 for residents. $54 for non-residents)\n- Gymnastics - Pre-Team (Ages 9-12. $45 for residents. $54 for non-residents)\n- Gymnastics - Beginner/Homeschool (Ages 6-14. $45 for residents. $54 for non-residents)\n- Gymnastics - Junior Beginner (Ages 4-6. $45 for residents. $54 for non-residents)\n- Gymnastics - Intermediate (Ages 8-12. $45 for residents. $54 for non-residents)\n- Gymnastics Team - Twisters (Ages 4-15. $90)\n\n**Visual Arts**\n\n_Ceramics, Clay, & Pottery_\n- Ceramics (Ages 18+. $5)\n- Beginning Pottery Wheel (Ages 16+. $140)\n- Intermediate Pottery Wheel (Ages 16+. $115)\n- Make a Mask: A Clay Date for Couples (Ages 16+. $75)\n- The Art of Raku (Ages 16+. $130)\n- Small Sculptures Workshop (Ages 16+. $90)\n- Gone Fishin' Parent-Child Clay Workshop (Ages 7+. $45)\n\n_Drawing & Painting_\n- Portrait Painters (Ages 18+. $0)\n- Landscapes from the Land of Enchantment (Ages 16+. $45 for residents. $56 for non-residents)\n- Linoleum Block Print Notecards (Ages 16+. $45 for residents. $65 for non-residents)\n- Waxing Poetic Basic Worskhop: Cold Wax Painting (Ages 16+. $60. $75 for non-residents)\n- Composition, Color, & Design Workshop(Ages 16+. $65 for residents. $81 for non-residents)\n- Making Your Mark: An Intro to Pastel Workshop (Ages 16+. $35 for residents. $44 for non-residents)\n- Collage Sketchbooks Workshop (Ages 16+. $60 for residents. $81 for non-residents)\n- Capturing Light & Shadow in Pastel (Ages 16+. $65 for residents. $81 for non-residents)\n- Introduction to Drawing (Ages 10+. $65 for residents. $81 for non-residents)\n\n_Metals, Jewelry, & Fiber Arts_\n- Jewelry 101 (Ages 16+. $150 for residents. $188 for non-residents)\n- Make Your Own Bolo Tie (Ages 16+. $100 for residents. $125 for non-residents)\n- Make a Copper Belt Buckle (Ages 16+. $70 for residents. $88 for non-residents)\n- Soldering Crash Course (Ages 16+. $55 for residents. $69 for non-residents)\n\n**Performing Arts**\n- Ballet & Jazz (Ages 6-15. $25 for residents. $31 for non-residents)\n- Adult Body Discovery & Technique (Ages 18-99. $0)\n- Beginning Dance Techniques (Ages 3-9. $0)\n- Lacy Jammers (Ages 5-15. $0)\n- Older and Bolder Dance Group (Ages 55-100. $100)\n- Accordion Band (All ages, $0)\n\n",
+    "Concepts": [
+      "recRQKSOc1jkTigGe",
+      "recruTp47STFgwlIB"
+    ],
+    "QA Code": "Samuel_Tools_02",
+    "Source": "City of Tulsa. _Tulsa Parks Course Activities provided by the Parks, Culture, & Recreation Department._\n",
+    "Author": "Samuel"
   },
   {
     "id": "recBHG04HEVgMAPNw",
@@ -4899,25 +5681,7 @@
       "recZGgJu72BM3szBu"
     ],
     "QA Code": "Sub_Samuel_01",
-    "Source": "City of Tulsa. _Website. Meetings._\nCity of Tulsa. _Website. Submit a Public Comment._\n"
-  },
-  {
-    "id": "recTHQ7p2ei0oiMs2",
-    "Question": "How much tax money goes into the Tulsa Zoo?",
-    "Answer": "The FY23 City of Tulsa budget allocates **$6,772,000** to manage the Tulsa Zoo. The City plans to spend **$6,942,000** in FY24.\n\nWhile the zoo grounds and its physical structures are owned by the city of Tulsa\n\nTHE ZOO GROUNDS AND PHYSICAL STRUCTURES ARE OWNED BY THE\nCITY OF TULSA. \n",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 30._\n\n\n"
-  },
-  {
-    "id": "recr3fqVsuIhbUaai",
-    "Question": "What classes are offered by the City of Tulsa?",
-    "Contributor": "Samuel",
-    "Public": true,
-    "Answer": "The Parks, Culture, & Recreation Department offers a variety of classes and programs, as can be seen [here](https://guide.tulsaparks.org/CourseActivities.aspx?id=22&cat=8).  Most of these are listed below.\n\nFor most courses, the associated costs include each class session, which vary by program. For example, most fitness classes include 8-13 sessions.\n\n**Educational**\n- English Classes (All ages. $0)\n- Junior Naturalist Program (Ages 8-12. $100)\n- Kids Programs (Ages 1-8. $0-135)\n- United Health Care Open [Medicare] Enrollment (Ages 65+. $0)\n\n**Fitness**\n- Low-Impact Aerobics (Ages 18+. $25 for residents. $31 for non-residents)\n- Senior X-R-Cise (Ages 16+. $35 for residents. $44 for non-residents)\n- Self-Defense and Fitness (Ages 18+. $25 for residents. $31 for non-residents)\n- Ladies Private Weight Training (Ages 18-99. $2 for residents. $0 for non-residents)\n- Small Group Weight Training (Ages 16-65. $15)\n- Balancing Exercises (Ages 55-100. $0)\n- 30 Minute Workout (Ages 9-99. $2)\n- Family Dance & Exercise (Ages 5-99. $5)\n- Refit Revolution (Ages 13+. $25)\n- Strong Nation (Cardio + HIIT) (Ages 13-99. $25)\n- H.I.I.T (High Intensity Interval Train) (Ages 16-99. $25)\n- Zumba (Ages 16+. $35 for residents. $44 for non-residents)\n- Zumba with Sarah (Ages 16+. $30 for residents. $37 for non-residents)\n- Classics Morning Walk (All ages. $0)\n- Walk and Talk (Ages 18-99. $0)\n\n**Sports & Athletics**\n\n_Basketball, Soccer, Volleyball, Tennis, & Pickleball_\n- 40+ Basketball (Ages 40-99. $0)\n- Youth Soccer (Ages 7-9 or 9-12. $75 for residents. $91 for non-residents).\n- Volleyball Developmental Program (Grades 4-5 or 6-8. $50 for residents or $62 for non-residents)\n- Open Adult Volleyball (All ages. $0)\n- Open Pickleball (Ages 18+. $0)\n\n_Archery_\n- Archery (Ages 8-80. $20 for residents. $25 for non-residents)\n\n_Martial Arts_\n- Tae Kwon Do (Ages 5-100. $25 for residents. 31$ for non-residents)\n- Shotokan (Ages 9+. $25 for residents. 31$ for non-residents)\n- Karate (Ages 5-11 or 12-17. $5 for residents. 0$ for non-residents)\n- Young Samurai Martial Arts (Ages 6-14. $35 for residents. $45 for non-residents)\n- Close Combat Martial Arts (Ages 15-95. $50)\n- Weapons Martial Arts (Ages 15-95. $60)\n- Light Saber Martial Arts (Ages 8-95 or 99. $20 for residents. $25 for non-residents)\n\n_Gymnastics_\n- Tiny Tumbling (Ages 3-6. $40 for residents. $50 for non-residents)\n- Beginner Tumbling (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Little Kinder Kids (Ages 2-4. $40 for residents. $50 for non-residents)\n- Gymnastics - Kinder Kids (Ages 4-6. $40 for residents. $50 for non-residents)\n- Gymnastics Kinderplus (Ages 3-5. $45 for residents. 54$ for non-residents)\n- Gymnastics - Jam & Slam (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Girls Pre Team (Ages 5-17 or 18. $75 for residents. $90 for non-residents)\n- Gymnastics - Boys Pre Team (Ages 6-18. $50 or $85 for residents. $60 or $105 for non-residents)\n- Gymnastics Team Level 1, 3, & 4 (Ages5-18)\n    - Level 1: $85 for residents. $105 for non-residents.\n    - Level 3: $95 for residents. $120 for non-residents.\n    - Level 4: $115 for residents. $140 for non-residents.\n- Gymnastics - Beginner (Ages 6-8 or 12. $45 for residents. $54 for non-residents)\n- Gymnastics - Pre-Team (Ages 9-12. $45 for residents. $54 for non-residents)\n- Gymnastics - Beginner/Homeschool (Ages 6-14. $45 for residents. $54 for non-residents)\n- Gymnastics - Junior Beginner (Ages 4-6. $45 for residents. $54 for non-residents)\n- Gymnastics - Intermediate (Ages 8-12. $45 for residents. $54 for non-residents)\n- Gymnastics Team - Twisters (Ages 4-15. $90)\n\n**Visual Arts**\n\n_Ceramics, Clay, & Pottery_\n- Ceramics (Ages 18+. $5)\n- Beginning Pottery Wheel (Ages 16+. $140)\n- Intermediate Pottery Wheel (Ages 16+. $115)\n- Make a Mask: A Clay Date for Couples (Ages 16+. $75)\n- The Art of Raku (Ages 16+. $130)\n- Small Sculptures Workshop (Ages 16+. $90)\n- Gone Fishin' Parent-Child Clay Workshop (Ages 7+. $45)\n\n_Drawing & Painting_\n- Portrait Painters (Ages 18+. $0)\n- Landscapes from the Land of Enchantment (Ages 16+. $45 for residents. $56 for non-residents)\n- Linoleum Block Print Notecards (Ages 16+. $45 for residents. $65 for non-residents)\n- Waxing Poetic Basic Worskhop: Cold Wax Painting (Ages 16+. $60. $75 for non-residents)\n- Composition, Color, & Design Workshop(Ages 16+. $65 for residents. $81 for non-residents)\n- Making Your Mark: An Intro to Pastel Workshop (Ages 16+. $35 for residents. $44 for non-residents)\n- Collage Sketchbooks Workshop (Ages 16+. $60 for residents. $81 for non-residents)\n- Capturing Light & Shadow in Pastel (Ages 16+. $65 for residents. $81 for non-residents)\n- Introduction to Drawing (Ages 10+. $65 for residents. $81 for non-residents)\n\n_Metals, Jewelry, & Fiber Arts_\n- Jewelry 101 (Ages 16+. $150 for residents. $188 for non-residents)\n- Make Your Own Bolo Tie (Ages 16+. $100 for residents. $125 for non-residents)\n- Make a Copper Belt Buckle (Ages 16+. $70 for residents. $88 for non-residents)\n- Soldering Crash Course (Ages 16+. $55 for residents. $69 for non-residents)\n\n**Performing Arts**\n- Ballet & Jazz (Ages 6-15. $25 for residents. $31 for non-residents)\n- Adult Body Discovery & Technique (Ages 18-99. $0)\n- Beginning Dance Techniques (Ages 3-9. $0)\n- Lacy Jammers (Ages 5-15. $0)\n- Older and Bolder Dance Group (Ages 55-100. $100)\n- Accordion Band (All ages, $0)\n\n",
-    "Concepts": [
-      "recRQKSOc1jkTigGe",
-      "recruTp47STFgwlIB"
-    ],
-    "QA Code": "Samuel_Tools_02",
-    "Source": "City of Tulsa. _Tulsa Parks Course Activities provided by the Parks, Culture, & Recreation Department._\n"
+    "Source": "City of Tulsa. _Website. Meetings._\nCity of Tulsa. _Website. Submit a Public Comment._\n",
+    "Author": "Samuel"
   }
 ]
