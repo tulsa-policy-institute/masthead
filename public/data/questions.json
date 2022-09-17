@@ -281,7 +281,7 @@
   {
     "id": "rec1EAnNPRpA7bLa3",
     "Question": "Who can I contact if I'm concerned about a tree damaging power lines near my residence?",
-    "Answer": "According to the Tulsa Planning Office's Neighborhood Toolkit, \"If you are concerned about trees on your property that are close to overhead utilities, call PSO’s Forestry Infoline at 1-877-367-6815. If needed, they will send a forester to you to determine if trimming or removal is best. If the best option is to remove the tree, PSO often provide vouchers you can use to receive a discount on the purchase of replacement trees and shrubs at participating local nurseries.\"\n",
+    "Answer": "According to the Tulsa Planning Office's Neighborhood Toolkit, \n> If you are concerned about trees on your property that are close to overhead utilities, call PSO’s Forestry Infoline at 1-877-367-6815. If needed, they will send a forester to you to determine if trimming or removal is best. If the best option is to remove the tree, PSO often provide vouchers you can use to receive a discount on the purchase of replacement trees and shrubs at participating local nurseries.\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recSaB0ugjsBczpUQ",
@@ -757,7 +757,7 @@
     "Question": "Are rates for trash collection set to increase in FY23? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "**Possibly. **According to Tulsa's FY23 budget presentation, \"there are currently no changes to rates for trash service in FY23. However, ongoing discussion regarding recent developments involving refuse and recycling services will likely necessitate a rate increase for trash service in mid-FY23 or beginning FY24\".\n",
+    "Answer": "**Possibly. **According to Tulsa's FY23 budget presentation, \n> There are currently no changes to rates for trash service in FY23. However, ongoing discussion regarding recent developments involving refuse and recycling services will likely necessitate a rate increase for trash service in mid-FY23 or beginning FY24.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -798,7 +798,7 @@
     "Question": "How does Tulsa's FY23 budget reinvest the share of sales tax dedicated to the \"Improve Our Tulsa II\" program? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "According to Tulsa's FY23 budget presentation, \"this budget includes** $36.9 million in sales tax funded projects from the 2022 Improve Our Tulsa II program.** This program includes funding for critical projects for Police, Fire, Parks, Citywide Public Facilities, Economic Development Infrastructure, Transit rolling stock and Capital Equipment. Priorities in this year’s budget, include $3.9 million for apparatus replacement for the Fire Department, $4.0 million to fully fund the construction of a new parking garage for the Veterans Hospital to be constructed in downtown Tulsa and $14.3 million for Capital Equipment\".\n",
+    "Answer": "According to Tulsa's FY23 budget presentation, \n> This budget includes** $36.9 million in sales tax funded projects from the 2022 Improve Our Tulsa II program.** This program includes funding for critical projects for Police, Fire, Parks, Citywide Public Facilities, Economic Development Infrastructure, Transit rolling stock and Capital Equipment. Priorities in this year’s budget, include $3.9 million for apparatus replacement for the Fire Department, $4.0 million to fully fund the construction of a new parking garage for the Veterans Hospital to be constructed in downtown Tulsa and $14.3 million for Capital Equipment.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -817,7 +817,7 @@
     "Question": "How much is the City of Tulsa directly investing in utility system infrastructure for FY23?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "The FY23 Capital Budget \"provides $49.8 million for water treatment plant work, supply system repairs, water line replacement and relocation projects. Additionally, $33.4 million will be used for sewer treatment plants, pipe replacement and other system work. Storm water will receive $5.4 million for storm water pipe extensions, drainage improvements associated with roadway projects, small critical drainage projects and detention pond rehabilitation\".\n",
+    "Answer": "The FY23 Capital Budget \n> ...provides $49.8 million for water treatment plant work, supply system repairs, water line replacement and relocation projects. Additionally, $33.4 million will be used for sewer treatment plants, pipe replacement and other system work. Storm water will receive $5.4 million for storm water pipe extensions, drainage improvements associated with roadway projects, small critical drainage projects and detention pond rehabilitation.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -840,7 +840,7 @@
     "Question": "How is the City of Tulsa using realized and anticipated tax revenue from the \"Vision Tulsa\" economic development capital program? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "According to Tulsa's FY23 budget presentation, \"the City has now received over five years of collections from the sales tax approved by voters in April 2016 for the Vision Tulsa economic development capital program which is set at 0.805% for the next three years. Implementation of the project scheduling and financing plan continues. All of the planned revenue bond sales have been completed totaling $346.6 million to provide advance funding for 26 projects. The $510 million program will last 15 years. Directly funded projects total $65.3 million in the proposed budget for nine projects, with the largest allocation going toward debt service.\"\n",
+    "Answer": "According to Tulsa's FY23 budget presentation, \n> The City has now received over five years of collections from the sales tax approved by voters in April 2016 for the Vision Tulsa economic development capital program which is set at 0.805% for the next three years. Implementation of the project scheduling and financing plan continues. All of the planned revenue bond sales have been completed totaling $346.6 million to provide advance funding for 26 projects. The $510 million program will last 15 years. Directly funded projects total $65.3 million in the proposed budget for nine projects, with the largest allocation going toward debt service.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -861,7 +861,7 @@
     "Question": "Where is the City of Tulsa prioritizing cash investment for capital improvement projects over the next five years? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "The City's Capital Plan \"focuses on projects that should be considered for funding in the next five years, totaling **$553.6 million**. Close to two thirds (2/3) of the projects are renewal of existing infrastructure with the balance supporting growth. **The plan is dedicated to utility system projects** over the next five years as other recently approved capital programs have funded the majority of the City’s other capital needs\".\n",
+    "Answer": "The City's Capital Plan \n> ...Focuses on projects that should be considered for funding in the next five years, totaling **$553.6 million**. Close to two thirds (2/3) of the projects are renewal of existing infrastructure with the balance supporting growth. **The plan is dedicated to utility system projects** over the next five years as other recently approved capital programs have funded the majority of the City’s other capital needs.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -882,7 +882,7 @@
     "Question": "How much debt does the City of Tulsa plan to incur in FY23 in the form of general obligation bonds, and for what purpose? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "According to Tulsa's FY23 budget presentation, \"during the upcoming fiscal year, the City anticipates undertaking an issuance of** $117.4 millio**n in general obligation bonds**. **All funds will go toward** street project**s authorized in the 2014 Improve Our Tulsa program and 2020 Improve Our Tulsa II program. Some** $14.8 million in bonds and loans will finance sanitary sewer and storm water project**s that include concrete pipe replacement, interceptor rehabilitation, sewer line rehabilitation and a storm water outfall line from Hager Creek to the Arkansas River. Funds will be appropriated by budget amendment upon completion of each bond sale. Taken together, these** **bond sales will add **$132.1 million **in additional funds to the capital budget, bringing the amended total to** $253.5 millio**n.\" \n",
+    "Answer": "According to Tulsa's FY23 budget presentation, \n> During the upcoming fiscal year, the City anticipates undertaking an issuance of** $117.4 millio**n in general obligation bonds**. **All funds will go toward** street project**s authorized in the 2014 Improve Our Tulsa program and 2020 Improve Our Tulsa II program. Some** $14.8 million in bonds and loans will finance sanitary sewer and storm water project**s that include concrete pipe replacement, interceptor rehabilitation, sewer line rehabilitation and a storm water outfall line from Hager Creek to the Arkansas River. Funds will be appropriated by budget amendment upon completion of each bond sale. Taken together, these** **bond sales will add **$132.1 million **in additional funds to the capital budget, bringing the amended total to** $253.5 millio**n.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -963,7 +963,7 @@
     "Question": "How does Tulsa's FY23 budget contribute to memorializing the victims of the 1921 race massacre? ",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "According to Tulsa's FY23 budget presentation, \"this budget includes $1 million to continue the search for the graves of victims of the massacre, including funds for additional excavation and DNA analysis following recommendations from technical experts\".\n",
+    "Answer": "According to Tulsa's FY23 budget presentation, \n> This budget includes $1 million to continue the search for the graves of victims of the massacre, including funds for additional excavation and DNA analysis following recommendations from technical experts.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1091,7 +1091,7 @@
     "Question": "What happens if the City of Tulsa has surplus funds left over at the end of the fiscal year? Can officials \"roll\" those funds over into their calculations for the upcoming fiscal year?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "State law and municipal policy aim to prevent a significant budget surplus or deficit by mandating that municipal officials adopt a _balanced_ annual budget. According to City of Tulsa budget policy, \"It shall be the goal of the City that current operating revenues will be sufficient to support current operating expenses and** in no case shall more than five percent (5%) of the operating budget be supported using prior year's fund balances\".**\n",
+    "Answer": "State law and municipal policy aim to prevent a significant budget surplus or deficit by mandating that municipal officials adopt a _balanced_ annual budget. According to City of Tulsa budget policy, \n> It shall be the goal of the City that current operating revenues will be sufficient to support current operating expenses and** in no case shall more than five percent (5%) of the operating budget be supported using prior year's fund balances.**\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1135,7 +1135,7 @@
     "Question": "What are Tulsa's policies regarding how city officials manage financial risk?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Municipal budget policy states the following.\n\n- \"The City will operate a risk management program to provide for protection against loss and a reduction in exposure to liability. Such program shall include an employee safety training program to minimize financial losses to the City\".\n- \"The City will establish a self-insurance program to provide for protection against major losses and will purchase excess coverage insurance to cover catastrophic losses where appropriate\".\n",
+    "Answer": "Municipal budget policy states the following:\n- \"The City will operate a risk management program to provide for protection against loss and a reduction in exposure to liability. Such program shall include an employee safety training program to minimize financial losses to the City\".\n- \"The City will establish a self-insurance program to provide for protection against major losses and will purchase excess coverage insurance to cover catastrophic losses where appropriate\".\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1156,7 +1156,7 @@
     "Question": "What are the policies governing procurement and purchasing for the City of Tulsa?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "Municipal budget policy requires the City of Tulsa to operate a consolidated Purchasing and Procurement System, which \"...shall encourage full and open competition\" on all purchases and sales of surplus property via competitive bidding whenever possible.\n",
+    "Answer": "Municipal budget policy requires the City of Tulsa to operate a consolidated Purchasing and Procurement System, which \"...shall encourage full and open competition\" on all purchases and sales of surplus property via competitive bidding whenever possible.\"\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -1198,7 +1198,7 @@
     "Question": "How does the City of Tulsa manage receivable debt owed by outside parties?",
     "Contributor": "Dan",
     "Public": true,
-    "Answer": "According to municipal budget policy regarding revenue management, \"The City of Tulsa will neither begin business activity nor continue to engage in business activity with an entity that owes the City funds from a delinquent debt. The City, at its discretion, may choose to extend credit for certain obligations. However, \"if payment is not timely, the City reserves the right to refuse future credit as well as take necessary legal action to obtain payment of the debt and collection costs.\" \n",
+    "Answer": "According to municipal budget policy regarding revenue management, \"The City of Tulsa will neither begin business activity nor continue to engage in business activity with an entity that owes the City funds from a delinquent debt\". The City, at its discretion, may choose to extend credit for certain obligations. However, \"if payment is not timely, the City reserves the right to refuse future credit as well as take necessary legal action to obtain payment of the debt and collection costs.\" \n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -3254,10 +3254,10 @@
   },
   {
     "id": "recq5W9EHslVikUs4",
-    "Question": "Can the City of Tulsa levy and collect special assessments for benefits conferred?",
+    "Question": "Can the City of Tulsa place additional taxes on homeowners for the purposes of funding specific projects in the area?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.**\n",
+    "Answer": "**Yes**.** In legalese, this is referred to as the City of Tulsa's ability to \"**levy and collect special assessments for benefits conferred\".\n",
     "Concepts": [
       "recxdOAhjRYEtGBIR",
       "reck7kIoxu2H5u0Iy"
@@ -3279,7 +3279,11 @@
     ],
     "QA Code": "Samuel_Code_007",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection G_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recGdKM2iFzCiNkBa",
@@ -3293,7 +3297,11 @@
     ],
     "QA Code": "Samuel_Code_008",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection I_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "policies & regulations"
+    ]
   },
   {
     "id": "recTxTS6OeaARRqxU",
@@ -3307,7 +3315,10 @@
     ],
     "QA Code": "Samuel_Code_009",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection J_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recspldZP1nlzy52h",
@@ -3322,14 +3333,17 @@
     ],
     "QA Code": "Samuel_Code_010",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recdtjtiCncpMuELo",
     "Question": "Who can the City of Tulsa enter into agreements with?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "The City of Tulsa may \"enter into agreements with the State of Oklahoma; with another state or municipality; with any subdivision or agency thereof; with the federal government or any agency thereof; with private corporations, partnerships or individuals, or any combination thereof; and to exercise jointly all powers, privileges, and authority conferred upon the City of Tulsa by this amended Charter or by the laws of Oklahoma\".\n",
+    "Answer": "The City of Tulsa may \n> ...enter into agreements with the State of Oklahoma; with another state or municipality; with any subdivision or agency thereof; with the federal government or any agency thereof; with private corporations, partnerships or individuals, or any combination thereof; and to exercise jointly all powers, privileges, and authority conferred upon the City of Tulsa by this amended Charter or by the laws of Oklahoma.\n",
     "Concepts": [
       "recbMhrS5udASHOL1",
       "recSGySDo7WKcIwRl",
@@ -3342,14 +3356,17 @@
     ],
     "QA Code": "Samuel_Code_011",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection K_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recJyjW3gvNTDzkyN",
     "Question": "What powers does the City of Tulsa have with respect to waterports?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "The City of Tulsa may \"acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits\".\n",
+    "Answer": "The City of Tulsa may \n> ...acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits.\n",
     "Concepts": [
       "recxdOAhjRYEtGBIR",
       "rec6jAl0sv1feJZPs",
@@ -3357,14 +3374,17 @@
     ],
     "QA Code": "Samuel_Code_012",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recnW9By7HRQdAN1n",
     "Question": "What powers does the City of Tulsa have with respect to airports and air navigation facilities?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "The City of Tulsa may \"acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits\".\n",
+    "Answer": "The City of Tulsa may \n> ...acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits.\n",
     "Concepts": [
       "recxdOAhjRYEtGBIR",
       "recS9VqXREVYUBP7z",
@@ -3372,7 +3392,10 @@
     ],
     "QA Code": "Samuel_Code_013",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection L_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recd8ZE3SOb02ZwLh",
@@ -3385,7 +3408,11 @@
     ],
     "QA Code": "Samuel_Code_014",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection M_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec3I363fvWW148T2",
@@ -3400,7 +3427,11 @@
     ],
     "QA Code": "Samuel_Code_015",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection N_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "policies & regulations"
+    ]
   },
   {
     "id": "recIhxRTYHzhHOkCj",
@@ -3414,7 +3445,10 @@
     ],
     "QA Code": "Samuel_Code_016",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection O_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reccZDwuvvRKOWzLW",
@@ -3429,7 +3463,10 @@
     ],
     "QA Code": "Samuel_Code_017",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 1 - Creation and Function_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec99Jx7gE8SQRKU9",
@@ -3445,14 +3482,17 @@
     ],
     "QA Code": "Samuel_Code_018",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec19A4qL1Ddrc7a6",
     "Question": "Can Tulsa's City Council vote to change its own salary?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "No. Prior to December 1st, 2014, this was not the case. Tulsa's City Council could change their salary by majority vote to go into effect after \"the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term\".\n",
+    "Answer": "**No.** Prior to December 1st, 2014, this was not the case. Tulsa's City Council could change their salary by majority vote to go into effect after \n> ...the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3462,14 +3502,17 @@
     ],
     "QA Code": "Samuel_Code_019",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec9TbZ4sOfNr41Gt",
     "Question": "Are Tulsa's City Councilors reimbursed for expenses incurred in the performance of their duties?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"Councilors may be reimbursed for expenses incurred in the performance of their duties\".\n",
+    "Answer": "**Yes.** \"Councilors may be reimbursed for expenses incurred in the performance of their duties\".\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
@@ -3477,7 +3520,10 @@
     ],
     "QA Code": "Samuel_Code_020",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recBMe6cXMvNTvemj",
@@ -3492,7 +3538,10 @@
     ],
     "QA Code": "Samuel_Code_021",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recV1NGVvYjXsiBKM",
@@ -3508,7 +3557,10 @@
     ],
     "QA Code": "Samuel_Code_022",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recf0ryGoDG3jEzsp",
@@ -3524,7 +3576,10 @@
     ],
     "QA Code": "Samuel_Code_023",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recZ4n6AUIJ0Ko0pm",
@@ -3540,7 +3595,10 @@
     ],
     "QA Code": "Samuel_Code_024",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rectU1pwt8qsoVWOv",
@@ -3556,7 +3614,10 @@
     ],
     "QA Code": "Samuel_Code_025",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.1 - Meetings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recPRhnZHJKzKejn1",
@@ -3574,7 +3635,10 @@
     ],
     "QA Code": "Samuel_Code_026",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recZdIUA7H1Osj5N2",
@@ -3589,7 +3653,10 @@
     ],
     "QA Code": "Samuel_Code_027",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.2 - Civil Emergencies_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec2JgSrbjUMIUk5z",
@@ -3604,7 +3671,10 @@
     ],
     "QA Code": "Samuel_Code_028",
     "Source": "\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recNCBZjH7n7v19CU",
@@ -3621,7 +3691,10 @@
     ],
     "QA Code": "Samuel_Code_029",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 3.3 - Open Meetings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recVTBqVF05rHDqU4",
@@ -3634,7 +3707,10 @@
     ],
     "QA Code": "Samuel_Code_030",
     "Source": "\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recN0icK4snpPTgPb",
@@ -3650,7 +3726,10 @@
     ],
     "QA Code": "Samuel_Code_031",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec9qxJGbqTxskUt5",
@@ -3665,7 +3744,10 @@
     ],
     "QA Code": "Samuel_Code_032",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rechQA8rvXHXISFh2",
@@ -3683,7 +3765,10 @@
     ],
     "QA Code": "Samuel_Code_033",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec8dJ2DJyxY9UTGK",
@@ -3700,14 +3785,17 @@
     ],
     "QA Code": "Samuel_Code_034",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "receT1bJaQ85jTJkX",
     "Question": "Can Tulsa's City Council fine persons for disorderly conduct at a Council meeting?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"\n",
+    "Answer": "**Yes.** \n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3718,14 +3806,17 @@
     ],
     "QA Code": "Samuel_Code_035",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recT9LzcnQau9F8yn",
     "Question": "Can Tulsa's City Council fine persons for violation of council rules?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor\"\n",
+    "Answer": "**Yes.**\n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3735,7 +3826,10 @@
     ],
     "QA Code": "Samuel_Code_036",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recgsD7FTLAPRdtda",
@@ -3752,7 +3846,10 @@
     ],
     "QA Code": "Samuel_Code_037",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reccKNrXkFZuRcUOg",
@@ -3769,7 +3866,10 @@
     ],
     "QA Code": "Samuel_Code_038",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 4 - Rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recIFX9E7eyXzivSm",
@@ -3786,7 +3886,10 @@
     ],
     "QA Code": "Samuel_Code_039",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 5 - Chairman_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recbxyi0mWJZgy5ug",
@@ -3802,7 +3905,10 @@
     ],
     "QA Code": "Samuel_Code_040",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 5 - Chairman_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec7hWblgWTNaz3fA",
@@ -3818,7 +3924,10 @@
     ],
     "QA Code": "Samuel_Code_041",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recHBGL86X00WgBGI",
@@ -3835,7 +3944,10 @@
     ],
     "QA Code": "Samuel_Code_042",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.1 - Judge of Qualifications_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recTW00UExSnnNQ0X",
@@ -3851,7 +3963,10 @@
     ],
     "QA Code": "Samuel_Code_043",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recqCXkT9BEA4Ujbc",
@@ -3867,7 +3982,10 @@
     ],
     "QA Code": "Samuel_Code_044",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.2 - Quorum and voting_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recI9hhWolXMWZInc",
@@ -3889,14 +4007,17 @@
     ],
     "QA Code": "Samuel_Code_045",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 6.3 - Voting on zoning changes involving protests_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recJhuEB9AzgYUC2c",
     "Question": "What must occur prior to Tulsa City Council's expenditure of general funds?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein\".\n",
+    "Answer": "> The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3908,14 +4029,17 @@
     ],
     "QA Code": "Samuel_Code_046",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recEzaBNMAdt0bQ2c",
     "Question": "What must occur prior to Tulsa City Council's expenditure of funds from the sale or issuance of an obligation of the city, or from any other source?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein\". The special treatement of the 2017 Public Safety Sales Tax was the result of an amendment supported by 6,602 Tulsans. 3,640 Tulsans voted against the amendment.\n",
+    "Answer": "> The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein. \nThe special treatment of the 2017 Public Safety Sales Tax was the result of an amendment supported by 6,602 Tulsans. 3,640 Tulsans voted against the amendment.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3927,14 +4051,17 @@
     ],
     "QA Code": "Samuel_Code_047",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.1 - Budgets_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recEbVluDWBTk6MvJ",
     "Question": "What public hearings must City Council hold upon receipt of budgets from the Mayor?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "At least one public hearing, during which \"any citizen of the city shall be given an opportunity to be heard on the budgets or any item or program reccommended therein. After public hearing, the Council may adopt a budget or amendments. The Council may add, delete, increase, or decrease programs or amounts, except expenditures required by law\".\n",
+    "Answer": "At least one public hearing, during which \n> ...any citizen of the city shall be given an opportunity to be heard on the budgets or any item or program recommended therein. After public hearing, the Council may adopt a budget or amendments. The Council may add, delete, increase, or decrease programs or amounts, except expenditures required by law.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3948,7 +4075,10 @@
     ],
     "QA Code": "Samuel_Code_048",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recsc2NopBFYEIkTO",
@@ -3967,14 +4097,17 @@
     ],
     "QA Code": "Samuel_Code_049",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.2 - Action on Budgets_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recrjcT3yucDREUEy",
     "Question": "Can Tulsa's City Council establish additional procedures for the preparation, adoption, and amendment of budgets?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may establish by ordinance additional procedures for the preparation, adoption, and amendment of budgets, for the transfer of appropriations, and for supplemental and emergency appropriations which are not in conflict with the provisions of this amended Charter or with the laws of Oklahoma\"\n",
+    "Answer": "**Yes.** \n> The Council may establish by ordinance additional procedures for the preparation, adoption, and amendment of budgets, for the transfer of appropriations, and for supplemental and emergency appropriations which are not in conflict with the provisions of this amended Charter or with the laws of Oklahoma.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recxdOAhjRYEtGBIR",
@@ -3985,7 +4118,10 @@
     ],
     "QA Code": "Samuel_Code_050",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.3 - Additional procedures_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec3DfrbS7vyX9HcT",
@@ -4002,14 +4138,18 @@
     ],
     "QA Code": "Samuel_Code_051",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.4 - Economic stabilization reserve created_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recfNzcg0IAtftZe9",
     "Question": "Where are revenues in excess of the projected General Fund to be allocated?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"If the City Treasurer projects that total General Fund revenues for the upcoming budget year will exceed the total General Fund revenues for the current budget year by more than four percent (4%), the budget submitted by the Mayor and approved by the City Council shall allocate the excess General Fund revenues as follows:\n\nA. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n\nB. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n\nC. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n\nThe Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues\". \"The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve\". This must be conducted in accordance with the provisions of section B. However, for any of the aformentioned to go into effect, projected revenues must initially exceed $250,000, per section 7.10 of the City Charter.\n",
+    "Answer": "> If the City Treasurer projects that total General Fund revenues for the upcoming budget year will exceed the total General Fund revenues for the current budget year by more than four percent (4%), the budget submitted by the Mayor and approved by the City Council shall allocate the excess General Fund revenues as follows: \n> A. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n> B. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n> C. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n> The Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues. \n\n> The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve.\nThis must be conducted in accordance with the provisions of section B. However, for any of the aformentioned to go into effect, projected revenues must initially exceed $250,000, per section 7.10 of the City Charter.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recALrXDVs83Qf9QT",
@@ -4021,7 +4161,11 @@
     ],
     "QA Code": "Samuel_Code_052",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recv6SfORNkvvGZFh",
@@ -4040,7 +4184,11 @@
     ],
     "QA Code": "Samuel_Code_053",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.5 - Allocations to the economic stabilization reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recKI2ljxk30sljQH",
@@ -4059,7 +4207,11 @@
     ],
     "QA Code": "Samuel_Code_054",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recidhOdgYBwZGr4D",
@@ -4078,14 +4230,18 @@
     ],
     "QA Code": "Samuel_Code_055",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.6 - Use of monies allocated to capital or other one-time expenditures_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recspUm1ijTd6LFwG",
     "Question": "For what may the Mayor and City Council use funds allocated to general purpose?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Mayor and the City Council may, at any time, appropriate monies from the general purpose allocation for any lawful municipal purpose\".\n",
+    "Answer": "> The Mayor and the City Council may, at any time, appropriate monies from the general purpose allocation for any lawful municipal purpose.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recALrXDVs83Qf9QT",
@@ -4096,14 +4252,18 @@
     ],
     "QA Code": "Samuel_Code_056",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.7 - Use of monies allocated for general purposes_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recTjmf7h0JsMBHep",
     "Question": "Under what conditions may the budget submitted by the Mayor and approved by Tulsa's City Council appropriate up to 50% of the current balance in the Economic Stabilization Reserve for any lawful municipal purpose?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"If the City Treasurer projects that total General Fund revenues for the upcoming budget year will either (a) be less than the current budget year's total General Fund revenues, or (b) be less than the highest of any other previous year's total General Fund revenues, the budget submitted by the Mayor and approved by the Council may appropriate up to fifty percent (50%) of the current balance in the Economic Stabilization Reserve, but no more than the shortfall in total General Fund revenues as determined above, to be used for any lawful municipal purpose in the upcoming budget year. For purposes of calculating any shortfall:\n\nA. If the trigger for withdrawals from the reserve was not met in the current budget year, the City Treasurer shall calculate the shortfall for the upcoming budget year by subtracting the total projected General Fund revenues for the upcoming budget year from the total projected General Fund revenues for the current budget year.\n\nB. If the trigger for withdrawals from the Economic Stabilization Reserve was met in the current budget year, the shortfall shall be calculated by subtracting the total projected General Fund revenues for the upcoming budget year from the highest of any previous year's total General Fund revenues\". As outlined in Section 7.9 of the City Charter, the City may withdraw the percentage of negative growth in the Consumer Price Index if the City Treasurer projects that the Consumer Price Index for the upcoming budget year will be less than the index for the current budget year.\n",
+    "Answer": "> If the City Treasurer projects that total General Fund revenues for the upcoming budget year will either (a) be less than the current budget year's total General Fund revenues, or (b) be less than the highest of any other previous year's total General Fund revenues, the budget submitted by the Mayor and approved by the Council may appropriate up to fifty percent (50%) of the current balance in the Economic Stabilization Reserve, but no more than the shortfall in total General Fund revenues as determined above, to be used for any lawful municipal purpose in the upcoming budget year. For purposes of calculating any shortfall:\n> A. If the trigger for withdrawals from the reserve was not met in the current budget year, the City Treasurer shall calculate the shortfall for the upcoming budget year by subtracting the total projected General Fund revenues for the upcoming budget year from the total projected General Fund revenues for the current budget year.\n> B. If the trigger for withdrawals from the Economic Stabilization Reserve was met in the current budget year, the shortfall shall be calculated by subtracting the total projected General Fund revenues for the upcoming budget year from the highest of any previous year's total General Fund revenues. \n\nAs outlined in Section 7.9 of the City Charter, the City may withdraw the percentage of negative growth in the Consumer Price Index if the City Treasurer projects that the Consumer Price Index for the upcoming budget year will be less than the index for the current budget year.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec9waV3GVmUG4v9L",
@@ -4112,7 +4272,11 @@
     ],
     "QA Code": "Samuel_Code_057",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.8 - Withdrawals from the economic stabilization reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "reclX64XyLqLyBccN",
@@ -4130,7 +4294,11 @@
     ],
     "QA Code": "Samuel_Code_058",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec2pPMYrzFv3tN4a",
@@ -4150,14 +4318,18 @@
     ],
     "QA Code": "Samuel_Code_059",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "reckg2u8lYxRiR9Id",
     "Question": "Under what conditions are allocations to the Economic Stabilization Reserve by the City of Tulsa triggered by a Consumer Price Index growth rate percentage (plus 2%) rather than the City Treasurer's projections that the total General Fund revenues for the upcoming budget year will exceed the total General Fund revenues for the current budget year by more than 4%?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "When the City Treasurer projects that the Consumer Price Index for the upcoming budget year will exceed the index for the current budget year by more than five percent (5%). When this happens, the following allocations are triggered: \nA. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n\nB. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n\nC. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n\nThe Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues\". \"The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve\". This must be conducted in accordance with the provisions of section B.\n",
+    "Answer": "When the City Treasurer projects that the Consumer Price Index for the upcoming budget year will exceed the index for the current budget year by more than five percent (5%). When this happens, the following allocations are triggered: \nA. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n\nB. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n\nC. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n\nThe Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues\". \"The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve\". \nThis must be conducted in accordance with the provisions of section B.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec9waV3GVmUG4v9L",
@@ -4170,7 +4342,11 @@
     ],
     "QA Code": "Samuel_Code_060",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "rec6vh6TrFjUmFeM7",
@@ -4189,11 +4365,15 @@
     ],
     "QA Code": "Samuel_Code_061",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recdCamvwKlJcatpI",
-    "Question": "Who is responsible for rebalancing the allocations to or withdrawls from the Economic Stabilization Reserve, Capital, Other One-Time Expenditures, or Operating Reserve with actual revenue results (as state in the City of Tulsa's independent annual audit) in conjunection with the annual year-end of close of the budget?",
+    "Question": "Who is responsible for rebalancing the allocations to or withdrawals from the Economic Stabilization Reserve, Capital, Other One-Time Expenditures, or Operating Reserve with actual revenue results (as stated in the City of Tulsa's independent annual audit) in conjunction with the annual year-end of close of the budget?",
     "Contributor": "Samuel",
     "Public": true,
     "Answer": "The City Treasurer.\n",
@@ -4208,7 +4388,11 @@
     ],
     "QA Code": "Samuel_Code_062",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 7.9 - Adjustments to allocations to the economic stabilization reserve, capital, other one-time expenditures, or the operating reserve._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recuWHA3iHE79fvAO",
@@ -4225,14 +4409,17 @@
     ],
     "QA Code": "Samuel_Code_063",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec6SBDNK5JI26Dln",
     "Question": "Which ordinances must be confined to one subject?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title\"\n",
+    "Answer": "> All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4242,14 +4429,17 @@
     ],
     "QA Code": "Samuel_Code_064",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reckKii2LW5m97tDw",
     "Question": "Must ordinances be clearly expressed in the title of the ordinance?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title\"\n",
+    "Answer": "**Yes.** \n> All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4259,14 +4449,17 @@
     ],
     "QA Code": "Samuel_Code_065",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recpHYt2lOwEEF0BV",
     "Question": "Can ordinances that involve adopting budgets or making appropriations involve anything else?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**No.** \"Ordinances adopting budgets and making appropriations shall be confined to budgets and appropriations\"\n",
+    "Answer": "**No.** \n> Ordinances adopting budgets and making appropriations shall be confined to budgets and appropriations.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4277,7 +4470,10 @@
     ],
     "QA Code": "Samuel_Code_066",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recLV3LnvqdegOJoy",
@@ -4294,7 +4490,10 @@
     ],
     "QA Code": "Samuel_Code_067",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recOXIYuh7Rtab6da",
@@ -4311,7 +4510,10 @@
     ],
     "QA Code": "Samuel_Code_068",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec6va1lh2LBGFB49",
@@ -4328,7 +4530,10 @@
     ],
     "QA Code": "Samuel_Code_069",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recpthUlJ6BuTMwer",
@@ -4345,7 +4550,10 @@
     ],
     "QA Code": "Samuel_Code_070",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 8 - Procedures on ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recOwoV1vjiYKeivd",
@@ -4363,14 +4571,17 @@
     ],
     "QA Code": "Samuel_Code_071",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec4Edp6L9rClmdap",
     "Question": "How many votes are needed in Tulsa's City Council to overturn a Mayor's veto of an ordinance?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "2/3rds of the entire membership of Tulsa's City Council are required to overturn a Mayor's veto. Once this vote takes place, the ordinance goes into effect as if supported by the Mayor.\n",
+    "Answer": "Two-thirds (⅔) of the entire membership of Tulsa's City Council are required to overturn a Mayor's veto. Once this vote takes place, the ordinance goes into effect as if supported by the Mayor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4381,14 +4592,17 @@
     ],
     "QA Code": "Samuel_Code_072",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recfbiYlKz7UHnw1C",
     "Question": "How long does Tulsa's City Council have to wait after the Mayor vetos an ordinance before the Council can vote to overturn the veto?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "Seven days, ...\"after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor\"\n",
+    "Answer": "Seven days, \n> ...after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4399,14 +4613,17 @@
     ],
     "QA Code": "Samuel_Code_073",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recN1uqVTS4pZqnT7",
     "Question": "If Tulsa's City Council fails to overturn the Mayor's veto on a given ordinance, how long must the Council wait before the ordinance can be reconsidered?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**90 days.** \"If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period\".\n",
+    "Answer": "**90 days.** \n> If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4417,7 +4634,10 @@
     ],
     "QA Code": "Samuel_Code_074",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recJNNl1QCAtbnA5q",
@@ -4436,14 +4656,17 @@
     ],
     "QA Code": "Samuel_Code_075",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reczAl7vOqNBmJo0C",
     "Question": "How many votes are needed in Tulsa's City Council to adopt an ordinance as an emergency measure? ",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "2/3rds of the entire membership of the Council. \"Further,  An ordinance or resolution adopted as an emergency measure to provide for the immediate preservation of the public peace, health, welfare, or safety shall describe the emergency in a separate section\".\n",
+    "Answer": "Two-thirds (⅔) of the entire membership of the Council are required. Further,  \n> An ordinance or resolution adopted as an emergency measure to provide for the immediate preservation of the public peace, health, welfare, or safety shall describe the emergency in a separate section.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4454,7 +4677,10 @@
     ],
     "QA Code": "Samuel_Code_076",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 10 - Approval or veto of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recTn3AyUsJ1ibicW",
@@ -4472,14 +4698,17 @@
     ],
     "QA Code": "Samuel_Code_077",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reckA9BJY7gm6wJSw",
     "Question": "How long does the City of Tulsa have after an ordinance is adopted to be published in a newspaper of general circulation?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "10 days. \"Ordinances and resolutions shall be published in a newspaper of general circulation within the city within ten (10) days after approval. Codifications of ordinances and codes of law adopted by reference need not be published in full unless otherwise provided by the Council\".\n",
+    "Answer": "**10 days.** \n> Ordinances and resolutions shall be published in a newspaper of general circulation within the city within ten (10) days after approval. Codifications of ordinances and codes of law adopted by reference need not be published in full unless otherwise provided by the Council.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4491,14 +4720,17 @@
     ],
     "QA Code": "Samuel_Code_078",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 11 - Recording and publication of ordinances and resolutions._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recAm60N924MH9Z5x",
     "Question": "What is permitted to be omitted from the Code of Ordinances?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"Titles, enacting clauses, emergency sections, and temporary and special ordinances may be omitted from the code. Ordinances and parts of ordinances which are to be repealed by the adoption of a revised code may be omitted. A revised code may contain new matter\".\n",
+    "Answer": "> Titles, enacting clauses, emergency sections, and temporary and special ordinances may be omitted from the code. Ordinances and parts of ordinances which are to be repealed by the adoption of a revised code may be omitted. A revised code may contain new matter.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4512,7 +4744,10 @@
     ],
     "QA Code": "Samuel_Code_079",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recqnOIKAmNbYEoy2",
@@ -4533,7 +4768,10 @@
     ],
     "QA Code": "Samuel_Code_080",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recSaLFbktsqMQLz7",
@@ -4553,14 +4791,17 @@
     ],
     "QA Code": "Samuel_Code_081",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 12 - Codification of Ordinances_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec3Gdqrld0Bqkpe7",
     "Question": "May Tulsa's City Council prescribe imprisonment as a punishment for the violation of ordinances?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment\".\n",
+    "Answer": "**Yes.** \n> The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4572,14 +4813,17 @@
     ],
     "QA Code": "Samuel_Code_082",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec1KvYGWS0yxpQ7J",
     "Question": "May Tulsa's City Council prescribe fines as a punishment for the violation of ordinances?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment\".\n",
+    "Answer": "**Yes.** \n> The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4591,14 +4835,17 @@
     ],
     "QA Code": "Samuel_Code_083",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recQTitE6nlxInoQS",
     "Question": "May Tulsa's City Council prescribe penalites as a punishment for the violation of ordinances?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment\".\n",
+    "Answer": "**Yes.** \n> The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4609,14 +4856,17 @@
     ],
     "QA Code": "Samuel_Code_084",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 13 - Penalties for violation of ordinances._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recx4gdgYZkazERi6",
     "Question": "How must Tulsa's City Council provide for review of the amended City Charter?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "By ordinance. \"The Council shall provide by ordinance for the periodic review of this amended Charter and shall submit to the qualified electors of the city amendments necessary to provide for representative, efficient, and economical administration of city government\".\n",
+    "Answer": "**By ordinance.** \n> The Council shall provide by ordinance for the periodic review of this amended Charter and shall submit to the qualified electors of the city amendments necessary to provide for representative, efficient, and economical administration of city government.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4627,14 +4877,17 @@
     ],
     "QA Code": "Samuel_Code_085",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 14 - Charter Review._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recOTqXp5EXhSgHUt",
     "Question": "Are the legislative powers of Tulsa's City Council subordinate and subject to the rights of initiative and referendum reserved to the people by the Constitution of Oklahoma?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"All legislative powers vested by this amended Charter in the Council are subordinate and subject to the rights of initiative and referendum reserved to the people by the Constitution of Oklahoma\".\n",
+    "Answer": "**Yes.** \n> All legislative powers vested by this amended Charter in the Council are subordinate and subject to the rights of initiative and referendum reserved to the people by the Constitution of Oklahoma.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
@@ -4645,14 +4898,17 @@
     ],
     "QA Code": "Samuel_Code_086",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 15 - Initiative and Referendum_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec6agCZvMp8gPJvx",
     "Question": "By what means does Tulsa's City Council review administrative actions?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**By ordinance.** \"The Council shall provide by ordinance for the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals by the divisions, departments, and agencies of the city. Except when otherwise provided by the laws of Oklahoma, the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals shall be subject to review by the Council, upon petition by an aggrieved person, in accord with procedures which the Council shall establish by ordinance. The Council may not abrogate any right of review by a court of competent jurisdiction\".\n",
+    "Answer": "**By ordinance.** \n> The Council shall provide by ordinance for the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals by the divisions, departments, and agencies of the city. Except when otherwise provided by the laws of Oklahoma, the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals shall be subject to review by the Council, upon petition by an aggrieved person, in accord with procedures which the Council shall establish by ordinance. The Council may not abrogate any right of review by a court of competent jurisdiction.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4663,14 +4919,17 @@
     ],
     "QA Code": "Samuel_Code_087",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec8GbxgCBR62szM2",
     "Question": "Can Tulsa's City Council abrogate any right of review by a court of competent jurisdiction with respect to administrative review?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**No.** \"The Council may not abrogate any right of review by a court of competent jurisdiction\".\n",
+    "Answer": "**No.** \n> The Council may not abrogate any right of review by a court of competent jurisdiction.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4681,14 +4940,17 @@
     ],
     "QA Code": "Samuel_Code_088",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 16 - Review of Administrative Actions_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recLHIqht7i85m0SZ",
     "Question": "Concerning investigations and hearings, must City Council hear complaints made by citizens concerning the administration of city government?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council shall hear complaints made by citizens concerning the administration of the city government\".\n",
+    "Answer": "**Yes.** \n> The Council shall hear complaints made by citizens concerning the administration of the city government.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4701,14 +4963,17 @@
     ],
     "QA Code": "Samuel_Code_089",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec7qQNL5eoBEBEQE",
     "Question": "May Tulsa's City Council investigate the conduct of the city government?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may investigate the conduct of the city government and may make appraisals, comments, and recommendations to the Mayor on the efficiency, economy, and effectiveness of administrative practices, methods, systems, and controls\".\n",
+    "Answer": "**Yes.** \n> The Council may investigate the conduct of the city government and may make appraisals, comments, and recommendations to the Mayor on the efficiency, economy, and effectiveness of administrative practices, methods, systems, and controls.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4720,14 +4985,17 @@
     ],
     "QA Code": "Samuel_Code_090",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recdJrN1x0JpYYo0n",
     "Question": "May Tulsa's City Council subpoena witnesses as necessary for the discharge of the duties of the Council?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".\n",
+    "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4741,14 +5009,17 @@
     ],
     "QA Code": "Samuel_Code_091",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recOQp0s4XOFs0KrX",
     "Question": "May Tulsa's City Council administer oaths as necessary for the discharge of the duties of the Council?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".\n",
+    "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4762,14 +5033,17 @@
     ],
     "QA Code": "Samuel_Code_092",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reckQWECybWld6rnp",
     "Question": "May Tulsa's City Council compel testimony as necessary for the discharge of the duties of the Council?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".\n",
+    "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4783,14 +5057,17 @@
     ],
     "QA Code": "Samuel_Code_093",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recsd9BbINgd62YMY",
     "Question": "May Tulsa's City Council compel the production of books, papers, or other evidence necessary for the discharge of the duties of the Council?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council\".\n",
+    "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4803,14 +5080,17 @@
     ],
     "QA Code": "Samuel_Code_094",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recUYXctOs38ObqhU",
     "Question": "How may Tulsa's City Council provide the penalties for the contempt by any person who refuses to obey a Council order or subpoena?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**By ordinance.** \"The Council shall provide by ordinance the penalties for the contempt by any person who refuses to obey a Council order or subpoena\"\n",
+    "Answer": "**By ordinance.** \n> The Council shall provide by ordinance the penalties for the contempt by any person who refuses to obey a Council order or subpoena.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4822,14 +5102,17 @@
     ],
     "QA Code": "Samuel_Code_095",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recYZ5mRHw66YdYo2",
     "Question": "Who designates the police officers to serve orders and subpoenas issued by Tulsa's City Council?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"The Mayor shall designate police officers to serve orders and subpoenas issued by the Council\"\n",
+    "Answer": "> The Mayor shall designate police officers to serve orders and subpoenas issued by the Council\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4843,14 +5126,17 @@
     ],
     "QA Code": "Samuel_Code_096",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 17 - Investigations and Hearings_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recP08q8Yh5pUYflk",
     "Question": "May Tulsa's City Council delegate to the Mayor the authority to make rules, regulations, and orders necessary and proper to implement and administer ordinances?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The Council may delegate to the Mayor the authority to make rules, regulations, and orders necessary and proper to implement and administer ordinances\".\n",
+    "Answer": "**Yes.** \n> The Council may delegate to the Mayor the authority to make rules, regulations, and orders necessary and proper to implement and administer ordinances.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4862,14 +5148,17 @@
     ],
     "QA Code": "Samuel_Code_097",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 18 - Delegation of authority to make rules_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recERNwzNdC56lbWJ",
     "Question": "Barring investigations and hearings, through what avenues is it legal for Tulsa's City Council or individual councilors to communicate on matters of city business with the executive and administrative service?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "\"...soley through the Mayor, the heads of each division and department of the City, as well as such other persons as the Mayor shall delegate\".\n",
+    "Answer": "> ...soley through the Mayor, the heads of each division and department of the City, as well as such other persons as the Mayor shall delegate.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rech8ZnhQ6xMFXskv",
@@ -4884,14 +5173,17 @@
     ],
     "QA Code": "Samuel_Code_098",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recZLx3m4Jn3HCenn",
     "Question": "Can City Councilors give orders to the Mayor's subordinates?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "Barring the City Clerk, and the City Attorney, no. \"The Council and Councilors shall not give orders to any subordinate of the Mayor, either publicly or privately; provided, the prohibitions of this sentence shall not apply to the City Clerk and the City Attorney. Violation of this Section by any Councilor shall constitute willful maladministration and be sufficient grounds for removal from office as provided by the laws of Oklahoma\". The answer to this question is sourced from documentation concerning interference with appointments or removals.\n",
+    "Answer": "Barring the City Clerk and the City Attorney, no. \n> The Council and Councilors shall not give orders to any subordinate of the Mayor, either publicly or privately; provided, the prohibitions of this sentence shall not apply to the City Clerk and the City Attorney. Violation of this Section by any Councilor shall constitute willful maladministration and be sufficient grounds for removal from office as provided by the laws of Oklahoma. \nThe answer to this question is sourced from documentation concerning interference with appointments or removals.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
@@ -4904,14 +5196,17 @@
     ],
     "QA Code": "Samuel_Code_099",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recVwp6BMHzfQOJst",
     "Question": "How much money does a claim have to involve before the Mayor's approval and majority vote of the City Council is required?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**$1 million.** \"Where a claim is asserted against the City of Tulsa seeking to recover $1 million or more, prior to any settlement of such claim occurring, whether the total dollar amount claimed is comprised of a single claim or multiple claims arising out of a single act, accident, or the same transaction or occurrence, the settlement shall be approved by both the Mayor and by a majority vote of the entire membership of the Council\".\n",
+    "Answer": "**$1 million.** \n> Where a claim is asserted against the City of Tulsa seeking to recover $1 million or more, prior to any settlement of such claim occurring, whether the total dollar amount claimed is comprised of a single claim or multiple claims arising out of a single act, accident, or the same transaction or occurrence, the settlement shall be approved by both the Mayor and by a majority vote of the entire membership of the Council.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
@@ -4923,14 +5218,17 @@
     ],
     "QA Code": "Samuel_Code_100",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 19 - Interference with appointments or removals_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recWiAu4k37SJZBq0",
     "Question": "Are all executive powers of the City of Tulsa vested in the Mayor?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor\".\n",
+    "Answer": "**Yes.** \n> The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -4938,14 +5236,17 @@
     ],
     "QA Code": "Samuel_Code_101",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "rec4UGgHpqFAD15ob",
     "Question": "Are all administrative powers of the City of Tulsa vested in the Mayor?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes.** \"The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor\".\n",
+    "Answer": "**Yes.** \n> The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -4953,7 +5254,10 @@
     ],
     "QA Code": "Samuel_Code_102",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.1. - Mayor_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recyQKOg09pTdTh9h",
@@ -4968,14 +5272,17 @@
     ],
     "QA Code": "Samuel_Code_103",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Title 4 - Mayor, Auditor and Council. Article 1, Chapter 1, Section 100 - Salary of Mayor. From Ordinance No. 20190_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reczlfibbjwQ3S25D",
     "Question": "Who determines the salary of Tulsa's Mayor?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "City Council does. \"...the salary to be received by the Mayor may be changed by a majority vote of the entire membership of the Council; provided, no change in salary shall become effective prior to the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term\".\n",
+    "Answer": "**City Council.** \n> ...the salary to be received by the Mayor may be changed by a majority vote of the entire membership of the Council; provided, no change in salary shall become effective prior to the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -4984,14 +5291,17 @@
     ],
     "QA Code": "Samuel_Code_104",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.2. - Salary_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recDkMxHIZDdvB4DP",
     "Question": "Who acts in the Mayor's absence?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**The Temporary Mayor.** \"The Mayor shall file with the City Clerk, from time to time, a designation of one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor and perform the duties and exercise the powers of the Mayor during the absence or temporary disability of the Mayor or in the event of a vacancy in the office of the Mayor. The designation by the Mayor shall be subject to confirmation by a majority vote of the entire membership of the Council. Should the Mayor fail to file such designation, the Council shall designate one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor\".\n",
+    "Answer": "**The Temporary Mayor.** \n> The Mayor shall file with the City Clerk, from time to time, a designation of one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor and perform the duties and exercise the powers of the Mayor during the absence or temporary disability of the Mayor or in the event of a vacancy in the office of the Mayor. The designation by the Mayor shall be subject to confirmation by a majority vote of the entire membership of the Council. Should the Mayor fail to file such designation, the Council shall designate one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -5001,14 +5311,17 @@
     ],
     "QA Code": "Samuel_Code_105",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.3. - Absense, temporary disability, or vacancy_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recMXVVbs6EvfZ3Np",
     "Question": "Who is the chief executive of the City of Tulsa?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "The Mayor of Tulsa. \"The Mayor shall be the chief executive and administrative officer of the city...\".\n",
+    "Answer": "**The Mayor** of Tulsa. \n> The Mayor shall be the chief executive and administrative officer of the city...\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -5016,14 +5329,17 @@
     ],
     "QA Code": "Samuel_Code_106",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recP6llSECTYD7S3S",
     "Question": "Who is the administrative officer for the City of Tulsa?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "The Mayor of Tulsa. \"The Mayor shall be the chief executive and administrative officer of the city...\".\n",
+    "Answer": "**The Mayor** of Tulsa. \n> The Mayor shall be the chief executive and administrative officer of the city...\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -5031,14 +5347,17 @@
     ],
     "QA Code": "Samuel_Code_107",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recSO8Zd9nXKsoz6s",
     "Question": "Who has the authority to establish the City of Tulsa's policy priorities?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "The Mayor of Tulsa is to \"identify the needs and establish the objectives and priorities of the city and make recommendations to the Council for meeting the needs and achieving the objectives\".\n",
+    "Answer": "**The Mayor** of Tulsa, whose duty is to \n> ...identify the needs and establish the objectives and priorities of the city and make recommendations to the Council for meeting the needs and achieving the objectives.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -5046,7 +5365,10 @@
     ],
     "QA Code": "Samuel_Code_108",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection A_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recaYdpy5HJv6k7Fc",
@@ -5067,7 +5389,10 @@
     ],
     "QA Code": "Samuel_Code_109",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recbENlHSBN2mY7PH",
@@ -5089,7 +5414,10 @@
     ],
     "QA Code": "Samuel_Code_110",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection B_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recdREx7bAETStZ4b",
@@ -5105,7 +5433,11 @@
     ],
     "QA Code": "Samuel_Code_111",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recdU21R9YfvdK5T4",
@@ -5121,7 +5453,11 @@
     ],
     "QA Code": "Samuel_Code_112",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recfUy3p3YrMprK0X",
@@ -5138,14 +5474,18 @@
     ],
     "QA Code": "Samuel_Code_113",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection C_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "reciTexjhvBkkbOf4",
     "Question": "Is the Mayor required to expend the operating and capital budgets of the city?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**Yes,** the Mayor of Tulsa is respondible for expending \"...as provided by law the funds of the city in accord with the adopted operating and capital budgets of the city\".\n",
+    "Answer": "**Yes,** the Mayor of Tulsa is responsible for expending \n> ...as provided by law the funds of the city in accord with the adopted operating and capital budgets of the city.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
@@ -5155,7 +5495,11 @@
     ],
     "QA Code": "Samuel_Code_114",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection D_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process",
+      "revenue & spending"
+    ]
   },
   {
     "id": "recmIOjo0jIXMLMsS",
@@ -5172,7 +5516,10 @@
     ],
     "QA Code": "Samuel_Code_115",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection E_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recmJrdJ56hD1070Z",
@@ -5188,7 +5535,10 @@
     ],
     "QA Code": "Samuel_Code_116",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection F_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recplWQBzupVuhiw1",
@@ -5208,7 +5558,10 @@
     ],
     "QA Code": "Samuel_Code_117",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "recsF6MDgTEEKZC3x",
@@ -5226,7 +5579,10 @@
     ],
     "QA Code": "Samuel_Code_118",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 3, Section 1.4. - Executive and administrative powers and duties, Subsection G_\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   },
   {
     "id": "reczt6Hm5A1Kx9Ux2",
@@ -5242,7 +5598,10 @@
     ],
     "QA Code": "Samuel_Planning_001",
     "Source": "City of Tulsa. _City Website. Neighborhood Registration Form._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recOPQEfE3apeagD2",
@@ -5259,7 +5618,10 @@
     ],
     "QA Code": "Samuel_Planning_002",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recsKttkmpMeNapAR",
@@ -5274,7 +5636,10 @@
     ],
     "QA Code": "Samuel_Planning_003",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recFqk6yAVtx07Ggb",
@@ -5290,7 +5655,10 @@
     ],
     "QA Code": "Samuel_Planning_004",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recy45EtuDTN1g5We",
@@ -5307,7 +5675,10 @@
     ],
     "QA Code": "Samuel_Planning_005",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recM8n8csurCdda7x",
@@ -5322,7 +5693,10 @@
     ],
     "QA Code": "Samuel_Planning_006",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recHZT20iold95BRF",
@@ -5339,7 +5713,10 @@
     ],
     "QA Code": "Samuel_Planning_007",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 5._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recmFt4iIh8PQhmWW",
@@ -5356,7 +5733,10 @@
     ],
     "QA Code": "Samuel_Planning_008",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recp5SnTHLjr4XA3d",
@@ -5373,7 +5753,10 @@
     ],
     "QA Code": "Samuel_Planning_009",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 7._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recF0vRein4FKuYAG",
@@ -5389,7 +5772,10 @@
     ],
     "QA Code": "Samuel_Planning_010",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 8._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recjC9hwVLu8yJE23",
@@ -5405,7 +5791,10 @@
     ],
     "QA Code": "Samuel_Planning_011",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 9-10._\n\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recdJyCbuHpkXOHLu",
@@ -5421,14 +5810,17 @@
     ],
     "QA Code": "Samuel_Planning_012",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 11-12._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "policies & regulations"
+    ]
   },
   {
     "id": "recIXjskCTgB35RHJ",
     "Question": "Can my neighbor keep their inoperable vehicle in their front yard?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "**No**, according to the Tulsa Zoning Code Section 45.140. While the Tulsa Planning Office's Neighborhood Toolkit states \"Inoperable vehicles must be stored in a fully enclosed structure\"(11), the Tulsa Zoning Codes states that inoperable vehicles may be placed in the back yard. Further, note that a vehicle is not inoperable merely because it \"...does not include a motor vehicle that has been rendered temporarily incapable of being driven under its own motor power, solely to perform ordinary service or repair operations\"(Section 95.120). A vehicle is only inoperable if, for a seven day period, the vehicle's engine, wheels, or other parts are removed OR in which the engine, wheels, or other parts have been damaged, altered, or modified such that the vehicle is not capable of being driven.\n",
+    "Answer": "**No**, according to the Tulsa Zoning Code Section 45.140. The Tulsa Planning Office's Neighborhood Toolkit states \"Inoperable vehicles must be stored in a fully enclosed structure\"(11), the Tulsa Zoning Codes states that inoperable vehicles may be placed in the back yard. Further, note that a vehicle is not inoperable merely because it \"...does not include a motor vehicle that has been rendered temporarily incapable of being driven under its own motor power, solely to perform ordinary service or repair operations\"(Section 95.120). A vehicle is only inoperable if, for a seven day period, the vehicle's engine, wheels, or other parts are removed OR in which the engine, wheels, or other parts have been damaged, altered, or modified such that the vehicle is not capable of being driven.\n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
       "recRJBtqeF69Iewhi",
@@ -5439,7 +5831,10 @@
     ],
     "QA Code": "Samuel_Planning_013",
     "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "policies & regulations"
+    ]
   },
   {
     "id": "recprRZEmaiFQcIZc",
@@ -5582,7 +5977,10 @@
     ],
     "QA Code": "Samuel_Planning_022",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recAPXs5A94TmKxCN",
@@ -5599,7 +5997,10 @@
     ],
     "QA Code": "Samuel_Planning_023",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 9. _\nCity of Tulsa. _City Website. Dumpster Program._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "rec6LRo20sasivYGs",
@@ -5618,7 +6019,10 @@
     ],
     "QA Code": "Samuel_Planning_024",
     "Source": "City of Tulsa. _City Website. Household Pollutant Collection Facility._\nTulsa Planning Office. _Neighborhood Toolkit. Page 10._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recM1UFoS5OrSPXXt",
@@ -5637,7 +6041,10 @@
     ],
     "QA Code": "Samuel_Planning_025",
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recBeu2kRrxU0TKQm",
@@ -5652,7 +6059,10 @@
     ],
     "QA Code": "Samuel_Tools_01",
     "Source": "City of Tulsa. _Traffic Flow Map_. \n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recr3fqVsuIhbUaai",
@@ -5666,14 +6076,17 @@
     ],
     "QA Code": "Samuel_Tools_02",
     "Source": "City of Tulsa. _Tulsa Parks Course Activities provided by the Parks, Culture, & Recreation Department._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "public services"
+    ]
   },
   {
     "id": "recBHG04HEVgMAPNw",
     "Question": "How do I speak in front of Tulsa City Council?",
     "Contributor": "Samuel",
     "Public": true,
-    "Answer": "Speaking to City Council is most optimally conducted by speaking at their Regular Meetings, currently scheduled to be on most Wednesdays. To be brief, you can show up at regular meetings and sign up to speak when you get there unless you wish to speak on an item that is not on the agenda. In that case, you should to submit this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf) to secretary@tulsacouncil.org before 12:00pm on the Thursday prior to the meeting at which you wish to speak. Below is a guide to aid you in this process.\n\n**Speaking on Agenda Items**\nTo speak on a specific agenda item at Tulsa City Council's regular meetings, you must sign a \"Request to Speak\" form in-person at the meeting at which you intend to speak. When signing this form, you must state the following.\n- Your name.\n- Your address.\n- Whether you support or oppose the specific agenda item.\n_This will be recorded and televised on the City of Tulsa's government access channel [TGOV](https://tulsa-ok.granicus.com/ViewPublisher.php?view_id=4)._\n\n**Speaking on an Issue of Your Choice**\nWith more preparation you may also speak to City Council \"on any item affecting the City of Tulsa\". Such speech is classified by the City of Tulsa as \"Public Comments\". Such comments usually take place at the end of meetings and are not televised. In order to participate in public comment, follow the following steps.\n- Fill out this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf).\n- After filling out the section titled \"Topic\", add to this section that you found this form through the Tulsa Policy Institute.\n- Submit this form to the Secretary of the Council either in writing, by fax, or email: secretary@tulsacouncil.org.\n\n**_You must submit this form no later than noon on the Thursday prior to the meeting you wish to speak at. To check if your name has been added to the agenda minutes, see [here.](https://www.tulsacouncil.org/apps/TulsaCouncilArchive)_**\n\n**Guidelines and Restrictions on Public Comment**\n- Citizens are limited to two \"Public Comment\" items each meeting. A citizen is not permitted to res-submit a request on the same subject within 180 days from the preceding request.\n- No action is taken on matters raised or discussed during \"Public Comments\" with one exception: \"possibly placing such matters on a future regular meeting or standing committee meeting of the Council\".\n- The topic should be specific, but brief. City Council suggests using words that \"an ordinary individual may understand what the topic is about\". Language submitted by citizens \"will be reviewed and, if necessary, revised to ensure compliance with the Oklahoma Open Meeting Act\".\n- Public Comments are intended to provide citizens opportunities to inform City Council about new issues affecting Tulsa. It is not a Q&A session.\n\n**Need to Know Before Attending City Council Meetings**\n- No weapon, including pocket knives, are permitted at public meetings.\n- Persons who require special accommodations to participate in City Council Meetings should contact Lori Doring through one of the following means.\n    - Mail - 175 East Second Street, Fourth Floor, Tulsa, Oklahoma.\n    - Phone - 918-596-1990.\n    - Email - loridoring@tulsacouncil.org.\n- \"Persons using a TDD may contact OKLAHOMA RELAY at 1-800-722-0353 and voice calls should be made to 1-800-522-8506 to communicate via telephone with hearing telephone users and vice versa\".\n",
+    "Answer": "Speaking to City Council is most optimally conducted by speaking at their Regular Meetings, currently scheduled to occur on (most) Wednesdays. To be brief, you can show up at regular meetings and sign up to speak when you get there unless you wish to speak on an item that is not on the agenda. In that case, you should submit this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf) to [secretary@tulsacouncil.org](mailto:secretary@tulsacouncil.org) before 12:00pm on the Thursday prior to the meeting at which you wish to speak. \nBelow is a guide to aid you in this process.\n\n**Speaking on Agenda Items**\nTo speak on a specific agenda item at Tulsa City Council's regular meetings, you must sign a \"Request to Speak\" form in-person at the meeting at which you intend to speak. When signing this form, you must state the following.\n- Your name.\n- Your address.\n- Whether you support or oppose the specific agenda item.\n_This will be recorded and televised on the City of Tulsa's government access channel [TGOV](https://tulsa-ok.granicus.com/ViewPublisher.php?view_id=4)._\n\n**Speaking on an Issue of Your Choice**\nWith more preparation you may also speak to City Council \"on any item affecting the City of Tulsa\". Such speech is classified by the City of Tulsa as \"Public Comments\". Such comments usually take place at the end of meetings and are not televised. In order to participate in public comment, follow the following steps.\n- Fill out this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf).\n- After filling out the section titled \"Topic\", add to this section that you found this form through the Tulsa Policy Institute.\n- Submit this form to the Secretary of the Council either in writing, by fax, or email: secretary@tulsacouncil.org.\n\n**_You must submit this form no later than noon on the Thursday prior to the meeting you wish to speak at. To check if your name has been added to the agenda minutes, see [here.](https://www.tulsacouncil.org/apps/TulsaCouncilArchive)_**\n\n**Guidelines and Restrictions on Public Comment**\n- Citizens are limited to two \"Public Comment\" items each meeting. A citizen is not permitted to res-submit a request on the same subject within 180 days from the preceding request.\n- No action is taken on matters raised or discussed during \"Public Comments\" with one exception: \"possibly placing such matters on a future regular meeting or standing committee meeting of the Council\".\n- The topic should be specific, but brief. City Council suggests using words that \"an ordinary individual may understand what the topic is about\". Language submitted by citizens \"will be reviewed and, if necessary, revised to ensure compliance with the Oklahoma Open Meeting Act\".\n- Public Comments are intended to provide citizens opportunities to inform City Council about new issues affecting Tulsa. It is not a Q&A session.\n\n**Need to Know Before Attending City Council Meetings**\n- No weapon, including pocket knives, are permitted at public meetings.\n- Persons who require special accommodations to participate in City Council Meetings should contact Lori Doring through one of the following means.\n    - **Mail:** 175 East Second Street, Fourth Floor, Tulsa, Oklahoma\n    - **Phone:** 918-596-1990\n    - **Email:** [loridoring@tulsacouncil.org](mailto:loridoring@tulsacouncil.org)\n- \"Persons using a TDD may contact OKLAHOMA RELAY at 1-800-722-0353 and voice calls should be made to 1-800-522-8506 to communicate via telephone with hearing telephone users and vice versa\".\n",
     "Concepts": [
       "recX9nNDKs0rtBi3g",
       "recTduFwT9ATeQB7t",
@@ -5682,6 +6095,9 @@
     ],
     "QA Code": "Sub_Samuel_01",
     "Source": "City of Tulsa. _Website. Meetings._\nCity of Tulsa. _Website. Submit a Public Comment._\n",
-    "Author": "Samuel"
+    "Author": "Samuel",
+    "Tags": [
+      "city gov & policy process"
+    ]
   }
 ]
