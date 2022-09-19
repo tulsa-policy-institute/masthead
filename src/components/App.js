@@ -10,10 +10,12 @@ import Search from './Search';
 ReactGA.initialize('UA-237465950-1');
 
 function App({ cookies }) {
+  // const shouldShowModal = (!cookies.get('email') || !cookies.get('role'));
+  const shouldShowModal = false;
   const [lectures, setLectures] = useState([]);
   const [questions, setQuestions] = useState([]);
   const [sources, setSources] = useState([]);
-  const [showModal, toggleModal] = useState((!cookies.get('email') || !cookies.get('role')));
+  const [showModal, toggleModal] = useState(shouldShowModal);
   const [modalEmailEntry, setEmail] = useState();
   const [modalRoleSelection, setRole] = useState();
   const [searchParams] = useSearchParams();
