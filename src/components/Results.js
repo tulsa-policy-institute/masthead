@@ -151,8 +151,6 @@ const Results = ({ results, typedInput, cookies, isQuerying }) => {
       </div>
       {displayResults.map((q, index, array) =>
         <>
-        
-          </div>}
           <Result
             q={q}
             key={q.id}
