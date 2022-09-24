@@ -484,18 +484,18 @@
   },
   {
     "id": "rec4GLmcNexViKGz8",
-    "Question": "What is Tulsa 311?",
-    "QA Code": "Abby_Tulsa311_01",
-    "Answer": "Tulsa 311 is a hotline and online portal for citizens to **report non-emergency issues** and **request city services**. Residents can call by dialing 311, visit the website at [tulsa311.com](http://tulsa311.com), or use the [Tulsa 311 mobile app](https://apps.apple.com/us/app/tulsa-311/id1453372535).\n### Report & Request Forms\n- [Abandoned, Disabled, or Illegally Parked Vehicles](https://tulsa311.com/site/wss/redirect/1000261)\n- [Advertising Sign Violations](https://tulsa311.com/site/wss/redirect/1000258)\n- [Barking Dog (Noise Complaint)](https://tulsa311.com/site/wss/redirect/1000050)\n- [Broken Parking Meter](https://tulsa311.com/site/wss/redirect/1000253)\n- [Dead Animal Pickup](https://tulsa311.com/site/wss/redirect/1000200)\n- [Dumping Violations](https://tulsa311.com/site/wss/redirect/1000263)\n- [Expressway / Decorative Lights Out](https://tulsa311.com/site/wss/redirect/1000301)\n- [File a Police Report](https://tulsa311.com/site/wss/redirect/1000260)\n- [Flood Plain Inquiry](https://tulsa311.com/site/wss/redirect/1000450)\n- [Human Rights Complaint Intake Form](https://tulsa311.com/site/wss/redirect/1000300)\n- [Loose Animal](https://tulsa311.com/site/wss/redirect/1000256)\n- [Missed Trash Collection](https://tulsa311.com/site/wss/redirect/1000400)\n- [New Traffic Sign or Signal Request](https://tulsa311.com/site/wss/redirect/1000302)\n- [Pothole](https://tulsa311.com/site/wss/redirect/1000001)\n- [Property Violation](https://tulsa311.com/site/wss/redirect/1000254)\n- [Sewer Line Break Overflow](https://tulsa311.com/site/wss/redirect/1000252)\n- [Street Marker/Street Sign Down](https://tulsa311.com/site/wss/redirect/1000257)\n- [Streetlight Maintenance](https://tulsa311.com/site/wss/redirect/1000600)\n- [Tort Claim Form](https://tulsa311.com/site/wss/redirect/1000262)\n- [Traffic Signal Malfunction](https://tulsa311.com/site/wss/redirect/1000255)\n- [Water Line Breaks](https://tulsa311.com/site/wss/redirect/1000259)\n",
     "Tags": [
       "public services"
     ],
+    "Question": "What is Tulsa 311?",
+    "Public": true,
+    "Answer": "Tulsa 311 is a hotline and online portal for citizens to **report non-emergency issues** and **request city services**. Residents can call by dialing 311, visit the website at [tulsa311.com](http://tulsa311.com), or use the [Tulsa 311 mobile app](https://apps.apple.com/us/app/tulsa-311/id1453372535).\n### Report & Request Forms\n- [Abandoned, Disabled, or Illegally Parked Vehicles](https://tulsa311.com/site/wss/redirect/1000261)\n- [Advertising Sign Violations](https://tulsa311.com/site/wss/redirect/1000258)\n- [Barking Dog (Noise Complaint)](https://tulsa311.com/site/wss/redirect/1000050)\n- [Broken Parking Meter](https://tulsa311.com/site/wss/redirect/1000253)\n- [Dead Animal Pickup](https://tulsa311.com/site/wss/redirect/1000200)\n- [Dumping Violations](https://tulsa311.com/site/wss/redirect/1000263)\n- [Expressway / Decorative Lights Out](https://tulsa311.com/site/wss/redirect/1000301)\n- [File a Police Report](https://tulsa311.com/site/wss/redirect/1000260)\n- [Flood Plain Inquiry](https://tulsa311.com/site/wss/redirect/1000450)\n- [Human Rights Complaint Intake Form](https://tulsa311.com/site/wss/redirect/1000300)\n- [Loose Animal](https://tulsa311.com/site/wss/redirect/1000256)\n- [Missed Trash Collection](https://tulsa311.com/site/wss/redirect/1000400)\n- [New Traffic Sign or Signal Request](https://tulsa311.com/site/wss/redirect/1000302)\n- [Pothole](https://tulsa311.com/site/wss/redirect/1000001)\n- [Property Violation](https://tulsa311.com/site/wss/redirect/1000254)\n- [Sewer Line Break Overflow](https://tulsa311.com/site/wss/redirect/1000252)\n- [Street Marker/Street Sign Down](https://tulsa311.com/site/wss/redirect/1000257)\n- [Streetlight Maintenance](https://tulsa311.com/site/wss/redirect/1000600)\n- [Tort Claim Form](https://tulsa311.com/site/wss/redirect/1000262)\n- [Traffic Signal Malfunction](https://tulsa311.com/site/wss/redirect/1000255)\n- [Water Line Breaks](https://tulsa311.com/site/wss/redirect/1000259)\n",
     "Concepts": [
       "rec797k3CYC8F5O3f"
     ],
-    "Source": "City of Tulsa. _Tulsa 311_\n",
-    "Public": true,
-    "Author": "Abby"
+    "Author": "Abby",
+    "QA Code": "Abby_Tulsa311_01",
+    "Source": "City of Tulsa. _Tulsa 311_\n"
   },
   {
     "id": "recdHriMxUy8wNHSe",
