@@ -6,7 +6,6 @@ import { useSearchParams } from 'react-router-dom';
 import { withCookies } from 'react-cookie';
 import Result from './Result';
 import useAnalyticsEventTracker from '../utils/eventTracking';
-import QuestionForm from './QuestionForm';
 
 const TAG_COLOR_LOOKUP = {
   'city gov & policy process': '#00AAAD',
