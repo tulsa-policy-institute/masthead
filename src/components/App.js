@@ -83,13 +83,6 @@ function App({ cookies }) {
                 <Logo className='inline' fill={isQuerying ? 'black' : 'white'} />
               </Link>
             </div>
-            <div className='basis-1/2'>
-              <span className='float-right '>
-                <a href="https://airtable.com/shrCUY2iaVckOGjbX" target="_blank" className='text-sm rounded border-black border-solid border p-2' rel="noreferrer">
-                  Ask a Question
-                </a>
-              </span>
-            </div>
           </div>
         </div>
       </header>
