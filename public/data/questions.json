@@ -1019,7 +1019,6 @@
     "OmegeTags": "governance",
     "Contributor": "Dan",
     "AlphaTags": "courts",
-    "Public": true,
     "Answer": "The City's budget for FY23 \"funds an additional prosecutor to facilitate the implementation of a night court in the municipal court system.\" City Council Chairperson, Lori Decter Wright, said in her budget address that night court will \"increase accessibility to citizens who are unable to appear before our courts during their regular working hours\".\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
@@ -1844,6 +1843,7 @@
     "Question": "How does Tulsa's FY23 budget expand municipal court services?",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "This budget adds a new \"configuration coordinator\" position (at a salary of $80,000) to the court's staff to manage the online databases used by court officials and the public. This budget also includes funding for \"mass communication software that utilizes text and email reminders about upcoming court dates and payments due.\" As part of the effort to start up a night court, the FY23 budget also funds hiring an additional public defender specifically to cover expanded hours. Prior to this budget, the municipal court received Coronavirus relief funding \n> \"...that will support outreach programs, facility improvements, Mental Health Initiatives and Organizational Development. CRF funding will also fund additional support personnel, including \"administrative support, court reporters, and Spanish greeters\".\n",
     "Concepts": [
@@ -1864,6 +1864,7 @@
     "Question": "How many sworn police officers work for the City of Tulsa? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "As of beginning of FY23, Tulsa PD employed** 943** sworn police officers.\n- 743 police officers.\n- 82 sergeants.\n- 83 lieutenants.\n- 23 captains.\n- 9 majors.\n- 3 deputy chiefs. \n",
     "Concepts": [
@@ -1886,6 +1887,7 @@
     "Question": "Is the City of Tulsa hiring more police officers? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "**Yes. **Although the total number of sworn police officers did not change from FY22 to FY23, the Mayor of Tulsa and City Council consider police recruitment to be one of the city's highest priorities. In FY23, the police department has $4.5 million in funding to enroll and train 90 cadets at the police academy. \n",
     "Concepts": [
@@ -1909,6 +1911,7 @@
     "Question": "How much money does it take to run the Tulsa Police Department? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "For FY23, Tulsa PD has an **operating budget of $144.8 million**, and an additional $4.5 million budget for new and/or upgraded equipment and technology. The PD's total budget increased by $26.7 million (approx. 21.7%) from FY22 to 23. The largest share of police department funding, $118.3 million or 79.2%, comes from the City of Tulsa's general fund. The balance of funding comes from dedicated sales taxes and court fees. \n",
     "Concepts": [
@@ -1931,6 +1934,7 @@
     "Question": "Why did funding for the Tulsa Police Department increase by more than 20% in one year? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "Some of the largest line item changes in the FY23 police operating budget include the following.\n- An additional $14.78 million for benefits and compensation.\n- $3.4 million to replace 80 marked police vehicles.\n- $3.4 million in overtime compensation.\n- A one-time appropriation of $1.2 million to replace tasers and associated equipment.\n- $1.2 million for internal equipment maintenance. \n",
     "Concepts": [
@@ -1951,7 +1955,7 @@
       "revenue & spending"
     ],
     "Question": "Is the Tulsa Fire Department hiring members? ",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "**Yes.** The Tulsa Fire Department is enrolling 30 cadets in the training academy in FY23 at a cost of $1.28 million and plans to train an additional 30 in FY24. \n",
@@ -1974,6 +1978,7 @@
     "Question": "How much does it cost to run the Tulsa Fire Department? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "The Tulsa Fire Department operating budget for FY23 totals **$91.7** **million** dollars, with an additional $3.9 million dollars for upgrades to equipment and technology. \n",
     "Concepts": [
@@ -1995,6 +2000,7 @@
     "Question": "Why did funding for Tulsa Fire Department increase by $10 million in FY23 instead of remaining stable (as was initially planned)?",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "The FY23 Fire Department operating budget includes a $5.1 million increase in benefits and compensation in order to \"address recruitment and retention issues\". Additionally, from FY22 to FY23, the fire department's operating capital increased from $610,000 to $4.5 million. According to the Department highlights section of the FY23 municipal budget, \n> \"The Tulsa Fire Department was awarded a grant to reimburse the cost of sixty new firefighters for three years. As a result, Tulsa Fire Department will utilize those savings to fund operational support replacements and accelerate the replacement of needed fleet equipment in FY23 through FY25\".\n",
     "Concepts": [
@@ -2014,7 +2020,7 @@
       "revenue & spending"
     ],
     "Question": "How many people does the Tulsa Fire Department employ?",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "The fire department's budget provides for a **743** person workforce. Of that, 725 staff are first responders or inspection/prevention professionals and 18 hold administrative/support roles. \n",
@@ -2035,7 +2041,7 @@
       "revenue & spending"
     ],
     "Question": "How many parks are there in the City of Tulsa? ",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "The City of Tulsa manages **135** parks covering roughly 6,553 acres. This includes the following.\n- Two nature centers.\n- Seven community centers (including WaterWorks Art Studio).\n- 57 miles of walking trails.\n- Two skate parks.\n- Three dog parks.\n- Five swimming pools. \nIn addition, there are 227 sports fields.\n- 132 diamond fields.\n- 95 rectangular fields.\n- 99 playgrounds.\n- 94 tennis courts.\n- 8 pickleball courts.\n- 29 basketball courts.\n- 36 half basketball courts.\n- 13 water playgrounds.\n- 18 splash pads.\n- 96 picnic shelters.\n- 4 golf courses.\n- 8 disc golf courses.\n",
@@ -2056,6 +2062,7 @@
     "Question": "How much money does Tulsa spend on parks and recreation? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "The total parks and recreation budget for FY23 is **$18.7 million**. The budget includes $14 million in operation funds and $4.7 million for capital projects, equipment and upgrades. \n",
     "Concepts": [
@@ -2073,7 +2080,7 @@
       "revenue & spending"
     ],
     "Question": "How many people are employed across Tulsa's parks and recreation facilities? ",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "Tulsa's parks and recreation facilities employ **175** people in total. 130 positions are full-time. \n",
@@ -2093,7 +2100,7 @@
       "revenue & spending"
     ],
     "Question": "How does the City of Tulsa manage its parks along the Arkansas River? ",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "River parks, including metro trails along the river and the Turkey Mountain Urban Wilderness area, are supported by shared investment between the City of Tulsa and Tulsa County. The $748,000 in resources allocated for River Parks are utilized for operational support to maintain the trails, Turkey Mountain Urban Wilderness, and rest room facilities along the trail system.\n",
@@ -2114,7 +2121,7 @@
       "revenue & spending"
     ],
     "Question": "Does the City of Tulsa outsource for management of any city-owned facilities? ",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "**Yes.** The City has engaged in management agreements for the operations of City owned culture and recreation facilities. These facilities include the Tulsa Zoo, Mohawk Soccer Complex, Page and Mohawk golf courses, Performing Arts Center, and the Gilcrease Museum. The Parks and Recreation Department is responsible for the oversight for each of the management agreements. \n",
@@ -2134,7 +2141,7 @@
       "revenue & spending"
     ],
     "Question": "What services are provided by the city's Working in Neighborhoods department?",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "- Housing – to assist homeowners with emergency housing repairs and rehabilitation; prevent early institutionalization of the elderly; create incentives to develop affordable housing; and address substandard housing and revitalize housing through property maintenance and demolition. \n- Neighborhood Services – to increase opportunities for neighborhood reinvestment; serve as the contact between residents and the City to coordinate the delivery of public/private resources; and establish neighborhood associations and/or block groups to stabilize and improve neighborhood environments. \n- Neighborhood Investigations – to promote voluntary compliance and enforcement of City nuisance codes; provide a fair and unbiased enforcement program to correct nuisance violations and land use requirements. \n- Animal Welfare – operate the animal shelter and field services to provide a safe, healthy environment for companion animals; support and empower residents for successful pet ownership and educate about codes. \n",
@@ -2161,6 +2168,7 @@
     "Question": "How much funding goes to support Tulsa's Working in Neightborhoods department?",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "The WIN department's total funding for FY23 is **$9.5 million**. The majority of funding comes from the City's general fund, while $1.3 million comes from intergovernmental Community Development Block Grants which mainly support housing initiatives. \n",
     "Concepts": [
@@ -2186,6 +2194,7 @@
     "Question": "What is the City of Tulsa doing to improve quality of life at the neighborhood level? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "Through the Working in Neighborhoods department, Tulsa is allocating an additional **$200,000 to address nuisance abatement needs** for an FY23 total of $1.078 million. \n",
     "Concepts": [
@@ -2209,7 +2218,7 @@
       "revenue & spending"
     ],
     "Question": "How many people are employed by Tulsa's Working in Neighborhoods department? ",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "As of beginning of FY23, the WIN department budget authorizes **83 positions**. Majority of positions are engaged in neighborhood investigations (30) and animal welfare (40). \n",
@@ -2234,8 +2243,8 @@
     "Tags": [
       "revenue & spending"
     ],
-    "Question": "What agency of city government is responsible for approving development permits? ",
-    "OmegeTags": "money",
+    "Question": "What agency in the City of Tulsa is responsible for approving development permits? ",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "Tulsa's **Development Services Department** is responsible for implementation of the City's development permitting process, including infrastructure and building plan review, and inspection services for all private development within the City of Tulsa.\n",
@@ -2260,6 +2269,7 @@
     "Question": "What is the City of Tulsa doing to keep up with demand for building permit and licensing services? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "The FY23 municipal budget includes** $88,000 in new funding **for the Department of Development Services **to hire two additional office assistants** to \"meet permit licenses and customer requests\". The City is also spending $334,000 to replace 11 SUV's used by inspection staff. \n",
     "Concepts": [
@@ -2281,7 +2291,7 @@
       "revenue & spending"
     ],
     "Question": "How many employees does the City of Tulsa have working to facilitate construction and development applications? ",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "The City's Development Services Department budgets for **72 staff**.\n",
@@ -2306,6 +2316,7 @@
     "Question": "How does the City of Tulsa manage its efforts to spur economic growth? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "Public efforts to drive economic growth in Tulsa are primarily organized through the Tulsa Authority for Economic Opportunity (TAEO). According to the Authority, their mission is to \"create and manage public assets and resources to drive economic growth.\" \n",
     "Concepts": [
@@ -2330,6 +2341,7 @@
     "Question": "What services are provided by the Tulsa Authority for Economic Opportunity? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "TAEO services include the following.\n- Serving as the lead administrative entity for economic and community development services for the City of Tulsa.\n- Managing the City’s Tax Increment Finance (TIF) Districts.\n- Managing and supporting the City’s bond-financed economic development programs.\n- Executing land acquisition and disposition to leverage private development and redevelopment.\n- Leading asset optimization strategy related to major economic development assets; Managing Downtown Development and Redevelopment loan programs.\n- Managing the Affordable Housing Trust Fund and other housing development programs and incentives.\n- Managing outreach, education, and utilization monitoring for the City’s Small Business Enterprise program.\n",
     "Concepts": [
@@ -2355,6 +2367,7 @@
     "Question": "What projects are in the pipeline for the City of Tulsa's Engineering Services Department? ",
     "OmegeTags": "money",
     "Contributor": "Dan",
+    "AlphaTags": "where it goes",
     "Public": true,
     "Answer": "Using $2.6 million in franchise fees collected by the City from the Public Service Company of Oklahoma, Tulsa's Engineering Services department is beginning the process to coordinate **burial of power lines located on public rights of way**. The department is also increasing staff in order to implement phase two of the City's **Stormwater Utility Enterprise Initiative**, in conjunction with the Streets and Stormwater department. Phase two involves scheduling and implementation of capital projects, using information from inspections conducted in phase one. \n",
     "Concepts": [
@@ -2379,7 +2392,7 @@
       "revenue & spending"
     ],
     "Question": "How many personnel are employed in Tulsa's Engineering Services Department?",
-    "OmegeTags": "money",
+    "OmegeTags": "governance",
     "Contributor": "Dan",
     "Public": true,
     "Answer": "The Engineering Services Department employs **166** people. The department allocated $650,000 in FY23 to increase staff in preparation for several stormwater management projects. \n",
