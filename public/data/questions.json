@@ -477,6 +477,9 @@
       "city gov & policy process"
     ],
     "Question": "How can I find which Tulsa City Council District I live in?",
+    "OmegeTags": [
+      "voting & elections"
+    ],
     "Answer": "Visit Tulsa's online district map here. You can see how districts are drawn and search for a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District and contact information for the Councilor who represents it. \n",
     "Concepts": [
       "recmM3m7G1ByTAI1T",
@@ -492,6 +495,9 @@
       "policies & regulations"
     ],
     "Question": "Do I need a permit from the City of Tulsa to build a deck on my property?",
+    "OmegeTags": [
+      "accessing tulsa"
+    ],
     "AlphaTags": [
       "permits"
     ],
@@ -506,7 +512,7 @@
   },
   {
     "id": "rechB3tyvdB14vB3f",
-    "Question": "What occupations are licensed by the City of Oklahoma?",
+    "Question": "What occupations are licensed by the City of Tulsa?",
     "AlphaTags": [
       "licenses"
     ],
@@ -2325,7 +2331,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "**Yes.** The Tulsa Fire Department is enrolling 30 cadets in the training academy in FY23 at a cost of $1.28 million and plans to train an additional 30 in FY24. \n",
@@ -2403,7 +2409,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "The fire department's budget provides for a **743** person workforce. Of that, 725 staff are first responders or inspection/prevention professionals and 18 hold administrative/support roles. \n",
@@ -2477,7 +2483,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "Tulsa's parks and recreation facilities employ **175** people in total. 130 positions are full-time. \n",
@@ -2552,6 +2558,9 @@
       "governance process"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "service delivery"
+    ],
     "Public": true,
     "Answer": "- Housing – to assist homeowners with emergency housing repairs and rehabilitation; prevent early institutionalization of the elderly; create incentives to develop affordable housing; and address substandard housing and revitalize housing through property maintenance and demolition. \n- Neighborhood Services – to increase opportunities for neighborhood reinvestment; serve as the contact between residents and the City to coordinate the delivery of public/private resources; and establish neighborhood associations and/or block groups to stabilize and improve neighborhood environments. \n- Neighborhood Investigations – to promote voluntary compliance and enforcement of City nuisance codes; provide a fair and unbiased enforcement program to correct nuisance violations and land use requirements. \n- Animal Welfare – operate the animal shelter and field services to provide a safe, healthy environment for companion animals; support and empower residents for successful pet ownership and educate about codes. \n",
     "Concepts": [
@@ -2640,7 +2649,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "As of beginning of FY23, the WIN department budget authorizes **83 positions**. Majority of positions are engaged in neighborhood investigations (30) and animal welfare (40). \n",
@@ -2671,7 +2680,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "service delivery"
     ],
     "Public": true,
     "Answer": "Tulsa's **Development Services Department** is responsible for implementation of the City's development permitting process, including infrastructure and building plan review, and inspection services for all private development within the City of Tulsa.\n",
@@ -2695,11 +2704,13 @@
     ],
     "Question": "What is the City of Tulsa doing to keep up with demand for building permit and licensing services? ",
     "OmegeTags": [
-      "public finance"
+      "public finance",
+      "governance process"
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "where money goes"
+      "where money goes",
+      "service delivery"
     ],
     "Public": true,
     "Answer": "The FY23 municipal budget includes** $88,000 in new funding **for the Department of Development Services **to hire two additional office assistants** to \"meet permit licenses and customer requests\". The City is also spending $334,000 to replace 11 SUV's used by inspection staff. \n",
@@ -2727,7 +2738,8 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service",
+      "service delivery"
     ],
     "Public": true,
     "Answer": "The City's Development Services Department budgets for **72 staff**.\n",
@@ -2751,11 +2763,11 @@
     ],
     "Question": "How does the City of Tulsa manage its efforts to spur economic growth? ",
     "OmegeTags": [
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "where money goes"
+      "service delivery"
     ],
     "Public": true,
     "Answer": "Public efforts to drive economic growth in Tulsa are primarily organized through the Tulsa Authority for Economic Opportunity (TAEO). According to the Authority, their mission is to \"create and manage public assets and resources to drive economic growth.\" \n",
@@ -2780,11 +2792,12 @@
     ],
     "Question": "What services are provided by the Tulsa Authority for Economic Opportunity? ",
     "OmegeTags": [
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "where money goes"
+      "where money goes",
+      "service delivery"
     ],
     "Public": true,
     "Answer": "TAEO services include the following.\n- Serving as the lead administrative entity for economic and community development services for the City of Tulsa.\n- Managing the City’s Tax Increment Finance (TIF) Districts.\n- Managing and supporting the City’s bond-financed economic development programs.\n- Executing land acquisition and disposition to leverage private development and redevelopment.\n- Leading asset optimization strategy related to major economic development assets; Managing Downtown Development and Redevelopment loan programs.\n- Managing the Affordable Housing Trust Fund and other housing development programs and incentives.\n- Managing outreach, education, and utilization monitoring for the City’s Small Business Enterprise program.\n",
@@ -2810,11 +2823,13 @@
     ],
     "Question": "What projects are in the pipeline for the City of Tulsa's Engineering Services Department? ",
     "OmegeTags": [
-      "public finance"
+      "public finance",
+      "governance process"
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "where money goes"
+      "where money goes",
+      "service delivery"
     ],
     "Public": true,
     "Answer": "Using $2.6 million in franchise fees collected by the City from the Public Service Company of Oklahoma, Tulsa's Engineering Services department is beginning the process to coordinate **burial of power lines located on public rights of way**. The department is also increasing staff in order to implement phase two of the City's **Stormwater Utility Enterprise Initiative**, in conjunction with the Streets and Stormwater department. Phase two involves scheduling and implementation of capital projects, using information from inspections conducted in phase one. \n",
@@ -2845,7 +2860,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "The Engineering Services Department employs **166** people. The department allocated $650,000 in FY23 to increase staff in preparation for several stormwater management projects. \n",
@@ -2870,7 +2885,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "The Streets and Stormwater Department’s primary areas of responsibility include the following.\n- Street maintenance and rights-of-way inspections.\n- Traffic control.\n- Stormwater.\n- Land management.\n- Refuse and recycling service through the Tulsa Authority for the Recovery of Energy (TARE). \n",
@@ -2899,10 +2914,10 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
-    "Answer": "The streets and Stormwater Department is receiving $1.9 million in the FY23 budget intended for the following.\n- Manage contracted services for utility pole removal\n- Traffic light conversion and expansion\n- Median maintenance and beautification. \nAdditionally, two inspectors have been funded to monitor streets and maintenance zones to aid the aforementioned efforts. Finally, two crew members are to be funded to remediate graffiti.\n",
+    "Answer": "The Streets and Stormwater Department is receiving $1.9 million in the FY23 budget intended for the following.\n- Manage contracted services for utility pole removal\n- Traffic light conversion and expansion\n- Median maintenance and beautification. \nAdditionally, two inspectors have been funded to monitor streets and maintenance zones to aid the aforementioned efforts. Finally, two crew members are to be funded to remediate graffiti.\n",
     "Concepts": [
       "recdoCgCxV6RbWD0L",
       "recNlU5Iz5iBopJ9m",
@@ -2956,7 +2971,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "The FY23 budget for the Streets and Stormwater Department authorizes **377** total positions. However, only 328 positions are considered full-time. \n",
@@ -2980,6 +2995,9 @@
       "public finance"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "public service"
+    ],
     "Public": true,
     "Answer": "Tulsa’s drinking water comes from two sources: Lakes Spavinaw and Eucha on Spavinaw Creek and Lake Oologah on the Verdigris River. Lakes Spavinaw and Eucha are owned and operated by the City. Lake Oologah is operated by the U.S. Army Corps of Engineers. A third emergency source of water is available from Lake Hudson on Grand River. \n\nWater is treated at two treatment plants: Mohawk and A.B. Jewell.\nWater is provided to customers through a water distribution system. \n",
     "Concepts": [
@@ -3022,11 +3040,12 @@
     ],
     "Question": "How many people are employed across Tulsa's Water and Sewer system? ",
     "OmegeTags": [
-      "public finance"
+      "public finance",
+      "governance process"
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "Tulsa's Water and Sewer Department budget authorizes **670 positions** in FY23. \n",
@@ -3051,7 +3070,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "Tulsa Transit provides public transportation serving residents in the City of Tulsa, Broken Arrow, Jenks, and Sand Springs. These services include fixed route bus service, ADA paratransit services for persons with disabilities, late evening service “Nightline\", and commuter bus service.\n",
@@ -3133,7 +3152,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "Besides the mayor, **14 people** are employed in their office. \n",
@@ -3211,7 +3230,7 @@
     ],
     "Contributor": "Dan",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "Excluding the City Auditor themself, **11** people work in their office. \n",
@@ -3233,9 +3252,13 @@
     ],
     "Question": "Does Tulsa City Council approve a budget for itself? ",
     "OmegeTags": [
-      "public finance"
+      "public finance",
+      "governance process"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "budget process"
+    ],
     "Public": true,
     "Answer": "**Yes.** City Council's budget for FY23 totals $1.6 million. Council is funded entirely from the City's General Fund. Council's budget increased by $259,000 since FY22, with changes including: an additional $163,000 for compensation, $48,000 for a position that council deferred in FY22, and $15,000 to fund councilors' travel to conferences.\n",
     "Concepts": [
@@ -3258,6 +3281,9 @@
       "public finance"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "public service"
+    ],
     "Public": true,
     "Answer": "Excluding the 9 city councilors, Council's budget includes funding for **14 staff**. \n",
     "Concepts": [
@@ -3278,9 +3304,12 @@
     ],
     "Question": "How does the City of Tulsa handle its legal affairs? ",
     "OmegeTags": [
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "legal"
+    ],
     "Public": true,
     "Answer": "The City Attorney and the Legal department provide all the City’s municipal legal services. The department prepares and reviews ordinances, resolutions, executive orders, and contracts, and handles litigation, claims and controversies involving the City. Attorneys give advice and legal opinions to the City's elected officials, officers, employees, and to City boards, trusts, authorities, and agencies.\n",
     "Concepts": [
@@ -3301,9 +3330,14 @@
     ],
     "Question": "How much does Tulsa spend on its legal department? ",
     "OmegeTags": [
-      "public finance"
+      "public finance",
+      "governance process"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "legal",
+      "where money goes"
+    ],
     "Public": true,
     "Answer": "The FY23 budget for Tulsa's legal department totals **$4.8 million**. Funding increased by $693,000 since FY22, including an additional $347,000 for compensation, and $289,000 to fund two new attorneys and a paralegal. 99% of legal department funding comes from the City's General Fund. \n",
     "Concepts": [
@@ -3323,9 +3357,12 @@
     ],
     "Question": "How many attorneys does Tulsa employ in-house?",
     "OmegeTags": [
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "legal"
+    ],
     "Public": true,
     "Answer": "Tulsa's Legal Department FY23 budget includes funding for **23** City Attorneys, as well as 12 administrative/support personnel. \n",
     "Concepts": [
@@ -3345,9 +3382,12 @@
     ],
     "Question": "How does the City of Tulsa manage its workforce? ",
     "OmegeTags": [
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "public service"
+    ],
     "Public": true,
     "Answer": "Through the **Human Resources Department**. Major responsibilities include the following.\n- Employment.\n- Compensation and Classification.\n- Occupational Health.\n- Workers’ Compensation.\n- Employee Development.\n- Insurance and Retirement Services. \n",
     "Concepts": [
@@ -3371,6 +3411,9 @@
       "public finance"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "where money goes"
+    ],
     "Public": true,
     "Answer": "FY23 funding for Tulsa's HR department totals **$30.3 million**, including funding for workers' compensation ($5.9 million) and employee benefits ($19.6 million), which are facilitated through the department. Excluding that funding leaves **$4.5 million for HR department operations**. HR department funding decreased by $1.8 million since FY22, reflecting a savings on insurance costs which was achieved through changing vendors. \n",
     "Concepts": [
@@ -3391,9 +3434,13 @@
     ],
     "Question": "How many people work in Tulsa's Human Resources Department?",
     "OmegeTags": [
-      "public finance"
+      "public finance",
+      "governance process"
     ],
     "Contributor": "Dan",
+    "AlphaTags": [
+      "public service"
+    ],
     "Public": true,
     "Answer": "The City's Human Resources Department FY23 budget authorizes **44** positions. \n",
     "Concepts": [
@@ -5057,6 +5104,9 @@
       "governance process"
     ],
     "Contributor": "Samuel",
+    "AlphaTags": [
+      "zoning"
+    ],
     "Public": true,
     "Answer": "By convincing the property owners impacted by the zoning change to file a protest against the zoning change, Tulsans can raise the bar for the number of votes required for the zoning ordinance to go into effect - instead requiring the City Council to have three-fourths (3/4) of the entire membership of the Council to enact the zoning change. Such protests must meet two requirements. First, protests must be filed at least three (3) days prior to the hearing of the zoning change by City Council. Second, protests must be supported by either (a) owners of at least 20% of the area of the lots included in the proposed change or (b) owners of at least 50% of the area of the lots within a 300 foot radius of the exterior boundary of the territory included in the proposed change.\n",
     "Concepts": [
@@ -6840,7 +6890,7 @@
     "Contributor": "Samuel",
     "AlphaTags": [
       "the mayor",
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "The Mayor of Tulsa.\n",
@@ -7054,7 +7104,7 @@
     "Contributor": "Samuel",
     "AlphaTags": [
       "the mayor",
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "The Mayor appoints the members of all boards, commissions, authorities, and agencies, subject to the confirmation by a majority vote of the entire membership of City Council. All those appointed must be qualified electors and maintain residence within the city limits of the City of Tulsa.\n",
@@ -7083,7 +7133,7 @@
     ],
     "Contributor": "Samuel",
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "**Yes.**\n",
@@ -7614,7 +7664,8 @@
     ],
     "Contributor": "Samuel",
     "AlphaTags": [
-      "neighborhood development"
+      "neighborhood development",
+      "zoning"
     ],
     "Public": true,
     "Answer": "If you own property within a half-mile of a Bus Rapid Transit station on Peoria Ave. in Tulsa, your property may be eligible for re-zoning as a mixed-use district. Mixed-use zoning allows you to develop or redevelop your property to support any combination of residential, retail, and/or office space. The Tulsa Planning Office has a map and staff to help you find out if your property is eligible. If it is, you can submit an application for free (instead of the standard $2,000 cost) until Dec 31, 2023. Staff at the Tulsa Metropolitan Planning Commission will review your application and notify neighbors of their opportunity to comment on the application. TMAPC staff will recommend approval or denial of your application at a public meeting. If recommended for approval, your case will then appear before Tulsa City council for a final vote on approval. \n",
@@ -7721,7 +7772,7 @@
       "governance process"
     ],
     "AlphaTags": [
-      "public service & delivery"
+      "public service"
     ],
     "Public": true,
     "Answer": "The City of Tulsa offers a live traffic map that displays road closures around the city, also providing an explanation of the cause of the closure. Where closure is due to construction, the contractor and price is also displayed. This tool can be  found [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=0910c978896e423e8f4f826953b83b48).\n",
