@@ -27,6 +27,9 @@
   },
   {
     "id": "recYxyozUofEDYmrt",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I apply for a building, electrical or fire permit from the City of Tulsa? ",
     "Tags": [
       "accessing tulsa"
@@ -46,9 +49,6 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -105,6 +105,9 @@
   },
   {
     "id": "rectHaqVPSkDxULn8",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to build a detached shed or garage on my property? ",
     "Tags": [
       "accessing tulsa"
@@ -123,13 +126,13 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
     "id": "recuvoyP7aTEcrWRF",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to build an outdoor storm shelter on my property?",
     "Tags": [
       "accessing tulsa"
@@ -147,13 +150,13 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
     "id": "recuAGwtc736aGtNn",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to build a pool on my property?",
     "Tags": [
       "accessing tulsa"
@@ -171,13 +174,13 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
     "id": "recy2kKsEtjXqj2yd",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to improve the drainage on my property or change its grade?",
     "Tags": [
       "accessing tulsa"
@@ -195,13 +198,13 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
     "id": "recCHaTr7GPnNqXc4",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to build a retaining wall on my property?",
     "Tags": [
       "accessing tulsa"
@@ -220,9 +223,6 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -274,6 +274,9 @@
   },
   {
     "id": "recG6HLRAg8ji5ImW",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to have storm shelter installed inside of my residence?",
     "Tags": [
       "accessing tulsa"
@@ -292,9 +295,6 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -348,6 +348,9 @@
   },
   {
     "id": "recLJB4zNZyKJov59",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to hold a wedding or other large gathering at my residence?",
     "Tags": [
       "accessing tulsa"
@@ -365,9 +368,6 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -469,6 +469,9 @@
   },
   {
     "id": "rec3GdEUIDmHwSBfS",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to remodel my kitchen or bathroom?",
     "Tags": [
       "accessing tulsa"
@@ -486,9 +489,6 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -544,6 +544,13 @@
       "voting & elections"
     ],
     "Question": "How can I find which Tulsa City Council District I live in?",
+    "Tags": [
+      "accessing tulsa",
+      "voting & elections"
+    ],
+    "Concepts": [
+      "maps"
+    ],
     "Answer": "Visit Tulsa's online district map [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=5ee4acc23016404aae82bc8100168a4c). \n\nWith this map, you can enter a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District as well as contact information for the City Councilor who represents it. \n",
     "Concepts_PreOctober": [
       "recmM3m7G1ByTAI1T",
@@ -552,19 +559,15 @@
       "recNk1hJFap0wM73G",
       "recdoCgCxV6RbWD0L"
     ],
-    "Tags": [
-      "accessing tulsa",
-      "voting & elections"
-    ],
-    "Concepts": [
-      "maps"
-    ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
     ]
   },
   {
     "id": "rechyIcFk8RqZkDx8",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to build a deck on my property?",
     "Tags": [
       "accessing tulsa"
@@ -582,14 +585,17 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
     "id": "rechB3tyvdB14vB3f",
+    "Tags_PreOctober": [
+      "governance process"
+    ],
     "Question": "What occupations are licensed by the City of Tulsa?",
+    "Tags": [
+      "governance process"
+    ],
     "Concepts": [
       "licenses"
     ],
@@ -603,17 +609,17 @@
       "recT56q21gskzFrmD",
       "recAtWXbEzVaD72ND",
       "recQqTtEpxpp6AbHy"
-    ],
-    "Tags": [
-      "governance process"
-    ],
-    "Tags_PreOctober": [
-      "governance process"
     ]
   },
   {
     "id": "reciIzpjhVeUJjFHP",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to build an addition onto my home?",
+    "Tags": [
+      "accessing tulsa"
+    ],
     "Concepts": [
       "permits"
     ],
@@ -625,14 +631,8 @@
       "recIuuMLg0ka4tV4b",
       "recdoCgCxV6RbWD0L"
     ],
-    "Tags": [
-      "accessing tulsa"
-    ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -641,6 +641,9 @@
       "accessing tulsa"
     ],
     "Question": "How do I know what day to put out my trash for collection in Tulsa?",
+    "Tags": [
+      "accessing tulsa"
+    ],
     "Concepts": [
       "recycling & waste"
     ],
@@ -652,15 +655,15 @@
       "reck1kwu0Ax8s2U3s",
       "recq4v6FtV3eR1DZe"
     ],
-    "Tags": [
-      "accessing tulsa"
-    ],
     "Tags_PreOctober copy": [
       "public services"
     ]
   },
   {
     "id": "reclwDtRstU3qHBnu",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How can I volunteer my time or skills to help others in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -674,9 +677,6 @@
       "reciadpYORsfn5Qbg",
       "recTBiVxKt5P8D7B4",
       "recdoCgCxV6RbWD0L"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -704,6 +704,9 @@
   },
   {
     "id": "recn0Od7TdioxlCNb",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "Do I need a permit from the City of Tulsa to build a fence or wall on my property?",
     "Tags": [
       "accessing tulsa"
@@ -721,9 +724,6 @@
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -4795,6 +4795,9 @@
   },
   {
     "id": "recq5W9EHslVikUs4",
+    "Tags_PreOctober": [
+      "governance process"
+    ],
     "Question": "Can the City of Tulsa place additional taxes on homeowners for the purposes of funding specific projects in the area?",
     "Tags": [
       "governance process"
@@ -4811,10 +4814,7 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_006",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection F_\n",
-    "Tags_PreOctober": [
-      "governance process"
-    ]
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection F_\n"
   },
   {
     "id": "rec15pfJPynMl1X9W",
@@ -5129,6 +5129,9 @@
       "governance process"
     ],
     "Contributor": "Samuel",
+    "Concepts": [
+      "city council"
+    ],
     "Public": true,
     "Answer": "$24,000 annually\n",
     "Concepts_PreOctober": [
@@ -5140,9 +5143,6 @@
     "Author": "Samuel",
     "QA Code": "Samuel_Code_018",
     "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 2 - Salaries_\n",
-    "Concepts": [
-      "city council"
-    ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
     ]
@@ -8511,6 +8511,9 @@
   },
   {
     "id": "recdJyCbuHpkXOHLu",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I report code violations in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8532,13 +8535,13 @@
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Pages 11-12._\n",
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
     "id": "recIXjskCTgB35RHJ",
+    "Tags_PreOctober": [
+      "law & justice"
+    ],
     "Question": "Can my neighbor keep their inoperable vehicle in their front yard?",
     "Tags": [
       "law & justice"
@@ -8562,13 +8565,13 @@
     "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n",
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Tags_PreOctober": [
-      "law & justice"
     ]
   },
   {
     "id": "recprRZEmaiFQcIZc",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I establish a neighborhood tool library in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8589,13 +8592,13 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_014",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 13._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 13._\n"
   },
   {
     "id": "rec8aGzJTsY9GTzMN",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "What is an alert neighbors program?",
     "Tags": [
       "accessing tulsa"
@@ -8613,13 +8616,13 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_015",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n"
   },
   {
     "id": "recQ6ib28eweg2yaC",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I start an alert neighbors program in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8638,13 +8641,13 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_016",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 14._\n"
   },
   {
     "id": "recb2mqOhYvTzuBtm",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I prepare for an emergency in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8663,13 +8666,13 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_017",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 15._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 15._\n"
   },
   {
     "id": "recD7qV5csbm3Afgh",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I install a storm shelter in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8687,13 +8690,13 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_018",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 16._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 16._\n"
   },
   {
     "id": "recKurmkfCL7WXRMH",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I plant and care for trees in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8712,13 +8715,13 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_019",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 17._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 17._\n"
   },
   {
     "id": "recRtAR1YVxpadQyh",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I install rain barrels in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8736,13 +8739,13 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_020",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 19._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 19._\n"
   },
   {
     "id": "rec9gnsbyLJA9OXN5",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How do I plant a rain garden in Tulsa?",
     "Tags": [
       "accessing tulsa"
@@ -8760,10 +8763,7 @@
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_021",
-    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 20._\n",
-    "Tags_PreOctober": [
-      "accessing tulsa"
-    ]
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 20._\n"
   },
   {
     "id": "recd73crvkSwsZu19",
