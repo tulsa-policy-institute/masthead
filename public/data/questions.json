@@ -36,15 +36,15 @@
       "permits & licenses"
     ],
     "Answer": "Tulsa operates an online self-service portal where property owners can search for, apply, and track the progress of 160 different types of permits. \n",
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "recVypOtuYcUkJEnc"
+    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Concepts_PreOctober": [
-      "recZGgJu72BM3szBu",
-      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -60,15 +60,15 @@
       "utilities & user rates"
     ],
     "Answer": "Activating utility service can be as simple as sending an email to [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or making a call to Tulsa's 311 Customer Care Center. You could also visit the Utilities Customer Service Office at City Hall during busines shours. If you're calling or visiting in person, be prepared to provide your: name, telephone number, social security number, and address for service. If you activate via e-mail, provide all that information except for SSN, a Customer Care representative will follow up via phone to collect it. \n",
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "recu6NcBQpBMA2lzA"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recZGgJu72BM3szBu",
-      "recu6NcBQpBMA2lzA"
     ]
   },
   {
@@ -84,14 +84,14 @@
       "traffic & parking tickets"
     ],
     "Answer": "**Yes.** But it depends on the ticket. If the ticket you receive doesn't display a dollar amount for your fine in large font, but instead has the word \"COURT\" printed near the top, you cannot pay online and must appear in court. If your ticket does have a dollar amount, regardless of the amount, you can pay online through this web page. Be aware: tickets take 7-10 days to post online, if you try to pay before then you may not find it so it's worth checking back later. You can also use the system to pay fines for certain criminal code violations.\n",
+    "Concepts_PreOctober": [
+      "rec3asd9iMmSom1mZ"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "rec3asd9iMmSom1mZ"
     ]
   },
   {
@@ -107,14 +107,14 @@
       "permits & licenses"
     ],
     "Answer": "**Yes.** You'll need a residential accessory structure permit. The permit is required for any detached structure on the same parcel of property as a principal structure (house) and the use of which is incidental (related to, in support of) the principal structure. You can apply for such a permit here \n",
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc"
+    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Concepts_PreOctober": [
-      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -153,14 +153,14 @@
       "permits & licenses"
     ],
     "Answer": "**Yes.** You need a permit for both above-ground and in-ground pools. You can apply for one through Tulsa's permit self service portal. \n",
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc"
+    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Concepts_PreOctober": [
-      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -218,18 +218,18 @@
     "Tags": [
       "accessing tulsa"
     ],
+    "Concepts": [
+      "access data"
+    ],
     "Answer": "Management of public records in Tulsa and all other municipalities in the state is governed by Oklahoma's Open Records Act. That law, similar to other states, considers the overwhelming majority of government records as public by default. Generally speaking, the only records produced by, or in the custody of, government agencies/departments that are exempt from public disclosure are those which contain private medical information, information about children, or certain personal information about public employees (such as their home address or disciplinary investigations on their record).  \n",
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
+    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
-    ],
-    "Concepts": [
-      "access data"
-    ],
-    "Concepts_PreOctober": [
-      "recyz70Oeg3aDAwFw"
     ]
   },
   {
@@ -245,15 +245,15 @@
       "neighborhood life"
     ],
     "Answer": "If you just moved in to an area with a neighborhood association, there's a chance that an association member will try to reach out to invite you to join. If you don't hear anything or you've lived at your residence for a while and are curious, Tulsa has an online map showing each registered association, its boundaries, and contact information. \n",
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "recgOL1Tjb6v7gbSM"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recZGgJu72BM3szBu",
-      "recgOL1Tjb6v7gbSM"
     ]
   },
   {
@@ -294,14 +294,14 @@
       "utilities & user rates"
     ],
     "Answer": "The City of Tulsa offers a self-service portal where residents can pay their utility bills and find information about their meter readings. You'll need your customer ID and Customer account number to setup your online account. \n",
+    "Concepts_PreOctober": [
+      "recu6NcBQpBMA2lzA"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recu6NcBQpBMA2lzA"
     ]
   },
   {
@@ -317,14 +317,14 @@
       "utilities & user rates"
     ],
     "Answer": "If you are listed on the utility account, you can shut off or transfer service by emailing [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or calling 3-1-1. You can also visit the Utilities Customer Service Office at City Hall during business hours. You'll need to provide your customer ID and Customer account number. For shut offs, you'll need to provide a a forwarding address for the final bill (if applicable). After submitting a request, it usually takes 3 business days to transfer service or shut it off. For shut-offs, any outstanding balance will be charged against any deposit, then a final bill will be sent to you. \n",
+    "Concepts_PreOctober": [
+      "recu6NcBQpBMA2lzA"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recu6NcBQpBMA2lzA"
     ]
   },
   {
@@ -359,19 +359,19 @@
     "Tags": [
       "accessing tulsa"
     ],
+    "Concepts": [
+      "emergency prep"
+    ],
     "Answer": "If you live within the city limits, and your storm shelter or safe room meets FEMA and /or ICC building standards, you can register your shelter with the city so First Responders know where to find you in case of a natural disaster. Add your information to the Tulsa Storm Shelter Registry at this webpage\n",
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "reclUTuAAekZZiZGB"
+    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
-    ],
-    "Concepts_PreOctober": [
-      "recZGgJu72BM3szBu",
-      "reclUTuAAekZZiZGB"
-    ],
-    "Concepts": [
-      "emergency prep"
     ]
   },
   {
@@ -383,18 +383,18 @@
     "Tags": [
       "accessing tulsa"
     ],
+    "Concepts": [
+      "access data"
+    ],
     "Answer": "A request for Open Public Records must be made in writing. Citizens can do this themselves with a specific form provided by the City. The form is straightforward, but it helps to do some research beforehand about what information you need and what department/agency has the record. Your success in obtaining public records depends largely on how specific you are in describing the information you need. Ideally, you can tell the records custodian the exact name of the document, database, report etc. that you need information from. If not, the custodian is still legally obligated to make a good faith effort to produce the records you request. Once you've completed the form, use information on this page to find the relevant records custodian and submit the form either in-person or via e-mail. \n",
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
+    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
-    ],
-    "Concepts_PreOctober": [
-      "recyz70Oeg3aDAwFw"
-    ],
-    "Concepts": [
-      "access data"
     ]
   },
   {
@@ -411,15 +411,15 @@
       "public choice"
     ],
     "Answer": "You can choose to opt-out your household from Tulsa EMSA online. You'll need to login to your utility account here or register an account if you don't have one. Tulsa's 3-1-1 Customer Care Center can help you through the process if you have questions. Be aware that opting-out means you'll have to pay for EMS out-of-pocket if you or somebody in your household needs assistance. \n",
+    "Concepts_PreOctober": [
+      "reclUTuAAekZZiZGB",
+      "recZ2NmWg1Hg1mYk7"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "reclUTuAAekZZiZGB",
-      "recZ2NmWg1Hg1mYk7"
     ]
   },
   {
@@ -436,15 +436,15 @@
       "neighborhood life"
     ],
     "Answer": "According to the Tulsa Planning Office's Neighborhood Toolkit, \n> If you are concerned about trees on your property that are close to overhead utilities, call PSO’s Forestry Infoline at 1-877-367-6815. If needed, they will send a forester to you to determine if trimming or removal is best. If the best option is to remove the tree, PSO often provide vouchers you can use to receive a discount on the purchase of replacement trees and shrubs at participating local nurseries.\n",
+    "Concepts_PreOctober": [
+      "recgOL1Tjb6v7gbSM",
+      "reclRZ77sPgyBPqqn"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recgOL1Tjb6v7gbSM",
-      "reclRZ77sPgyBPqqn"
     ]
   },
   {
@@ -479,18 +479,18 @@
     "Tags": [
       "accessing tulsa"
     ],
+    "Concepts": [
+      "access data"
+    ],
     "Answer": "Information about requesting public records from the City of Tulsa is available on the City Finance Department's webpage. There you can download a request form, learn about what records are considered public, find contact information for the custodian of those particular records, and find out how much it may cost to obtain those records. \n",
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
+    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
-    ],
-    "Concepts_PreOctober": [
-      "recyz70Oeg3aDAwFw"
-    ],
-    "Concepts": [
-      "access data"
     ]
   },
   {
@@ -506,14 +506,14 @@
       "recycling & waste"
     ],
     "Answer": "You can schedule a pick-up for bulky waste by calling 918-596-9777 or through your online utilities account. Go here to login or register your account. You'll need your customer ID number, account number, and your SSN. Bulky waste pick-up costs $10 per 8 cubic feet. \n",
+    "Concepts_PreOctober": [
+      "recAJHYcsvcU9XMGI"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recAJHYcsvcU9XMGI"
     ]
   },
   {
@@ -532,15 +532,15 @@
       "access data"
     ],
     "Answer": "Visit Tulsa's online district map [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=5ee4acc23016404aae82bc8100168a4c). \n\nWith this map, you can enter a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District as well as contact information for the City Councilor who represents it. \n",
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw",
+      "recyJCadYKnbBRD0a"
+    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
-    ],
-    "Concepts_PreOctober": [
-      "recyz70Oeg3aDAwFw",
-      "recyJCadYKnbBRD0a"
     ]
   },
   {
@@ -557,15 +557,15 @@
       "neighborhood life"
     ],
     "Answer": "\n**Yes.** You'll need a residential deck permit. You can apply for one through Tulsa's permit self service portal. \n",
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc",
+      "recgOL1Tjb6v7gbSM"
+    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
-    ],
-    "Concepts_PreOctober": [
-      "recVypOtuYcUkJEnc",
-      "recgOL1Tjb6v7gbSM"
     ]
   },
   {
@@ -577,12 +577,12 @@
     "Tags": [
       "governance process"
     ],
+    "Concepts": [
+      "permits & licenses"
+    ],
     "Answer": "You need a license from the City to legally work in most contractor roles, including the following:\n\n- Electrical\n- Residential electrical\n- Electrical with security alarm\n- General contractor\n- Mechanical\n- Plumbing.\n\nAdditionally, licenses are required to work on fire alarm and sprinkler and suppression systems. Fire suppression system installation businesses also must hold a business license. \n\nOccupational license applications are available on Tulsa's [self service portal](https://tulsaok-energovweb.tylerhost.net/apps/selfservice#/home). \n",
     "Concepts_PreOctober": [
       "recVypOtuYcUkJEnc"
-    ],
-    "Concepts": [
-      "permits & licenses"
     ]
   },
   {
@@ -599,11 +599,7 @@
     ],
     "Answer": "**Yes.** You'll need a residential addition permit. You can apply for one through Tulsa's permit self-service portal. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "reckEjpC9UPsBgbnF",
-      "recIuuMLg0ka4tV4b",
-      "recdoCgCxV6RbWD0L"
+      "recVypOtuYcUkJEnc"
     ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
@@ -626,11 +622,7 @@
     ],
     "Answer": "Your weekly collection day depends on your neighborhood. Tulsa offers a map to help you  determine your collection day. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recws8bLQ6cyFvH6B",
-      "recBTeDboTe5vDD9l",
-      "reck1kwu0Ax8s2U3s",
-      "recq4v6FtV3eR1DZe"
+      "recAJHYcsvcU9XMGI"
     ],
     "Tags_PreOctober copy copy": [
       "public services"
@@ -653,10 +645,7 @@
     ],
     "Answer": "The City of Tulsa maintains a list of volunteer opportunities with both local organizations and larger ones that benefit Tulsans. You can find out about the organization, the help they need, when/how often they need it, and whether your skills could benefit others through the role. Find out more here. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "reciadpYORsfn5Qbg",
-      "recTBiVxKt5P8D7B4",
-      "recdoCgCxV6RbWD0L"
+      "reciadpYORsfn5Qbg"
     ]
   },
   {
@@ -669,14 +658,11 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "public records"
+      "access data"
     ],
     "Answer": "Sometimes, depending on what kind of records you request, how many you request, and what you need them for. The city's full fee schedule for public records is here. According to Oklahoma's Open Records Act, government bodies should charge citizens only for the direct cost of producing the record. Paper copies cost $0.25 per sheet, Certified Copies cost $1 per sheet, etc. However, if records are requested for commercial purposes, or if the quantity of records requested is such that producing them will disrupt the essential functions of the government body, the City of Tulsa charges $30/hour. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recQZe9wGJYchUmSF",
-      "recdoCgCxV6RbWD0L",
-      "recrhc9ForZ6fHB3W"
+      "recyz70Oeg3aDAwFw"
     ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
@@ -699,11 +685,7 @@
     ],
     "Answer": "**Yes.** You'll need a residential fence or wall fence permit. Be aware: this permit is not intended for a retaining wall, which requires a separate permit. If you intend to build a masonry wall fence over four feet tall, you'll also need to get plan approval from an engineer. To apply for a permit, visit Tulsa's self service portal. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recmjTVmhqoXN6Y2o",
-      "recdoCgCxV6RbWD0L"
+      "recVypOtuYcUkJEnc"
     ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
@@ -726,15 +708,7 @@
     ],
     "Answer": "The Metropolitan Environmental Trust (M.e.t.) operates free drop-off recycling centers throughout the metro area, including three in Tulsa. Many of these locations accept items not collected in your blue curbside recycling bin, including plastic bags, motor oil, cooking oil, antifreeze, batteries, electronic waste, and eyeglasses. Visit metrecycle.com for a full list of items and hours. \naccepted at each location\n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "recBTeDboTe5vDD9l",
-      "recws8bLQ6cyFvH6B",
-      "recchqDApy3QBKYYZ",
-      "rechGKl53YLEWSFKy",
-      "recppFWF7pFbf4qUq",
-      "recwVwtuJ9JH8GyXW",
-      "recdoCgCxV6RbWD0L"
+      "recAJHYcsvcU9XMGI"
     ],
     "Tags_PreOctober copy copy": [
       "public services"
@@ -753,19 +727,21 @@
       "public finance"
     ],
     "Concepts": [
-      "city spending"
+      "city spending",
+      "the zoo"
     ],
     "Public": true,
     "Answer": "The FY23 City of Tulsa budget allocates **$6,772,000** to manage the Tulsa Zoo. The City plans to spend **$6,942,000** in FY24.\n\nWhile the zoo grounds and its physical structures are owned by the city of Tulsa\n\nTHE ZOO GROUNDS AND PHYSICAL STRUCTURES ARE OWNED BY THE\nCITY OF TULSA. \n",
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "recqzaGmRmPCNdlH2"
+    ],
     "Tags_PreOctober copy copy": [
       "revenue & spending"
     ],
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 30._\n\n\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recwAO2mFZ77zN4Ea"
     ]
   },
   {
@@ -783,7 +759,7 @@
     "Public": true,
     "Answer": "Tulsa 311 is a hotline and online portal for citizens to **report non-emergency issues** and **request city services**. Residents can call by dialing 311, visit the website at [tulsa311.com](http://tulsa311.com), or use the [Tulsa 311 mobile app](https://apps.apple.com/us/app/tulsa-311/id1453372535).\n### Report & Request Forms\n- [Abandoned, Disabled, or Illegally Parked Vehicles](https://tulsa311.com/site/wss/redirect/1000261)\n- [Advertising Sign Violations](https://tulsa311.com/site/wss/redirect/1000258)\n- [Barking Dog (Noise Complaint)](https://tulsa311.com/site/wss/redirect/1000050)\n- [Broken Parking Meter](https://tulsa311.com/site/wss/redirect/1000253)\n- [Dead Animal Pickup](https://tulsa311.com/site/wss/redirect/1000200)\n- [Dumping Violations](https://tulsa311.com/site/wss/redirect/1000263)\n- [Expressway / Decorative Lights Out](https://tulsa311.com/site/wss/redirect/1000301)\n- [File a Police Report](https://tulsa311.com/site/wss/redirect/1000260)\n- [Flood Plain Inquiry](https://tulsa311.com/site/wss/redirect/1000450)\n- [Human Rights Complaint Intake Form](https://tulsa311.com/site/wss/redirect/1000300)\n- [Loose Animal](https://tulsa311.com/site/wss/redirect/1000256)\n- [Missed Trash Collection](https://tulsa311.com/site/wss/redirect/1000400)\n- [New Traffic Sign or Signal Request](https://tulsa311.com/site/wss/redirect/1000302)\n- [Pothole](https://tulsa311.com/site/wss/redirect/1000001)\n- [Property Violation](https://tulsa311.com/site/wss/redirect/1000254)\n- [Sewer Line Break Overflow](https://tulsa311.com/site/wss/redirect/1000252)\n- [Street Marker/Street Sign Down](https://tulsa311.com/site/wss/redirect/1000257)\n- [Streetlight Maintenance](https://tulsa311.com/site/wss/redirect/1000600)\n- [Tort Claim Form](https://tulsa311.com/site/wss/redirect/1000262)\n- [Traffic Signal Malfunction](https://tulsa311.com/site/wss/redirect/1000255)\n- [Water Line Breaks](https://tulsa311.com/site/wss/redirect/1000259)\n",
     "Concepts_PreOctober": [
-      "rec797k3CYC8F5O3f"
+      "reclRZ77sPgyBPqqn"
     ],
     "Author": "Abby",
     "QA Code": "Abby_Tulsa311_01",
@@ -811,12 +787,7 @@
     "Public": true,
     "Answer": "Tulsa's 311 Customer Care Center has an online form available [here](https://tulsa311.com/site/wss/redirect/1000261) for citizens to reports cars parked illegally or which appear abandoned. Providing the exact address provides the greatest chance of action being taken. If Tulsa authorities confirm a report, the car will be tagged for towing. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec797k3CYC8F5O3f",
-      "rec5EtmXDFLl7QB0k",
-      "rectD3gKNXIFdjHUQ",
-      "recRJBtqeF69Iewhi",
-      "recGkXnNzl0pw1ued"
+      "reclRZ77sPgyBPqqn"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_000",
@@ -844,9 +815,7 @@
     "Public": true,
     "Answer": "The total budget is **$944.9 million,** an increase of $145.5 million (18.2%) over the prior year's budget. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recygMhYSJxEH8g89"
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_001",
@@ -874,11 +843,7 @@
     "Public": true,
     "Answer": "The operating budget is **$824 million**, an increase of $113.5 million (16%) over the prior year's operating budget\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec5KZdLje0u9mbEn",
-      "recygMhYSJxEH8g89",
-      "recvcH6UgexrbXmq9"
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_002",
@@ -906,11 +871,7 @@
     "Public": true,
     "Answer": "Tulsa funds improvements through its capital budget. Fiscal year 2022-2023 capital budget is **$120.4 million**. Capital funding increased by $32 million (36.2%) over the prior year's budget. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recygMhYSJxEH8g89",
-      "rec17CY4B97WAP1a8",
-      "recI2ycsxZZO6fcFB"
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_003",
@@ -932,15 +893,13 @@
       "public finance"
     ],
     "Contributor": "Dan",
+    "Concepts": [
+      "economic conditions"
+    ],
     "Public": true,
     "Answer": "Tulsa's FY23 budget presentation highlights several economic conditions that may have informed the budget process. Among these are the following.\n\n- **High inflation**: For example, average price of household necessities rose 8.3% in April 2022.\n- **Increased energy costs and slowing investment**: This is thought to be attributed to unfavorable federal policy and/or major employers in the region. Notably, this refers to oil and gas companies.\n- **Developments in Aerospace: **Major employers in the Tulsa metro area have promised to increase investment and employment to support infrastructure at the Tulsa airport.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recRkoks26UJNYZaf",
-      "recByHjpLaWIKK5Fj",
-      "recvYIjo7YASgdmQQ",
-      "rec3JBXzS340jufUz"
+      "recyMtyE1wqQuh6ah"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_004",
@@ -963,17 +922,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
+      "the bird's eye view",
       "city spending"
     ],
     "Public": true,
     "Answer": "The City of Tulsa's priorities for the FY23 budget, in no particular order, include the following. \n\n- Funding **recruitment** efforts to fill vacant positions. Notably, this concerns increasing salary/wage compensation.\n- Improving **customer service** through technology and \"a 27% increase in customer care agents taking citizen calls...about utility bills and other issues\".\n- Increasing **public safety** through focused recruitment efforts at police and fire academies, allocating public safety grant funding, and implementing a Real-time information center (RTIC) to streamline law enforcement intelligence through community surveillance. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recygMhYSJxEH8g89",
-      "recmI8jq7aDVIZwPI",
-      "recD4xTSPIJ16uPjz",
-      "recVswcqhjkahPslp"
+      "recf9vQSSV9y8JyWT",
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_005",
@@ -996,15 +952,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city revenue"
+      "sales tax",
+      "the bird's eye view"
     ],
     "Public": true,
     "Answer": "Sales and use taxes account for 63.9% of the General Fund, which is the principal operating fund of the City. General fund revenues for FY2023 are expected to be $358.3 million.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
-      "recs5w170YqWhk0EG"
+      "recqHZ3UmD7SG9v5v",
+      "recf9vQSSV9y8JyWT"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_006",
@@ -1027,17 +982,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
+      "fiscal stability",
       "city spending"
     ],
     "Public": true,
     "Answer": "The City of Tulsa's primary two reserve funds are the General Fund Emergency Operating Reserve, with a balance of **$29.9 million**, and the City's Economic Stabilization Reserve (aka Rainy Day Fund), with an expected balance of **$12.4 million **by the end of FY23. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recZKGlSopefYlgJl",
-      "recSlLVBIMDqqcsOz",
-      "recqrrvxCjfwfD3Gi",
-      "rechtfnL0L7SQWySq"
+      "recYLQp3CynFCBY7q",
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_007",
@@ -1060,17 +1012,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
+      "the bird's eye view",
       "city spending"
     ],
     "Public": true,
     "Answer": "The largest expenditure category is **payroll**, which represents 70.1% of the General Fund.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recygMhYSJxEH8g89",
-      "rec8AeklhglYBxGE1",
-      "recvcH6UgexrbXmq9",
-      "recs5w170YqWhk0EG"
+      "recf9vQSSV9y8JyWT",
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_008",
@@ -1093,16 +1042,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
+      "the bird's eye view",
       "city spending"
     ],
     "Public": true,
     "Answer": "Public safety receives the largest allocation of resources at 53.2% of the General Fund. Public Safety includes the following organizations.\n\n- Police Department\n- Fire Department\n- EMS\n- 911 call center\n- Prosecutor's Office. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recygMhYSJxEH8g89",
-      "recyjD9HkhKp1tczB",
-      "recD4xTSPIJ16uPjz"
+      "recf9vQSSV9y8JyWT",
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_009",
@@ -1130,15 +1077,7 @@
     "Public": true,
     "Answer": "**No.** Resulting from the success of an asset management program, the TMUA did not recommend increases to water rates for FY23. \n\n_Current Rates_\nThe current rate equals $4.31 per 1,000 gallons of water used. \n\n_FY24 Recommendations_\nThe TMUA is recommending a 3% increase for FY24, partially due to increases in chemical costs.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recWdnRM6FA93ACEx",
-      "reccm8jum85mxl4b2",
-      "recXrn5bEAziLS5hi",
-      "recGGzf4fV3y01tu7",
-      "recQ4YQuzC7U20psh",
-      "recqjX1JeotlsirPA",
-      "rec8kOYbGZaSstxXv"
+      "recu6NcBQpBMA2lzA"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_010",
@@ -1166,14 +1105,7 @@
     "Public": true,
     "Answer": "**Yes.** A 7% rate increase (from $9.36 to $10.02 per 1,000 gallons of water used per single-family home) is proposed for the sanitary sewer system in FY23.  According to the FY23 budget presentation, debt and scheduled capital improvement projects (together representing nearly half the system's operating budget) are the main drivers of rate increases.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recC80WE0BC0GjA20",
-      "recGGzf4fV3y01tu7",
-      "recqjX1JeotlsirPA",
-      "recXrn5bEAziLS5hi",
-      "recQ4YQuzC7U20psh",
-      "rec8kOYbGZaSstxXv"
+      "recu6NcBQpBMA2lzA"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_011",
@@ -1201,12 +1133,7 @@
     "Public": true,
     "Answer": "**Yes.** Rates are increasing by 8.5% (from $9.03 to 9.80 per month per residential customer). This rate increase is higher than the 7% increase that was originally proposed for FY23. Budget documents attribute the higher increase to the need for additional capital to fund improvement projects identified as high priority via strategic planning study. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recXIehUTkifUvxMa",
-      "recQqqKXV7tZV5TZh",
-      "recP4EVMzwQakaDpC",
-      "rec8kOYbGZaSstxXv"
+      "recu6NcBQpBMA2lzA"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_012",
@@ -1234,13 +1161,7 @@
     "Public": true,
     "Answer": "**Possibly. **According to Tulsa's FY23 budget presentation, \n> There are currently no changes to rates for trash service in FY23. However, ongoing discussion regarding recent developments involving refuse and recycling services will likely necessitate a rate increase for trash service in mid-FY23 or beginning FY24.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recaSm0PXLgOmefo6",
-      "recILQjG3bunQR0s8",
-      "recx3J6Gl3qlC5bMI",
-      "recGGzf4fV3y01tu7",
-      "rec8kOYbGZaSstxXv"
+      "recu6NcBQpBMA2lzA"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_013",
@@ -1268,10 +1189,7 @@
     "Public": true,
     "Answer": "**No.**  According to Tulsa's FY23 budget presentation, \"There are currently no changes to the rate for emergency medical services in FY23\". Households within Tulsa's city limits are currently billed $5.45 per month for EMSA, unless a household chooses to opt out and pay for EMS services out of pocket if and when necessary. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recoJSpwBlG6Tx4G3",
-      "recP4EVMzwQakaDpC"
+      "recu6NcBQpBMA2lzA"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_014",
@@ -1294,15 +1212,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
+      "sales tax",
       "city spending"
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> This budget includes** $36.9 million in sales tax funded projects from the 2022 Improve Our Tulsa II program.** This program includes funding for critical projects for Police, Fire, Parks, Citywide Public Facilities, Economic Development Infrastructure, Transit rolling stock and Capital Equipment. Priorities in this year’s budget, include $3.9 million for apparatus replacement for the Fire Department, $4.0 million to fully fund the construction of a new parking garage for the Veterans Hospital to be constructed in downtown Tulsa and $14.3 million for Capital Equipment.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recsDSESmuePsplUQ",
-      "recs2KbDOv7pV75Sy"
+      "recqHZ3UmD7SG9v5v",
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_015",
@@ -1330,14 +1247,7 @@
     "Public": true,
     "Answer": "The FY23 Capital Budget \n> ...provides $49.8 million for water treatment plant work, supply system repairs, water line replacement and relocation projects. Additionally, $33.4 million will be used for sewer treatment plants, pipe replacement and other system work. Storm water will receive $5.4 million for storm water pipe extensions, drainage improvements associated with roadway projects, small critical drainage projects and detention pond rehabilitation.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recsDSESmuePsplUQ",
-      "recQ4YQuzC7U20psh",
-      "rec8kOYbGZaSstxXv",
-      "recXIehUTkifUvxMa",
-      "recC80WE0BC0GjA20",
-      "recWdnRM6FA93ACEx"
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_016",
@@ -1360,17 +1270,16 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "sales tax",
+      "bonds"
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> The City has now received over five years of collections from the sales tax approved by voters in April 2016 for the Vision Tulsa economic development capital program which is set at 0.805% for the next three years. Implementation of the project scheduling and financing plan continues. All of the planned revenue bond sales have been completed totaling $346.6 million to provide advance funding for 26 projects. The $510 million program will last 15 years. Directly funded projects total $65.3 million in the proposed budget for nine projects, with the largest allocation going toward debt service.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recsDSESmuePsplUQ",
-      "recjHJF8xuHGjzKjw",
       "recqHZ3UmD7SG9v5v",
-      "rec2bz2lvTwnSaZRh"
+      "rec2bz2lvTwnSaZRh",
+      "recjHJF8xuHGjzKjw"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_017",
@@ -1398,12 +1307,7 @@
     "Public": true,
     "Answer": "The City's Capital Plan \n> ...Focuses on projects that should be considered for funding in the next five years, totaling **$553.6 million**. Close to two thirds (2/3) of the projects are renewal of existing infrastructure with the balance supporting growth. **The plan is dedicated to utility system projects** over the next five years as other recently approved capital programs have funded the majority of the City’s other capital needs.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recsDSESmuePsplUQ",
-      "rec6lAkGREv8TvMN4",
-      "recI2ycsxZZO6fcFB",
-      "rec8kOYbGZaSstxXv"
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_018",
@@ -1426,17 +1330,16 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city revenue"
+      "city revenue",
+      "bonds",
+      "debt & credit"
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> During the upcoming fiscal year, the City anticipates undertaking an issuance of** $117.4 millio**n in general obligation bonds**. **All funds will go toward** street project**s authorized in the 2014 Improve Our Tulsa program and 2020 Improve Our Tulsa II program. Some** $14.8 million in bonds and loans will finance sanitary sewer and storm water project**s that include concrete pipe replacement, interceptor rehabilitation, sewer line rehabilitation and a storm water outfall line from Hager Creek to the Arkansas River. Funds will be appropriated by budget amendment upon completion of each bond sale. Taken together, these** **bond sales will add **$132.1 million **in additional funds to the capital budget, bringing the amended total to** $253.5 millio**n.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
       "recjHJF8xuHGjzKjw",
-      "recqFxYA8XapFzThA",
-      "recG1IUnFd4nJ1taA",
-      "rec6lAkGREv8TvMN4"
+      "recH1mRwJUog6R4Q7",
+      "recJmau6WQBoecA7Z"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_019",
@@ -1459,14 +1362,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "courts"
+      "municipal court"
     ],
     "Answer": "The City's budget for FY23 \"funds an additional prosecutor to facilitate the implementation of a night court in the municipal court system.\" City Council Chairperson, Lori Decter Wright, said in her budget address that night court will \"increase accessibility to citizens who are unable to appear before our courts during their regular working hours\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "reckivnhvEWyCJLZu",
-      "rec5zuQYV86Tl6otE"
+      "recQmeWJXdEaiIVRR"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_020",
@@ -1494,11 +1394,7 @@
     "Public": true,
     "Answer": "In preparing this budget, City Council prioritized expanding the Community Response Team (CRT). This budget increases CRT's mobile mental health crisis response funding by $250,000 to further \"assist people suffering a mental health emergency and reduce reliance on other emergency services\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recYkpPYV94SIDMhN",
-      "recZQMiK01PQGJWUu",
-      "rec797k3CYC8F5O3f"
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_021",
@@ -1525,14 +1421,6 @@
     ],
     "Public": true,
     "Answer": "This budget funds $2 million toward implementation of the plan, \"which will create a vision and framework for redevelopment of 56 acres of publicly-owned property\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUfSeD3Kz5KHqfr",
-      "recF9VXTa1EcM719b",
-      "recYIMb0VrUFDleyD",
-      "rect27FgMNC6spxhc"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_022",
     "Tags_PreOctober copy copy": [
@@ -1541,6 +1429,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -1558,13 +1449,6 @@
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> This budget includes $1 million to continue the search for the graves of victims of the massacre, including funds for additional excavation and DNA analysis following recommendations from technical experts.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recWZneru5S6jTv3b",
-      "recfmDr9RyWV0rCGV",
-      "recybi21BpWHEijDu"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_023",
     "Tags_PreOctober copy copy": [
@@ -1573,6 +1457,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -1590,14 +1477,6 @@
     ],
     "Public": true,
     "Answer": "City of Tulsa Financial policies address the following.\n\n- **Strategic planning**\n- **Operating budget**\n- **Risk management**\n- **Procurement and purchasing**\n- **Revenues**\n- **Capital budget and improvements**\n- **Long term borrowing**\n- **Investments and deposits**\n- **Reserves**\n- **Accounting**\n- **Trusts and authorities**\n- **Pension funds. **\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recYi0YH7AoRWSYI0",
-      "recTfZllChvyNKn9v",
-      "rec6MHeMdPDX7tVH2",
-      "recYp97CvgQUkDeRu"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_024",
     "Tags_PreOctober copy copy": [
@@ -1606,6 +1485,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-19, Paragraph 1-5, 1-3, 1-4, 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
