@@ -138,7 +138,7 @@
     "id": "recP4EVMzwQakaDpC",
     "Name": "rates",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "public services"
     ],
     "MegaName": [
@@ -256,7 +256,7 @@
     "id": "recGGzf4fV3y01tu7",
     "Name": "utility rates",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "pay my bills, fines, & fees"
@@ -323,7 +323,7 @@
     "id": "recXrn5bEAziLS5hi",
     "Name": "ratepayer",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "pay my bills, fines, & fees"
@@ -435,7 +435,7 @@
     "id": "reccm8jum85mxl4b2",
     "Name": "rate",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "pay my bills, fines, & fees"
@@ -935,7 +935,7 @@
     "id": "rech2pNnuhsCaWBdI",
     "Name": "licensing fees",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "pay my bills, fines, & fees"
@@ -1466,7 +1466,7 @@
     "id": "recFo91PsG77aj1jR",
     "Name": "program based budget",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "budgeting"
@@ -1485,7 +1485,7 @@
     "id": "recuPnWiwcIIaduno",
     "Name": "auditing",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "policies & regulations"
     ],
     "MegaName": [
@@ -1505,7 +1505,7 @@
     "id": "recUvr48FfuQXdJa3",
     "Name": "accounting",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "policies & regulations"
     ],
     "MegaName": [
@@ -1888,7 +1888,7 @@
     "id": "recs5w170YqWhk0EG",
     "Name": "general fund",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "budgeting"
@@ -1913,7 +1913,7 @@
     "id": "rec49m6RsxVRmpzkl",
     "Name": "revenue",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "spending"
@@ -4040,7 +4040,7 @@
     "id": "recTGx0H50NHZXRje",
     "Name": "financing",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "budgeting",
@@ -4148,7 +4148,7 @@
     "id": "recsYLnM6D9nA05T7",
     "Name": "tax increment finance districts",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "policies & regulations"
     ],
     "Questions_old": [
@@ -4311,7 +4311,7 @@
     "id": "recvHAmUPPPfP2P2V",
     "Name": "delinquency",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recvilaePrzCVMmK5"
@@ -4346,7 +4346,7 @@
     "id": "recgTWazARLYOpVkS",
     "Name": "credit",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recvilaePrzCVMmK5",
@@ -4448,7 +4448,7 @@
     "id": "recQmeWJXdEaiIVRR",
     "Name": "municipal court",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recGxgZPrIGnbfVpN"
@@ -4673,7 +4673,7 @@
     "id": "recjHJF8xuHGjzKjw",
     "Name": "bonds",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "budgeting"
@@ -4923,7 +4923,7 @@
     "id": "recqFxYA8XapFzThA",
     "Name": "debt",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "debt"
@@ -4988,7 +4988,7 @@
     "id": "recswu6dyA1AGVmzf",
     "Name": "debt service",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recoA5Y1FTvxxbvQt",
@@ -5057,7 +5057,7 @@
     "id": "recTIbOjRMIPffL0T",
     "Name": "Using $2.6 million in franchise fees collected by the City from the Public Service Company of Oklahoma",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "Questions_old": [
@@ -5114,7 +5114,7 @@
     "id": "recjl1HzIv4cx3cKr",
     "Name": "cdbg",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "rec6ZRpr4fjmwghzC"
@@ -5192,7 +5192,7 @@
     "id": "recBxiII0dQVKFkrW",
     "Name": "municipal aid",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recGcNHgB3IHCgMKb"
@@ -5208,7 +5208,7 @@
     "id": "recHVrvwsN9Bgch79",
     "Name": "state grants",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recGcNHgB3IHCgMKb"
@@ -5224,7 +5224,7 @@
     "id": "recpYxAcustPTx57u",
     "Name": "federal grants",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recGcNHgB3IHCgMKb"
@@ -5321,7 +5321,7 @@
     "id": "recZ8wrSVc6ylH9Nv",
     "Name": "compensation",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recbLSfcufd73dktE",
@@ -5390,7 +5390,7 @@
     "id": "recNlU5Iz5iBopJ9m",
     "Name": "budget",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "budgeting"
@@ -5780,7 +5780,7 @@
     "id": "recygMhYSJxEH8g89",
     "Name": "spending",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "spending"
@@ -5886,7 +5886,7 @@
     "id": "recvcH6UgexrbXmq9",
     "Name": "payroll",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "Questions_old": [
@@ -5906,7 +5906,7 @@
     "id": "recZKGlSopefYlgJl",
     "Name": "reserve",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recQGAWDHJ84TLDnX"
@@ -5922,7 +5922,7 @@
     "id": "recqrrvxCjfwfD3Gi",
     "Name": "stabilization",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recQGAWDHJ84TLDnX"
@@ -5938,7 +5938,7 @@
     "id": "rechtfnL0L7SQWySq",
     "Name": "rainy day fund",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recQGAWDHJ84TLDnX"
@@ -5974,7 +5974,7 @@
     "id": "rec17CY4B97WAP1a8",
     "Name": "capital",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "spending"
@@ -6057,7 +6057,7 @@
     "id": "recbJf8dAMpIEg3vL",
     "Name": "state taxes",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recFL3FlWVMJk9Gfd"
@@ -6117,7 +6117,7 @@
     "id": "recu7T4jWaUtbDQ2V",
     "Name": "income tax",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "taxes"
@@ -6433,7 +6433,7 @@
     "id": "recQ7YxWailsV4J0j",
     "Name": "borrowing",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "budgeting"
@@ -6461,7 +6461,7 @@
     "id": "recGP41AikxZaToKj",
     "Name": "one-time expenditures",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recg0ixkhBeUqQVej",
@@ -6494,7 +6494,7 @@
     "id": "reclEz2L2IRivna0C",
     "Name": "operating reserve",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recg0ixkhBeUqQVej",
@@ -6595,7 +6595,7 @@
     "id": "recNbV0kB3L2VPCAA",
     "Name": "finance",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recj4ytRm52vnNOM1",
@@ -6618,7 +6618,7 @@
     "id": "rec5hduOrQRpCn7TS",
     "Name": "grant funding",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recj4ytRm52vnNOM1",
@@ -6811,7 +6811,7 @@
     "id": "recJa5EWQoYMHDXk1",
     "Name": "bidding",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "MegaName": [
@@ -6831,7 +6831,7 @@
     "id": "reciK8ERaBnuCNfZM",
     "Name": "purchasing",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "Questions_old": [
@@ -6849,7 +6849,7 @@
     "Name": "forfeiture",
     "Tags": [
       "policies & regulations",
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recACPg1z2tHA5mX1"
@@ -6865,7 +6865,7 @@
     "id": "recs4ACxZb3cyhEps",
     "Name": "enterprise",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "policies & regulations"
     ],
     "Questions_old": [
@@ -6882,7 +6882,7 @@
     "id": "recKE790vQbaHmbeM",
     "Name": "fees",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "pay my bills, fines, & fees"
@@ -6909,7 +6909,7 @@
     "id": "recxYIRPvYEut8lEN",
     "Name": "fines",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process",
       "policies & regulations"
     ],
@@ -6952,7 +6952,7 @@
     "Name": "licenses",
     "Tags": [
       "policies & regulations",
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recACPg1z2tHA5mX1",
@@ -6979,7 +6979,7 @@
     "Name": "permits",
     "Tags": [
       "policies & regulations",
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recACPg1z2tHA5mX1",
@@ -7023,7 +7023,7 @@
     "id": "recrcssg4rJQBVqHI",
     "Name": "taxes",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "taxes"
@@ -7069,7 +7069,7 @@
     "id": "reckoTqYqO2SupOMG",
     "Name": "insurance",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "Questions_old": [
@@ -7293,7 +7293,7 @@
     "id": "reca5Zgna7r4QI3JP",
     "Name": "cip",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "public services"
     ],
     "Questions_old": [
@@ -7408,7 +7408,7 @@
     "id": "recByHjpLaWIKK5Fj",
     "Name": "inflation",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "reco76c0cOfZhPyXW"
@@ -7424,7 +7424,7 @@
     "id": "recBzl6uNMkwRCH5O",
     "Name": "hotel/motel tax",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recAEKSQ88TBxLYPI"
@@ -7440,7 +7440,7 @@
     "id": "recwzQcFDQjFVInCO",
     "Name": "ad valorem tax",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "MegaName": [
       "taxes"
@@ -7516,7 +7516,7 @@
     "id": "rec4YeQSwcGTc0Izx",
     "Name": "tax levy",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recFbQt2VYKYSw9zQ"
@@ -7704,7 +7704,7 @@
     "id": "rec8AeklhglYBxGE1",
     "Name": "expenditure",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recQHg1Mu9x0oXQG2"
@@ -7720,7 +7720,7 @@
     "id": "recALrXDVs83Qf9QT",
     "Name": "economics",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recYGrUyBXjHPoqep",
@@ -7757,7 +7757,7 @@
     "id": "rec5fkRItyK7VCWJO",
     "Name": "general fund budget",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recYGrUyBXjHPoqep",
@@ -7794,7 +7794,7 @@
     "id": "recdbpewxCXJ0tOiA",
     "Name": "economic stabilization reserve",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "Questions_old": [
@@ -7904,7 +7904,7 @@
     "id": "recumoqhRUNLtRKmo",
     "Name": "enterprise funds",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recud2YLagZ1EZzC1"
@@ -7920,7 +7920,7 @@
     "id": "recLdxp1w3fl7G4W9",
     "Name": "pilot",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recud2YLagZ1EZzC1"
@@ -7936,7 +7936,7 @@
     "id": "rec9waV3GVmUG4v9L",
     "Name": "budgets",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "MegaName": [
@@ -8484,7 +8484,7 @@
     "id": "recfP45qdDq2WHR4k",
     "Name": "grants",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recjUKapkhmNZG9YT",
@@ -8663,7 +8663,7 @@
     "id": "recIMTVJuBGTTlkrk",
     "Name": "hotel/motel taxes",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recFX7o8wiwVpZWZN"
@@ -8680,7 +8680,7 @@
     "Name": "consumer price index",
     "Tags": [
       "city gov & policy process",
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recXs1flaptEVIw6G",
@@ -8709,7 +8709,7 @@
     "id": "recpRzWgONB4fYLgm",
     "Name": "city treasurer",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "city gov & policy process"
     ],
     "Questions_old": [
@@ -8759,7 +8759,7 @@
     "id": "recyjD9HkhKp1tczB",
     "Name": "resource allocation",
     "Tags": [
-      "revenue & spending",
+      "public finance",
       "public services"
     ],
     "Questions_old": [
@@ -8798,7 +8798,7 @@
     "id": "rec6lAkGREv8TvMN4",
     "Name": "capital plan",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recWIpxaGK2kDJf97",
@@ -9061,7 +9061,7 @@
     "id": "recnRqKoBfg0sodUS",
     "Name": "investment",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recxLZvEPiZjg20zG",
@@ -9134,7 +9134,7 @@
     "id": "recE95h3mqnQmyHTc",
     "Name": "right of way user fees",
     "Tags": [
-      "revenue & spending"
+      "public finance"
     ],
     "Questions_old": [
       "recFkQ2lYwBO2Qkhx"
