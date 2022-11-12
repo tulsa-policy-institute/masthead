@@ -69,6 +69,22 @@
     ]
   },
   {
+    "id": "recTfZllChvyNKn9v",
+    "Name": "compliance",
+    "Tags": [
+      "policies & regulations",
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recZTxd0N54AI3X5r",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe"
+    ]
+  },
+  {
     "id": "recYp97CvgQUkDeRu",
     "Name": "audit",
     "Tags": [
@@ -91,6 +107,22 @@
     ],
     "Questions_old": [
       "recZTxd0N54AI3X5r"
+    ]
+  },
+  {
+    "id": "recXVgF1cWfOtbdGR",
+    "Name": "state law",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "state of oklahoma"
+    ],
+    "Questions_old": [
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm"
     ]
   },
   {
@@ -467,6 +499,42 @@
     ]
   },
   {
+    "id": "recJa5EWQoYMHDXk1",
+    "Name": "bidding",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "spending"
+    ],
+    "Questions_old": [
+      "recu99NhUY4x8xXpA"
+    ]
+  },
+  {
+    "id": "reciK8ERaBnuCNfZM",
+    "Name": "purchasing",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recu99NhUY4x8xXpA"
+    ]
+  },
+  {
+    "id": "reckoTqYqO2SupOMG",
+    "Name": "insurance",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recufBtzaEFzv4ftK"
+    ]
+  },
+  {
     "id": "recZKGlSopefYlgJl",
     "Name": "reserve",
     "Tags": [
@@ -487,6 +555,26 @@
     ]
   },
   {
+    "id": "recumoqhRUNLtRKmo",
+    "Name": "enterprise funds",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recud2YLagZ1EZzC1"
+    ]
+  },
+  {
+    "id": "recvHAmUPPPfP2P2V",
+    "Name": "delinquency",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recvilaePrzCVMmK5"
+    ]
+  },
+  {
     "id": "recByHjpLaWIKK5Fj",
     "Name": "inflation",
     "Tags": [
@@ -494,6 +582,16 @@
     ],
     "Questions_old": [
       "reco76c0cOfZhPyXW"
+    ]
+  },
+  {
+    "id": "recLdxp1w3fl7G4W9",
+    "Name": "pilot",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recud2YLagZ1EZzC1"
     ]
   },
   {
@@ -528,6 +626,24 @@
     ]
   },
   {
+    "id": "recUQrAdICNL7AVV3",
+    "Name": "policies",
+    "Tags": [
+      "city gov & policy process",
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "authority"
+    ],
+    "Questions_old": [
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe"
+    ]
+  },
+  {
     "id": "recYi0YH7AoRWSYI0",
     "Name": "policy",
     "Tags": [
@@ -547,6 +663,26 @@
     ],
     "Questions_old": [
       "recXldlsxXNBIKKuI"
+    ]
+  },
+  {
+    "id": "recNDEQTaKSNXVxn6",
+    "Name": "risk management",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recufBtzaEFzv4ftK"
+    ]
+  },
+  {
+    "id": "recbzwYw7Dr0NSR8c",
+    "Name": "safety",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recufBtzaEFzv4ftK"
     ]
   },
   {
@@ -888,8 +1024,8 @@
     ]
   },
   {
-    "id": "recSGySDo7WKcIwRl",
-    "Name": "intergovernmental relations",
+    "id": "recr78qUqkhp5Zz4o",
+    "Name": "collaboration",
     "Tags": [
       "city gov & policy process"
     ],
@@ -910,8 +1046,8 @@
     ]
   },
   {
-    "id": "recr78qUqkhp5Zz4o",
-    "Name": "collaboration",
+    "id": "recSGySDo7WKcIwRl",
+    "Name": "intergovernmental relations",
     "Tags": [
       "city gov & policy process"
     ],
@@ -924,11 +1060,13 @@
     ],
     "Questions": [
       "recspldZP1nlzy52h",
-      "recdtjtiCncpMuELo"
+      "recdtjtiCncpMuELo",
+      "recv1DWIEkBxAILJu"
     ],
     "NewTags": [
       "governance process",
-      "governance process"
+      "governance process",
+      "public finance"
     ]
   },
   {
@@ -2661,324 +2799,129 @@
     ]
   },
   {
-    "id": "recXVgF1cWfOtbdGR",
-    "Name": "state law",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "state of oklahoma"
-    ],
-    "Questions_old": [
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm"
-    ],
-    "Questions": [
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec6lrWmFyJj2MfoK",
-    "Name": "mayor",
+    "id": "recMu7qTaz3N2KCso",
+    "Name": "strategic planning",
     "Tags": [
       "city gov & policy process"
     ],
-    "MegaName": [
-      "mayor"
-    ],
     "Questions_old": [
-      "recKUtQmqzyICt2px",
-      "recEkG7YSqnpQ9l4I",
-      "reczCm4avq1CSqz4I",
-      "recze7ORmMp2clvxf",
-      "recnfegL8rt7wX3Vk",
-      "recEQZOozsoC3Cj7W",
-      "recT2hPeqmUfQsHqy",
-      "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf",
-      "recZXSJ48gtJvgOqH",
-      "recK9xOfnsH7vmB5o",
-      "recNRksASdLTkDi8Y",
-      "rec8XeueSO3E5ZOVA",
-      "recdWq0G0lptcqxhA",
-      "rechL0MLJ9w6E0vuo",
-      "recUOJwJNzbczRXpT",
-      "recQzBzYvxnoI3suZ",
-      "recRlMXr3TV1Beksw",
-      "rectTWhDJZd2580bN",
-      "recuorLyU9kZV7L79",
-      "recynY04rPrmnQNFl",
-      "recH07oybWsE7eMPV",
-      "rec51pSVOxxEYzQHI",
-      "rec6HZO4BrBbedQRd",
-      "rec8UQ0uUqs2KII6H",
-      "recaXKwMMOfVhGt2t",
-      "rechMDG6OW5MTfQ2v",
-      "recko8jYikd4mw1yx",
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "recbLSfcufd73dktE",
-      "recceuVuSAMHfGq4G"
+      "recZtO4EYdOHfqnJj",
+      "recGtebHqHpJpCtNX"
     ],
     "Questions": [
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recgIGMPLppYbYBr8",
-      "rechbis79KYynrH2a",
-      "recPRhnZHJKzKejn1",
-      "recJhuEB9AzgYUC2c",
-      "recEzaBNMAdt0bQ2c",
-      "recEbVluDWBTk6MvJ",
-      "recsc2NopBFYEIkTO",
-      "recJNNl1QCAtbnA5q",
-      "recYZ5mRHw66YdYo2",
-      "recP08q8Yh5pUYflk",
-      "recERNwzNdC56lbWJ",
-      "recZLx3m4Jn3HCenn",
-      "recVwp6BMHzfQOJst",
-      "recWiAu4k37SJZBq0",
-      "rec4UGgHpqFAD15ob",
-      "recyQKOg09pTdTh9h",
-      "reczlfibbjwQ3S25D",
-      "recDkMxHIZDdvB4DP",
-      "recMXVVbs6EvfZ3Np",
-      "recP6llSECTYD7S3S",
-      "recSO8Zd9nXKsoz6s",
-      "recaYdpy5HJv6k7Fc",
-      "recbENlHSBN2mY7PH",
-      "recdREx7bAETStZ4b",
-      "recdU21R9YfvdK5T4",
-      "recfUy3p3YrMprK0X",
-      "reciTexjhvBkkbOf4",
-      "recmIOjo0jIXMLMsS",
-      "recmJrdJ56hD1070Z",
-      "recplWQBzupVuhiw1"
+      "recLq2IkHRBAxnKLr"
     ],
     "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
       "governance process"
     ]
   },
   {
-    "id": "recTfZllChvyNKn9v",
-    "Name": "compliance",
-    "Tags": [
-      "policies & regulations",
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recZTxd0N54AI3X5r",
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "rectMeVTjfwp8ZMRe"
-    ],
-    "Questions": [
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recyJ2swApIggK3PI"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "recUQrAdICNL7AVV3",
-    "Name": "policies",
-    "Tags": [
-      "city gov & policy process",
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "authority"
-    ],
-    "Questions_old": [
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "rectMeVTjfwp8ZMRe"
-    ],
-    "Questions": [
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recyJ2swApIggK3PI"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "reccdgNZiuzQArflV",
-    "Name": "finance department",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "spending",
-      "budgeting"
-    ],
-    "Questions_old": [
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "recxLZvEPiZjg20zG",
-      "recy4rZrUhHQdcIL5",
-      "reczkzp9ZGODuisBh",
-      "recj4ytRm52vnNOM1",
-      "recjbN81VjFtjqC4j",
-      "recjr0uD1UuLfSP2v"
-    ],
-    "Questions": [
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recCIN2h6sbaoNhxa",
-      "recD1fw4brTHlXZJz",
-      "recEhnWMgQ0uC3JzL",
-      "reco1m0uDfemvy5Kv",
-      "reco8BFEctRkrbT2N",
-      "recooO1gi4GCnD60Z"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recTGx0H50NHZXRje",
-    "Name": "financing",
+    "id": "recygMhYSJxEH8g89",
+    "Name": "spending",
     "Tags": [
       "revenue & spending"
     ],
     "MegaName": [
-      "budgeting",
       "spending"
     ],
     "Questions_old": [
-      "recvvmNNOQJEevlCw",
-      "recwKIBBRgFDtycbF",
-      "recxjKLYkyFw1NnnS",
-      "recxcM5Upbx4WndaZ",
-      "recxK1PzqDKissEdI"
+      "recW8BI6yobVdgGbs",
+      "rec8bb7qBEZ9UefNN",
+      "rec4cV0uZuW1I6tWF",
+      "recWcMxNuRrmjrQcC",
+      "rec4WnsrbE3WjjKIZ",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4",
+      "recQzBzYvxnoI3suZ",
+      "rectTWhDJZd2580bN",
+      "recry97y6F66GyYyJ",
+      "rechBQutZZg9QmUND",
+      "reczwTftMoGyQ3UOg",
+      "recQCE3RbasULoeV1",
+      "recQHg1Mu9x0oXQG2",
+      "recS9S4T6LZDwrflb",
+      "recu99NhUY4x8xXpA",
+      "recGtebHqHpJpCtNX",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn",
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "rec4TkBXyyRkv413m",
+      "rec6ZRpr4fjmwghzC",
+      "rec8DfOnx8RTRaC5Y"
     ],
     "Questions": [
-      "recAsakq50VvmgCA0",
-      "recBHw8e8qRuBjt99",
-      "recCgyiBBIRn9yElm",
-      "recC9ACxGlJV48u8t",
-      "recCHPmcHNW9AdVbc"
+      "recLq2IkHRBAxnKLr",
+      "recPfdIeMn4aS6jmU",
+      "recPiUDXZgx741hfR",
+      "recP6f8ViefZ8ZbTQ",
+      "recP61UvotZYLEdTI",
+      "recPqpOe3yEMlRnab",
+      "rec9Q88API3bDPi1Q",
+      "recbWFW4lpvdE1yx6",
+      "recdA3l0Oi3KZVT3s",
+      "rec15pfJPynMl1X9W",
+      "recd8ZE3SOb02ZwLh",
+      "rec99Jx7gE8SQRKU9",
+      "rec19A4qL1Ddrc7a6",
+      "rec9TbZ4sOfNr41Gt",
+      "recJhuEB9AzgYUC2c",
+      "recEzaBNMAdt0bQ2c",
+      "recEbVluDWBTk6MvJ",
+      "recsc2NopBFYEIkTO",
+      "recrjcT3yucDREUEy",
+      "recVwp6BMHzfQOJst",
+      "recyQKOg09pTdTh9h"
     ],
     "NewTags": [
+      "governance process",
+      "public finance",
+      "public finance",
+      "governance process",
+      "public finance",
+      "public finance",
+      "governance process",
       "public finance",
       "public finance",
       "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
       "public finance",
-      "public finance"
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process"
     ]
   },
   {
-    "id": "recI2ycsxZZO6fcFB",
-    "Name": "improvements",
+    "id": "recDbaiqqDl6xBtS6",
+    "Name": "litigation",
     "Tags": [
-      "public services"
+      "city gov & policy process"
     ],
     "Questions_old": [
-      "reczwTftMoGyQ3UOg",
-      "recWIpxaGK2kDJf97",
-      "recvvmNNOQJEevlCw",
-      "recwO2YKhEepKdNhh",
-      "recwXYrHBefA4mwhW"
+      "recvilaePrzCVMmK5",
+      "recfTA0zRomm1jZVn"
     ],
     "Questions": [
-      "recAsakq50VvmgCA0",
-      "recBLQvnyOqgSY4fL",
-      "recBUMYkSorrc7Nfq"
+      "reckQoxc8yyd94gTR"
     ],
     "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance"
+      "governance process"
     ]
   },
   {
@@ -3218,123 +3161,6 @@
       "governance process",
       "public finance",
       "governance process"
-    ]
-  },
-  {
-    "id": "recvHAmUPPPfP2P2V",
-    "Name": "delinquency",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recvilaePrzCVMmK5"
-    ],
-    "Questions": [
-      "recAf9HR6BLt3xDIz"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recqFxYA8XapFzThA",
-    "Name": "debt",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "debt"
-    ],
-    "Questions_old": [
-      "recW8BI6yobVdgGbs",
-      "recWNTMiXDEsQEsyN",
-      "recvilaePrzCVMmK5",
-      "recvvmNNOQJEevlCw",
-      "recwKIBBRgFDtycbF",
-      "recxjKLYkyFw1NnnS",
-      "recxcM5Upbx4WndaZ",
-      "recxK1PzqDKissEdI",
-      "recFbQt2VYKYSw9zQ",
-      "recj4ytRm52vnNOM1",
-      "recjbN81VjFtjqC4j",
-      "recjr0uD1UuLfSP2v",
-      "recoSzoMTnKYitHpq",
-      "recoWX7DuNbZNLZ41",
-      "recoA5Y1FTvxxbvQt",
-      "recoMweAwoTYzruka"
-    ],
-    "Questions": [
-      "recAf9HR6BLt3xDIz",
-      "recAsakq50VvmgCA0",
-      "recBHw8e8qRuBjt99",
-      "recCgyiBBIRn9yElm",
-      "recC9ACxGlJV48u8t",
-      "recCHPmcHNW9AdVbc",
-      "recK8E0Fc8WP0hqxk",
-      "reco1m0uDfemvy5Kv",
-      "reco8BFEctRkrbT2N",
-      "recooO1gi4GCnD60Z",
-      "rectPnVpaxWPqeYnU",
-      "rectTLEgLXnQVwg2v",
-      "rectxTvEW3HoFWMOX",
-      "rectJkLdNy5PHcLiE",
-      "rec15pfJPynMl1X9W"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recDbaiqqDl6xBtS6",
-    "Name": "litigation",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recvilaePrzCVMmK5",
-      "recfTA0zRomm1jZVn"
-    ],
-    "Questions": [
-      "recAf9HR6BLt3xDIz",
-      "reckQoxc8yyd94gTR"
-    ],
-    "NewTags": [
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recgTWazARLYOpVkS",
-    "Name": "credit",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recvilaePrzCVMmK5",
-      "recoSzoMTnKYitHpq"
-    ],
-    "Questions": [
-      "recAf9HR6BLt3xDIz",
-      "rectPnVpaxWPqeYnU"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance"
     ]
   },
   {
@@ -4056,6 +3882,24 @@
     ]
   },
   {
+    "id": "recTSBaWiz8Jjukdr",
+    "Name": "utilities",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rectMeVTjfwp8ZMRe",
+      "recud2YLagZ1EZzC1",
+      "rec6ZRpr4fjmwghzC"
+    ],
+    "Questions": [
+      "recbWFW4lpvdE1yx6"
+    ],
+    "NewTags": [
+      "public finance"
+    ]
+  },
+  {
     "id": "recs5w170YqWhk0EG",
     "Name": "general fund",
     "Tags": [
@@ -4301,6 +4145,125 @@
     ]
   },
   {
+    "id": "rec6lrWmFyJj2MfoK",
+    "Name": "mayor",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "mayor"
+    ],
+    "Questions_old": [
+      "recKUtQmqzyICt2px",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recEQZOozsoC3Cj7W",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf",
+      "recZXSJ48gtJvgOqH",
+      "recK9xOfnsH7vmB5o",
+      "recNRksASdLTkDi8Y",
+      "rec8XeueSO3E5ZOVA",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "recUOJwJNzbczRXpT",
+      "recQzBzYvxnoI3suZ",
+      "recRlMXr3TV1Beksw",
+      "rectTWhDJZd2580bN",
+      "recuorLyU9kZV7L79",
+      "recynY04rPrmnQNFl",
+      "recH07oybWsE7eMPV",
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "rec8UQ0uUqs2KII6H",
+      "recaXKwMMOfVhGt2t",
+      "rechMDG6OW5MTfQ2v",
+      "recko8jYikd4mw1yx",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G"
+    ],
+    "Questions": [
+      "recgIGMPLppYbYBr8",
+      "rechbis79KYynrH2a",
+      "recPRhnZHJKzKejn1",
+      "recJhuEB9AzgYUC2c",
+      "recEzaBNMAdt0bQ2c",
+      "recEbVluDWBTk6MvJ",
+      "recsc2NopBFYEIkTO",
+      "recJNNl1QCAtbnA5q",
+      "recYZ5mRHw66YdYo2",
+      "recP08q8Yh5pUYflk",
+      "recERNwzNdC56lbWJ",
+      "recZLx3m4Jn3HCenn",
+      "recVwp6BMHzfQOJst",
+      "recWiAu4k37SJZBq0",
+      "rec4UGgHpqFAD15ob",
+      "recyQKOg09pTdTh9h",
+      "reczlfibbjwQ3S25D",
+      "recDkMxHIZDdvB4DP",
+      "recMXVVbs6EvfZ3Np",
+      "recP6llSECTYD7S3S",
+      "recSO8Zd9nXKsoz6s",
+      "recaYdpy5HJv6k7Fc",
+      "recbENlHSBN2mY7PH",
+      "recdREx7bAETStZ4b",
+      "recdU21R9YfvdK5T4",
+      "recfUy3p3YrMprK0X",
+      "reciTexjhvBkkbOf4",
+      "recmIOjo0jIXMLMsS",
+      "recmJrdJ56hD1070Z",
+      "recplWQBzupVuhiw1"
+    ],
+    "NewTags": [
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process"
+    ]
+  },
+  {
     "id": "recZ8wrSVc6ylH9Nv",
     "Name": "compensation",
     "Tags": [
@@ -4478,28 +4441,6 @@
     ],
     "NewTags": [
       "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recTSBaWiz8Jjukdr",
-    "Name": "utilities",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rectMeVTjfwp8ZMRe",
-      "recud2YLagZ1EZzC1",
-      "rec6ZRpr4fjmwghzC"
-    ],
-    "Questions": [
-      "recyJ2swApIggK3PI",
-      "reczaQvorqbSMKQAv",
-      "recbWFW4lpvdE1yx6"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance"
     ]
   },
   {
@@ -4900,6 +4841,95 @@
     ]
   },
   {
+    "id": "recTGx0H50NHZXRje",
+    "Name": "financing",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "budgeting",
+      "spending"
+    ],
+    "Questions_old": [
+      "recvvmNNOQJEevlCw",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI"
+    ],
+    "Questions": [
+      "recBHw8e8qRuBjt99",
+      "recCgyiBBIRn9yElm",
+      "recC9ACxGlJV48u8t",
+      "recCHPmcHNW9AdVbc"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance"
+    ]
+  },
+  {
+    "id": "recqFxYA8XapFzThA",
+    "Name": "debt",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "debt"
+    ],
+    "Questions_old": [
+      "recW8BI6yobVdgGbs",
+      "recWNTMiXDEsQEsyN",
+      "recvilaePrzCVMmK5",
+      "recvvmNNOQJEevlCw",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recFbQt2VYKYSw9zQ",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
+    ],
+    "Questions": [
+      "recBHw8e8qRuBjt99",
+      "recCgyiBBIRn9yElm",
+      "recC9ACxGlJV48u8t",
+      "recCHPmcHNW9AdVbc",
+      "recK8E0Fc8WP0hqxk",
+      "reco1m0uDfemvy5Kv",
+      "reco8BFEctRkrbT2N",
+      "recooO1gi4GCnD60Z",
+      "rectPnVpaxWPqeYnU",
+      "rectTLEgLXnQVwg2v",
+      "rectxTvEW3HoFWMOX",
+      "rectJkLdNy5PHcLiE",
+      "rec15pfJPynMl1X9W"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "governance process"
+    ]
+  },
+  {
     "id": "recGP41AikxZaToKj",
     "Name": "one-time expenditures",
     "Tags": [
@@ -5083,9 +5113,31 @@
     "id": "rec0y2K4uoaOPTi6O",
     "Name": "budget process",
     "Questions": [
-      "rec4QlKD4fgrQOe3V"
+      "rec4QlKD4fgrQOe3V",
+      "rec4qCBhfn0ynbEHN",
+      "recv1DWIEkBxAILJu",
+      "recxn1NjDkOGBVTXq",
+      "recyQafES0fUJlDlb",
+      "recyFZh17SRJ4rnDQ",
+      "recyJ2swApIggK3PI",
+      "reczcp0crORqDPwre",
+      "recz6XkUb8gogien4",
+      "reczaQvorqbSMKQAv",
+      "recAf9HR6BLt3xDIz",
+      "recAsakq50VvmgCA0"
     ],
     "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
       "public finance"
     ]
   },
@@ -5155,22 +5207,475 @@
     ]
   },
   {
-    "id": "recMu7qTaz3N2KCso",
-    "Name": "strategic planning",
+    "id": "recF1C0AXTd58Ca6d",
+    "Name": "forfeiture",
     "Tags": [
-      "city gov & policy process"
+      "policies & regulations",
+      "revenue & spending"
     ],
     "Questions_old": [
-      "recZtO4EYdOHfqnJj",
-      "recGtebHqHpJpCtNX"
+      "recACPg1z2tHA5mX1"
     ],
     "Questions": [
-      "rec4qCBhfn0ynbEHN",
-      "recLq2IkHRBAxnKLr"
+      "recFzDNEQcFyIQDVv"
+    ],
+    "NewTags": [
+      "public finance"
+    ]
+  },
+  {
+    "id": "recs4ACxZb3cyhEps",
+    "Name": "enterprise",
+    "Tags": [
+      "revenue & spending",
+      "policies & regulations"
+    ],
+    "Questions_old": [
+      "recACPg1z2tHA5mX1"
+    ],
+    "Questions": [
+      "recFzDNEQcFyIQDVv"
+    ],
+    "NewTags": [
+      "public finance"
+    ]
+  },
+  {
+    "id": "recKE790vQbaHmbeM",
+    "Name": "fees",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ],
+    "Questions_old": [
+      "recUs51nsxk0gsqTN",
+      "reckS1G1iXA8aa7QN",
+      "recACPg1z2tHA5mX1"
+    ],
+    "Questions": [
+      "recFzDNEQcFyIQDVv",
+      "recZpTy0JHwRodHRh",
+      "recpPPdEz7MZiVoOh",
+      "recy45EtuDTN1g5We"
     ],
     "NewTags": [
       "public finance",
+      "governance process",
+      "governance process",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recxYIRPvYEut8lEN",
+    "Name": "fines",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process",
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ],
+    "Questions_old": [
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recWNHr3FIOHpEz9f",
+      "recACPg1z2tHA5mX1"
+    ],
+    "Questions": [
+      "recFzDNEQcFyIQDVv",
+      "rechQA8rvXHXISFh2",
+      "rec8dJ2DJyxY9UTGK",
+      "receT1bJaQ85jTJkX",
+      "recT9LzcnQau9F8yn",
+      "recgsD7FTLAPRdtda",
+      "reccKNrXkFZuRcUOg",
+      "rec1KvYGWS0yxpQ7J"
+    ],
+    "NewTags": [
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
       "governance process"
+    ]
+  },
+  {
+    "id": "rec1T067E2iYoXi7t",
+    "Name": "licenses",
+    "Tags": [
+      "policies & regulations",
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recACPg1z2tHA5mX1",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0"
+    ],
+    "Questions": [
+      "recFzDNEQcFyIQDVv",
+      "rec5DPPBTSeHQAdmx",
+      "rec6h0q8bhjVwxyIr",
+      "rec77R1MCxJABvLcu"
+    ],
+    "NewTags": [
+      "public finance",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process"
+    ]
+  },
+  {
+    "id": "recVypOtuYcUkJEnc",
+    "Name": "permits & licenses",
+    "Tags": [
+      "policies & regulations",
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recACPg1z2tHA5mX1",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0"
+    ],
+    "Questions": [
+      "recFzDNEQcFyIQDVv",
+      "rec5DPPBTSeHQAdmx",
+      "rec6h0q8bhjVwxyIr",
+      "rec77R1MCxJABvLcu",
+      "rec3GdEUIDmHwSBfS",
+      "recn0Od7TdioxlCNb",
+      "recG6HLRAg8ji5ImW",
+      "recuvoyP7aTEcrWRF",
+      "recCHaTr7GPnNqXc4",
+      "recLJB4zNZyKJov59",
+      "recy2kKsEtjXqj2yd",
+      "recYxyozUofEDYmrt",
+      "rectHaqVPSkDxULn8",
+      "recuAGwtc736aGtNn",
+      "rechyIcFk8RqZkDx8",
+      "rechB3tyvdB14vB3f",
+      "reciIzpjhVeUJjFHP"
+    ],
+    "NewTags": [
+      "public finance",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "governance process",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recrcssg4rJQBVqHI",
+    "Name": "taxes",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "taxes"
+    ],
+    "Questions_old": [
+      "rec9DiQE6bgvPShgC",
+      "recZs9CHqvBvKgwrm",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd"
+    ],
+    "Questions": [
+      "recFzDNEQcFyIQDVv",
+      "recFByptpi5sFwfNc",
+      "recFK6JPCXWcwgFa5",
+      "recIQqW4x3mD93DbA",
+      "recKhEzYfGNFaBBf1",
+      "recKUVVLNsIMxKdXh",
+      "recK8E0Fc8WP0hqxk",
+      "recKIRcYd5YAsUXdH",
+      "receA6nhnlsmXDye6",
+      "rec4pX9kHFNmS1NpQ"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "governance process",
+      "governance process"
+    ]
+  },
+  {
+    "id": "rec49m6RsxVRmpzkl",
+    "Name": "revenue",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "spending"
+    ],
+    "Questions_old": [
+      "recQD3cHdUkpehOss",
+      "recud2YLagZ1EZzC1",
+      "recvilaePrzCVMmK5",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41"
+    ],
+    "Questions": [
+      "recFzDNEQcFyIQDVv",
+      "recFByptpi5sFwfNc",
+      "recFK6JPCXWcwgFa5",
+      "recIQqW4x3mD93DbA",
+      "recKhEzYfGNFaBBf1",
+      "recKUVVLNsIMxKdXh",
+      "recK8E0Fc8WP0hqxk",
+      "recKIRcYd5YAsUXdH",
+      "rectPnVpaxWPqeYnU",
+      "rectTLEgLXnQVwg2v"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance"
+    ]
+  },
+  {
+    "id": "rec5zG09bsxqZaySm",
+    "Name": "nuisance",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "reporting"
+    ],
+    "Questions_old": [
+      "recDkJkgHxnqz33EP"
+    ],
+    "Questions": [
+      "recIhxRTYHzhHOkCj"
+    ],
+    "NewTags": [
+      "governance process"
+    ]
+  },
+  {
+    "id": "recKnhYYUkb7Cz8mj",
+    "Name": "tulsa authority for the recovery of energy",
+    "Tags": [
+      "public services",
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "rec51QoLX9u8RYShS"
+    ],
+    "Questions": [
+      "recaYEVoejGZZJ9fm"
+    ],
+    "NewTags": [
+      "governance process"
+    ]
+  },
+  {
+    "id": "recseBfZYkw1A6Ldl",
+    "Name": "land management",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rec51QoLX9u8RYShS"
+    ],
+    "Questions": [
+      "recaYEVoejGZZJ9fm"
+    ],
+    "NewTags": [
+      "governance process"
+    ]
+  },
+  {
+    "id": "recchqDApy3QBKYYZ",
+    "Name": "recycling",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rec51QoLX9u8RYShS"
+    ],
+    "Questions": [
+      "recaYEVoejGZZJ9fm"
+    ],
+    "NewTags": [
+      "governance process"
+    ]
+  },
+  {
+    "id": "recgN0fJS2rwWmNjM",
+    "Name": "rights of way",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rec51QoLX9u8RYShS"
+    ],
+    "Questions": [
+      "recaYEVoejGZZJ9fm"
+    ],
+    "NewTags": [
+      "governance process"
+    ]
+  },
+  {
+    "id": "recq4v6FtV3eR1DZe",
+    "Name": "streets and stormwater",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn",
+      "rec6ZRpr4fjmwghzC",
+      "rec76WwN5DkLrKYTn"
+    ],
+    "Questions": [
+      "recaYEVoejGZZJ9fm",
+      "recbkBTVrQKs8M9rR",
+      "recbWFW4lpvdE1yx6",
+      "recc3K3qmNwCzvfRR"
+    ],
+    "NewTags": [
+      "governance process",
+      "governance process",
+      "public finance",
+      "public finance",
+      "governance process"
+    ]
+  },
+  {
+    "id": "recSlK0QKzpjweE7g",
+    "Name": "traffic",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn"
+    ],
+    "Questions": [
+      "recaYEVoejGZZJ9fm",
+      "recbkBTVrQKs8M9rR",
+      "recBeu2kRrxU0TKQm"
+    ],
+    "NewTags": [
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process"
+    ]
+  },
+  {
+    "id": "recRQKSOc1jkTigGe",
+    "Name": "classes",
+    "Questions": [
+      "recr3fqVsuIhbUaai"
+    ],
+    "NewTags": [
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recruTp47STFgwlIB",
+    "Name": "free",
+    "Questions": [
+      "recr3fqVsuIhbUaai"
+    ],
+    "NewTags": [
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recI2ycsxZZO6fcFB",
+    "Name": "improvements",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "reczwTftMoGyQ3UOg",
+      "recWIpxaGK2kDJf97",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW"
+    ],
+    "Questions": [
+      "recBLQvnyOqgSY4fL",
+      "recBUMYkSorrc7Nfq"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance"
+    ]
+  },
+  {
+    "id": "reca5Zgna7r4QI3JP",
+    "Name": "cip",
+    "Tags": [
+      "revenue & spending",
+      "public services"
+    ],
+    "Questions_old": [
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW"
+    ],
+    "Questions": [
+      "recBLQvnyOqgSY4fL",
+      "recBUMYkSorrc7Nfq"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance"
     ]
   },
   {
@@ -5305,17 +5810,6 @@
       "recpmTFZFCzABjxAN"
     ],
     "Questions": [
-      "rec4qCBhfn0ynbEHN",
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recyJ2swApIggK3PI",
-      "reczcp0crORqDPwre",
-      "recz6XkUb8gogien4",
-      "reczaQvorqbSMKQAv",
-      "recAf9HR6BLt3xDIz",
-      "recAsakq50VvmgCA0",
       "recBLQvnyOqgSY4fL",
       "recBUMYkSorrc7Nfq",
       "recBHw8e8qRuBjt99",
@@ -5406,17 +5900,6 @@
       "recijrAotbr9UfEfV"
     ],
     "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
       "public finance",
       "public finance",
       "public finance",
@@ -5749,17 +6232,6 @@
       "recpmTFZFCzABjxAN"
     ],
     "Questions": [
-      "rec4qCBhfn0ynbEHN",
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recyJ2swApIggK3PI",
-      "reczcp0crORqDPwre",
-      "recz6XkUb8gogien4",
-      "reczaQvorqbSMKQAv",
-      "recAf9HR6BLt3xDIz",
-      "recAsakq50VvmgCA0",
       "recBLQvnyOqgSY4fL",
       "recBUMYkSorrc7Nfq",
       "recBHw8e8qRuBjt99",
@@ -5978,17 +6450,6 @@
       "recijrAotbr9UfEfV"
     ],
     "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
       "public finance",
       "public finance",
       "public finance",
@@ -6237,606 +6698,6 @@
     ]
   },
   {
-    "id": "recJa5EWQoYMHDXk1",
-    "Name": "bidding",
-    "Tags": [
-      "revenue & spending",
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "spending"
-    ],
-    "Questions_old": [
-      "recu99NhUY4x8xXpA"
-    ],
-    "Questions": [
-      "recz6XkUb8gogien4"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "reciK8ERaBnuCNfZM",
-    "Name": "purchasing",
-    "Tags": [
-      "revenue & spending",
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recu99NhUY4x8xXpA"
-    ],
-    "Questions": [
-      "recz6XkUb8gogien4"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recygMhYSJxEH8g89",
-    "Name": "spending",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "spending"
-    ],
-    "Questions_old": [
-      "recW8BI6yobVdgGbs",
-      "rec8bb7qBEZ9UefNN",
-      "rec4cV0uZuW1I6tWF",
-      "recWcMxNuRrmjrQcC",
-      "rec4WnsrbE3WjjKIZ",
-      "recEkG7YSqnpQ9l4I",
-      "reczCm4avq1CSqz4I",
-      "recze7ORmMp2clvxf",
-      "recnfegL8rt7wX3Vk",
-      "recmmomqhk0MJTDG4",
-      "recQzBzYvxnoI3suZ",
-      "rectTWhDJZd2580bN",
-      "recry97y6F66GyYyJ",
-      "rechBQutZZg9QmUND",
-      "reczwTftMoGyQ3UOg",
-      "recQCE3RbasULoeV1",
-      "recQHg1Mu9x0oXQG2",
-      "recS9S4T6LZDwrflb",
-      "recu99NhUY4x8xXpA",
-      "recGtebHqHpJpCtNX",
-      "recKipbBvdSjKl2oq",
-      "recKl66kI6lgWg0hn",
-      "recK9rBi14380eUVm",
-      "recK9dnS7jN7DTWVe",
-      "recKtBhBMosVd66cH",
-      "rec4TkBXyyRkv413m",
-      "rec6ZRpr4fjmwghzC",
-      "rec8DfOnx8RTRaC5Y"
-    ],
-    "Questions": [
-      "recz6XkUb8gogien4",
-      "recLq2IkHRBAxnKLr",
-      "recPfdIeMn4aS6jmU",
-      "recPiUDXZgx741hfR",
-      "recP6f8ViefZ8ZbTQ",
-      "recP61UvotZYLEdTI",
-      "recPqpOe3yEMlRnab",
-      "rec9Q88API3bDPi1Q",
-      "recbWFW4lpvdE1yx6",
-      "recdA3l0Oi3KZVT3s",
-      "rec15pfJPynMl1X9W",
-      "recd8ZE3SOb02ZwLh",
-      "rec99Jx7gE8SQRKU9",
-      "rec19A4qL1Ddrc7a6",
-      "rec9TbZ4sOfNr41Gt",
-      "recJhuEB9AzgYUC2c",
-      "recEzaBNMAdt0bQ2c",
-      "recEbVluDWBTk6MvJ",
-      "recsc2NopBFYEIkTO",
-      "recrjcT3yucDREUEy",
-      "recVwp6BMHzfQOJst",
-      "recyQKOg09pTdTh9h"
-    ],
-    "NewTags": [
-      "public finance",
-      "governance process",
-      "public finance",
-      "public finance",
-      "governance process",
-      "public finance",
-      "public finance",
-      "governance process",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recF1C0AXTd58Ca6d",
-    "Name": "forfeiture",
-    "Tags": [
-      "policies & regulations",
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recACPg1z2tHA5mX1"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recs4ACxZb3cyhEps",
-    "Name": "enterprise",
-    "Tags": [
-      "revenue & spending",
-      "policies & regulations"
-    ],
-    "Questions_old": [
-      "recACPg1z2tHA5mX1"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recKE790vQbaHmbeM",
-    "Name": "fees",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions_old": [
-      "recUs51nsxk0gsqTN",
-      "reckS1G1iXA8aa7QN",
-      "recACPg1z2tHA5mX1"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv",
-      "recZpTy0JHwRodHRh",
-      "recpPPdEz7MZiVoOh",
-      "recy45EtuDTN1g5We"
-    ],
-    "NewTags": [
-      "public finance",
-      "governance process",
-      "governance process",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recxYIRPvYEut8lEN",
-    "Name": "fines",
-    "Tags": [
-      "revenue & spending",
-      "city gov & policy process",
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions_old": [
-      "reccTMBOeNv6A7ojy",
-      "rec3gVv0sol719CIg",
-      "rec9WdE6TGWeb8smt",
-      "recOcX2z6GYD1URAT",
-      "recbvPA2CBoYJscfG",
-      "rec7NZUk3vNDJrDQM",
-      "recWNHr3FIOHpEz9f",
-      "recACPg1z2tHA5mX1"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv",
-      "rechQA8rvXHXISFh2",
-      "rec8dJ2DJyxY9UTGK",
-      "receT1bJaQ85jTJkX",
-      "recT9LzcnQau9F8yn",
-      "recgsD7FTLAPRdtda",
-      "reccKNrXkFZuRcUOg",
-      "rec1KvYGWS0yxpQ7J"
-    ],
-    "NewTags": [
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "rec1T067E2iYoXi7t",
-    "Name": "licenses",
-    "Tags": [
-      "policies & regulations",
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recACPg1z2tHA5mX1",
-      "rec0G1iYCI2QIPWo3",
-      "rec1kcTvU774oMhKX",
-      "rec2a3u9lnxJtKue0"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv",
-      "rec5DPPBTSeHQAdmx",
-      "rec6h0q8bhjVwxyIr",
-      "rec77R1MCxJABvLcu"
-    ],
-    "NewTags": [
-      "public finance",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recVypOtuYcUkJEnc",
-    "Name": "permits & licenses",
-    "Tags": [
-      "policies & regulations",
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recACPg1z2tHA5mX1",
-      "rec0G1iYCI2QIPWo3",
-      "rec1kcTvU774oMhKX",
-      "rec2a3u9lnxJtKue0"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv",
-      "rec5DPPBTSeHQAdmx",
-      "rec6h0q8bhjVwxyIr",
-      "rec77R1MCxJABvLcu",
-      "rec3GdEUIDmHwSBfS",
-      "recn0Od7TdioxlCNb",
-      "recG6HLRAg8ji5ImW",
-      "recuvoyP7aTEcrWRF",
-      "recCHaTr7GPnNqXc4",
-      "recLJB4zNZyKJov59",
-      "recy2kKsEtjXqj2yd",
-      "recYxyozUofEDYmrt",
-      "rectHaqVPSkDxULn8",
-      "recuAGwtc736aGtNn",
-      "rechyIcFk8RqZkDx8",
-      "rechB3tyvdB14vB3f",
-      "reciIzpjhVeUJjFHP"
-    ],
-    "NewTags": [
-      "public finance",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "governance process",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recrcssg4rJQBVqHI",
-    "Name": "taxes",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "taxes"
-    ],
-    "Questions_old": [
-      "rec9DiQE6bgvPShgC",
-      "recZs9CHqvBvKgwrm",
-      "recACPg1z2tHA5mX1",
-      "recAEKSQ88TBxLYPI",
-      "recANicclNKlovocB",
-      "recDTCprgTaM1imd6",
-      "recFkQ2lYwBO2Qkhx",
-      "recFX7o8wiwVpZWZN",
-      "recFbQt2VYKYSw9zQ",
-      "recFL3FlWVMJk9Gfd"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv",
-      "recFByptpi5sFwfNc",
-      "recFK6JPCXWcwgFa5",
-      "recIQqW4x3mD93DbA",
-      "recKhEzYfGNFaBBf1",
-      "recKUVVLNsIMxKdXh",
-      "recK8E0Fc8WP0hqxk",
-      "recKIRcYd5YAsUXdH",
-      "receA6nhnlsmXDye6",
-      "rec4pX9kHFNmS1NpQ"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "reckoTqYqO2SupOMG",
-    "Name": "insurance",
-    "Tags": [
-      "revenue & spending",
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recufBtzaEFzv4ftK"
-    ],
-    "Questions": [
-      "reczcp0crORqDPwre"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recNDEQTaKSNXVxn6",
-    "Name": "risk management",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recufBtzaEFzv4ftK"
-    ],
-    "Questions": [
-      "reczcp0crORqDPwre"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recbzwYw7Dr0NSR8c",
-    "Name": "safety",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recufBtzaEFzv4ftK"
-    ],
-    "Questions": [
-      "reczcp0crORqDPwre"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recryw6YTFtLo3PVp",
-    "Name": "liability",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recufBtzaEFzv4ftK",
-      "recFbQt2VYKYSw9zQ"
-    ],
-    "Questions": [
-      "reczcp0crORqDPwre",
-      "recK8E0Fc8WP0hqxk"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec5zG09bsxqZaySm",
-    "Name": "nuisance",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "reporting"
-    ],
-    "Questions_old": [
-      "recDkJkgHxnqz33EP"
-    ],
-    "Questions": [
-      "recIhxRTYHzhHOkCj"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recKnhYYUkb7Cz8mj",
-    "Name": "tulsa authority for the recovery of energy",
-    "Tags": [
-      "public services",
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "rec51QoLX9u8RYShS"
-    ],
-    "Questions": [
-      "recaYEVoejGZZJ9fm"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recseBfZYkw1A6Ldl",
-    "Name": "land management",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rec51QoLX9u8RYShS"
-    ],
-    "Questions": [
-      "recaYEVoejGZZJ9fm"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recchqDApy3QBKYYZ",
-    "Name": "recycling",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rec51QoLX9u8RYShS"
-    ],
-    "Questions": [
-      "recaYEVoejGZZJ9fm"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recgN0fJS2rwWmNjM",
-    "Name": "rights of way",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rec51QoLX9u8RYShS"
-    ],
-    "Questions": [
-      "recaYEVoejGZZJ9fm"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recq4v6FtV3eR1DZe",
-    "Name": "streets and stormwater",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rec51QoLX9u8RYShS",
-      "rec6nNmiaGyB01Stn",
-      "rec6ZRpr4fjmwghzC",
-      "rec76WwN5DkLrKYTn"
-    ],
-    "Questions": [
-      "recaYEVoejGZZJ9fm",
-      "recbkBTVrQKs8M9rR",
-      "recbWFW4lpvdE1yx6",
-      "recc3K3qmNwCzvfRR"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
-      "public finance",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recSlK0QKzpjweE7g",
-    "Name": "traffic",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rec51QoLX9u8RYShS",
-      "rec6nNmiaGyB01Stn"
-    ],
-    "Questions": [
-      "recaYEVoejGZZJ9fm",
-      "recbkBTVrQKs8M9rR",
-      "recBeu2kRrxU0TKQm"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recRQKSOc1jkTigGe",
-    "Name": "classes",
-    "Questions": [
-      "recr3fqVsuIhbUaai"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recruTp47STFgwlIB",
-    "Name": "free",
-    "Questions": [
-      "recr3fqVsuIhbUaai"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "reca5Zgna7r4QI3JP",
-    "Name": "cip",
-    "Tags": [
-      "revenue & spending",
-      "public services"
-    ],
-    "Questions_old": [
-      "recwO2YKhEepKdNhh",
-      "recwXYrHBefA4mwhW"
-    ],
-    "Questions": [
-      "recBLQvnyOqgSY4fL",
-      "recBUMYkSorrc7Nfq"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
     "id": "rec7DEXH50BvqGg1U",
     "Name": "asset management",
     "Tags": [
@@ -7023,6 +6884,23 @@
     ]
   },
   {
+    "id": "recryw6YTFtLo3PVp",
+    "Name": "liability",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recufBtzaEFzv4ftK",
+      "recFbQt2VYKYSw9zQ"
+    ],
+    "Questions": [
+      "recK8E0Fc8WP0hqxk"
+    ],
+    "NewTags": [
+      "public finance"
+    ]
+  },
+  {
     "id": "recVOu4S7qEpwiFz9",
     "Name": "alert neighbors program",
     "Tags": [
@@ -7095,6 +6973,23 @@
     ],
     "NewTags": [
       "governance process",
+      "public finance"
+    ]
+  },
+  {
+    "id": "recgTWazARLYOpVkS",
+    "Name": "credit",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recvilaePrzCVMmK5",
+      "recoSzoMTnKYitHpq"
+    ],
+    "Questions": [
+      "rectPnVpaxWPqeYnU"
+    ],
+    "NewTags": [
       "public finance"
     ]
   },
@@ -7383,91 +7278,6 @@
     ],
     "NewTags": [
       "governance process"
-    ]
-  },
-  {
-    "id": "recumoqhRUNLtRKmo",
-    "Name": "enterprise funds",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recud2YLagZ1EZzC1"
-    ],
-    "Questions": [
-      "reczaQvorqbSMKQAv"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recLdxp1w3fl7G4W9",
-    "Name": "pilot",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recud2YLagZ1EZzC1"
-    ],
-    "Questions": [
-      "reczaQvorqbSMKQAv"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec49m6RsxVRmpzkl",
-    "Name": "revenue",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "spending"
-    ],
-    "Questions_old": [
-      "recQD3cHdUkpehOss",
-      "recud2YLagZ1EZzC1",
-      "recvilaePrzCVMmK5",
-      "recACPg1z2tHA5mX1",
-      "recAEKSQ88TBxLYPI",
-      "recANicclNKlovocB",
-      "recDTCprgTaM1imd6",
-      "recFkQ2lYwBO2Qkhx",
-      "recFX7o8wiwVpZWZN",
-      "recFbQt2VYKYSw9zQ",
-      "recFL3FlWVMJk9Gfd",
-      "recoSzoMTnKYitHpq",
-      "recoWX7DuNbZNLZ41"
-    ],
-    "Questions": [
-      "reczaQvorqbSMKQAv",
-      "recAf9HR6BLt3xDIz",
-      "recFzDNEQcFyIQDVv",
-      "recFByptpi5sFwfNc",
-      "recFK6JPCXWcwgFa5",
-      "recIQqW4x3mD93DbA",
-      "recKhEzYfGNFaBBf1",
-      "recKUVVLNsIMxKdXh",
-      "recK8E0Fc8WP0hqxk",
-      "recKIRcYd5YAsUXdH",
-      "rectPnVpaxWPqeYnU",
-      "rectTLEgLXnQVwg2v"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance"
     ]
   },
   {
@@ -8449,6 +8259,46 @@
     ]
   },
   {
+    "id": "reccdgNZiuzQArflV",
+    "Name": "finance department",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "spending",
+      "budgeting"
+    ],
+    "Questions_old": [
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "recxLZvEPiZjg20zG",
+      "recy4rZrUhHQdcIL5",
+      "reczkzp9ZGODuisBh",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v"
+    ],
+    "Questions": [
+      "recCIN2h6sbaoNhxa",
+      "recD1fw4brTHlXZJz",
+      "recEhnWMgQ0uC3JzL",
+      "reco1m0uDfemvy5Kv",
+      "reco8BFEctRkrbT2N",
+      "recooO1gi4GCnD60Z"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process"
+    ]
+  },
+  {
     "id": "recnRqKoBfg0sodUS",
     "Name": "investment",
     "Tags": [
@@ -9309,6 +9159,21 @@
     ]
   },
   {
+    "id": "rec5KZdLje0u9mbEn",
+    "Name": "operating budget",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ],
+    "Questions_old": [
+      "rechBQutZZg9QmUND",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe"
+    ]
+  },
+  {
     "id": "recLUqc731XmFpP0w",
     "Name": "Capital Program",
     "Lectures": [
@@ -9358,61 +9223,6 @@
     ]
   },
   {
-    "id": "rec5KZdLje0u9mbEn",
-    "Name": "operating budget",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ],
-    "Questions_old": [
-      "rechBQutZZg9QmUND",
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "rectMeVTjfwp8ZMRe"
-    ],
-    "Questions": [
-      "recv1DWIEkBxAILJu",
-      "recxn1NjDkOGBVTXq",
-      "recyQafES0fUJlDlb",
-      "recyFZh17SRJ4rnDQ",
-      "recyJ2swApIggK3PI"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "recsDSESmuePsplUQ",
-    "Name": "Capital Budget",
-    "Lectures": [
-      "recfA9aPh3r5nzrrD"
-    ],
-    "Questions_old": [
-      "recV6UoGoFOWObyZI",
-      "recVJCg5wacJcdLWf",
-      "recWV07zghrnSDPpm",
-      "recWIpxaGK2kDJf97",
-      "recvvmNNOQJEevlCw",
-      "recwO2YKhEepKdNhh",
-      "recwXYrHBefA4mwhW"
-    ],
-    "Questions": [
-      "recAsakq50VvmgCA0",
-      "recBLQvnyOqgSY4fL",
-      "recBUMYkSorrc7Nfq"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
     "id": "recqHZ3UmD7SG9v5v",
     "Name": "sales tax",
     "Lectures": [
@@ -9437,6 +9247,30 @@
       "public finance",
       "public finance",
       "governance process",
+      "public finance",
+      "public finance"
+    ]
+  },
+  {
+    "id": "recsDSESmuePsplUQ",
+    "Name": "Capital Budget",
+    "Lectures": [
+      "recfA9aPh3r5nzrrD"
+    ],
+    "Questions_old": [
+      "recV6UoGoFOWObyZI",
+      "recVJCg5wacJcdLWf",
+      "recWV07zghrnSDPpm",
+      "recWIpxaGK2kDJf97",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW"
+    ],
+    "Questions": [
+      "recBLQvnyOqgSY4fL",
+      "recBUMYkSorrc7Nfq"
+    ],
+    "NewTags": [
       "public finance",
       "public finance"
     ]
@@ -10022,12 +9856,6 @@
     ],
     "Questions_old": [
       "recu99NhUY4x8xXpA"
-    ],
-    "Questions": [
-      "recz6XkUb8gogien4"
-    ],
-    "NewTags": [
-      "public finance"
     ]
   }
 ]

@@ -1421,6 +1421,9 @@
     ],
     "Public": true,
     "Answer": "This budget funds $2 million toward implementation of the plan, \"which will create a vision and framework for redevelopment of 56 acres of publicly-owned property\".\n",
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_022",
     "Tags_PreOctober copy copy": [
@@ -1429,9 +1432,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -1449,6 +1449,9 @@
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> This budget includes $1 million to continue the search for the graves of victims of the massacre, including funds for additional excavation and DNA analysis following recommendations from technical experts.\n",
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_023",
     "Tags_PreOctober copy copy": [
@@ -1457,9 +1460,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 7_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -1477,6 +1477,9 @@
     ],
     "Public": true,
     "Answer": "City of Tulsa Financial policies address the following.\n\n- **Strategic planning**\n- **Operating budget**\n- **Risk management**\n- **Procurement and purchasing**\n- **Revenues**\n- **Capital budget and improvements**\n- **Long term borrowing**\n- **Investments and deposits**\n- **Reserves**\n- **Accounting**\n- **Trusts and authorities**\n- **Pension funds. **\n",
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_024",
     "Tags_PreOctober copy copy": [
@@ -1485,9 +1488,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 16-19, Paragraph 1-5, 1-3, 1-4, 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -1506,9 +1506,7 @@
     "Public": true,
     "Answer": "According to Tulsa's budget policy, \n> 1.) All planning activities, strategies and studies should be comprehensive and integrated on a City-wide basis and 2.) Plans, strategies and studies shall encompass multi-year time frames and be updated annually.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recMu7qTaz3N2KCso"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_025",
@@ -1531,19 +1529,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "intergovernmental relations"
     ],
     "Public": true,
     "Answer": "The Oklahoma Municipal Budget Act is the primary state statute which lays the ground rules for municipal budget-making. In Tulsa, it's the responsibility of the Mayor (through the Department of Finance) to ensure compliance with relevant state law and the timely preparation of the City of Tulsa's annual budget.  \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUQrAdICNL7AVV3",
-      "recTfZllChvyNKn9v",
-      "rec5KZdLje0u9mbEn",
-      "recXVgF1cWfOtbdGR",
-      "rec6lrWmFyJj2MfoK",
-      "reccdgNZiuzQArflV"
+      "rec0y2K4uoaOPTi6O",
+      "recSGySDo7WKcIwRl"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_026",
@@ -1571,14 +1564,7 @@
     "Public": true,
     "Answer": "The city maintains a budgetary control system to help it adhere to the budget. The public can find out how closely the City adhered to its annual budget by reviewing [Annual Comprehensive Financial Reports](https://www.cityoftulsa.org/government/departments/finance/financial-reports/annual-comprehensive-financial-reports/), which compare actual revenues and expenditures to budgeted amounts. Completed ACF reports are due no later than 6 months after the end of the fiscal year. The annual budget also shows projected versus actual revenues and expenditures for at least the most recent fiscal year. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUQrAdICNL7AVV3",
-      "recTfZllChvyNKn9v",
-      "rec5KZdLje0u9mbEn",
-      "recXVgF1cWfOtbdGR",
-      "rec6lrWmFyJj2MfoK",
-      "reccdgNZiuzQArflV"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_027",
@@ -1606,14 +1592,7 @@
     "Public": true,
     "Answer": "Each year, and as part of the budget-making process, the City updates revenue and expenditure projections **for the next five years**. Projections include estimated operating costs of future capital improvements that are included in the capital budget. The City projects its equipment replacement and maintenance needs for the next several years and will update this projection each year in order to develop a maintenance and replacement schedule. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUQrAdICNL7AVV3",
-      "recTfZllChvyNKn9v",
-      "rec5KZdLje0u9mbEn",
-      "recXVgF1cWfOtbdGR",
-      "rec6lrWmFyJj2MfoK",
-      "reccdgNZiuzQArflV"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_028",
@@ -1641,14 +1620,7 @@
     "Public": true,
     "Answer": "State law and municipal policy aim to prevent a significant budget surplus or deficit by mandating that municipal officials adopt a _balanced_ annual budget. According to City of Tulsa budget policy, \n> It shall be the goal of the City that current operating revenues will be sufficient to support current operating expenses and** in no case shall more than five percent (5%) of the operating budget be supported using prior year's fund balances.**\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUQrAdICNL7AVV3",
-      "recTfZllChvyNKn9v",
-      "rec5KZdLje0u9mbEn",
-      "recXVgF1cWfOtbdGR",
-      "rec6lrWmFyJj2MfoK",
-      "reccdgNZiuzQArflV"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_029",
@@ -1676,12 +1648,7 @@
     "Public": true,
     "Answer": "Per City policy, officials examine adjustments to Water, Sewer, Storm water and Solid Waste Disposal service rates and fees on an **annual basis** as an integral part of the City's budgetary process. Per budget policy, \"the City establishes all user charges and fees at a level related to the cost of providing the services\" .\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUQrAdICNL7AVV3",
-      "recTfZllChvyNKn9v",
-      "rec5KZdLje0u9mbEn",
-      "recTSBaWiz8Jjukdr"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_030",
@@ -1709,12 +1676,7 @@
     "Public": true,
     "Answer": "Municipal budget policy states the following:\n- \"The City will operate a risk management program to provide for protection against loss and a reduction in exposure to liability. Such program shall include an employee safety training program to minimize financial losses to the City\".\n- \"The City will establish a self-insurance program to provide for protection against major losses and will purchase excess coverage insurance to cover catastrophic losses where appropriate\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recNDEQTaKSNXVxn6",
-      "recryw6YTFtLo3PVp",
-      "recbzwYw7Dr0NSR8c",
-      "reckoTqYqO2SupOMG"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_031",
@@ -1742,12 +1704,7 @@
     "Public": true,
     "Answer": "Municipal budget policy requires the City of Tulsa to operate a consolidated Purchasing and Procurement System, which \"...shall encourage full and open competition\" on all purchases and sales of surplus property via competitive bidding whenever possible.\"\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recYiiP3RcVALFX2h",
-      "reciK8ERaBnuCNfZM",
-      "recygMhYSJxEH8g89",
-      "recJa5EWQoYMHDXk1"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_032",
@@ -1775,12 +1732,7 @@
     "Public": true,
     "Answer": "Enterprise funds include the operating and capital funds of various city services (such as utilities) where the public is charged a fee based on usage. The city's general fund receives revenue from enterprise funds annually via a payment-in-lieu-of-taxes scheme. Other enterprise funds include emergency medical services, solid waste collection, and the sale of leases on city-owned property.  Enterprise funds contribute to the City's goal of maintaining \"a diversified and stable revenue system to shelter it from short-run fluctuations in any one revenue source,\" as outlined in municipal budget policy. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
-      "recumoqhRUNLtRKmo",
-      "recLdxp1w3fl7G4W9",
-      "recTSBaWiz8Jjukdr"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_033",
@@ -1808,13 +1760,7 @@
     "Public": true,
     "Answer": "According to municipal budget policy regarding revenue management, \"The City of Tulsa will neither begin business activity nor continue to engage in business activity with an entity that owes the City funds from a delinquent debt\". The City, at its discretion, may choose to extend credit for certain obligations. However, \"if payment is not timely, the City reserves the right to refuse future credit as well as take necessary legal action to obtain payment of the debt and collection costs.\" \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recqFxYA8XapFzThA",
-      "rec49m6RsxVRmpzkl",
-      "recvHAmUPPPfP2P2V",
-      "recgTWazARLYOpVkS",
-      "recDbaiqqDl6xBtS6"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_034",
@@ -1842,13 +1788,8 @@
     "Public": true,
     "Answer": "According to municipal budget policy, \"The City shall maintain a balanced mix of financing for funding capital projects, including **pay-as-you-go, grants and debt, without excessive reliance on any one source**. No capital project which does not comply with the provisions of and is not contained in the currently approved Capital Improvements Program shall be funded.\" \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recsDSESmuePsplUQ",
-      "recI2ycsxZZO6fcFB",
       "recjHJF8xuHGjzKjw",
-      "recqFxYA8XapFzThA",
-      "recTGx0H50NHZXRje"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_035",
