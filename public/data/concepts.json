@@ -1,5 +1,92 @@
 [
   {
+    "id": "recZoil9936fwmqaL",
+    "Name": "party",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "neighborhood management",
+      "permits"
+    ]
+  },
+  {
+    "id": "recAtWXbEzVaD72ND",
+    "Name": "electrical",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "permits"
+    ]
+  },
+  {
+    "id": "recETZKzvZIxk74ml",
+    "Name": "pool",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "neighborhood management",
+      "permits"
+    ]
+  },
+  {
+    "id": "recI5o1ZfuGhyBI3f",
+    "Name": "homeowner",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "neighborhood management",
+      "permits"
+    ]
+  },
+  {
+    "id": "recOq5l1PZm4vQCyk",
+    "Name": "engineer",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "neighborhood management",
+      "permits"
+    ]
+  },
+  {
+    "id": "rec65mwzeCqZrmncE",
+    "Name": "special assebly",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "neighborhood management",
+      "permits"
+    ]
+  },
+  {
+    "id": "recfjJwBURwqfGO8D",
+    "Name": "fire",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "permits",
+      "how do i"
+    ]
+  },
+  {
+    "id": "recgEFDA1BHBx8LRL",
+    "Name": "court",
+    "Tags": [
+      "public services",
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "service requests & reporting"
+    ]
+  },
+  {
     "id": "recz6i6E6AvEAwSlb",
     "Name": "tulsa public schools",
     "Tags": [
@@ -20,6 +107,110 @@
     ]
   },
   {
+    "id": "recCqZ0iIe1Qu9MWz",
+    "Name": "billing",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ]
+  },
+  {
+    "id": "recbDMq2PvDBET39y",
+    "Name": "ticket",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ]
+  },
+  {
+    "id": "reced3M3XwUKN3vYM",
+    "Name": "public records",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "how do i"
+    ]
+  },
+  {
+    "id": "recQab7UGmkPuTB5O",
+    "Name": "tpo",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "neighborhood management"
+    ]
+  },
+  {
+    "id": "recqcNghusgnZYF1X",
+    "Name": "council districts",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration",
+      "voting & citizen engagement"
+    ]
+  },
+  {
+    "id": "recAcDhrN7CzL5Cue",
+    "Name": "register",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "how do i",
+      "service requests & reporting"
+    ]
+  },
+  {
+    "id": "recEZ7OOZ3hy6PH24",
+    "Name": "disaster",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "how do i"
+    ]
+  },
+  {
+    "id": "recNk1hJFap0wM73G",
+    "Name": "municipal government",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration"
+    ]
+  },
+  {
+    "id": "rec754rVxMJQaT6iC",
+    "Name": "city hall",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration",
+      "how do i"
+    ]
+  },
+  {
+    "id": "rec7CRt7SqLSMHpq0",
+    "Name": "self service city council",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration",
+      "voting & citizen engagement"
+    ]
+  },
+  {
     "id": "recT585yTOdyWVUaU",
     "Name": "Bureaucracy",
     "Questions_old": [
@@ -27,8 +218,28 @@
     ]
   },
   {
-    "id": "recwAO2mFZ77zN4Ea",
-    "Name": "zooo"
+    "id": "recQqTtEpxpp6AbHy",
+    "Name": "plumbing"
+  },
+  {
+    "id": "recT56q21gskzFrmD",
+    "Name": "fire alarm"
+  },
+  {
+    "id": "recWxmWWRzxnMHenv",
+    "Name": "public service company of oklahoma"
+  },
+  {
+    "id": "recd5Eg4UNwMH4CFQ",
+    "Name": "license"
+  },
+  {
+    "id": "recgVOta2Pkb0k7NP",
+    "Name": "occupation"
+  },
+  {
+    "id": "recVZIpe6J2A9iDQO",
+    "Name": "zoooooo"
   },
   {
     "id": "recjQZSeuGijmUfoF",
@@ -68,11 +279,9 @@
     ],
     "Questions": [
       "rec0itHTJoPGZBJxc",
-      "rec1hJM0z7sHFxMAX",
       "recijrAotbr9UfEfV"
     ],
     "NewTags": [
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
     ]
@@ -136,6 +345,26 @@
     ]
   },
   {
+    "id": "recQqqKXV7tZV5TZh",
+    "Name": "stormwater",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "trash, & waste collection",
+      "water"
+    ],
+    "Questions_old": [
+      "recTN3jIPGHHUy6vD"
+    ],
+    "Questions": [
+      "recYKRQl6QTy2jnt7"
+    ],
+    "NewTags": [
+      "accessing tulsa"
+    ]
+  },
+  {
     "id": "recP4EVMzwQakaDpC",
     "Name": "rates",
     "Tags": [
@@ -156,28 +385,6 @@
     ],
     "NewTags": [
       "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recQqqKXV7tZV5TZh",
-    "Name": "stormwater",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "trash, & waste collection",
-      "water"
-    ],
-    "Questions_old": [
-      "recTN3jIPGHHUy6vD"
-    ],
-    "Questions": [
-      "recYKRQl6QTy2jnt7",
-      "recy2kKsEtjXqj2yd"
-    ],
-    "NewTags": [
       "accessing tulsa",
       "accessing tulsa"
     ]
@@ -364,8 +571,6 @@
       "recXzv8UzyocZ8S2I",
       "recY5PDHpQvqWo1hb",
       "recbWFW4lpvdE1yx6",
-      "recZekbRTdqP7GLre",
-      "recLdVK9I3LfGlAbo",
       "recrQofXv9pfxknWX",
       "recJr9JJWxjSVkEIC"
     ],
@@ -373,8 +578,6 @@
       "accessing tulsa",
       "accessing tulsa",
       "public finance",
-      "accessing tulsa",
-      "accessing tulsa",
       "public finance",
       "accessing tulsa"
     ]
@@ -518,104 +721,13 @@
     ]
   },
   {
-    "id": "recgEFDA1BHBx8LRL",
-    "Name": "court",
-    "Tags": [
-      "public services",
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "service requests & reporting"
-    ],
+    "id": "rec3asd9iMmSom1mZ",
+    "Name": "traffic & parking tickets",
     "Questions": [
       "recZrqUgzNK95KbGi"
     ],
     "NewTags": [
       "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recbDMq2PvDBET39y",
-    "Name": "ticket",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions": [
-      "recZrqUgzNK95KbGi"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recCqZ0iIe1Qu9MWz",
-    "Name": "billing",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions": [
-      "recLmK4VpaNtFVKvV",
-      "recZrqUgzNK95KbGi"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "rec1Od7vtYRXy79YZ",
-    "Name": "self service",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions": [
-      "recLmK4VpaNtFVKvV",
-      "recZekbRTdqP7GLre",
-      "recLdVK9I3LfGlAbo",
-      "rec1hJM0z7sHFxMAX",
-      "recZrqUgzNK95KbGi",
-      "recYxyozUofEDYmrt",
-      "rectHaqVPSkDxULn8",
-      "reciIzpjhVeUJjFHP",
-      "rec3GdEUIDmHwSBfS",
-      "rechyIcFk8RqZkDx8",
-      "recn0Od7TdioxlCNb",
-      "recG6HLRAg8ji5ImW",
-      "recuvoyP7aTEcrWRF",
-      "recCHaTr7GPnNqXc4",
-      "recuAGwtc736aGtNn",
-      "recLJB4zNZyKJov59",
-      "recy2kKsEtjXqj2yd",
-      "rechB3tyvdB14vB3f"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "governance process"
     ]
   },
   {
@@ -1287,6 +1399,23 @@
     ]
   },
   {
+    "id": "recmjTVmhqoXN6Y2o",
+    "Name": "construction",
+    "Tags": [
+      "policies & regulations"
+    ],
+    "MegaName": [
+      "permits",
+      "how do i"
+    ],
+    "Questions": [
+      "recn0Od7TdioxlCNb"
+    ],
+    "NewTags": [
+      "accessing tulsa"
+    ]
+  },
+  {
     "id": "recIuuMLg0ka4tV4b",
     "Name": "building",
     "Tags": [
@@ -1296,74 +1425,7 @@
       "permits"
     ],
     "Questions": [
-      "rectHaqVPSkDxULn8",
-      "reciIzpjhVeUJjFHP",
-      "rec3GdEUIDmHwSBfS",
-      "rechyIcFk8RqZkDx8",
-      "recG6HLRAg8ji5ImW",
-      "recuvoyP7aTEcrWRF",
-      "recCHaTr7GPnNqXc4",
-      "recuAGwtc736aGtNn"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recI5o1ZfuGhyBI3f",
-    "Name": "homeowner",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "neighborhood management",
-      "permits"
-    ],
-    "Questions": [
-      "rectHaqVPSkDxULn8",
-      "recy2kKsEtjXqj2yd"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recETZKzvZIxk74ml",
-    "Name": "pool",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "neighborhood management",
-      "permits"
-    ],
-    "Questions": [
-      "recuAGwtc736aGtNn"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recOq5l1PZm4vQCyk",
-    "Name": "engineer",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "neighborhood management",
-      "permits"
-    ],
-    "Questions": [
-      "recCHaTr7GPnNqXc4"
+      "reciIzpjhVeUJjFHP"
     ],
     "NewTags": [
       "accessing tulsa"
@@ -1386,36 +1448,34 @@
     ]
   },
   {
-    "id": "recZoil9936fwmqaL",
-    "Name": "party",
+    "id": "rec1Od7vtYRXy79YZ",
+    "Name": "self service",
     "Tags": [
-      "policies & regulations"
+      "public services"
     ],
     "MegaName": [
-      "neighborhood management",
-      "permits"
+      "pay my bills, fines, & fees"
     ],
     "Questions": [
-      "recLJB4zNZyKJov59"
+      "reciIzpjhVeUJjFHP",
+      "recn0Od7TdioxlCNb"
     ],
     "NewTags": [
+      "accessing tulsa",
       "accessing tulsa"
     ]
   },
   {
-    "id": "rec65mwzeCqZrmncE",
-    "Name": "special assebly",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "neighborhood management",
-      "permits"
-    ],
+    "id": "reclUTuAAekZZiZGB",
+    "Name": "emergency prep",
     "Questions": [
-      "recLJB4zNZyKJov59"
+      "recG6HLRAg8ji5ImW",
+      "rec0l9LFxEcUDNj2G",
+      "rec1hJM0z7sHFxMAX"
     ],
     "NewTags": [
+      "accessing tulsa",
+      "accessing tulsa",
       "accessing tulsa"
     ]
   },
@@ -1985,72 +2045,17 @@
     ]
   },
   {
-    "id": "recQab7UGmkPuTB5O",
-    "Name": "tpo",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "neighborhood management"
-    ],
+    "id": "recgOL1Tjb6v7gbSM",
+    "Name": "neighborhood life",
     "Questions": [
-      "recFi3e8eDF2OSp9B"
+      "recFi3e8eDF2OSp9B",
+      "rec1EAnNPRpA7bLa3",
+      "rechyIcFk8RqZkDx8"
     ],
     "NewTags": [
+      "accessing tulsa",
+      "accessing tulsa",
       "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recqcNghusgnZYF1X",
-    "Name": "council districts",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governance & administration",
-      "voting & citizen engagement"
-    ],
-    "Questions": [
-      "rec8xRk3pQw0auRa8"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "voting & elections"
-    ]
-  },
-  {
-    "id": "recNk1hJFap0wM73G",
-    "Name": "municipal government",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governance & administration"
-    ],
-    "Questions": [
-      "rec8xRk3pQw0auRa8"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "voting & elections"
-    ]
-  },
-  {
-    "id": "rec7CRt7SqLSMHpq0",
-    "Name": "self service city council",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governance & administration",
-      "voting & citizen engagement"
-    ],
-    "Questions": [
-      "rec8xRk3pQw0auRa8"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "voting & elections"
     ]
   },
   {
@@ -2190,78 +2195,17 @@
     ]
   },
   {
-    "id": "rec754rVxMJQaT6iC",
-    "Name": "city hall",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governance & administration",
-      "how do i"
-    ],
+    "id": "recu6NcBQpBMA2lzA",
+    "Name": "utilities & user rates",
     "Questions": [
       "recZekbRTdqP7GLre",
+      "recLmK4VpaNtFVKvV",
       "recLdVK9I3LfGlAbo"
     ],
     "NewTags": [
       "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recfjJwBURwqfGO8D",
-    "Name": "fire",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "permits",
-      "how do i"
-    ],
-    "Questions": [
-      "recYxyozUofEDYmrt"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recmjTVmhqoXN6Y2o",
-    "Name": "construction",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "permits",
-      "how do i"
-    ],
-    "Questions": [
-      "recYxyozUofEDYmrt",
-      "rectHaqVPSkDxULn8",
-      "recn0Od7TdioxlCNb"
-    ],
-    "NewTags": [
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recAtWXbEzVaD72ND",
-    "Name": "electrical",
-    "Tags": [
-      "policies & regulations"
-    ],
-    "MegaName": [
-      "permits"
-    ],
-    "Questions": [
-      "recYxyozUofEDYmrt",
-      "rechB3tyvdB14vB3f"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "governance process"
     ]
   },
   {
@@ -2278,11 +2222,9 @@
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
-      "recWqw0tDxDtthVtm",
       "recl9bAOW2diBS2EB"
     ],
     "NewTags": [
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
@@ -2302,9 +2244,7 @@
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
-      "recWqw0tDxDtthVtm",
       "recocZNwmoAtpvzGA",
-      "rec8hwMCqZbVhtirp",
       "recl9bAOW2diBS2EB"
     ],
     "NewTags": [
@@ -2312,7 +2252,17 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
-      "accessing tulsa",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recAJHYcsvcU9XMGI",
+    "Name": "recycling & waste",
+    "Questions": [
+      "recWqw0tDxDtthVtm",
+      "rec8hwMCqZbVhtirp"
+    ],
+    "NewTags": [
       "accessing tulsa",
       "accessing tulsa"
     ]
@@ -2391,13 +2341,9 @@
       "neighborhood management"
     ],
     "Questions": [
-      "recD7qV5csbm3Afgh",
-      "recG6HLRAg8ji5ImW",
-      "rec0l9LFxEcUDNj2G"
+      "recD7qV5csbm3Afgh"
     ],
     "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa",
       "accessing tulsa"
     ]
   },
@@ -2418,22 +2364,12 @@
     ]
   },
   {
-    "id": "reced3M3XwUKN3vYM",
-    "Name": "public records",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "how do i"
-    ],
+    "id": "recZ2NmWg1Hg1mYk7",
+    "Name": "public choice",
     "Questions": [
-      "rec5rz5PiayKqG53s",
-      "recEojYIYnlBCKvxJ",
-      "rec0FbPnpWxYbPSyv"
+      "rec1hJM0z7sHFxMAX"
     ],
     "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa",
       "accessing tulsa"
     ]
   },
@@ -2471,8 +2407,8 @@
     ]
   },
   {
-    "id": "recfh81PIpJDqjzMH",
-    "Name": "plants",
+    "id": "recdZj59grW6AoCkH",
+    "Name": "trees",
     "Tags": [
       "public services"
     ],
@@ -2488,8 +2424,8 @@
     ]
   },
   {
-    "id": "recdZj59grW6AoCkH",
-    "Name": "trees",
+    "id": "recfh81PIpJDqjzMH",
+    "Name": "plants",
     "Tags": [
       "public services"
     ],
@@ -2498,11 +2434,9 @@
       "how do i"
     ],
     "Questions": [
-      "recKurmkfCL7WXRMH",
-      "rec1EAnNPRpA7bLa3"
+      "recKurmkfCL7WXRMH"
     ],
     "NewTags": [
-      "accessing tulsa",
       "accessing tulsa"
     ]
   },
@@ -2539,11 +2473,9 @@
       "recFqk6yAVtx07Ggb",
       "recy45EtuDTN1g5We",
       "recM8n8csurCdda7x",
-      "recHZT20iold95BRF",
-      "recFi3e8eDF2OSp9B"
+      "recHZT20iold95BRF"
     ],
     "NewTags": [
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
@@ -2628,36 +2560,11 @@
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
-      "recWqw0tDxDtthVtm",
       "recocZNwmoAtpvzGA",
-      "recFi3e8eDF2OSp9B",
-      "rec1EAnNPRpA7bLa3",
-      "recLmK4VpaNtFVKvV",
-      "recZekbRTdqP7GLre",
-      "recLdVK9I3LfGlAbo",
-      "rec1hJM0z7sHFxMAX",
-      "rec8hwMCqZbVhtirp",
-      "recZrqUgzNK95KbGi",
-      "rec8xRk3pQw0auRa8",
-      "recYxyozUofEDYmrt",
-      "rectHaqVPSkDxULn8",
       "reciIzpjhVeUJjFHP",
-      "rec3GdEUIDmHwSBfS",
-      "rechyIcFk8RqZkDx8",
       "recn0Od7TdioxlCNb",
-      "recG6HLRAg8ji5ImW",
-      "recuvoyP7aTEcrWRF",
-      "recCHaTr7GPnNqXc4",
-      "recuAGwtc736aGtNn",
-      "recLJB4zNZyKJov59",
-      "recy2kKsEtjXqj2yd",
-      "rechB3tyvdB14vB3f",
       "reclwDtRstU3qHBnu",
       "recl9bAOW2diBS2EB",
-      "rec0l9LFxEcUDNj2G",
-      "rec5rz5PiayKqG53s",
-      "recEojYIYnlBCKvxJ",
-      "rec0FbPnpWxYbPSyv",
       "recniWCBkP8PRsMu9",
       "recBeu2kRrxU0TKQm"
     ],
@@ -2688,66 +2595,7 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "voting & elections",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "governance process",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
       "governance process"
-    ]
-  },
-  {
-    "id": "recAcDhrN7CzL5Cue",
-    "Name": "register",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "how do i",
-      "service requests & reporting"
-    ],
-    "Questions": [
-      "rec0l9LFxEcUDNj2G"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recEZ7OOZ3hy6PH24",
-    "Name": "disaster",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "how do i"
-    ],
-    "Questions": [
-      "rec0l9LFxEcUDNj2G"
-    ],
-    "NewTags": [
-      "accessing tulsa"
     ]
   },
   {
@@ -2765,11 +2613,9 @@
       "rec8KDL9gKmho2qUK"
     ],
     "Questions": [
-      "recdHriMxUy8wNHSe",
-      "recZrqUgzNK95KbGi"
+      "recdHriMxUy8wNHSe"
     ],
     "NewTags": [
-      "accessing tulsa",
       "accessing tulsa"
     ]
   },
@@ -3305,32 +3151,10 @@
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
-      "recWqw0tDxDtthVtm",
       "recocZNwmoAtpvzGA",
-      "recFi3e8eDF2OSp9B",
-      "rec1EAnNPRpA7bLa3",
-      "recLmK4VpaNtFVKvV",
-      "recZekbRTdqP7GLre",
-      "recLdVK9I3LfGlAbo",
-      "rec1hJM0z7sHFxMAX",
-      "rec8hwMCqZbVhtirp",
-      "recZrqUgzNK95KbGi",
-      "rec8xRk3pQw0auRa8",
-      "recYxyozUofEDYmrt",
-      "rectHaqVPSkDxULn8",
       "reciIzpjhVeUJjFHP",
-      "rec3GdEUIDmHwSBfS",
-      "rechyIcFk8RqZkDx8",
       "recn0Od7TdioxlCNb",
-      "recG6HLRAg8ji5ImW",
-      "recuvoyP7aTEcrWRF",
-      "recCHaTr7GPnNqXc4",
-      "recuAGwtc736aGtNn",
-      "rechB3tyvdB14vB3f",
       "reclwDtRstU3qHBnu",
-      "rec5rz5PiayKqG53s",
-      "recEojYIYnlBCKvxJ",
-      "rec0FbPnpWxYbPSyv",
       "recniWCBkP8PRsMu9",
       "recBeu2kRrxU0TKQm",
       "recrQofXv9pfxknWX",
@@ -3620,29 +3444,6 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "voting & elections",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "governance process",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
       "governance process",
       "public finance",
       "accessing tulsa",
@@ -3765,11 +3566,36 @@
     ],
     "Questions": [
       "recBHG04HEVgMAPNw",
-      "recWqw0tDxDtthVtm"
+      "recWqw0tDxDtthVtm",
+      "recYxyozUofEDYmrt",
+      "recZekbRTdqP7GLre",
+      "recFi3e8eDF2OSp9B",
+      "rec0l9LFxEcUDNj2G"
     ],
     "NewTags": [
       "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
       "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recyz70Oeg3aDAwFw",
+    "Name": "access data",
+    "Questions": [
+      "rec0FbPnpWxYbPSyv",
+      "recEojYIYnlBCKvxJ",
+      "rec5rz5PiayKqG53s",
+      "rec8xRk3pQw0auRa8"
+    ],
+    "NewTags": [
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "voting & elections"
     ]
   },
   {
@@ -5143,15 +4969,11 @@
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
-      "recWqw0tDxDtthVtm",
       "recocZNwmoAtpvzGA",
-      "rec8hwMCqZbVhtirp",
       "recl9bAOW2diBS2EB"
     ],
     "NewTags": [
       "public finance",
-      "accessing tulsa",
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
@@ -5964,12 +5786,10 @@
     ],
     "Questions": [
       "recVDotgYTkV1wUlr",
-      "recb2mqOhYvTzuBtm",
-      "rec0l9LFxEcUDNj2G"
+      "recb2mqOhYvTzuBtm"
     ],
     "NewTags": [
       "public finance",
-      "accessing tulsa",
       "accessing tulsa"
     ]
   },
@@ -6073,8 +5893,8 @@
     ]
   },
   {
-    "id": "recVZIpe6J2A9iDQO",
-    "Name": "zoooooo",
+    "id": "recwAO2mFZ77zN4Ea",
+    "Name": "zooo",
     "Questions": [
       "recTHQ7p2ei0oiMs2"
     ],
@@ -6096,24 +5916,12 @@
     "Questions": [
       "recyJ2swApIggK3PI",
       "reczaQvorqbSMKQAv",
-      "recbWFW4lpvdE1yx6",
-      "rec1EAnNPRpA7bLa3",
-      "recLmK4VpaNtFVKvV",
-      "recZekbRTdqP7GLre",
-      "recLdVK9I3LfGlAbo",
-      "rec1hJM0z7sHFxMAX",
-      "rec8hwMCqZbVhtirp"
+      "recbWFW4lpvdE1yx6"
     ],
     "NewTags": [
       "public finance",
       "public finance",
-      "public finance",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa"
+      "public finance"
     ]
   },
   {
@@ -6979,7 +6787,7 @@
   },
   {
     "id": "recVypOtuYcUkJEnc",
-    "Name": "permits",
+    "Name": "permits & licenses",
     "Tags": [
       "policies & regulations",
       "revenue & spending"
@@ -6995,15 +6803,18 @@
       "rec5DPPBTSeHQAdmx",
       "rec6h0q8bhjVwxyIr",
       "rec77R1MCxJABvLcu",
-      "recYxyozUofEDYmrt",
       "rec3GdEUIDmHwSBfS",
-      "rechyIcFk8RqZkDx8",
       "recn0Od7TdioxlCNb",
       "recG6HLRAg8ji5ImW",
       "recuvoyP7aTEcrWRF",
       "recCHaTr7GPnNqXc4",
       "recLJB4zNZyKJov59",
-      "recy2kKsEtjXqj2yd"
+      "recy2kKsEtjXqj2yd",
+      "recYxyozUofEDYmrt",
+      "rectHaqVPSkDxULn8",
+      "recuAGwtc736aGtNn",
+      "rechyIcFk8RqZkDx8",
+      "rechB3tyvdB14vB3f"
     ],
     "NewTags": [
       "public finance",
@@ -7019,7 +6830,10 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
-      "accessing tulsa"
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "governance process"
     ]
   },
   {
@@ -8043,46 +7857,6 @@
     ]
   },
   {
-    "id": "recQqTtEpxpp6AbHy",
-    "Name": "plumbing",
-    "Questions": [
-      "rechB3tyvdB14vB3f"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recT56q21gskzFrmD",
-    "Name": "fire alarm",
-    "Questions": [
-      "rechB3tyvdB14vB3f"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recd5Eg4UNwMH4CFQ",
-    "Name": "license",
-    "Questions": [
-      "rechB3tyvdB14vB3f"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recgVOta2Pkb0k7NP",
-    "Name": "occupation",
-    "Questions": [
-      "rechB3tyvdB14vB3f"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
     "id": "recS9VqXREVYUBP7z",
     "Name": "airports",
     "Tags": [
@@ -8157,6 +7931,23 @@
     ]
   },
   {
+    "id": "rec6DzgUgFNoHl6AH",
+    "Name": "pso",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rec4TkBXyyRkv413m"
+    ],
+    "Questions": [
+      "rec9Q88API3bDPi1Q"
+    ],
+    "NewTags": [
+      "governance process",
+      "public finance"
+    ]
+  },
+  {
     "id": "recjZ9tCiMS22I4GJ",
     "Name": "capital improvement",
     "Tags": [
@@ -8215,25 +8006,6 @@
       "governance process",
       "public finance",
       "public finance"
-    ]
-  },
-  {
-    "id": "rec6DzgUgFNoHl6AH",
-    "Name": "pso",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rec4TkBXyyRkv413m"
-    ],
-    "Questions": [
-      "rec9Q88API3bDPi1Q",
-      "rec1EAnNPRpA7bLa3"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance",
-      "accessing tulsa"
     ]
   },
   {
@@ -8339,19 +8111,13 @@
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
-      "recWqw0tDxDtthVtm",
-      "recocZNwmoAtpvzGA",
-      "recFi3e8eDF2OSp9B",
-      "rec1EAnNPRpA7bLa3"
+      "recocZNwmoAtpvzGA"
     ],
     "NewTags": [
       "governance process",
       "public finance",
       "public finance",
       "governance process",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
@@ -8379,17 +8145,13 @@
       "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
-      "recWqw0tDxDtthVtm",
-      "recocZNwmoAtpvzGA",
-      "rec1EAnNPRpA7bLa3"
+      "recocZNwmoAtpvzGA"
     ],
     "NewTags": [
       "governance process",
       "public finance",
       "public finance",
       "governance process",
-      "accessing tulsa",
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
@@ -8484,6 +8246,25 @@
     ]
   },
   {
+    "id": "recoJacT6bxOqTcxz",
+    "Name": "planning",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z"
+    ],
+    "Questions": [
+      "recoRyH2BryE7rqWn",
+      "recoXr2lbsDXGHK1t"
+    ],
+    "NewTags": [
+      "governance process",
+      "public finance"
+    ]
+  },
+  {
     "id": "recfP45qdDq2WHR4k",
     "Name": "grants",
     "Tags": [
@@ -8541,27 +8322,6 @@
     ]
   },
   {
-    "id": "recoJacT6bxOqTcxz",
-    "Name": "planning",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "recjUKapkhmNZG9YT",
-      "recj0DvIUir6yWt3Z"
-    ],
-    "Questions": [
-      "recoRyH2BryE7rqWn",
-      "recoXr2lbsDXGHK1t",
-      "recFi3e8eDF2OSp9B"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance",
-      "accessing tulsa"
-    ]
-  },
-  {
     "id": "recmI8jq7aDVIZwPI",
     "Name": "recruitment",
     "Tags": [
@@ -8595,16 +8355,14 @@
       "recMlb9api3t7g0hK",
       "recNcWdzLNb95xpXQ",
       "recPfdIeMn4aS6jmU",
-      "recPiUDXZgx741hfR",
-      "recZrqUgzNK95KbGi"
+      "recPiUDXZgx741hfR"
     ],
     "NewTags": [
       "public finance",
       "public finance",
       "public finance",
       "public finance",
-      "public finance",
-      "accessing tulsa"
+      "public finance"
     ]
   },
   {
@@ -8915,8 +8673,8 @@
     ]
   },
   {
-    "id": "recWxmWWRzxnMHenv",
-    "Name": "public service company of oklahoma",
+    "id": "reclRZ77sPgyBPqqn",
+    "Name": "report or request",
     "Questions": [
       "rec1EAnNPRpA7bLa3"
     ],
@@ -9244,10 +9002,13 @@
     "id": "recyJCadYKnbBRD0a",
     "Name": "maps",
     "Questions": [
-      "recBeu2kRrxU0TKQm"
+      "recBeu2kRrxU0TKQm",
+      "rec8xRk3pQw0auRa8"
     ],
     "NewTags": [
-      "governance process"
+      "governance process",
+      "accessing tulsa",
+      "voting & elections"
     ]
   },
   {

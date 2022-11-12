@@ -13,14 +13,8 @@
     ],
     "Answer": "The City of Tulsa offers curbside recycling for many common recyclables on regular trash days. If you live in a building that doesn't offer recycling bins, or can't access curbside recycling for another reason, there are three recycling centers where you can drop it off: 3495 S. Sheridan Rd in Central Tulsa, 1101 S. Cincinnati Ave. in Downtown, and 2160 Garnett Rd at Plaza Santa Cecilia in East Tulsa. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rechGKl53YLEWSFKy",
-      "recws8bLQ6cyFvH6B",
-      "reck1kwu0Ax8s2U3s",
-      "recBTeDboTe5vDD9l",
-      "recdoCgCxV6RbWD0L",
-      "recZGgJu72BM3szBu"
+      "recZGgJu72BM3szBu",
+      "recAJHYcsvcU9XMGI"
     ],
     "Tags_PreOctober copy copy": [
       "public services"
@@ -39,23 +33,18 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "Tulsa operates an online self-service portal where property owners can search for, apply, and track the progress of 160 different types of permits. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recmjTVmhqoXN6Y2o",
-      "recfjJwBURwqfGO8D",
-      "recAtWXbEzVaD72ND",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
+    ],
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -71,19 +60,15 @@
       "utilities & user rates"
     ],
     "Answer": "Activating utility service can be as simple as sending an email to [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or making a call to Tulsa's 311 Customer Care Center. You could also visit the Utilities Customer Service Office at City Hall during busines shours. If you're calling or visiting in person, be prepared to provide your: name, telephone number, social security number, and address for service. If you activate via e-mail, provide all that information except for SSN, a Customer Care representative will follow up via phone to collect it. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recqjX1JeotlsirPA",
-      "rec754rVxMJQaT6iC",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "recu6NcBQpBMA2lzA"
     ]
   },
   {
@@ -99,21 +84,14 @@
       "traffic & parking tickets"
     ],
     "Answer": "**Yes.** But it depends on the ticket. If the ticket you receive doesn't display a dollar amount for your fine in large font, but instead has the word \"COURT\" printed near the top, you cannot pay online and must appear in court. If your ticket does have a dollar amount, regardless of the amount, you can pay online through this web page. Be aware: tickets take 7-10 days to post online, if you try to pay before then you may not find it so it's worth checking back later. You can also use the system to pay fines for certain criminal code violations.\n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVswcqhjkahPslp",
-      "rectD3gKNXIFdjHUQ",
-      "recbDMq2PvDBET39y",
-      "recgEFDA1BHBx8LRL",
-      "recCqZ0iIe1Qu9MWz",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "rec3asd9iMmSom1mZ"
     ]
   },
   {
@@ -126,22 +104,17 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "**Yes.** You'll need a residential accessory structure permit. The permit is required for any detached structure on the same parcel of property as a principal structure (house) and the use of which is incidental (related to, in support of) the principal structure. You can apply for such a permit here \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recmjTVmhqoXN6Y2o",
-      "recI5o1ZfuGhyBI3f",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
+    ],
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -154,15 +127,11 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "**Yes.** You'll need a residential outdoor storm shelter permit. Be aware: you should only apply for this permit if the shelter you intend to install a shelter that meets FEMA or ICC standards. Plans must be sealed bu an Oklahoma registered engineer or bear a valid and current FEMA certification. You can apply for a permit through Tulsa's self service portal.\n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recIuuMLg0ka4tV4b",
-      "recdoCgCxV6RbWD0L"
+      "recVypOtuYcUkJEnc"
     ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
@@ -181,21 +150,17 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "**Yes.** You need a permit for both above-ground and in-ground pools. You can apply for one through Tulsa's permit self service portal. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recETZKzvZIxk74ml",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
+    ],
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -208,15 +173,11 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "You may need a residential watershed permit to move earth on your property for activities such as: excavating, grading, regrading, land filling, land clearing, etc. You can apply for a permit through Tulsa's self service portal. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recVypOtuYcUkJEnc",
-      "recQqqKXV7tZV5TZh",
-      "recI5o1ZfuGhyBI3f"
+      "recVypOtuYcUkJEnc"
     ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
@@ -235,16 +196,11 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "**Yes.** You'll need a residential retaining wall permit. Be aware: you'll need an engineer's seal on your plans for them to be approved. You can apply for a permit through Tulsa's self service portal.\n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recVypOtuYcUkJEnc",
-      "recOq5l1PZm4vQCyk",
-      "recdoCgCxV6RbWD0L"
+      "recVypOtuYcUkJEnc"
     ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
@@ -262,20 +218,18 @@
     "Tags": [
       "accessing tulsa"
     ],
-    "Concepts": [
-      "public records"
-    ],
     "Answer": "Management of public records in Tulsa and all other municipalities in the state is governed by Oklahoma's Open Records Act. That law, similar to other states, considers the overwhelming majority of government records as public by default. Generally speaking, the only records produced by, or in the custody of, government agencies/departments that are exempt from public disclosure are those which contain private medical information, information about children, or certain personal information about public employees (such as their home address or disciplinary investigations on their record).  \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "reced3M3XwUKN3vYM",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
+    ],
+    "Concepts": [
+      "access data"
+    ],
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
     ]
   },
   {
@@ -288,22 +242,18 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Answer": "If you just moved in to an area with a neighborhood association, there's a chance that an association member will try to reach out to invite you to join. If you don't hear anything or you've lived at your residence for a while and are curious, Tulsa has an online map showing each registered association, its boundaries, and contact information. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rec4wpWPzMkrZUALU",
-      "recQab7UGmkPuTB5O",
-      "recoJacT6bxOqTcxz",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "recgOL1Tjb6v7gbSM"
     ]
   },
   {
@@ -316,16 +266,13 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses",
+      "emergency prep"
     ],
     "Answer": "**Yes.** You'll need a residential indoor storm shelter permit. Be aware: you should only apply for this permit if the shelter you intend to install a shelter that meets FEMA or ICC standards. Plans must be sealed bu an Oklahoma registered engineer or bear a valid and current FEMA certification. You can apply for a permit through Tulsa's self service portal.\n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
       "recVypOtuYcUkJEnc",
-      "recIuuMLg0ka4tV4b",
-      "recdoCgCxV6RbWD0L",
-      "rec8t9nmRIbtvxP1x"
+      "reclUTuAAekZZiZGB"
     ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
@@ -347,18 +294,14 @@
       "utilities & user rates"
     ],
     "Answer": "The City of Tulsa offers a self-service portal where residents can pay their utility bills and find information about their meter readings. You'll need your customer ID and Customer account number to setup your online account. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recCqZ0iIe1Qu9MWz",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recu6NcBQpBMA2lzA"
     ]
   },
   {
@@ -374,19 +317,14 @@
       "utilities & user rates"
     ],
     "Answer": "If you are listed on the utility account, you can shut off or transfer service by emailing [tulsa311@cityoftulsa.org](mailto:tulsa311@cityoftulsa.org) or calling 3-1-1. You can also visit the Utilities Customer Service Office at City Hall during business hours. You'll need to provide your customer ID and Customer account number. For shut offs, you'll need to provide a a forwarding address for the final bill (if applicable). After submitting a request, it usually takes 3 business days to transfer service or shut it off. For shut-offs, any outstanding balance will be charged against any deposit, then a final bill will be sent to you. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recqjX1JeotlsirPA",
-      "rec754rVxMJQaT6iC",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recu6NcBQpBMA2lzA"
     ]
   },
   {
@@ -399,14 +337,10 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "You may need a permit for a special assembly if you're holding a special event such as a holiday party, wedding reception, or hosting entertainment at a facility not designated for assembly (such as your house). If you need a special assembly permit, you may need a special event permit as well. Consider contacting the Tulsa Fire Department or Tulsa 3-1-1 for help determining whether your gathering requires a permit and which ones to apply for. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "rec65mwzeCqZrmncE",
-      "recZoil9936fwmqaL",
       "recVypOtuYcUkJEnc"
     ],
     "Tags_PreOctober copy copy": [
@@ -425,22 +359,19 @@
     "Tags": [
       "accessing tulsa"
     ],
-    "Concepts": [
-      "register stuff"
-    ],
     "Answer": "If you live within the city limits, and your storm shelter or safe room meets FEMA and /or ICC building standards, you can register your shelter with the city so First Responders know where to find you in case of a natural disaster. Add your information to the Tulsa Storm Shelter Registry at this webpage\n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec8t9nmRIbtvxP1x",
-      "recAcDhrN7CzL5Cue",
-      "recSlLVBIMDqqcsOz",
-      "recEZ7OOZ3hy6PH24"
-    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
+    ],
+    "Concepts_PreOctober": [
+      "recZGgJu72BM3szBu",
+      "reclUTuAAekZZiZGB"
+    ],
+    "Concepts": [
+      "emergency prep"
     ]
   },
   {
@@ -452,20 +383,18 @@
     "Tags": [
       "accessing tulsa"
     ],
-    "Concepts": [
-      "public records"
-    ],
     "Answer": "A request for Open Public Records must be made in writing. Citizens can do this themselves with a specific form provided by the City. The form is straightforward, but it helps to do some research beforehand about what information you need and what department/agency has the record. Your success in obtaining public records depends largely on how specific you are in describing the information you need. Ideally, you can tell the records custodian the exact name of the document, database, report etc. that you need information from. If not, the custodian is still legally obligated to make a good faith effort to produce the records you request. Once you've completed the form, use information on this page to find the relevant records custodian and submit the form either in-person or via e-mail. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "reced3M3XwUKN3vYM",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
+    ],
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
+    ],
+    "Concepts": [
+      "access data"
     ]
   },
   {
@@ -478,21 +407,19 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "opting out"
+      "emergency prep",
+      "public choice"
     ],
     "Answer": "You can choose to opt-out your household from Tulsa EMSA online. You'll need to login to your utility account here or register an account if you don't have one. Tulsa's 3-1-1 Customer Care Center can help you through the process if you have questions. Be aware that opting-out means you'll have to pay for EMS out-of-pocket if you or somebody in your household needs assistance. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "rec1Od7vtYRXy79YZ",
-      "recoJSpwBlG6Tx4G3",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "reclUTuAAekZZiZGB",
+      "recZ2NmWg1Hg1mYk7"
     ]
   },
   {
@@ -505,24 +432,19 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "report or request"
+      "report or request",
+      "neighborhood life"
     ],
     "Answer": "According to the Tulsa Planning Office's Neighborhood Toolkit, \n> If you are concerned about trees on your property that are close to overhead utilities, call PSO’s Forestry Infoline at 1-877-367-6815. If needed, they will send a forester to you to determine if trimming or removal is best. If the best option is to remove the tree, PSO often provide vouchers you can use to receive a discount on the purchase of replacement trees and shrubs at participating local nurseries.\n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rechGKl53YLEWSFKy",
-      "rec6DzgUgFNoHl6AH",
-      "recWxmWWRzxnMHenv",
-      "recdZj59grW6AoCkH",
-      "recTSBaWiz8Jjukdr",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recgOL1Tjb6v7gbSM",
+      "reclRZ77sPgyBPqqn"
     ]
   },
   {
@@ -535,15 +457,11 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "**Yes.** You'll need a residential alteration permit. Such permits are required for any changes to an existing structure which don't increase the floor area. You can apply for one through Tulsa's permit self service portal online. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recVypOtuYcUkJEnc",
-      "recdoCgCxV6RbWD0L"
+      "recVypOtuYcUkJEnc"
     ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
@@ -561,20 +479,18 @@
     "Tags": [
       "accessing tulsa"
     ],
-    "Concepts": [
-      "public records"
-    ],
     "Answer": "Information about requesting public records from the City of Tulsa is available on the City Finance Department's webpage. There you can download a request form, learn about what records are considered public, find contact information for the custodian of those particular records, and find out how much it may cost to obtain those records. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "reced3M3XwUKN3vYM",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
+    ],
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
+    ],
+    "Concepts": [
+      "access data"
     ]
   },
   {
@@ -590,18 +506,14 @@
       "recycling & waste"
     ],
     "Answer": "You can schedule a pick-up for bulky waste by calling 918-596-9777 or through your online utilities account. Go here to login or register your account. You'll need your customer ID number, account number, and your SSN. Bulky waste pick-up costs $10 per 8 cubic feet. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recTSBaWiz8Jjukdr",
-      "recws8bLQ6cyFvH6B",
-      "recBTeDboTe5vDD9l",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recAJHYcsvcU9XMGI"
     ]
   },
   {
@@ -616,21 +528,19 @@
       "voting & elections"
     ],
     "Concepts": [
-      "maps"
+      "maps",
+      "access data"
     ],
     "Answer": "Visit Tulsa's online district map [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=5ee4acc23016404aae82bc8100168a4c). \n\nWith this map, you can enter a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District as well as contact information for the City Councilor who represents it. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec7CRt7SqLSMHpq0",
-      "recqcNghusgnZYF1X",
-      "recNk1hJFap0wM73G",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
     "Tags_PreOctober copy": [
       "city gov & policy process"
+    ],
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw",
+      "recyJCadYKnbBRD0a"
     ]
   },
   {
@@ -643,21 +553,19 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses",
+      "neighborhood life"
     ],
     "Answer": "\n**Yes.** You'll need a residential deck permit. You can apply for one through Tulsa's permit self service portal. \n",
-    "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recIuuMLg0ka4tV4b",
-      "recVypOtuYcUkJEnc",
-      "recdoCgCxV6RbWD0L"
-    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
+    ],
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc",
+      "recgOL1Tjb6v7gbSM"
     ]
   },
   {
@@ -669,19 +577,12 @@
     "Tags": [
       "governance process"
     ],
-    "Concepts": [
-      "licenses"
-    ],
     "Answer": "You need a license from the City to legally work in most contractor roles, including the following:\n\n- Electrical\n- Residential electrical\n- Electrical with security alarm\n- General contractor\n- Mechanical\n- Plumbing.\n\nAdditionally, licenses are required to work on fire alarm and sprinkler and suppression systems. Fire suppression system installation businesses also must hold a business license. \n\nOccupational license applications are available on Tulsa's [self service portal](https://tulsaok-energovweb.tylerhost.net/apps/selfservice#/home). \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "rec1Od7vtYRXy79YZ",
-      "recd5Eg4UNwMH4CFQ",
-      "recgVOta2Pkb0k7NP",
-      "recdoCgCxV6RbWD0L",
-      "recT56q21gskzFrmD",
-      "recAtWXbEzVaD72ND",
-      "recQqTtEpxpp6AbHy"
+      "recVypOtuYcUkJEnc"
+    ],
+    "Concepts": [
+      "permits & licenses"
     ]
   },
   {
@@ -694,7 +595,7 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "**Yes.** You'll need a residential addition permit. You can apply for one through Tulsa's permit self-service portal. \n",
     "Concepts_PreOctober": [
@@ -794,7 +695,7 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "permits"
+      "permits & licenses"
     ],
     "Answer": "**Yes.** You'll need a residential fence or wall fence permit. Be aware: this permit is not intended for a retaining wall, which requires a separate permit. If you intend to build a masonry wall fence over four feet tall, you'll also need to get plan approval from an engineer. To apply for a permit, visit Tulsa's self service portal. \n",
     "Concepts_PreOctober": [
@@ -856,15 +757,15 @@
     ],
     "Public": true,
     "Answer": "The FY23 City of Tulsa budget allocates **$6,772,000** to manage the Tulsa Zoo. The City plans to spend **$6,942,000** in FY24.\n\nWhile the zoo grounds and its physical structures are owned by the city of Tulsa\n\nTHE ZOO GROUNDS AND PHYSICAL STRUCTURES ARE OWNED BY THE\nCITY OF TULSA. \n",
-    "Concepts_PreOctober": [
-      "recVZIpe6J2A9iDQO"
-    ],
     "Tags_PreOctober copy copy": [
       "revenue & spending"
     ],
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 30._\n\n\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recwAO2mFZ77zN4Ea"
     ]
   },
   {
@@ -9068,7 +8969,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "To get your neighborhood association registered with the City of Tulsa, you will need to provide the name of the association, its boundaries (north, east, south, west), and primary contact information. This information must be provided on the Working in Neighborhoods' neighborhood association registration form. As of August 2022, this form can be found [here](https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/neighborhoods/registration/). Alternatively, you may submit this information to us and we at Tulsa Policy Institute will be happy to file the form for you.\n",
@@ -9099,7 +9000,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Establish leadership and defined roles while including all residents and encouraging volunteers. Further, establish structured meetings that allow for public input. Finally, seek to secure funding and establish partnerships with businesses and organizations. Please submit inquiry to us if your neighborhood association is interested in partnerning with the Tulsa Policy Institute.\n",
@@ -9131,7 +9032,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "**Yes.** Neighborhood associations cannot require your participation, unlike homeowner associations. Homeowner associations can compel your participation and adherence to rules, fines, and fees.\n",
@@ -9161,7 +9062,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "**Yes.** Membership is open to homeowners and tenants alike. \n",
@@ -9192,7 +9093,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "**Yes**, if they so choose.\n",
@@ -9224,7 +9125,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Through registering with the City of Tulsa, neighborhood associations can receive assistance with organizing** block parties**, receive **leadership trainings**, as well as participate in city programs such as **dumpster days** and the **neighborhood identity sign program**.\n",
@@ -9254,7 +9155,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "A neighborhood association is a voluntary organization that is open to all homeowners and renters that inhabit the territory over which the organization is organized. These organizations lack the legal authority to levy liens or fees and they cannot compel residents to follow covenants. However, they can require membership dues. Homeowners associations are mandatory for all homeowners in the subdivision and are required to pay for services. These associations create policy in the form of covenants that all homeowners must follow. The homeowner association can levy fines, fees, and liens against a homeowner's property for refusal to follow the covenant. In the words of the Tulsa Planning Office, homeowner associations \"...act as a hyper-local form of government\".\n",
@@ -9286,7 +9187,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Neighborhood signs are signs that are unique to each neighborhood, representing significant or historical features of the neighborhood. In order to see your sign implemented in your neighorbood, you must complete the following. First, your neighborhood association must submit a wrtitten proposal with a map of proposed sign locations to Traffic Operations, which will review and tentatively approve such locations. Second, you must develop a design for your sign (cannot have red text on white background, white text on red background, black text on yellow background, or black text on orange background). Third, you must submit your design to the Tulsa Planning Office to be added to the Arts Commission Agenda. Fourth, you must present your design at the Arts Commission meeting at which point the commission may offer suggestions or request changes to your design. Fifth, a sign manufacturer will make your signs according to your the city's specifications after which you will deliver your completed signs to the city. Finally, the city's Streets & Stormwater division will install your signs in the approved location.\n",
@@ -9318,7 +9219,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "According to Tulsa Planning Office's Neighborhood Toolkit, neighborhood associations recognized by the City of Tulsa can design welcome signs commemorating the historical or unique features of their slice of Tulsa. The process begins by submitting a written proposal and neighborhood map with proposed sign locations for tentative approval by the Traffic Operations Department. After that, your community can begin designing the sign according to certain specifications. Once its ready, submit the design to the Tulsa Planning Office. You'll have the opportunity to present your design to the Arts Commission, which may offer suggestions or request changes. After their approval, find a sign manufacturer and deliver your completed signs to the City of Tulsa. The Streets and Stormwater Department will install the signs at their designated locations. For more detailed information, review the toolkit. \n",
@@ -9350,7 +9251,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "According to Tulsa Planning Office's Neighborhood Toolkit, neighborhood associations registered with the City can organize block parties in their community to bring neighbors closer together, celebrate, fundraise, or just have a good time. The only requirements are that the association notifies the City of when the party is scheduled, and that the association acquires barriers if the party is using a public street. Beyond that, the tookit recommends some common sense steps like checking the weather forecast, scheduling a rain date, organizing a party planning committee, and coordinate on who will provide which activities/food. \n",
@@ -9381,7 +9282,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "According to Tulsa Planning Office's Neighborhood Toolkit, registered neighborhood associations can get help from the City to beautify their community through a neighborhood cleanup. cleanup project could include, picking up litter, clearing sidewalks, planting, or helping a neighbor with a necessary home renovation. The City will even provide a 30-yard dumpster for free, just fill out a request here. During the summer months, associations could be eligible for additional free supplies through the Great American Cleanup sponsored by the Oklahoma affiliate of Keep America beautiful. Find out about additional resources in the Neighborhood Toolkit\n",
@@ -9476,7 +9377,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Starting a community tool library in your Tulsa neighborhood is relatively straightforward and, unlike some other community initiatives, doesn't require any approvals from the City. An informal tool library can simply be verbal agreements between neighbors. Resources like digital spreadsheets, social media groups, and free online platforms can help your neighborhood support a more complex tool library with multiple participants. [Sharestarter](http://sharestarter.org) has helpful guides on how to setup a robust tool library, and online lending platforms like [Myturn](https://myturn.com/) can help you manage loans and returns. Visit the Tulsa Planning Office's Neighborhood Toolkit for more tips.\n",
@@ -9503,7 +9404,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "An Alert Neighbors program is a framework for members of a community to organize around protecting the safety of themselves and their neighbors through education, vigilance and cooperation. The foundation of an alert neighbors program is building familiarity with your neighbors through communication and observation, to be able to spot suspicious activity if/when it occurs. A well-functioning program will hold meetings, organize educational presentations from public safety officials, and centralize important communications through a social media group or contact list. For more tips, review the Tulsa Planning Office's Neighborhood Toolkit.\n",
@@ -9527,7 +9428,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "An Alert Neighbors program is an entirely grassroots organization. Step one is to discuss the idea with neighbors and identify somebody who has the time and dedication to serve as program coordinator for your neighborhood. The coordinator(s) will establish a meeting schedule, invite speakers to give presentations, establish social media or other communications methods, recruit block captains, and organize training. Block captains help manage communications within a single block or apartment building. Simply participating in an Alert Neighbors program and becoming more familiar with your neighbors will go a long way in building trust in your community and learning to identify unusual or suspicious activity in your neighborhood. For more tips about organizing and growing an Alert Neighbors program, review the Tulsa Planning Office's Neighborhood Toolkit. \n",
@@ -9552,7 +9453,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Natural disasters, especially in Tulsa, can pose a significant risk to life and property. Each type of disaster can pose unique challenges, but a few proactive steps can put you in a better spot for any disaster. For instance, having a plan ahead of time about when to leave your home, where to go, and how to maintain contact with loved ones can save significant decision time when disaster strikes. Having a go-bag, or emergency kit, packed with essentials also reduces the risk of being unprepared if you have to leave. If you have the time and resources, modifications to boost your home's resiliency are often worth the expense. [Tulsa 311](https://tulsa311.com/site/wss/redirect/1000450) also offers a service where residents can inquiry about the risk of flooding at their residence. For in-depth tips and guides to disaster planning, visit [American Red Cross](http://redcross.org) and [Ready](http://ready.gov).\n",
@@ -9577,7 +9478,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Storm shelters and safe rooms are the best ways to keep you and your family safe from a tornado. But they can be expensive, frequently costing between $2,500 and $8,000.  In Oklahoma, there are options to help you finance a storm shelter on your property. The State of Oklahoma offers rebates granted by lottery through the [Sooner Safe](https://www.ok.gov/OEM/saferoom/app/) program.  Storm shelter loans are available at many local credit unions and FHA loans can be used to install a safe room in your home. Regardless of how it's financed, shelters or safe rooms should be installed by reputable and insured companies. Shelters built to FEMA standards are designed to withstand winds from an E-5 tornado. Once installed, [register](https://survey123.arcgis.com/share/4e885823f3b846d59906f183c428b642) your new shelter or safe room with the City of Tulsa so first responders can find you. Review the Tulsa Planning Office's Neighborhood Toolkit for more tips on disaster preparedness and installing storm sheltering.\n",
@@ -9601,7 +9502,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Planting a tree is a deceptively significant decision that requires some careful planning to avoid serious challenges as the tree matures. Those who wish to plant a tree on their property must account for the tree's suitability to the climate, the risk of root systems damaging foundations or utilities, the risk of top-growth damaging power lines, the tree's ability to withstand severe weather, and how they'll care for the tree in the long-term. If you want to plant a tree within 12 feet of the curb, you'll need a permit and a License Agreement from the City of Tulsa. Before buying a tree, visit [Tulsa Master Gardeners](http://tulsamastergardeners.org) to find out which trees thrive in Tulsa. Before planting, regardless of location, call 8-1-1 or visit [Okie811](http://okie811.org) to have utility workers mark the location of buried utility lines that must be avoided. Review the Tulsa Planning Office's Neighborhood Toolkit for more info and resources about trees. \n",
@@ -9626,7 +9527,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "You'll want to place your barrel near an existing downspout from your gutters, and elevate the barrel on a steady base for gravity to help water run through your hose. Empty and clean the barrel at the end of summer to prevent freezing damage. At some points in time, the City of Tulsa partners with a business to offer discounted rain barrels. Follow City of Tulsa social media channels to find out when discounts are available. \n",
@@ -9650,7 +9551,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Rain gardens can both enhance the beauty of your yard and contribute to flood mitigation by absorbing rainwater that would otherwise become storm water runoff. The best spot for a rain garden is the lowest point in your yard, where rainwater flows naturally. To determine the size of your garden, multiply the square footage of hard surfaces (roof, patio, sidewalk) on your property by 5-10%. Keep in mind that not all of those hard surfaces may direct rain water to your garden. Once your garden is situated, dig out a six to eight inch deep depression for maximum absorption. The key factor for a rain garden is the rate at which water infiltrates the soil. If you find that the soil is hard-packed or doesn't drain well, it's worth picking a different spot or digging deeper to amend the soil with sand. When its time to plant, choose native varieties to attract pollinators, specifically ones that can tolerate wet roots for a day or two.  The OSU extension office has a helpful plant selection guide [here.](https://extension.okstate.edu/fact-sheets/sustainable-landscapes-designing-a-rain-garden-for-residential-property.html)\n",
@@ -9674,7 +9575,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development",
+      "neighborhood life",
       "zoning"
     ],
     "Public": true,
@@ -9707,7 +9608,7 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "neighborhood development"
+      "neighborhood life"
     ],
     "Public": true,
     "Answer": "Neighborhood associations which are registered with the City of Tulsa can request a free 30 yard dumpster, dropped off and picked up by the City. The City of Tulsa's Neighborhood Dumpster Program is a service available to registered neighborhood associations to perform neighborhood clean-up activities. Participating groups can make use of 30-yard containers to dispose of eligible household items twice a year. _Please note: During inclement weather, employees assigned to the Neighborhood Dumpster Program will be reassigned to work the weather event. In this case, your drop-off/pick-up dates may be adjusted._\n\nDumpster Use Rules:\n1. Dumpsters are for use at residential sites and **CANNOT** be used for commercial purposes (for example, to clean out rental properties).\n2. Use Restrictions: Some items are not permitted to be put into City of Tulsa dumpsters. Examples include limbs, grass clippings, Freon bearing appliance (such as refrigerators), and roofing materials. \n3. Dumpsters are not designed to be more than 3/4ths full and items are not permitted to be placed on the ground around the dumpster.\n4. Neighborhood Associations can request up to two dumpsters per year.\n\nApply [Here](https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/neighborhoods/dumpster-program/dumpster-request-for-neighborhood-cleanups/) to Request your Dumpster!\n\n",
