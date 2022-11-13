@@ -3388,12 +3388,6 @@
     ],
     "Public": true,
     "Answer": "The FY23 operating budget for Tulsa's Water and Sewer Department totals **$150.5** million, a 16.4% increase since FY22's budget. Officials attributed the budget increase to higher costs of chemicals and electric rates. Additionally, the Water and Sewer Department is budgeting $5.8 million for capital improvement projects in FY23. Operating revenue for the Sewer and Water Department mainly comes from service fees charged to users. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recWTS365ZaJAii1V",
-      "recNlU5Iz5iBopJ9m",
-      "recygMhYSJxEH8g89"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_086",
     "Tags_PreOctober copy copy": [
@@ -3402,6 +3396,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 56, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -3419,12 +3416,6 @@
     ],
     "Public": true,
     "Answer": "Tulsa's Water and Sewer Department budget authorizes **670 positions** in FY23. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recWTS365ZaJAii1V",
-      "recNlU5Iz5iBopJ9m",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_087",
     "Tags_PreOctober copy copy": [
@@ -3433,6 +3424,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 59-60, Paragraph 1-5, 1-4_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -3446,19 +3440,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "service delivery"
+      "service delivery",
+      "governing transportation"
     ],
     "Public": true,
     "Answer": "Tulsa Transit provides public transportation serving residents in the City of Tulsa, Broken Arrow, Jenks, and Sand Springs. These services include fixed route bus service, ADA paratransit services for persons with disabilities, late evening service “Nightline\", and commuter bus service.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "reczzjXRKFQwHbmDu",
-      "recVcY0l0LzohS8bh",
-      "rec1ZoGmQ6gNQLiOP",
-      "rec4xZ8UeZVEnw4m6",
-      "recuHN8YzNu7H9T5b",
-      "rechuK1lfzzFzWSwU"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_088",
     "Tags_PreOctober copy copy": [
@@ -3466,6 +3452,66 @@
     ],
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2_\n",
     "Tags_PreOctober copy": [
+      "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recyUhPcjsDzsScmC",
+      "rec9AcMTrZV4dGk60"
+    ]
+  },
+  {
+    "id": "recaIU9TNWQf5JOMT",
+    "Question": "What jurisdictions are covered by the Tulsa Transit service area?",
+    "Answer": "Tulsa Transit provides public transportation serving residents in the City of Tulsa, Broken Arrow, Jenks, and Sand Springs.\n",
+    "Public": true,
+    "Contributor": "Dan",
+    "QA Code": "Dan_Budget_088",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags_PreOctober copy": [
+      "revenue & spending"
+    ],
+    "Tags_PreOctober copy copy": [
+      "revenue & spending"
+    ],
+    "Concepts": [
+      "public transit"
+    ],
+    "Concepts_PreOctober": [
+      "recEayg3FQVzYq1R8"
+    ],
+    "Tags": [
+      "accessing tulsa"
+    ],
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recam7SmnMZub5ra7",
+    "Question": "What forms of transportation are offered by Tulsa Transit?",
+    "Concepts_PreOctober": [
+      "recEayg3FQVzYq1R8"
+    ],
+    "Answer": "\n\n\nExpanded Services (Provided in Tulsa, Broken Arrow, Jenks, and Sand Springs)\n- Fixed Route Bus Service\n- ADA Paratransit Services (for persons with disabilities\n- Late evening service “Nightline\"\n- Commuter bus service.\n",
+    "Public": true,
+    "Contributor": "Dan",
+    "QA Code": "Dan_Budget_088",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
+    "Tags": [
+      "accessing tulsa"
+    ],
+    "Concepts": [
+      "public transit"
+    ],
+    "Tags_PreOctober copy": [
+      "revenue & spending"
+    ],
+    "Tags_PreOctober copy copy": [
       "revenue & spending"
     ]
   },
