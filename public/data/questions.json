@@ -3121,32 +3121,50 @@
   {
     "id": "rec9Q88API3bDPi1Q",
     "Tags_PreOctober": [
-      "governance process",
       "public finance"
     ],
-    "Question": "What projects are in the pipeline for the City of Tulsa's Engineering Services Department? ",
+    "Question": "How has The City of Tulsa allocated funds from the Public Service Company of Oklahoma towards the Engineering Services Department? ",
     "Tags": [
-      "governance process",
       "public finance"
     ],
     "Contributor": "Dan",
     "Concepts": [
       "city spending",
+      "funding engineering"
+    ],
+    "Public": true,
+    "Answer": "Using $2.6 million in franchise fees collected by the City from the Public Service Company of Oklahoma, Tulsa's Engineering Services department is beginning the process to coordinate **burial of power lines located on public rights of way**. The department is also increasing staff in order to implement phase two of the City's **Stormwater Utility Enterprise Initiative**, in conjunction with the Streets and Stormwater department. Phase two involves scheduling and implementation of capital projects, using information from inspections conducted in phase one. \n",
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "recghW5nZbupHiwhB"
+    ],
+    "Author": "Dan",
+    "QA Code": "Dan_Budget_079",
+    "Tags_PreOctober copy copy": [
+      "revenue & spending"
+    ],
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47, Paragraph 4-5_\n",
+    "Tags_PreOctober copy": [
+      "revenue & spending"
+    ]
+  },
+  {
+    "id": "recU6t98pa7oGfkxl",
+    "Tags_PreOctober": [
+      "governance process"
+    ],
+    "Question": "What projects are in the pipeline for the City of Tulsa's Engineering Services Department?  copy",
+    "Tags": [
+      "governance process"
+    ],
+    "Contributor": "Dan",
+    "Concepts": [
       "service delivery"
     ],
     "Public": true,
     "Answer": "Using $2.6 million in franchise fees collected by the City from the Public Service Company of Oklahoma, Tulsa's Engineering Services department is beginning the process to coordinate **burial of power lines located on public rights of way**. The department is also increasing staff in order to implement phase two of the City's **Stormwater Utility Enterprise Initiative**, in conjunction with the Streets and Stormwater department. Phase two involves scheduling and implementation of capital projects, using information from inspections conducted in phase one. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recG9ylp0H6MAQMf8",
-      "recs3820WK1JHT9tI",
-      "recXpWekkwgzWHRjd",
-      "rec6DzgUgFNoHl6AH",
-      "recjZ9tCiMS22I4GJ",
-      "recENjzNbe7BLE2Do",
-      "recXIehUTkifUvxMa",
-      "recygMhYSJxEH8g89"
+      "recyUhPcjsDzsScmC"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_079",
@@ -3174,6 +3192,9 @@
     ],
     "Public": true,
     "Answer": "The Engineering Services Department employs **166** people. The department allocated $650,000 in FY23 to increase staff in preparation for several storm water management projects. \n",
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_080",
     "Tags_PreOctober copy copy": [
@@ -3182,9 +3203,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47-48, 50 , Paragraph 5, 3, 1-4_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -3202,6 +3220,9 @@
     ],
     "Public": true,
     "Answer": "The Streets and Stormwater Department’s primary areas of responsibility include the following.\n- Street maintenance and rights-of-way inspections.\n- Traffic control.\n- Stormwater.\n- Land management.\n- Refuse and recycling service through the Tulsa Authority for the Recovery of Energy (TARE). \n",
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_081",
     "Tags_PreOctober copy copy": [
@@ -3210,9 +3231,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -3230,6 +3248,9 @@
     ],
     "Public": true,
     "Answer": "The Streets and Stormwater Department is receiving $1.9 million in the FY23 budget intended for the following.\n- Manage contracted services for utility pole removal\n- Traffic light conversion and expansion\n- Median maintenance and beautification. \nAdditionally, two inspectors have been funded to monitor streets and maintenance zones to aid the aforementioned efforts. Finally, two crew members are to be funded to remediate graffiti.\n",
+    "Concepts_PreOctober": [
+      "recyUhPcjsDzsScmC"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_082",
     "Tags_PreOctober copy copy": [
@@ -3238,36 +3259,33 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recyUhPcjsDzsScmC"
     ]
   },
   {
     "id": "recCyUMZmYHaK39vP",
-    "Question": "How is The City of Tulsa allocating funds in FY23 to improve roadways?",
-    "Concepts_PreOctober": [
-      "recyUhPcjsDzsScmC"
-    ],
-    "Answer": "The Streets and Stormwater Department is receiving $1.9 million in the FY23 budget intended for the following.\n- Manage contracted services for utility pole removal\n- Traffic light conversion and expansion\n- Median maintenance and beautification. \n\nAdditionally, two inspectors have been funded to monitor streets and maintenance zones to aid the aforementioned efforts. Finally, two crew members are to be funded to remediate graffiti.\n",
-    "Public": true,
-    "Contributor": "Dan",
-    "QA Code": "Dan_Budget_082",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 3_\n",
-    "Author": "Dan",
     "Tags_PreOctober": [
       "public finance"
     ],
+    "Question": "How is The City of Tulsa allocating funds in FY23 to improve roadways?",
     "Tags": [
       "public finance"
     ],
+    "Contributor": "Dan",
     "Concepts": [
       "service delivery"
     ],
-    "Tags_PreOctober copy": [
+    "Public": true,
+    "Answer": "The Streets and Stormwater Department is receiving $1.9 million in the FY23 budget intended for the following.\n- Manage contracted services for utility pole removal\n- Traffic light conversion and expansion\n- Median maintenance and beautification. \n\nAdditionally, two inspectors have been funded to monitor streets and maintenance zones to aid the aforementioned efforts. Finally, two crew members are to be funded to remediate graffiti.\n",
+    "Concepts_PreOctober": [
+      "recyUhPcjsDzsScmC"
+    ],
+    "Author": "Dan",
+    "QA Code": "Dan_Budget_082",
+    "Tags_PreOctober copy copy": [
       "revenue & spending"
     ],
-    "Tags_PreOctober copy copy": [
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 3_\n",
+    "Tags_PreOctober copy": [
       "revenue & spending"
     ]
   },
@@ -3287,16 +3305,7 @@
     "Public": true,
     "Answer": "The FY23 operating budget for Tulsa's Streets and Stormwater Department totals **$81.4 million**. Funding for the department comes from a variety of sources, including transfers from: the City's general fund (21%), the Stormwater enterprise fund (29%), and the City's operating budget for sanitation services (38.9%).\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recq4v6FtV3eR1DZe",
-      "recjl1HzIv4cx3cKr",
-      "recXpWekkwgzWHRjd",
-      "recTSBaWiz8Jjukdr",
-      "recBTeDboTe5vDD9l",
-      "recqjX1JeotlsirPA",
-      "recs5w170YqWhk0EG",
-      "recygMhYSJxEH8g89"
+      "recsq3170LxY5IBK2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_083",
@@ -3324,10 +3333,7 @@
     "Public": true,
     "Answer": "The FY23 budget for the Streets and Stormwater Department authorizes **377** total positions. However, only 328 positions are considered full-time. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recq4v6FtV3eR1DZe",
-      "recoDDlneXkTqmNsT"
+      "recopSzKmrzISvrWJ"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_084",
@@ -3355,8 +3361,7 @@
     "Public": true,
     "Answer": "Tulsa’s drinking water comes from two sources: Lakes Spavinaw and Eucha on Spavinaw Creek and Lake Oologah on the Verdigris River. Lakes Spavinaw and Eucha are owned and operated by the City. Lake Oologah is operated by the U.S. Army Corps of Engineers. A third emergency source of water is available from Lake Hudson on Grand River. \n\nWater is treated at two treatment plants: Mohawk and A.B. Jewell.\nWater is provided to customers through a water distribution system. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recWTS365ZaJAii1V"
+      "recyUhPcjsDzsScmC"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_085",
@@ -4768,33 +4773,33 @@
   },
   {
     "id": "rec4YReGTTKc1UpI1",
-    "Question": "How much is The City of Tulsa allocating to the Engineering Services Department for the purposes of increasing staff for the upcoming storm water management projects?",
-    "Answer": "The department allocated $650,000 in FY23 to increase staff in preparation for several storm water management projects. \n",
-    "Public": true,
-    "Contributor": "Dan",
-    "QA Code": "Samuel_Budget_XXX78H",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47-48, 50 , Paragraph 5, 3, 1-4_\n",
-    "Author": "Samuel",
     "Tags_PreOctober": [
       "governance process",
       "public finance"
     ],
+    "Question": "How much is The City of Tulsa allocating to the Engineering Services Department for the purposes of increasing staff for the upcoming storm water management projects?",
     "Tags": [
       "public finance"
     ],
+    "Contributor": "Dan",
     "Concepts": [
       "funding engineering",
       "city spending"
     ],
-    "Tags_PreOctober copy": [
-      "revenue & spending"
-    ],
-    "Tags_PreOctober copy copy": [
-      "revenue & spending"
-    ],
+    "Public": true,
+    "Answer": "The department allocated $650,000 in FY23 to increase staff in preparation for several storm water management projects. \n",
     "Concepts_PreOctober": [
       "recsq3170LxY5IBK2",
       "recghW5nZbupHiwhB"
+    ],
+    "Author": "Samuel",
+    "QA Code": "Samuel_Budget_XXX78H",
+    "Tags_PreOctober copy copy": [
+      "revenue & spending"
+    ],
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 47-48, 50 , Paragraph 5, 3, 1-4_\n",
+    "Tags_PreOctober copy": [
+      "revenue & spending"
     ]
   },
   {
