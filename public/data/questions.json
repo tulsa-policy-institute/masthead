@@ -866,12 +866,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding capital improvements"
     ],
     "Public": true,
     "Answer": "Tulsa funds improvements through its capital budget. Fiscal year 2022-2023 capital budget is **$120.4 million**. Capital funding increased by $32 million (36.2%) over the prior year's budget. \n",
     "Concepts_PreOctober": [
-      "recsq3170LxY5IBK2"
+      "recsq3170LxY5IBK2",
+      "recOjt0FJbZkETF8x"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_003",
@@ -952,14 +954,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "sales tax",
-      "the bird's eye view"
+      "the bird's eye view",
+      "taxes"
     ],
     "Public": true,
     "Answer": "Sales and use taxes account for 63.9% of the General Fund, which is the principal operating fund of the City. General fund revenues for FY2023 are expected to be $358.3 million.\n",
     "Concepts_PreOctober": [
-      "recqHZ3UmD7SG9v5v",
-      "recf9vQSSV9y8JyWT"
+      "recf9vQSSV9y8JyWT",
+      "recrcssg4rJQBVqHI"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_006",
@@ -1043,13 +1045,15 @@
     "Contributor": "Dan",
     "Concepts": [
       "the bird's eye view",
-      "city spending"
+      "city spending",
+      "funding public safety"
     ],
     "Public": true,
     "Answer": "Public safety receives the largest allocation of resources at 53.2% of the General Fund. Public Safety includes the following organizations.\n\n- Police Department\n- Fire Department\n- EMS\n- 911 call center\n- Prosecutor's Office. \n",
     "Concepts_PreOctober": [
       "recf9vQSSV9y8JyWT",
-      "recsq3170LxY5IBK2"
+      "recsq3170LxY5IBK2",
+      "recAu71Bp6XzkMMaD"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_009",
@@ -1271,15 +1275,15 @@
     "Contributor": "Dan",
     "Concepts": [
       "city spending",
-      "sales tax",
-      "bonds"
+      "bonds",
+      "taxes"
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> The City has now received over five years of collections from the sales tax approved by voters in April 2016 for the Vision Tulsa economic development capital program which is set at 0.805% for the next three years. Implementation of the project scheduling and financing plan continues. All of the planned revenue bond sales have been completed totaling $346.6 million to provide advance funding for 26 projects. The $510 million program will last 15 years. Directly funded projects total $65.3 million in the proposed budget for nine projects, with the largest allocation going toward debt service.\n",
     "Concepts_PreOctober": [
-      "recqHZ3UmD7SG9v5v",
       "rec2bz2lvTwnSaZRh",
-      "recjHJF8xuHGjzKjw"
+      "recjHJF8xuHGjzKjw",
+      "recrcssg4rJQBVqHI"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_017",
@@ -1783,13 +1787,18 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "bonds",
+      "debt & credit",
+      "grant funding"
     ],
     "Public": true,
     "Answer": "According to municipal budget policy, \"The City shall maintain a balanced mix of financing for funding capital projects, including **pay-as-you-go, grants and debt, without excessive reliance on any one source**. No capital project which does not comply with the provisions of and is not contained in the currently approved Capital Improvements Program shall be funded.\" \n",
     "Concepts_PreOctober": [
       "recjHJF8xuHGjzKjw",
-      "rec0y2K4uoaOPTi6O"
+      "rec0y2K4uoaOPTi6O",
+      "recH1mRwJUog6R4Q7",
+      "rec5hduOrQRpCn7TS"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_035",
@@ -1812,17 +1821,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "evaluation"
     ],
     "Public": true,
     "Answer": "According to municipal budget policy, capital projects are scheduled based on the following criteria.\n\n- \"The project has been certified by the Planning Commission as being in accordance with City plans\n- The project will alleviate a service deficiency or replace a deteriorated and/or non-functioning facility\n- Federal or state law requires it to be done\n- Federal or state matching funds are available for the project\n- A Federal or state agency will construct the facility at no cost to the City\n- The project will encourage economic development\n- The project is needed to solve an emergency situation\n- The project will improve the quality of life in the City's neighborhoods\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recsDSESmuePsplUQ",
-      "recI2ycsxZZO6fcFB",
-      "reca5Zgna7r4QI3JP"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_036",
     "Tags_PreOctober copy copy": [
@@ -1831,6 +1834,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec4Ef8DDiNw7BeK2",
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -1844,18 +1851,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "participatory budgeting"
     ],
     "Public": true,
     "Answer": "**Yes.** Public hearings are held before deciding what projects to include in any multi-year capital program, which requires approval by the City Council in the form of an adopted ordinance as part of the annual budget process. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recsDSESmuePsplUQ",
-      "recI2ycsxZZO6fcFB",
-      "reca5Zgna7r4QI3JP",
-      "recaahrH7a6kRGqnX"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_037",
     "Tags_PreOctober copy copy": [
@@ -1864,6 +1864,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O",
+      "recPxDVZFrCzSDDBY"
     ]
   },
   {
@@ -1877,18 +1881,12 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "debt & credit",
+      "bonds"
     ],
     "Public": true,
     "Answer": "According to Tulsa budget policy, \n> \"General Obligation and Revenue** **Bonds shall only be issued for capital improvements and maintenance, or expenditures related thereto. Revenue bonds shall be used to finance capital improvements wherever possible. No operating expenses shall be funded using any form of long term financing\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recQ7YxWailsV4J0j",
-      "recqFxYA8XapFzThA",
-      "recjHJF8xuHGjzKjw",
-      "recTGx0H50NHZXRje"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_038",
     "Tags_PreOctober copy copy": [
@@ -1897,6 +1895,11 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recjHJF8xuHGjzKjw",
+      "recH1mRwJUog6R4Q7",
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -1910,17 +1913,16 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "debt & credit",
+      "bonds"
     ],
     "Public": true,
     "Answer": "Municipal policy prohibits total debt from exceeding the following.\n\n> \"...such levels as to cause the City's credit rating to be impaired, and in all cases the City shall take such actions and adopt such policies and procedures as necessary to maintain a rating equal to at least AA for general obligation debt.\"\nAdditionally, \n> \"In no event shall the net general obligation debt exceed twenty-five percent (25%) of the net assessed market valuation of the taxable property of the City of Tulsa as established by the County Assessor\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recQ7YxWailsV4J0j",
-      "recqFxYA8XapFzThA",
       "recjHJF8xuHGjzKjw",
-      "recTGx0H50NHZXRje"
+      "recH1mRwJUog6R4Q7",
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_039",
@@ -1943,17 +1945,16 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "bonds",
+      "debt & credit"
     ],
     "Public": true,
     "Answer": "According to Tulsa budget policy, \n> \"projects financed through the issuance of debt shall not be financed for a period that exceeds the expected useful life of the project and in no event shall the term of any debt exceed twenty-five (25) years\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recQ7YxWailsV4J0j",
-      "recqFxYA8XapFzThA",
       "recjHJF8xuHGjzKjw",
-      "recTGx0H50NHZXRje"
+      "rec0y2K4uoaOPTi6O",
+      "recH1mRwJUog6R4Q7"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_040",
@@ -1976,17 +1977,16 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "bonds",
+      "debt & credit"
     ],
     "Public": true,
     "Answer": "According to Tulsa budget policy, \n\n> \"bond sales shall be structured to achieve level debt service payments to the extent possible, taking into consideration the costs of such financing. Either variable or fixed rate financing may be used, subject to applicable laws, depending on the cost benefit to the City of each option. Competitive sale shall be used for all general obligation debt issuance of the City of Tulsa. Negotiated or competitive sale may be used for revenue bonds.\"\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recQ7YxWailsV4J0j",
-      "recqFxYA8XapFzThA",
       "recjHJF8xuHGjzKjw",
-      "recTGx0H50NHZXRje"
+      "recH1mRwJUog6R4Q7",
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_041",
@@ -2013,12 +2013,6 @@
     ],
     "Public": true,
     "Answer": "According to Tulsa budget policy, \n> \"responsibility for the investment program of the City shall be vested with **the Director of Finance **who shall establish an investment program consistent with an adopted investment policy\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recnRqKoBfg0sodUS",
-      "reccdgNZiuzQArflV"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_042",
     "Tags_PreOctober copy copy": [
@@ -2027,6 +2021,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -2044,12 +2041,6 @@
     ],
     "Public": true,
     "Answer": "According to Tulsa budget policy, \"it shall be the objective of the City of Tulsa to pool and invest public funds in accordance with current legislation and the Charter of the City of Tulsa. Criteria for investing shall adhere to the following order of priority: **(1) Safety, (2) Liquidity, (3) Yield**.\"\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recnRqKoBfg0sodUS",
-      "reccdgNZiuzQArflV"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_043",
     "Tags_PreOctober copy copy": [
@@ -2058,6 +2049,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -2075,12 +2069,6 @@
     ],
     "Public": true,
     "Answer": "According to Tulsa budget policy, this is conducted through a cash flow management system\n> \"...which includes the preparation of a cash flow analysis of all funds on a regular basis. Disbursement, collection, and deposit of all funds will be scheduled to ensure maximum investment return and cash availability subject to the City's investment policies. The cash flow management system shall ensure the City can offset significant downturns in revenues which could not have been reasonably foreseen and provide sufficient working capital and cash for daily financial needs\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recnRqKoBfg0sodUS",
-      "reccdgNZiuzQArflV"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_044",
     "Tags_PreOctober copy copy": [
@@ -2089,6 +2077,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -2106,12 +2097,6 @@
     ],
     "Public": true,
     "Answer": "**Yes. **City of Tulsa policy mandates that all financial transactions \n> \"be audited annually by a recognized independent certified public accounting firm and such audit results shall include a management letter detailing areas where improvement is needed. A firm to perform such audit shall be chosen not more than once every five (5) years\".\nAdditionally,\n> \"the City shall prepare and issue an official Comprehensive Annual Financial Report no later than six (6) months following the fiscal year-end in accordance with Government Finance Officer's Association and Governmental Accounting Standards Board principles and standards. The City of Tulsa shall also must maintain an accounting control environment to help ensure proper authorization for financial transactions and proper procedures for safeguarding assets\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recuPnWiwcIIaduno",
-      "recUvr48FfuQXdJa3"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_045",
     "Tags_PreOctober copy copy": [
@@ -2120,6 +2105,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 18, Paragraph 3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -2132,24 +2120,8 @@
       "public finance"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "city revenue"
-    ],
     "Public": true,
     "Answer": "The City of Tulsa categorizes its revenue streams in three broad categories.\n- **Taxes**, which account for 54% of total municipal revenue.\n- **Enterprise funds** (the profit from goods and services sold by the City to the public for a fee), which account for 35% of total municipal revenue.\n- **\"Other\"** **revenues**, which account for 11% of total municipal revenue. \"Other\" revenues include proceeds from issuing licenses and permits, state/federal/county grants, \"general government\" revenue, fines and forfeitures, investment income, and \"miscellaneous\" revenue. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
-      "recrcssg4rJQBVqHI",
-      "recs4ACxZb3cyhEps",
-      "rec1T067E2iYoXi7t",
-      "recVypOtuYcUkJEnc",
-      "recKE790vQbaHmbeM",
-      "recxYIRPvYEut8lEN",
-      "recF1C0AXTd58Ca6d",
-      "recnRqKoBfg0sodUS"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_046",
     "Tags_PreOctober copy copy": [
@@ -2158,6 +2130,20 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 1, Figure 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "the bird's eye view",
+      "taxes",
+      "permits & licenses",
+      "grant funding",
+      "enterprise funds"
+    ],
+    "Concepts_PreOctober": [
+      "recf9vQSSV9y8JyWT",
+      "recrcssg4rJQBVqHI",
+      "recVypOtuYcUkJEnc",
+      "rec5hduOrQRpCn7TS",
+      "recumoqhRUNLtRKmo"
     ]
   },
   {
@@ -2171,20 +2157,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city revenue"
+      "taxes",
+      "the bird's eye view"
     ],
     "Public": true,
     "Answer": "The City of Tulsa collects taxes in five major categories.\n- Sales taxes\n- Use taxes\n- Franchise taxes/Right of Way user fees\n- Hotel/Motel taxes\n- Ad Valorem Taxes. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
       "recrcssg4rJQBVqHI",
-      "recqHZ3UmD7SG9v5v",
-      "recEmq1qtcdXQWe3u",
-      "recObJx9f9qS9Npke",
-      "recBzl6uNMkwRCH5O",
-      "recwzQcFDQjFVInCO"
+      "recf9vQSSV9y8JyWT"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_047",
@@ -2206,18 +2186,8 @@
       "public finance"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "city revenue"
-    ],
     "Public": true,
     "Answer": "The City of Tulsa taxes sales at 3.65%. 2% goes into the General Fund to support city operations. 1.6% is split between the 2019 \"Improve our Tulsa\" program (.45%) and the \"Vision Tulsa\" (1.15%) funds. The remaining .05% is held in the city's Economic Stabilization Reserve. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
-      "recrcssg4rJQBVqHI",
-      "recqHZ3UmD7SG9v5v"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_048",
     "Tags_PreOctober copy copy": [
@@ -2226,6 +2196,12 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recrcssg4rJQBVqHI"
+    ],
+    "Concepts": [
+      "taxes"
     ]
   },
   {
@@ -2238,18 +2214,8 @@
       "public finance"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "city revenue"
-    ],
     "Public": true,
     "Answer": "The City of Tulsa applies a 3.65% tax to personal property which is purchased outside the State of Oklahoma and used within the city. 3.1% goes into the General Fund to support city operations. The remaining 0.55% is allocated to the 2016 \"Tulsa Economic Vision\" Fund. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
-      "recrcssg4rJQBVqHI",
-      "recEmq1qtcdXQWe3u"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_049",
     "Tags_PreOctober copy copy": [
@@ -2258,6 +2224,12 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 4_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recrcssg4rJQBVqHI"
+    ],
+    "Concepts": [
+      "taxes"
     ]
   },
   {
@@ -2270,18 +2242,11 @@
       "public finance"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "city revenue"
-    ],
     "Public": true,
     "Answer": "The City of Tulsa collects taxes and fees from utility service providers and telecommunications companies that build and maintain infrastructure on city-owned rights of way in order to deliver their service to residents and businesses. Revenue from this tax scheme is projected to be $30.4 million in FY23. Almost 50% of that revenue is paid, collectively, by Oklahoma Natural Gas and Public Service Company of Oklahoma.  \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
       "recrcssg4rJQBVqHI",
-      "recObJx9f9qS9Npke",
-      "recE95h3mqnQmyHTc"
+      "recBbaMtLjbyY8IFD"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_050",
@@ -2291,6 +2256,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 5, Paragraph 5_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "taxes",
+      "user fees"
     ]
   },
   {
@@ -2303,17 +2272,10 @@
       "public finance"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "city revenue"
-    ],
     "Public": true,
     "Answer": "The City of Tulsa taxes hotel and motel room bookings at **5%**. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
-      "recrcssg4rJQBVqHI",
-      "recIMTVJuBGTTlkrk"
+      "recrcssg4rJQBVqHI"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_051",
@@ -2323,6 +2285,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "taxes"
     ]
   },
   {
@@ -2335,22 +2300,12 @@
       "public finance"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "city revenue"
-    ],
     "Public": true,
     "Answer": "Ad Valorem is Latin for \"according to value.\" In practice, an ad valorem tax in the State of Oklahoma is a property tax. According to the State Constitution, Tulsa must receive sufficient ad valorem taxes each year to make scheduled payments on municipal debt and to cover the value of court judgements granted to plaintiffs who successfully sue the city. Ad valorem tax revenue is deposited into the city's \"sinking fund\" specifically for those purposes. The sinking fund in not treated as a part of Tulsa's operating budget. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
       "recrcssg4rJQBVqHI",
-      "recwzQcFDQjFVInCO",
-      "rec4YeQSwcGTc0Izx",
       "recjHJF8xuHGjzKjw",
-      "recqFxYA8XapFzThA",
-      "recryw6YTFtLo3PVp",
-      "recCRAEN2KiJtgHeW"
+      "recH1mRwJUog6R4Q7"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_052",
@@ -2360,6 +2315,11 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "taxes",
+      "debt & credit",
+      "bonds"
     ]
   },
   {
@@ -2372,17 +2332,11 @@
       "public finance"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "city revenue"
-    ],
     "Public": true,
     "Answer": "For FY23, the City of Tulsa projects receiving an **$8.1 million** share of state tax receipts. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec49m6RsxVRmpzkl",
       "recrcssg4rJQBVqHI",
-      "recbJf8dAMpIEg3vL"
+      "recVypOtuYcUkJEnc"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_053",
@@ -2392,6 +2346,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 6, Paragraph 4_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "taxes",
+      "permits & licenses"
     ]
   },
   {
@@ -2405,16 +2363,13 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city revenue"
+      "grant funding",
+      "the bird's eye view"
     ],
     "Public": true,
     "Answer": "For FY23, the City of Tulsa projects receiving **$7.3 million** in grant funding from the state and federal governments. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recHVrvwsN9Bgch79",
-      "recpYxAcustPTx57u",
-      "recBxiII0dQVKFkrW"
+      "rec5hduOrQRpCn7TS"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_054",
@@ -2441,12 +2396,6 @@
     ],
     "Public": true,
     "Answer": "According to FY23 budget documents, Tulsa city government's top three goals for the next several years are the following.\n- Increasing the number of uniformed police officers.\n- Building cash reserves.\n- Providing annually satisfactory performance increases for the city's workforce.\nAdditional goals include the following.\n- Combating homelessness.\n- Increasing transit access to jobs.\n- Improving neighborhood conditions.\n- Continuing to work on equity indicators.\n- Improving economic development and commercial revitalization.\n- Improving tourism and destination districts.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recygMhYSJxEH8g89",
-      "recMu7qTaz3N2KCso"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_055",
     "Tags_PreOctober copy copy": [
@@ -2455,6 +2404,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 2 - Executive Summary, Subsection 24, Paragraph 5_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recuuCNjMbaMhXTVC"
     ]
   },
   {
@@ -2468,16 +2420,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding municipal courts"
     ],
     "Public": true,
     "Answer": "This budget adds a new \"configuration coordinator\" position (at a salary of $80,000) to the court's staff to manage the online databases used by court officials and the public. This budget also includes funding for \"mass communication software that utilizes text and email reminders about upcoming court dates and payments due.\" As part of the effort to start up a night court, the FY23 budget also funds hiring an additional public defender specifically to cover expanded hours. Prior to this budget, the municipal court received Coronavirus relief funding \n> \"...that will support outreach programs, facility improvements, Mental Health Initiatives and Organizational Development. CRF funding will also fund additional support personnel, including \"administrative support, court reporters, and Spanish greeters\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recQmeWJXdEaiIVRR",
-      "recUwVPxMmsJF1Ew2"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_056",
     "Tags_PreOctober copy copy": [
@@ -2486,6 +2433,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 3, Paragraph 4, 5_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "rectKJW7zUGI0SBBF"
     ]
   },
   {
@@ -2499,18 +2450,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding public safety"
     ],
     "Public": true,
     "Answer": "As of beginning of FY23, Tulsa PD employed** 943** sworn police officers.\n- 743 police officers.\n- 82 sergeants.\n- 83 lieutenants.\n- 23 captains.\n- 9 majors.\n- 3 deputy chiefs. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recN7fXO7AgEJLka9",
-      "recVswcqhjkahPslp",
-      "recD4xTSPIJ16uPjz",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_057",
     "Tags_PreOctober copy copy": [
@@ -2519,6 +2463,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 10, Paragraph 4_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recAu71Bp6XzkMMaD"
     ]
   },
   {
@@ -2532,19 +2479,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding public safety"
     ],
     "Public": true,
     "Answer": "**Yes. **Although the total number of sworn police officers did not change from FY22 to FY23, the Mayor of Tulsa and City Council consider police recruitment to be one of the city's highest priorities. In FY23, the police department has $4.5 million in funding to enroll and train 90 cadets at the police academy. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recN7fXO7AgEJLka9",
-      "recVswcqhjkahPslp",
-      "recD4xTSPIJ16uPjz",
-      "recoDDlneXkTqmNsT",
-      "recqYViQPyUI9t0SW"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_058",
     "Tags_PreOctober copy copy": [
@@ -2553,6 +2492,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 6, Paragraph 5_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "recAu71Bp6XzkMMaD"
     ]
   },
   {
@@ -2566,18 +2509,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding public safety"
     ],
     "Public": true,
     "Answer": "For FY23, Tulsa PD has an **operating budget of $144.8 million**, and an additional $4.5 million budget for new and/or upgraded equipment and technology. The PD's total budget increased by $26.7 million (approx. 21.7%) from FY22 to 23. The largest share of police department funding, $118.3 million or 79.2%, comes from the City of Tulsa's general fund. The balance of funding comes from dedicated sales taxes and court fees. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recN7fXO7AgEJLka9",
-      "recVswcqhjkahPslp",
-      "recD4xTSPIJ16uPjz",
-      "recygMhYSJxEH8g89"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_059",
     "Tags_PreOctober copy copy": [
@@ -2586,6 +2522,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "recAu71Bp6XzkMMaD"
     ]
   },
   {
@@ -2599,18 +2539,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding public safety"
     ],
     "Public": true,
     "Answer": "Some of the largest line item changes in the FY23 police operating budget include the following.\n- An additional $14.78 million for benefits and compensation.\n- $3.4 million to replace 80 marked police vehicles.\n- $3.4 million in overtime compensation.\n- A one-time appropriation of $1.2 million to replace tasers and associated equipment.\n- $1.2 million for internal equipment maintenance. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recN7fXO7AgEJLka9",
-      "recVswcqhjkahPslp",
-      "recD4xTSPIJ16uPjz",
-      "recygMhYSJxEH8g89"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_060",
     "Tags_PreOctober copy copy": [
@@ -2619,6 +2552,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 7-8, Paragraph 3, 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recAu71Bp6XzkMMaD"
     ]
   },
   {
@@ -2636,13 +2572,6 @@
     ],
     "Public": true,
     "Answer": "**Yes.** The Tulsa Fire Department is enrolling 30 cadets in the training academy in FY23 at a cost of $1.28 million and plans to train an additional 30 in FY24. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recEH79RCbuqL9b2s",
-      "recD4xTSPIJ16uPjz",
-      "recygMhYSJxEH8g89"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_061",
     "Tags_PreOctober copy copy": [
@@ -2651,6 +2580,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -2664,17 +2596,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding public safety"
     ],
     "Public": true,
     "Answer": "The Tulsa Fire Department operating budget for FY23 totals **$91.7** **million** dollars, with an additional $3.9 million dollars for upgrades to equipment and technology. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recEH79RCbuqL9b2s",
-      "recD4xTSPIJ16uPjz",
-      "recygMhYSJxEH8g89"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_062",
     "Tags_PreOctober copy copy": [
@@ -2683,6 +2609,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 12, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recAu71Bp6XzkMMaD",
+      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -2696,17 +2626,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding public safety"
     ],
     "Public": true,
     "Answer": "The FY23 Fire Department operating budget includes a $5.1 million increase in benefits and compensation in order to \"address recruitment and retention issues\". Additionally, from FY22 to FY23, the fire department's operating capital increased from $610,000 to $4.5 million. According to the Department highlights section of the FY23 municipal budget, \n> \"The Tulsa Fire Department was awarded a grant to reimburse the cost of sixty new firefighters for three years. As a result, Tulsa Fire Department will utilize those savings to fund operational support replacements and accelerate the replacement of needed fleet equipment in FY23 through FY25\".\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recEH79RCbuqL9b2s",
-      "recD4xTSPIJ16uPjz",
-      "recygMhYSJxEH8g89"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_063",
     "Tags_PreOctober copy copy": [
@@ -2715,6 +2639,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 11-12, Paragraph 4, 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recAu71Bp6XzkMMaD"
     ]
   },
   {
@@ -2732,13 +2659,6 @@
     ],
     "Public": true,
     "Answer": "The fire department's budget provides for a **743** person workforce. Of that, 725 staff are first responders or inspection/prevention professionals and 18 hold administrative/support roles. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recEH79RCbuqL9b2s",
-      "recD4xTSPIJ16uPjz",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_064",
     "Tags_PreOctober copy copy": [
@@ -2747,6 +2667,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 14, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -2764,11 +2687,6 @@
     ],
     "Public": true,
     "Answer": "The City of Tulsa manages **135** parks covering roughly 6,553 acres. This includes the following.\n- Two nature centers.\n- Seven community centers (including WaterWorks Art Studio).\n- 57 miles of walking trails.\n- Two skate parks.\n- Three dog parks.\n- Five swimming pools. \nIn addition, there are 227 sports fields.\n- 132 diamond fields.\n- 95 rectangular fields.\n- 99 playgrounds.\n- 94 tennis courts.\n- 8 pickleball courts.\n- 29 basketball courts.\n- 36 half basketball courts.\n- 13 water playgrounds.\n- 18 splash pads.\n- 96 picnic shelters.\n- 4 golf courses.\n- 8 disc golf courses.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recj3NWnqBpmQn2Yx"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_065",
     "Tags_PreOctober copy copy": [
@@ -2777,6 +2695,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 21, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recGYawUg6ZDn8C5V"
     ]
   },
   {
@@ -2790,15 +2711,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding culture & recreation"
     ],
     "Public": true,
     "Answer": "The total parks and recreation budget for FY23 is **$18.7 million**. The budget includes $14 million in operation funds and $4.7 million for capital projects, equipment and upgrades. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recj3NWnqBpmQn2Yx"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_066",
     "Tags_PreOctober copy copy": [
@@ -2807,6 +2724,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 22, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "reczHbqiaJ0YXUja2"
     ]
   },
   {
@@ -2824,12 +2745,6 @@
     ],
     "Public": true,
     "Answer": "Tulsa's parks and recreation facilities employ **175** people in total. 130 positions are full-time. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recj3NWnqBpmQn2Yx",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_067",
     "Tags_PreOctober copy copy": [
@@ -2838,6 +2753,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 24, Paragraph 1-5_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -2845,23 +2763,10 @@
     "Tags_PreOctober": [
       "governance process"
     ],
-    "Question": "How does the City of Tulsa manage its parks along the Arkansas River? ",
-    "Tags": [
-      "governance process"
-    ],
+    "Question": "How does the City of Tulsa collaborate with Tulsa County to fund parks along the Arkansas River? ",
     "Contributor": "Dan",
-    "Concepts": [
-      "public assets"
-    ],
     "Public": true,
     "Answer": "River parks, including metro trails along the river and the Turkey Mountain Urban Wilderness area, are supported by shared investment between the City of Tulsa and Tulsa County. The $748,000 in resources allocated for River Parks are utilized for operational support to maintain the trails, Turkey Mountain Urban Wilderness, and rest room facilities along the trail system.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recj3NWnqBpmQn2Yx",
-      "recqvf34tgDHcMZrK",
-      "recsp7uZqHjxA2l3b"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_068",
     "Tags_PreOctober copy copy": [
@@ -2870,6 +2775,19 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 25-26, Paragraph 1-3, 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Tags": [
+      "public finance"
+    ],
+    "Concepts_PreOctober": [
+      "recgqzkgDVjFawQ7Y",
+      "reckWzcz2N6t6Dv68"
+    ],
+    "Concepts": [
+      "city spending",
+      "funding culture & recreation",
+      "county spending",
+      "intergovernmental financing"
     ]
   },
   {
@@ -2882,17 +2800,8 @@
       "governance process"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "public assets"
-    ],
     "Public": true,
     "Answer": "**Yes.** The City has engaged in management agreements for the operations of City owned culture and recreation facilities. These facilities include the Tulsa Zoo, Mohawk Soccer Complex, Page and Mohawk golf courses, Performing Arts Center, and the Gilcrease Museum. The Parks and Recreation Department is responsible for the oversight for each of the management agreements. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recTs6J3JFZFlL2Xb",
-      "recf9MDE9d0hocJZD"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_069",
     "Tags_PreOctober copy copy": [
@@ -2901,6 +2810,12 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 29, Paragraph 1-2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "intergovernmental relations"
+    ],
+    "Concepts_PreOctober": [
+      "recSGySDo7WKcIwRl"
     ]
   },
   {
@@ -2919,9 +2834,6 @@
     "Public": true,
     "Answer": "- Housing – to assist homeowners with emergency housing repairs and rehabilitation; prevent early institutionalization of the elderly; create incentives to develop affordable housing; and address substandard housing and revitalize housing through property maintenance and demolition. \n- Neighborhood Services – to increase opportunities for neighborhood reinvestment; serve as the contact between residents and the City to coordinate the delivery of public/private resources; and establish neighborhood associations and/or block groups to stabilize and improve neighborhood environments. \n- Neighborhood Investigations – to promote voluntary compliance and enforcement of City nuisance codes; provide a fair and unbiased enforcement program to correct nuisance violations and land use requirements. \n- Animal Welfare – operate the animal shelter and field services to provide a safe, healthy environment for companion animals; support and empower residents for successful pet ownership and educate about codes. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rechGKl53YLEWSFKy",
       "recSaB0ugjsBczpUQ",
       "reca7dWptHD12yNJx",
       "recMTqjiET13Q8QWY",
