@@ -519,22 +519,22 @@
   {
     "id": "rec8xRk3pQw0auRa8",
     "Tags_PreOctober": [
-      "accessing tulsa",
-      "voting & elections"
+      "accessing tulsa"
     ],
     "Question": "How can I find which Tulsa City Council District I live in?",
     "Tags": [
-      "accessing tulsa",
-      "voting & elections"
+      "accessing tulsa"
     ],
     "Concepts": [
       "maps",
-      "access data"
+      "access data",
+      "voting & elections"
     ],
     "Answer": "Visit Tulsa's online district map [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=5ee4acc23016404aae82bc8100168a4c). \n\nWith this map, you can enter a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District as well as contact information for the City Councilor who represents it. \n",
     "Concepts_PreOctober": [
       "recyz70Oeg3aDAwFw",
-      "recyJCadYKnbBRD0a"
+      "recyJCadYKnbBRD0a",
+      "recjM4TreOC0HE8Ya"
     ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
@@ -4398,6 +4398,9 @@
     ],
     "Public": true,
     "Answer": "Tulsa's Asset Management Department employs **132** people as of FY23. That includes 30 building operations staff, 17 security staff, 67 equipment management staff, and 17 administration staff. \n",
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_118",
     "Tags_PreOctober copy copy": [
@@ -4406,9 +4409,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 101, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -4426,6 +4426,9 @@
     ],
     "Public": true,
     "Answer": "According to the FY23 budget, general obligation bonds issued by Tulsa are rated in the top-tier of creditworthiness by national credit rating agencies. Standard and Poor's rates Tulsa's creditworthiness at AA, their third-highest ranking (only three American companies hold the highest rating). Moody's rates Tulsa at Aa1, their second-highest rating. Higher credit ratings imply less risk, meaning Tulsa is more likely to get favorable repayment terms when it needs to issue debt. \n",
+    "Concepts_PreOctober": [
+      "recH1mRwJUog6R4Q7"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_119",
     "Tags_PreOctober copy copy": [
@@ -4434,9 +4437,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recH1mRwJUog6R4Q7"
     ]
   },
   {
@@ -4454,6 +4454,9 @@
     ],
     "Public": true,
     "Answer": "There are two major forms of debt available to Tulsa: general obligation bonds and revenue bonds. \n\n**General obligation bonds** can be used to finance a wide variety of projects and can be repaid using almost any form of revenue, although some states restrict how municipalities can service general obligation debt.\n\nIn Tulsa, general obligation debt is paid off exclusively using a dedicated portion of property taxes.\n\n**Revenue bonds** are largely used to finance projects (such as toll roads) that will generate revenue upon completion. Revenue bonds are guaranteed with anticipated future revenue from the project being financed. Technically, the City of Tulsa has never issued a revenue bond. However, authorities (such as the utilities authority) associated with Tulsa have issued revenue bonds that benefit the City as well. \n",
+    "Concepts_PreOctober": [
+      "recH1mRwJUog6R4Q7"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_120",
     "Tags_PreOctober copy copy": [
@@ -4462,9 +4465,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 103, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recH1mRwJUog6R4Q7"
     ]
   },
   {
@@ -4482,6 +4482,9 @@
     ],
     "Public": true,
     "Answer": "As of June 30, 2022, the City of Tulsa's total debt liability is **$395.3 million** on general obligation bonds issued as early as 2013 and as recently as 2022. The cumulative debt originally incurred across all ten currently-active bonds equals **$549.4 million**. The average interest rate for those bonds is **2.75%**. \n",
+    "Concepts_PreOctober": [
+      "recH1mRwJUog6R4Q7"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_121",
     "Tags_PreOctober copy copy": [
@@ -4490,9 +4493,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 105, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recH1mRwJUog6R4Q7"
     ]
   },
   {
@@ -4510,6 +4510,9 @@
     ],
     "Public": true,
     "Answer": "The City of Tulsa is currently liable for ten general obligation bonds (totaling $395.3 million) with varying maturity dates. According to FY23 budget documents, the City plans to satisfy all of its current debt by **2038**. Over that time frame, the City anticipates paying $49.4 million in interest, for a cumulative total debt service of $444.8 million. \n",
+    "Concepts_PreOctober": [
+      "recH1mRwJUog6R4Q7"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_122",
     "Tags_PreOctober copy copy": [
@@ -4518,9 +4521,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 104, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recH1mRwJUog6R4Q7"
     ]
   },
   {
@@ -4538,6 +4538,9 @@
     ],
     "Public": true,
     "Answer": "The City of Tulsa's FY23 budget authorizes **4,120** positions. The actual number of employees is subject to change. Almost 75% of positions are in public safety or transportation/public works. City-wide, 4,015 positions are considered full-time. Total staffing increased by 67 positions since FY22. \n",
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_123",
     "Tags_PreOctober copy copy": [
@@ -4546,9 +4549,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 108, Paragraph 1-5_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -4567,6 +4567,10 @@
     ],
     "Public": true,
     "Answer": "**Yes.** For the first time, Tulsa included a \"Program-Based\" budget as an appendix to its standard annual budget for FY23. **[The PBB](https://www.cityoftulsa.org/media/19042/04-departments.pdf#page=112) provides approximate costs for virtually every program** and service funded by the City of Tulsa. The PBB is useful because, in many cases, a single program may rely on collaboration from multiple City departments, making it difficult to calculate total funding from various department budgets. \n",
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "recf9vQSSV9y8JyWT"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_124",
     "Tags_PreOctober copy copy": [
@@ -4575,10 +4579,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 111-140_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recsq3170LxY5IBK2",
-      "recf9vQSSV9y8JyWT"
     ]
   },
   {
@@ -4596,6 +4596,9 @@
     ],
     "Public": true,
     "Answer": "Tulsa residents can call 918-596-9777 to arrange for pickup of their large, bulky waste, including furniture and appliances. The cost for pickup is $10 per eight cubic yards.\n",
+    "Concepts_PreOctober": [
+      "recAJHYcsvcU9XMGI"
+    ],
     "Author": "Samuel",
     "QA Code": "Dan_Planning_01",
     "Tags_PreOctober copy copy": [
@@ -4604,9 +4607,6 @@
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n",
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recAJHYcsvcU9XMGI"
     ]
   },
   {
@@ -4624,6 +4624,9 @@
     ],
     "Public": true,
     "Answer": "**$4.31 per 1,000 gallons** of water used.\n",
+    "Concepts_PreOctober": [
+      "recu6NcBQpBMA2lzA"
+    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Budget_X001",
     "Tags_PreOctober copy copy": [
@@ -4632,20 +4635,26 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recu6NcBQpBMA2lzA"
     ]
   },
   {
     "id": "recrQofXv9pfxknWX",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
     "Question": "How much do I pay for sewage treatment in Tulsa in 2023?",
+    "Tags": [
+      "accessing tulsa"
+    ],
     "Contributor": "Samuel",
     "Concepts": [
       "utilities & user rates"
     ],
     "Public": true,
     "Answer": "**$10.02 per 1,000 gallons of water** used per single-family home for FY23. In FY22, the cost of sewage treatment for the same water was $9.36.\n",
+    "Concepts_PreOctober": [
+      "recu6NcBQpBMA2lzA"
+    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Budget_X002",
     "Tags_PreOctober copy copy": [
@@ -4654,15 +4663,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 12, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recu6NcBQpBMA2lzA"
-    ],
-    "Tags": [
-      "accessing tulsa"
-    ],
-    "Tags_PreOctober": [
-      "accessing tulsa"
     ]
   },
   {
@@ -4680,6 +4680,9 @@
     ],
     "Public": true,
     "Answer": "Households within Tulsa's city limits are currently billed **$5.45 per month** for EMSA. Alternatively, households may opt out and pay for EMS services out of pocket.\n",
+    "Concepts_PreOctober": [
+      "recu6NcBQpBMA2lzA"
+    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Budget_X003",
     "Tags_PreOctober copy copy": [
@@ -4688,9 +4691,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 13, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recu6NcBQpBMA2lzA"
     ]
   },
   {
@@ -4791,57 +4791,29 @@
     ],
     "Question": "How could an income tax be instituted in the City of Tulsa?",
     "Tags": [
-      "governance process"
+      "governance process",
+      "public finance"
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "taxes"
     ],
     "Public": true,
     "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws, which would prevent Tulsa from enacting such legislation.\n",
-    "Author": "Samuel",
-    "QA Code": "Samuel_Code_002",
-    "Tags_PreOctober copy copy": [
-      "revenue & spending",
-      "city gov & policy process"
-    ],
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
-    "Tags_PreOctober copy": [
-      "revenue & spending",
-      "city gov & policy process"
-    ],
     "Concepts_PreOctober": [
       "recsvNFdPofu3IlhE"
-    ]
-  },
-  {
-    "id": "reczQlHS0yxW6Z3eh",
-    "Question": "How would an income tax be instituted in the City of Tulsa? copy",
-    "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws.\n",
-    "Public": true,
-    "Contributor": "Samuel",
-    "QA Code": "Samuel_Code_002",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
-    "Author": "Samuel",
-    "Tags_PreOctober copy": [
-      "revenue & spending",
-      "city gov & policy process"
     ],
+    "Author": "Samuel",
+    "QA Code": "Samuel_Code_002",
     "Tags_PreOctober copy copy": [
       "revenue & spending",
       "city gov & policy process"
     ],
-    "Concepts": [
-      "taxes"
-    ],
-    "Concepts_PreOctober": [
-      "recrcssg4rJQBVqHI"
-    ],
-    "Tags": [
-      "public finance"
-    ],
-    "Tags_PreOctober": [
-      "public finance"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
+    "Tags_PreOctober copy": [
+      "revenue & spending",
+      "city gov & policy process"
     ]
   },
   {
@@ -4851,19 +4823,18 @@
     ],
     "Question": "Can the City of Tulsa change the sales tax?",
     "Tags": [
-      "governance process"
+      "governance process",
+      "public finance"
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "taxes"
     ],
     "Public": true,
-    "Answer": "Through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect sales tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". \n",
+    "Answer": "Yes - through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect sales tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". \n",
     "Concepts_PreOctober": [
-      "recxdOAhjRYEtGBIR",
-      "recrcssg4rJQBVqHI",
-      "recqHZ3UmD7SG9v5v",
-      "rec2bz2lvTwnSaZRh"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_003",
@@ -4884,18 +4855,18 @@
     ],
     "Question": "Can the City of Tulsa issue licensing fees for the purpose of revenue collection?",
     "Tags": [
-      "governance process"
+      "governance process",
+      "public finance"
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "permits & licenses"
     ],
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recxdOAhjRYEtGBIR",
-      "recKE790vQbaHmbeM",
-      "rech2pNnuhsCaWBdI"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_004",
@@ -4916,19 +4887,18 @@
     ],
     "Question": "Can the City of Tulsa issue licensing fees for the purpose of regulation?",
     "Tags": [
-      "governance process"
+      "governance process",
+      "public finance"
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "permits & licenses"
     ],
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recxdOAhjRYEtGBIR",
-      "recKE790vQbaHmbeM",
-      "rech2pNnuhsCaWBdI",
-      "recEs1TA3rbioFjib"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_005",
@@ -4947,17 +4917,19 @@
     ],
     "Question": "Can the City of Tulsa place additional taxes on homeowners for the purposes of funding specific projects in the area?",
     "Tags": [
-      "governance process"
+      "governance process",
+      "public finance"
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "taxes"
     ],
     "Public": true,
     "Answer": "**Yes**. In legal terms, this is referred to as the City of Tulsa's ability to \"levy and collect special assessments for benefits conferred\".\n",
     "Concepts_PreOctober": [
-      "recxdOAhjRYEtGBIR",
-      "reck7kIoxu2H5u0Iy"
+      "recsvNFdPofu3IlhE",
+      "recrcssg4rJQBVqHI"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_006",
@@ -4970,7 +4942,8 @@
     ],
     "Question": "Can the City of Tulsa incur debt?",
     "Tags": [
-      "governance process"
+      "governance process",
+      "public finance"
     ],
     "Contributor": "Samuel",
     "Concepts": [
@@ -4980,9 +4953,7 @@
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recxdOAhjRYEtGBIR",
-      "recqFxYA8XapFzThA",
-      "recygMhYSJxEH8g89"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_007",
@@ -5001,7 +4972,7 @@
     "Tags_PreOctober": [
       "governance process"
     ],
-    "Question": "Can the City of Tulsa enforce endorinances on property owned, leased, controlled, or supervised by the city that is outside of its corporate limits?",
+    "Question": "Can the City of Tulsa enforce ordinances on property owned, leased, controlled, or supervised by the city that is outside of its corporate limits?",
     "Tags": [
       "governance process"
     ],
@@ -5012,8 +4983,7 @@
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "rec4hf7kl2KbCAAhf",
-      "rec6jAl0sv1feJZPs"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_008",
@@ -5043,8 +5013,7 @@
     "Public": true,
     "Answer": "Yes, \"as authorized by the laws of Oklahoma\".\n",
     "Concepts_PreOctober": [
-      "rec4hf7kl2KbCAAhf",
-      "rec6jAl0sv1feJZPs"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_009",
@@ -5067,14 +5036,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "intergovernmental relations"
     ],
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recbMhrS5udASHOL1",
       "recSGySDo7WKcIwRl",
-      "recr78qUqkhp5Zz4o"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_010",
@@ -5097,19 +5066,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "intergovernmental relations",
+      "state of oklahoma"
     ],
     "Public": true,
     "Answer": "The City of Tulsa may \n> ...enter into agreements with the State of Oklahoma; with another state or municipality; with any subdivision or agency thereof; with the federal government or any agency thereof; with private corporations, partnerships or individuals, or any combination thereof; and to exercise jointly all powers, privileges, and authority conferred upon the City of Tulsa by this amended Charter or by the laws of Oklahoma.\n",
     "Concepts_PreOctober": [
-      "recbMhrS5udASHOL1",
       "recSGySDo7WKcIwRl",
-      "recSZeWALNfnW3T8v",
-      "recr78qUqkhp5Zz4o",
-      "rec6snZ9f5cDYrdgN",
-      "recPuaZORpG9qS9b4",
-      "recbjRBkOBDM1mYbH",
-      "recBEtjHtOWJydWze"
+      "recsvNFdPofu3IlhE",
+      "recex3pj2DIma2nV4"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_011",
@@ -5132,14 +5098,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "governing water"
     ],
     "Public": true,
     "Answer": "The City of Tulsa may \n> ...acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits.\n",
     "Concepts_PreOctober": [
-      "recxdOAhjRYEtGBIR",
-      "rec6jAl0sv1feJZPs",
-      "recBYNVooM0ZJAzf7"
+      "rec42IWZHO8ZRTeud",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_012",
@@ -5162,14 +5128,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "governing transportation"
     ],
     "Public": true,
     "Answer": "The City of Tulsa may \n> ...acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits.\n",
     "Concepts_PreOctober": [
-      "recxdOAhjRYEtGBIR",
-      "recS9VqXREVYUBP7z",
-      "recTxgKBjwHwkDitY"
+      "recsvNFdPofu3IlhE",
+      "rec9AcMTrZV4dGk60"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_013",
@@ -5197,7 +5163,7 @@
     "Public": true,
     "Answer": "The City of Tulsa may \"appropriate and expend money for any public purpose\".\n",
     "Concepts_PreOctober": [
-      "recygMhYSJxEH8g89"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_014",
@@ -5222,14 +5188,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this"
+      "can they do this",
+      "governing land"
     ],
     "Public": true,
     "Answer": "**Yes,** the City of Tulsa may \"restrict and regulate the use and subdivision of land, to perform planning and zoning, and to establish by ordinance the procedures therefor\".\n",
     "Concepts_PreOctober": [
-      "recEs1TA3rbioFjib",
-      "rec6jAl0sv1feJZPs",
-      "recSJYjYkV67eZeIy"
+      "recsvNFdPofu3IlhE",
+      "recibLnZdVDZKJE9o"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_015",
@@ -5260,8 +5226,8 @@
     "Public": true,
     "Answer": "The City of Tulsa may \"abate nuisances of any kind\" as well as \"assess the expense thereof as a special tax against the land upon which the nuisance is located\". As of 2018, it has been clarified that the City of Tulsa \"may summarily abate a nuisance re-occuring on the same property under the same ownership within twenty-four (24) months of a previous nuisance abatement on that property\" as well as assess the expense thereof as a special tax against the land. This resulted from a 2017 vote through which 8,291 Tulsans voted in favor of this amendment against 2,123 Tulsans voting against.\n",
     "Concepts_PreOctober": [
-      "rec5zG09bsxqZaySm",
-      "rec6jAl0sv1feJZPs"
+      "recX9nNDKs0rtBi3g",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_016",
@@ -5289,9 +5255,7 @@
     "Public": true,
     "Answer": "City Council is \"composed of nine (9) Councilors elected by districts\".\n",
     "Concepts_PreOctober": [
-      "recX9nNDKs0rtBi3g",
-      "recRUsMirOWqHF097",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_017",
@@ -5319,10 +5283,7 @@
     "Public": true,
     "Answer": "$24,000 annually\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recygMhYSJxEH8g89",
-      "recAi1b9s2ensb8nF"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_018",
@@ -5351,11 +5312,8 @@
     "Public": true,
     "Answer": "**No.** Prior to December 1st, 2014, this was not the case. Tulsa's City Council could change their salary by majority vote to go into effect after \n> ...the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g",
-      "recygMhYSJxEH8g89",
-      "recAi1b9s2ensb8nF"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_019",
@@ -5383,9 +5341,7 @@
     "Public": true,
     "Answer": "**Yes.** \"Councilors may be reimbursed for expenses incurred in the performance of their duties\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recygMhYSJxEH8g89"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_020",
@@ -5413,9 +5369,7 @@
     "Public": true,
     "Answer": "Tulsa's City Council must hold at least two (2) meetings every month and these meetings must be held at City Hall.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_021",
@@ -5444,10 +5398,8 @@
     "Public": true,
     "Answer": "The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call special meetings. Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. This notice must include the date, time, and place of the special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. Finally, only those subjects included in the written notice can be considered at special meetings.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t",
-      "recZkq5S5jOSatcsk"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_022",
@@ -5475,10 +5427,7 @@
     "Public": true,
     "Answer": "Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. Written notice must include the date, time, and place of the special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. Only those subjects included in the written notice can be considered at special meetings. The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call such special meetings. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_023",
@@ -5506,10 +5455,7 @@
     "Public": true,
     "Answer": "Written notice to City Councilors concerning special meetings must include the date, time, and place of the meeting. Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. Only those subjects included in the written notice can be considered at special meetings. The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call special meetings. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_024",
@@ -5538,10 +5484,8 @@
     "Public": true,
     "Answer": "**No,** only those subjects outlined in the written notice can be considered. Written notice must be delivered to each City Councilor at least 24 hours prior to such special meeting. Written notice must include the date, time, and place of the special meeting. This written notice can be served (a) electronically, (2) in-person, or (3) can be left at the usual place of residence of the City Councilor. The Mayor of Tulsa, the Chairman of the City Council, or one-third (1/3) of Tulsa's City Council may call such special meetings. \n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t",
-      "recbMhrS5udASHOL1"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_025",
@@ -5570,12 +5514,8 @@
     "Public": true,
     "Answer": "The Mayor of Tulsa. During a Civil Emergency, City Council can meet for special meetings anywhere within the corporate limits of the City of Tulsa, without notice, and may consider \"matters as necessary for the preservation of the public health, safety, and welfare during the period of the emergency\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recuuCNjMbaMhXTVC",
-      "recbMhrS5udASHOL1",
-      "rec8VvbJAupXTEemd",
-      "recTduFwT9ATeQB7t"
+      "recX9nNDKs0rtBi3g",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_026",
@@ -5598,14 +5538,12 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "the mayor"
+      "city council"
     ],
     "Public": true,
     "Answer": "During a Civil Emergency, City Council can meet for special meetings anywhere within the corporate limits of the City of Tulsa, without notice, and may consider \"matters as necessary for the preservation of the public health, safety, and welfare during the period of the emergency\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_027",
@@ -5629,8 +5567,6 @@
     "Contributor": "Samuel",
     "Answer": "\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recbMhrS5udASHOL1",
       "rec8VvbJAupXTEemd",
       "recdiRERCYuZGHSXd"
     ],
@@ -5660,11 +5596,7 @@
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t",
-      "recbMhrS5udASHOL1",
-      "recjQZSeuGijmUfoF"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_029",
@@ -5718,10 +5650,8 @@
     "Public": true,
     "Answer": "**Yes,** Tulsa's City Council \"may employ such persons as are necessary to assist the Council in the performance of its duties\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recFXycyXWuWo47Ix"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_031",
@@ -5749,9 +5679,7 @@
     "Public": true,
     "Answer": "Tulsa's City Council \"shall determine and establish its own rules and order of business\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_032",
@@ -5780,12 +5708,8 @@
     "Public": true,
     "Answer": "> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g",
-      "recxYIRPvYEut8lEN",
-      "recTduFwT9ATeQB7t",
-      "recVig4UtVDrLlTTL"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_033",
@@ -5814,11 +5738,8 @@
     "Public": true,
     "Answer": "> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g",
-      "recxYIRPvYEut8lEN",
-      "recTduFwT9ATeQB7t"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_034",
@@ -5847,12 +5768,8 @@
     "Public": true,
     "Answer": "**Yes.** \n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g",
-      "recxYIRPvYEut8lEN",
-      "recTduFwT9ATeQB7t",
-      "recVig4UtVDrLlTTL"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_035",
@@ -5881,11 +5798,8 @@
     "Public": true,
     "Answer": "**Yes.**\n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g",
-      "recxYIRPvYEut8lEN",
-      "recTduFwT9ATeQB7t"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_036",
@@ -5908,16 +5822,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "city council"
+      "city council",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "**$100 dollars.** \n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city. The vote of two-thirds (⅔) of the entire membership of the Council shall be required to impose a fine on a Councilor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g",
-      "recxYIRPvYEut8lEN",
-      "rec9rnEQuFVJq4IgH"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_037",
@@ -5940,16 +5852,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "city council"
+      "city council",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "Two-thirds of the entire City Council. When each of the nine seats are filled, this means six Councilors must vote to impose such fine. \n> The Council may punish by fine its members or other persons for disorderly conduct at a Council meeting or for violation of Council rules. Any fine imposed by the Council for a single offense shall not exceed the sum of one hundred dollars ($100.00) and shall be collected in the same manner provided for the collection of other debts owed the city.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
       "recX9nNDKs0rtBi3g",
-      "recxYIRPvYEut8lEN",
-      "rec9rnEQuFVJq4IgH"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_038",
@@ -5977,11 +5887,7 @@
     "Public": true,
     "Answer": "Tulsa's City Council elects their own Chairman and Vice Chairman. Further, the terms of such positions are determined by the Council. Duties can be assigned to the Chairman via charter amendment, ordinance, or rule of the Council. The Vice Chairman performs duties of the Chairman under conditions of the Chairman's absense.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "recb8y39G2n1fUMpf",
-      "recZtZB1zc9lOY8fl"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_039",
@@ -6009,10 +5915,7 @@
     "Public": true,
     "Answer": "Tulsa's City Council assigns duties to the Chairman via charter amendment, ordinance, or rule of the Council. Further, Tulsa's City Council elects their own Chairman and Vice Chairman and the terms of such positions are determined by the Council. Finally, the Vice Chairman performs duties of the Chairman under conditions of the Chairman's absense.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "recb8y39G2n1fUMpf"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_040",
@@ -6040,10 +5943,7 @@
     "Public": true,
     "Answer": "Tulsa's City Council has \"the power to subpoena witnesses and require the production of records\" for the purposes of judging the qualification of its members.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "receacjDdXCI7IGXt"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_041",
@@ -6071,11 +5971,7 @@
     "Public": true,
     "Answer": "Tulsa's City Council is the judge of the qualifications of its members. In doing so, it has \"the power to subpoena witnesses and require the production of records. The decisions of the Council in such cases shall be subject to review by appropriate actions in courts of competent jurisdiction which shall be commenced within ten (10) days after a final decision by the Council\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "recrCWf24cPQJ3bt8",
-      "recjzq9fpGN98fJ4l"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_042",
@@ -6103,10 +5999,7 @@
     "Public": true,
     "Answer": "A majority of the entire membership of Tulsa's City Council must be present to constitute a quorum for City Council meetings. Further, \"less than a majority may continue a meeting to a specific date and time. The affirmative vote of a majority of the entire membership of the Council shall be necessary to adopt an ordinance or resolution\". Finally, actions of the Council are effective following an affirmative vote of a qurom.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_043",
@@ -6134,10 +6027,7 @@
     "Public": true,
     "Answer": "Upon an affirmative vote of a majority of a qurom of Tulsa's City Council. Further, \"a majority of the entire membership of the Council shall constitute a quorom for a meeting of the Council\". However, as revealed in Section 9 of the City Charter, \"Ordinances adopting budgets, making appropriations, pertaining to local improvements and assessments, and any ordinance or resolution adopted as an emergency measure shall take effect at the time stated therein. All other ordinances and resolutions shall take effect at the time stated therein, but not less than thirty (30) days from the date of first publication. Ordinances adopted by vote of the electors shall take effect at the time stated therein or, if no time be stated, thirty (30) days after the election. An ordinance or resolution adopted as an emergency measure to provide for the immediate preservation of the public peace, health, welfare, or safety shall describe the emergency in a separate section. The vote of at least two-thirds (⅔) of the entire membership of the Council shall be required to adopt any ordinance or resolution as an emergency measure\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "rech8ZnhQ6xMFXskv"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_044",
@@ -6166,16 +6056,8 @@
     "Public": true,
     "Answer": "By convincing the property owners impacted by the zoning change to file a protest against the zoning change, Tulsans can raise the bar for the number of votes required for the zoning ordinance to go into effect - instead requiring the City Council to have three-fourths (3/4) of the entire membership of the Council to enact the zoning change. Such protests must meet two requirements. First, protests must be filed at least three (3) days prior to the hearing of the zoning change by City Council. Second, protests must be supported by either (a) owners of at least 20% of the area of the lots included in the proposed change or (b) owners of at least 50% of the area of the lots within a 300 foot radius of the exterior boundary of the territory included in the proposed change.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "rech8ZnhQ6xMFXskv",
-      "recMGYhG1RlGmHr3b",
       "recgdKPlaYC1v6B5Z",
-      "rec9HPiO516rCW9GX",
-      "reckXC0QQXYLxJRIn",
-      "recTduFwT9ATeQB7t",
-      "recov7WSAYmy4L4Qr"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_045",
@@ -6205,12 +6087,7 @@
     "Public": true,
     "Answer": "> The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recygMhYSJxEH8g89",
-      "rec9waV3GVmUG4v9L",
       "recX9nNDKs0rtBi3g",
-      "rec6lrWmFyJj2MfoK",
       "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
