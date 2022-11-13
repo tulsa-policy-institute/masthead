@@ -3493,11 +3493,11 @@
     "Concepts_PreOctober": [
       "recEayg3FQVzYq1R8"
     ],
-    "Answer": "\n\n\nExpanded Services (Provided in Tulsa, Broken Arrow, Jenks, and Sand Springs)\n- Fixed Route Bus Service\n- ADA Paratransit Services (for persons with disabilities\n- Late evening service “Nightline\"\n- Commuter bus service.\n",
+    "Answer": "General Services include the following:\n- [Fixed-Route Bus Service](https://www.tulsatransit.org/getting-around/fixed-route-schedules/)\n- [Express Buss Service](https://www.tulsatransit.org/park-and-ride/)\n- [Aero BRT (Bus Rapid Transit)](https://www.tulsatransit.org/getting-around/other-services-programs/bus-rapid-transit/)\n- [Nightline & Sunday Transit Service](https://www.tulsatransit.org/getting-around/other-services-programs/nightline-sunday/)\n- [Jenks, Broken Arrow, & Turley Connector Services](https://www.tulsatransit.org/getting-around/other-services-programs/connectors/)\n- [Shuttle Microstransit Pilot Program](https://www.tulsatransit.org/getting-around/other-services-programs/microtransit/)\n- [Lift Paratransit](https://www.tulsatransit.org/getting-around/lift-paratransit/)\n\nCivic Technologies:\n- [Tulsa Trip Planner](https://www.tulsatransit.org/getting-around/trip-planner/)\n- [GoPass](https://www.tulsatransit.org/apps/)\n- [Alerts](https://www.tulsatransit.org/getting-around/detours-route-alerts/)\n\nExpanded Services (Provided in Tulsa, Broken Arrow, Jenks, and Sand Springs) include the following:\n- Fixed Route Bus Service\n- ADA Paratransit Services (for persons with disabilities\n- Late evening service “Nightline\"\n- Commuter bus service.\n",
     "Public": true,
     "Contributor": "Dan",
     "QA Code": "Dan_Budget_088",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2_\n",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 61, Paragraph 2_\n\nCity of Tulsa. _Tulsa Transit_. Website.\n\n",
     "Author": "Dan",
     "Tags_PreOctober": [
       "accessing tulsa"
@@ -3526,16 +3526,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding transportation"
     ],
     "Public": true,
     "Answer": "Tulsa Transit's FY23 operating budget totals **$11.3 million**. The transit system's total budget also includes $1.2 million for capital projects. \n",
-    "Concepts_PreOctober": [
-      "recTIbOjRMIPffL0T",
-      "recD1AnBUORfwCKe9",
-      "recoDsrV2dKNJec5r",
-      "recrTEUGfP63fjd6V"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_089",
     "Tags_PreOctober copy copy": [
@@ -3544,34 +3539,28 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 62, Paragraph 1-2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "rec9RfAg7aZptP3qR"
     ]
   },
   {
     "id": "recgIGMPLppYbYBr8",
     "Tags_PreOctober": [
-      "public finance",
-      "governance process"
+      "public finance"
     ],
     "Question": "How much funding goes to the office of Tulsa's Mayor? ",
     "Tags": [
-      "public finance",
-      "governance process"
+      "public finance"
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "the mayor",
-      "city spending"
+      "city spending",
+      "funding administration"
     ],
     "Public": true,
     "Answer": "The FY23 operating budget for the mayor's office totals **$1.5 million**, which represents a $104,000 increase from FY22. That increase was attributed to benefit and compensation adjustments. The Mayor's office FY23 budget also includes $1.6 million for capital spending, however the adopted FY23 budget didn't include a capital spending plan. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recLaeh9i60oXfZoy",
-      "rec6lrWmFyJj2MfoK",
-      "recm6eIXpywCU4s9O",
-      "recZ8wrSVc6ylH9Nv"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_090",
     "Tags_PreOctober copy copy": [
@@ -3580,6 +3569,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 66, Paragraph 1-2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "rec56fWAN8wIpWcWN"
     ]
   },
   {
@@ -3597,14 +3590,6 @@
     ],
     "Public": true,
     "Answer": "Besides the mayor, **14 people** are employed in their office. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recLaeh9i60oXfZoy",
-      "rec6lrWmFyJj2MfoK",
-      "recm6eIXpywCU4s9O",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_091",
     "Tags_PreOctober copy copy": [
@@ -3613,29 +3598,17 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 67, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
     "id": "rechbyjfajgjiGfHf",
-    "Tags_PreOctober": [
-      "public finance"
-    ],
     "Question": "What is the role of the City Auditor of Tulsa?",
-    "Tags": [
-      "public finance"
-    ],
     "Contributor": "Dan",
-    "Concepts": [
-      "budget process"
-    ],
     "Public": true,
     "Answer": "The Internal Auditor is responsible for keeping an independent watch over City operations and resources to ensure citizens’ resources are safeguarded and efficiently and effectively applied to the intended purposes. The mission of the City Auditor is to provide accountability of city government. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recLaeh9i60oXfZoy",
-      "recAYvgbBkz8u57cE"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_092",
     "Tags_PreOctober copy copy": [
@@ -3644,6 +3617,18 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 65, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Tags": [
+      "governance process"
+    ],
+    "Tags_PreOctober": [
+      "governance process"
+    ],
+    "Concepts": [
+      "city auditor"
+    ],
+    "Concepts_PreOctober": [
+      "recAYvgbBkz8u57cE"
     ]
   },
   {
@@ -3657,17 +3642,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding administration"
     ],
     "Public": true,
     "Answer": "The FY23 operating budget for the City Auditor totals **$1.4 million**. Funding increased by $171,000 since FY22, which included: $109,000 in salary adjustments, and $42,000 for technology. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recLaeh9i60oXfZoy",
-      "recAYvgbBkz8u57cE",
-      "recv9k4TDLtNQ4BHK"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_093",
     "Tags_PreOctober copy copy": [
@@ -3676,6 +3655,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 68, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec56fWAN8wIpWcWN",
+      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -3693,13 +3676,6 @@
     ],
     "Public": true,
     "Answer": "Excluding the City Auditor themself, **11** people work in their office. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recLaeh9i60oXfZoy",
-      "recAYvgbBkz8u57cE",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_094",
     "Tags_PreOctober copy copy": [
@@ -3708,18 +3684,19 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 69, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
     "id": "reciNNzk3pAfnV2Ld",
     "Tags_PreOctober": [
-      "public finance",
-      "governance process"
+      "public finance"
     ],
     "Question": "Does Tulsa City Council approve a budget for itself? ",
     "Tags": [
-      "public finance",
-      "governance process"
+      "public finance"
     ],
     "Contributor": "Dan",
     "Concepts": [
@@ -3727,12 +3704,6 @@
     ],
     "Public": true,
     "Answer": "**Yes.** City Council's budget for FY23 totals $1.6 million. Council is funded entirely from the City's General Fund. Council's budget increased by $259,000 since FY22, with changes including: an additional $163,000 for compensation, $48,000 for a position that council deferred in FY22, and $15,000 to fund councilors' travel to conferences.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recLaeh9i60oXfZoy",
-      "recX9nNDKs0rtBi3g"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_095",
     "Tags_PreOctober copy copy": [
@@ -3741,6 +3712,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 70, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -3758,13 +3732,6 @@
     ],
     "Public": true,
     "Answer": "Excluding the 9 city councilors, Council's budget includes funding for **14 staff**. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recLaeh9i60oXfZoy",
-      "recX9nNDKs0rtBi3g",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_096",
     "Tags_PreOctober copy copy": [
@@ -3773,6 +3740,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 71, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -3785,19 +3755,8 @@
       "governance process"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "public management",
-      "authorities, boards, & commissions"
-    ],
     "Public": true,
     "Answer": "The City Attorney and the Legal department provide all the City’s municipal legal services. The department prepares and reviews ordinances, resolutions, executive orders, and contracts, and handles litigation, claims and controversies involving the City. Attorneys give advice and legal opinions to the City's elected officials, officers, employees, and to City boards, trusts, authorities, and agencies.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUwVPxMmsJF1Ew2",
-      "recDbaiqqDl6xBtS6",
-      "rec7ES4m8MO22n4gf"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_097",
     "Tags_PreOctober copy copy": [
@@ -3806,6 +3765,12 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 72, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recZFc6GvrasBwg89"
+    ],
+    "Concepts": [
+      "legal affairs"
     ]
   },
   {
@@ -3821,16 +3786,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding administration"
     ],
     "Public": true,
     "Answer": "The FY23 budget for Tulsa's legal department totals **$4.8 million**. Funding increased by $693,000 since FY22, including an additional $347,000 for compensation, and $289,000 to fund two new attorneys and a paralegal. 99% of legal department funding comes from the City's General Fund. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUwVPxMmsJF1Ew2",
-      "recZ8wrSVc6ylH9Nv"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_098",
     "Tags_PreOctober copy copy": [
@@ -3839,6 +3799,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 73, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec56fWAN8wIpWcWN",
+      "recsq3170LxY5IBK2"
     ]
   },
   {
@@ -3856,12 +3820,6 @@
     ],
     "Public": true,
     "Answer": "Tulsa's Legal Department FY23 budget includes funding for **23** City Attorneys, as well as 12 administrative/support personnel. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "recUwVPxMmsJF1Ew2",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_099",
     "Tags_PreOctober copy copy": [
@@ -3870,6 +3828,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 74, Paragraph 1_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -3887,13 +3848,6 @@
     ],
     "Public": true,
     "Answer": "Through the **Human Resources Department**. Major responsibilities include the following.\n- Employment.\n- Compensation and Classification.\n- Occupational Health.\n- Workers’ Compensation.\n- Employee Development.\n- Insurance and Retirement Services. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "reczzBRSwmcr3NBTl",
-      "recFXycyXWuWo47Ix",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_100",
     "Tags_PreOctober copy copy": [
@@ -3902,6 +3856,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 75, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -3915,17 +3872,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city spending"
+      "city spending",
+      "funding administration"
     ],
     "Public": true,
     "Answer": "FY23 funding for Tulsa's HR department totals **$30.3 million**, including funding for workers' compensation ($5.9 million) and employee benefits ($19.6 million), which are facilitated through the department. Excluding that funding leaves **$4.5 million for HR department operations**. HR department funding decreased by $1.8 million since FY22, reflecting a savings on insurance costs which was achieved through changing vendors. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "reczzBRSwmcr3NBTl",
-      "recFXycyXWuWo47Ix",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_101",
     "Tags_PreOctober copy copy": [
@@ -3934,6 +3885,10 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 76, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "rec56fWAN8wIpWcWN"
     ]
   },
   {
@@ -3951,12 +3906,6 @@
     ],
     "Public": true,
     "Answer": "The City's Human Resources Department FY23 budget authorizes **44** positions. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "reczzBRSwmcr3NBTl",
-      "recoDDlneXkTqmNsT"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_102",
     "Tags_PreOctober copy copy": [
@@ -3965,6 +3914,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 78, Paragraph 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -3978,21 +3930,12 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "INCOG",
-      "service delivery"
+      "incog",
+      "service delivery",
+      "intergovernmental relations"
     ],
     "Public": true,
     "Answer": "Through the City Government's voluntary participation in INCOG, Tulsa receives assistance with the following.\n- City planning.\n- Transportation planning and programs.\n- Environmental and energy planning.\n- Community and economic development.\n- Aging services.\n- Public safety. \n\nINCOG also acts as a liaison between its member governments and superior (state and federal) governments, advocating for and monitoring legislation that impacts the Tulsa metro area. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec8vQgngrzM9iZpr",
-      "recXLUh3o33ckGqzF",
-      "recoJacT6bxOqTcxz",
-      "recFNDPHdW1uN7aK3",
-      "recfP45qdDq2WHR4k",
-      "recs3820WK1JHT9tI"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_103",
     "Tags_PreOctober copy copy": [
@@ -4001,6 +3944,11 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81, Paragraph 1-5_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recyUhPcjsDzsScmC",
+      "recSGySDo7WKcIwRl",
+      "rec8vQgngrzM9iZpr"
     ]
   },
   {
@@ -4015,21 +3963,10 @@
     "Contributor": "Dan",
     "Concepts": [
       "city spending",
-      "INCOG"
+      "incog"
     ],
     "Public": true,
     "Answer": "Tulsa's FY23 contribution to INCOG is budgeted at **$3.3 million**.\n> ...resources allocated to INCOG will support services provided to the City of Tulsa for the following: land development reviews for TMAPC in accordance with the comprehensive plan; identifying and securing Federal and State transportation resources; identifying and securing Federal funding for economic development; and for the Destination District and Vibrant Neighborhoods programs.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rec8vQgngrzM9iZpr",
-      "recXLUh3o33ckGqzF",
-      "recoJacT6bxOqTcxz",
-      "recfP45qdDq2WHR4k",
-      "recs3820WK1JHT9tI",
-      "rec3ifMUgWnqCRHMT",
-      "rechTLqF7JgRmiqKw"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_104",
     "Tags_PreOctober copy copy": [
@@ -4038,36 +3975,27 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 81-82, Paragraph 6, 1-3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recsq3170LxY5IBK2",
+      "rec8vQgngrzM9iZpr"
     ]
   },
   {
     "id": "reco1m0uDfemvy5Kv",
     "Tags_PreOctober": [
-      "public finance",
       "governance process"
     ],
     "Question": "What are the main functions of Tulsa's Finance Department? ",
     "Tags": [
-      "public finance",
       "governance process"
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "service delivery",
-      "budget process"
+      "service delivery"
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, Finance Department operations are carried out by eight divisions.\n- Administration.\n- Budget and planning.\n- Treasury.\n- Purchasing.\n- Accounting.\n- Utility services.\n- City Clerk.\n- Office of Performance, Strategy and Innovation.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "reccdgNZiuzQArflV",
-      "recUvr48FfuQXdJa3",
-      "recNbV0kB3L2VPCAA",
-      "recnRqKoBfg0sodUS",
-      "recqFxYA8XapFzThA",
-      "rec5hduOrQRpCn7TS"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_105",
     "Tags_PreOctober copy copy": [
@@ -4076,6 +4004,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recyUhPcjsDzsScmC"
     ]
   },
   {
@@ -4088,21 +4019,8 @@
       "governance process"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "service delivery"
-    ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, services include the following.\n- Accounting for all revenues, expenditures, assets and liabilities.\n- Preparing the annual budgets and the capital plan.\n- Processing purchase requests.\n- Striving for the highest-possible return on the city's investment portfolio.\n- Paying all the city's bills.\n- Developing and implementing financial policies.\n- Administrating the City's debt programs.\n- Maintaining the billing system for utilities.\n- Analyzing financial data to inform officials' decision making. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "reccdgNZiuzQArflV",
-      "recUvr48FfuQXdJa3",
-      "recNbV0kB3L2VPCAA",
-      "recnRqKoBfg0sodUS",
-      "recqFxYA8XapFzThA",
-      "rec5hduOrQRpCn7TS"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_106",
     "Tags_PreOctober copy copy": [
@@ -4111,6 +4029,40 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "service delivery"
+    ],
+    "Concepts_PreOctober": [
+      "recyUhPcjsDzsScmC"
+    ]
+  },
+  {
+    "id": "rectjwK1BGWLNW92y",
+    "Question": "What is the role of Tulsa's Finance Department in the budget process?",
+    "Answer": "- Accounting for all revenues, expenditures, assets and liabilities.\n- Preparing the annual budgets and the capital plan.\n- Processing purchase requests.\n- Striving for the highest-possible return on the city's investment portfolio.\n- Paying all the city's bills.\n- Developing and implementing financial policies.\n- Administrating the City's debt programs.\n- Maintaining the billing system for utilities.\n- Analyzing financial data to inform officials' decision making. \n",
+    "Public": true,
+    "Contributor": "Dan",
+    "QA Code": "Dan_Budget_106",
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 83, Paragraph 2_\n",
+    "Author": "Dan",
+    "Tags_PreOctober copy": [
+      "revenue & spending"
+    ],
+    "Tags_PreOctober copy copy": [
+      "revenue & spending"
+    ],
+    "Tags": [
+      "public finance"
+    ],
+    "Tags_PreOctober": [
+      "public finance"
+    ],
+    "Concepts": [
+      "budget process"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
@@ -4128,16 +4080,6 @@
     ],
     "Public": true,
     "Answer": "Tulsa's FY23 budget authorizes **161** full time positions.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "reccdgNZiuzQArflV",
-      "recUvr48FfuQXdJa3",
-      "recNbV0kB3L2VPCAA",
-      "recnRqKoBfg0sodUS",
-      "recqFxYA8XapFzThA",
-      "rec5hduOrQRpCn7TS"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_107",
     "Tags_PreOctober copy copy": [
@@ -4146,6 +4088,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 86, Paragraph 1-8_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -4163,12 +4108,6 @@
     ],
     "Public": true,
     "Answer": "Tulsa's FY23 budget includes **$29.9 million** for the IT Department. Their net budget increased by $3.1 million from FY22. Major changes in the IT department's FY23 budget includes the following.\n- $1.1 million in salary increases.\n- $287,000 to hire three new positions.\n- $907,000 for the City's network security system.\n- $4.5 million to update or replace equipment. \n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recNlU5Iz5iBopJ9m",
-      "rechspLKvrZieUeO6",
-      "recwqmsmyG37gRPXo"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_108",
     "Tags_PreOctober copy copy": [
@@ -9560,6 +9499,34 @@
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 10._\n",
     "Tags_PreOctober copy": [
       "public services"
+    ]
+  },
+  {
+    "id": "receJ635IRDfRv1pZ",
+    "Question": "How much does it cost to ride the bus in Tulsa?",
+    "Concepts_PreOctober": [
+      "recEayg3FQVzYq1R8"
+    ],
+    "Answer": "**Adults:**\n- Cash 3-Hour Pass: $1.75\n- 1-Day Pass: $3.75\n- 7-Day Pass: $14.00\n- 10 Ride Pass: $14.00\n- 10 Ride Lift Book: $35.00\n- Lift Ride: $3.50 (Free with Lift Program Card)\n_Children under the age of 5 ride free with a paid adult._\n\n**Youth:**\n- Cash 3-Hour Pass: $1.50\n- 1-Day Pass: $1.85\n- 7-Day Pass: $7.00\n- 10 Ride Pass: $7.00\n- 31-Day Pass: $22.50\n\nAges 75+ Ride For Free After Obtaining a Super Senior Photo ID card, which can be obtained at the Denver Avenue Station. Proof of age must be shown. The ID is $1.00 and replacements are $5.00\n\n**Reduced & Military (Passes Sold at Denver Ave. and Online)**\n- Cash 3-Hour Pass: $0.85\n- 1-Day Pass: $1.85\n- 7-Day Pass: $7.00\n- 10 Ride Pass: $7.00\n- 31-Day Pass: $22.50\n_Call 918--982-6682 for complete information pertaining to the use of reduced or military photo ID cards. Such ID must be shown each time a bus is boarded._\n\n**Express Bus Service**\nTulsa also offers an Express Bus Service for residents living in East Tulsa and Broken Arrow who are employed in Downtown Tulsa. This service comes within approximately one block of most downtown employers and picks up at the following locations:\n\n1. Battle Creek Church (3025 N Aspen Ave, Broken Arrow, OK 74012)\n2. Union Intermediate High School (7616 S Garnett Rd, Tulsa, OK 74012)\n\nThe bus stops at each of the above locations every weekday. The bus stops at Battle Creek Church at **7:06 AM** and stops at Union Intermediate High School at **6:50 AM**. Pick up times from downtown locations are as follows:\n\n15th St. & Boulder - 5:10 PM\n6th St. & Boston - 5:16 PM\n1st St, & Main - 5:22 PM\n5th St. & Cheyenne - 5:25 PM\n10th St. & Boston - 5:28 PM\n\nResidents seeking to get off at Union Intermediate High School will be dropped off at 5:51 PM and those seeking to get off at Battle Creek Church will be dropped off at 6:08 PM.\n\nThe fees for this bus service are as follows:\n\n**Adults**\n- Cash 3-Hour Pass: $2.00\n- 1-Day Pass: $3.75\n- 7-Day Pass: $14.00\n- 10 Ride Pass: $17.00\n- 31-Day Pass: $45.00\n_$0.25 upcharge per trip for Adult Express Passes._\n\n**Reduced**\n- Cash 3-Hour Pass: $1.00\n- 1-Day Pass: $1.85\n- 7-Day Pass: $7.00\n- 10 Ride Pass: $7.00\n- 31-Day Pass: $22.50\n_$0.15 upcharge per trip for Adult Express Passes._\n\n\n\n\n",
+    "Public": true,
+    "Contributor": "Dan",
+    "QA Code": "Samuel_services_0001",
+    "Source": "City of Tulsa. _Tulsa Transit: Fares & Passes. _Website.\n\nCity of Tulsa. _Tulsa Transit: Express Bus Service_. Website\n\nCity of Tulsa. _Tulsa Transit: Tulsa Transit Route Guide: 900 Express Route. _PDF.\n\n",
+    "Author": "Samuel",
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
+    "Tags": [
+      "accessing tulsa"
+    ],
+    "Concepts": [
+      "public transit"
+    ],
+    "Tags_PreOctober copy": [
+      "revenue & spending"
+    ],
+    "Tags_PreOctober copy copy": [
+      "revenue & spending"
     ]
   },
   {
