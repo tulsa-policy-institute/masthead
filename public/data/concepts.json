@@ -344,6 +344,20 @@
     ]
   },
   {
+    "id": "rec5EtmXDFLl7QB0k",
+    "Name": "parking",
+    "Tags": [
+      "public services",
+      "policies & regulations"
+    ],
+    "Questions_old": [
+      "rec8KDL9gKmho2qUK",
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY"
+    ]
+  },
+  {
     "id": "rec797k3CYC8F5O3f",
     "Name": "311",
     "Tags": [
@@ -437,6 +451,37 @@
     ]
   },
   {
+    "id": "recGkXnNzl0pw1ued",
+    "Name": "customer care center",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "service requests & reporting"
+    ],
+    "Questions_old": [
+      "rec8KDL9gKmho2qUK",
+      "recli69VgyVeee4v3",
+      "reclWdJBU2jotf6WA",
+      "recl74UGhV1dcw0Wz"
+    ]
+  },
+  {
+    "id": "recQ4YQuzC7U20psh",
+    "Name": "infrastructure",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public works & infrastructure"
+    ],
+    "Questions_old": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recVJCg5wacJcdLWf"
+    ]
+  },
+  {
     "id": "recQqqKXV7tZV5TZh",
     "Name": "stormwater",
     "Tags": [
@@ -509,6 +554,20 @@
     ]
   },
   {
+    "id": "recWdnRM6FA93ACEx",
+    "Name": "water",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "water"
+    ],
+    "Questions_old": [
+      "recSCHBhioclRnB4e",
+      "recVJCg5wacJcdLWf"
+    ]
+  },
+  {
     "id": "recXpWekkwgzWHRjd",
     "Name": "public ways",
     "Tags": [
@@ -562,6 +621,31 @@
     ],
     "Questions_old": [
       "recXnlUaGH7YhKojJ"
+    ]
+  },
+  {
+    "id": "recqfb8JxzG6zMJoP",
+    "Name": "public service information",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "reclxsJ5NYEQfrPqf"
+    ]
+  },
+  {
+    "id": "recqjX1JeotlsirPA",
+    "Name": "tmua",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public works & infrastructure"
+    ],
+    "Questions_old": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "rec6ZRpr4fjmwghzC"
     ]
   },
   {
@@ -660,6 +744,21 @@
     ],
     "Questions_old": [
       "rec9vdoSWIkpmNyqQ"
+    ]
+  },
+  {
+    "id": "recC80WE0BC0GjA20",
+    "Name": "sewer",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "trash, & waste collection",
+      "water"
+    ],
+    "Questions_old": [
+      "recT81648GjzODKjH",
+      "recVJCg5wacJcdLWf"
     ]
   },
   {
@@ -843,6 +942,38 @@
     ]
   },
   {
+    "id": "rec7DEXH50BvqGg1U",
+    "Name": "asset management",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "administration"
+    ],
+    "Questions_old": [
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI"
+    ]
+  },
+  {
+    "id": "rec8kOYbGZaSstxXv",
+    "Name": "city services",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public works & infrastructure"
+    ],
+    "Questions_old": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recTN3jIPGHHUy6vD",
+      "recVlyZP4UomxvFmt",
+      "recVJCg5wacJcdLWf",
+      "recWIpxaGK2kDJf97"
+    ]
+  },
+  {
     "id": "recaSm0PXLgOmefo6",
     "Name": "sanitation",
     "Tags": [
@@ -920,6 +1051,19 @@
     ],
     "Questions_old": [
       "recXldlsxXNBIKKuI"
+    ]
+  },
+  {
+    "id": "recoJSpwBlG6Tx4G3",
+    "Name": "emsa",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public safety"
+    ],
+    "Questions_old": [
+      "recVlFagseDPRQszI"
     ]
   },
   {
@@ -1039,6 +1183,21 @@
     ]
   },
   {
+    "id": "recP4EVMzwQakaDpC",
+    "Name": "rates",
+    "Tags": [
+      "revenue & spending",
+      "public services"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ],
+    "Questions_old": [
+      "recTN3jIPGHHUy6vD",
+      "recVlFagseDPRQszI"
+    ]
+  },
+  {
     "id": "reca5Zgna7r4QI3JP",
     "Name": "cip",
     "Tags": [
@@ -1110,6 +1269,19 @@
     ]
   },
   {
+    "id": "recu7T4jWaUtbDQ2V",
+    "Name": "income tax",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "taxes"
+    ],
+    "Questions_old": [
+      "rec9DiQE6bgvPShgC"
+    ]
+  },
+  {
     "id": "recQ7YxWailsV4J0j",
     "Name": "borrowing",
     "Tags": [
@@ -1141,6 +1313,20 @@
       "recxjKLYkyFw1NnnS",
       "recxcM5Upbx4WndaZ",
       "recxK1PzqDKissEdI"
+    ]
+  },
+  {
+    "id": "recXrn5bEAziLS5hi",
+    "Name": "ratepayer",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ],
+    "Questions_old": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH"
     ]
   },
   {
@@ -1187,6 +1373,17 @@
       "recQD3cHdUkpehOss",
       "recQHg1Mu9x0oXQG2",
       "rec6ZRpr4fjmwghzC"
+    ]
+  },
+  {
+    "id": "recswu6dyA1AGVmzf",
+    "Name": "debt service",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
     ]
   },
   {
@@ -1254,6 +1451,34 @@
     ]
   },
   {
+    "id": "recFo91PsG77aj1jR",
+    "Name": "program based budget",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "budgeting"
+    ],
+    "Questions_old": [
+      "recpCZ3kufkPeC0nK"
+    ]
+  },
+  {
+    "id": "recGGzf4fV3y01tu7",
+    "Name": "utility rates",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ],
+    "Questions_old": [
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recVlyZP4UomxvFmt"
+    ]
+  },
+  {
     "id": "recHVrvwsN9Bgch79",
     "Name": "state grants",
     "Tags": [
@@ -1284,6 +1509,138 @@
     ]
   },
   {
+    "id": "recNlU5Iz5iBopJ9m",
+    "Name": "budget",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "budgeting"
+    ],
+    "Questions_old": [
+      "recry97y6F66GyYyJ",
+      "rechBQutZZg9QmUND",
+      "reczwTftMoGyQ3UOg",
+      "reco76c0cOfZhPyXW",
+      "recQCE3RbasULoeV1",
+      "recQD3cHdUkpehOss",
+      "recQGAWDHJ84TLDnX",
+      "recQHg1Mu9x0oXQG2",
+      "recS9S4T6LZDwrflb",
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recTN3jIPGHHUy6vD",
+      "recVlyZP4UomxvFmt",
+      "recVlFagseDPRQszI",
+      "recV6UoGoFOWObyZI",
+      "recVJCg5wacJcdLWf",
+      "recWV07zghrnSDPpm",
+      "recWIpxaGK2kDJf97",
+      "recWNTMiXDEsQEsyN",
+      "recXldlsxXNBIKKuI",
+      "recXnlUaGH7YhKojJ",
+      "recYmDVvMvNkbClqk",
+      "recYuen2cG2sfIlyI",
+      "recZTxd0N54AI3X5r",
+      "recZtO4EYdOHfqnJj",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe",
+      "recufBtzaEFzv4ftK",
+      "recu99NhUY4x8xXpA",
+      "recud2YLagZ1EZzC1",
+      "recvilaePrzCVMmK5",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recxLZvEPiZjg20zG",
+      "recy4rZrUhHQdcIL5",
+      "reczkzp9ZGODuisBh",
+      "recA2UfWNMZBSBsiG",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd",
+      "recGcNHgB3IHCgMKb",
+      "recGtebHqHpJpCtNX",
+      "recGxgZPrIGnbfVpN",
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn",
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "recKJ4S0STBIsuvQe",
+      "recL2x9cGL37B7U64",
+      "recL8Z00hfsaXFeWj",
+      "recMMX0nRONZLVn4g",
+      "recO4k4yCl1Ac5X9M",
+      "recOBqTr0OrNwdhmy",
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0",
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ",
+      "rec4TkBXyyRkv413m",
+      "rec5iD61dCE5Kunci",
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn",
+      "rec6ZRpr4fjmwghzC",
+      "rec76WwN5DkLrKYTn",
+      "rec8DfOnx8RTRaC5Y",
+      "rec9TsEtLa35xLFjt",
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G",
+      "recceKMCT94saVYJL",
+      "recdfXbSjevbdK5WI",
+      "recdPsToTKmkuuOTr",
+      "recdQZ2HMfoofaLNJ",
+      "recdq7r4b4bnBfxin",
+      "recfTA0zRomm1jZVn",
+      "recfUJbm3jkzcBHHE",
+      "recgc4rrZuimM9DPz",
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx",
+      "reciGeZ8fhDlIdZKr",
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v",
+      "reckiIh36zRZ9SZMW",
+      "reckFxi9PRVkXc2bE",
+      "recli69VgyVeee4v3",
+      "reclWdJBU2jotf6WA",
+      "recl74UGhV1dcw0Wz",
+      "reclxsJ5NYEQfrPqf",
+      "recmhBkz9YTKuIHhX",
+      "recmOG09FMJ8dtjEr",
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka",
+      "recpmTFZFCzABjxAN"
+    ]
+  },
+  {
     "id": "recNbV0kB3L2VPCAA",
     "Name": "finance",
     "Tags": [
@@ -1303,6 +1660,31 @@
     ],
     "Questions_old": [
       "recFbQt2VYKYSw9zQ"
+    ]
+  },
+  {
+    "id": "rec49m6RsxVRmpzkl",
+    "Name": "revenue",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "spending"
+    ],
+    "Questions_old": [
+      "recQD3cHdUkpehOss",
+      "recud2YLagZ1EZzC1",
+      "recvilaePrzCVMmK5",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41"
     ]
   },
   {
@@ -1337,6 +1719,19 @@
     ]
   },
   {
+    "id": "reccm8jum85mxl4b2",
+    "Name": "rate",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "pay my bills, fines, & fees"
+    ],
+    "Questions_old": [
+      "recSCHBhioclRnB4e"
+    ]
+  },
+  {
     "id": "recfP45qdDq2WHR4k",
     "Name": "grants",
     "Tags": [
@@ -1345,6 +1740,17 @@
     "Questions_old": [
       "recjUKapkhmNZG9YT",
       "recj0DvIUir6yWt3Z"
+    ]
+  },
+  {
+    "id": "recgTWazARLYOpVkS",
+    "Name": "credit",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions_old": [
+      "recvilaePrzCVMmK5",
+      "recoSzoMTnKYitHpq"
     ]
   },
   {
@@ -1448,6 +1854,19 @@
     ]
   },
   {
+    "id": "recSbuqxDsTNwX9nh",
+    "Name": "communications department",
+    "Tags": [
+      "city gov & policy process",
+      "public services"
+    ],
+    "Questions_old": [
+      "reclxsJ5NYEQfrPqf",
+      "recmhBkz9YTKuIHhX",
+      "recmOG09FMJ8dtjEr"
+    ]
+  },
+  {
     "id": "recTs6J3JFZFlL2Xb",
     "Name": "parks and recreations",
     "Tags": [
@@ -1518,6 +1937,19 @@
       "recK9dnS7jN7DTWVe",
       "recKtBhBMosVd66cH",
       "recKJ4S0STBIsuvQe"
+    ]
+  },
+  {
+    "id": "rechspLKvrZieUeO6",
+    "Name": "information technology",
+    "Tags": [
+      "city gov & policy process",
+      "public services"
+    ],
+    "Questions_old": [
+      "reckiIh36zRZ9SZMW",
+      "reckFxi9PRVkXc2bE",
+      "recpmTFZFCzABjxAN"
     ]
   },
   {
@@ -1640,6 +2072,18 @@
     ]
   },
   {
+    "id": "rec1u8SbNYk22AtgS",
+    "Name": "general obligation",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recoSzoMTnKYitHpq",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
+    ]
+  },
+  {
     "id": "rec7ES4m8MO22n4gf",
     "Name": "attorney",
     "Tags": [
@@ -1700,6 +2144,47 @@
     ],
     "Questions_old": [
       "recQCE3RbasULoeV1"
+    ]
+  },
+  {
+    "id": "recnOWL9qFDNEHXtK",
+    "Name": "facilities",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY"
+    ]
+  },
+  {
+    "id": "recoDDlneXkTqmNsT",
+    "Name": "personnel",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "Questions_old": [
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKJ4S0STBIsuvQe",
+      "recMMX0nRONZLVn4g",
+      "rec0ESomB1UfxjSa4",
+      "rec5iD61dCE5Kunci",
+      "rec76WwN5DkLrKYTn",
+      "rec9TsEtLa35xLFjt",
+      "recceuVuSAMHfGq4G",
+      "recdPsToTKmkuuOTr",
+      "recdq7r4b4bnBfxin",
+      "recgc4rrZuimM9DPz",
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx",
+      "reciGeZ8fhDlIdZKr",
+      "reckFxi9PRVkXc2bE",
+      "recl74UGhV1dcw0Wz",
+      "recmOG09FMJ8dtjEr",
+      "recnB8GGSUUevScdY",
+      "recpmTFZFCzABjxAN"
     ]
   },
   {
@@ -2053,6 +2538,163 @@
     ]
   },
   {
+    "id": "recxdOAhjRYEtGBIR",
+    "Name": "authority",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governance & administration"
+    ],
+    "Questions_old": [
+      "recO99bFUuIOWT8Fc",
+      "reclGjy18Ovhszv3Y",
+      "recZs9CHqvBvKgwrm",
+      "recUs51nsxk0gsqTN",
+      "reckS1G1iXA8aa7QN",
+      "recl88C1qi94azDuA",
+      "recW8BI6yobVdgGbs",
+      "recEBvpqZlB2vO3Aj",
+      "reciZl4VQxFZ5Pw3T",
+      "recWcMxNuRrmjrQcC",
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recDI9C1Q4m6rxeUS",
+      "rec6AKLn5Mx88NOwM",
+      "rec2k8EIZMHW2OMh6",
+      "recCESevPNO9OvkIe",
+      "recOZcthnnGwf2z2t",
+      "reclF9NgSrsJW92dI",
+      "recDctKj7bLVOerpI",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4",
+      "recJWCqMOuLqKvqWZ",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf",
+      "recZXSJ48gtJvgOqH",
+      "recK9xOfnsH7vmB5o",
+      "recNRksASdLTkDi8Y",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "recUOJwJNzbczRXpT",
+      "recRlMXr3TV1Beksw",
+      "recuorLyU9kZV7L79",
+      "recynY04rPrmnQNFl",
+      "recH07oybWsE7eMPV",
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "recaXKwMMOfVhGt2t",
+      "rechMDG6OW5MTfQ2v",
+      "recko8jYikd4mw1yx"
+    ],
+    "Questions": [
+      "rec4pX9kHFNmS1NpQ",
+      "recZpTy0JHwRodHRh",
+      "recpPPdEz7MZiVoOh",
+      "recq5W9EHslVikUs4",
+      "rec15pfJPynMl1X9W",
+      "recJyjW3gvNTDzkyN",
+      "recnW9By7HRQdAN1n",
+      "rec19A4qL1Ddrc7a6",
+      "rechQA8rvXHXISFh2",
+      "rec8dJ2DJyxY9UTGK",
+      "receT1bJaQ85jTJkX",
+      "recT9LzcnQau9F8yn",
+      "recgsD7FTLAPRdtda",
+      "reccKNrXkFZuRcUOg",
+      "recIFX9E7eyXzivSm",
+      "recbxyi0mWJZgy5ug",
+      "rec7hWblgWTNaz3fA",
+      "recHBGL86X00WgBGI",
+      "recTW00UExSnnNQ0X",
+      "recqCXkT9BEA4Ujbc",
+      "recI9hhWolXMWZInc",
+      "recJhuEB9AzgYUC2c",
+      "recEzaBNMAdt0bQ2c",
+      "recEbVluDWBTk6MvJ",
+      "recsc2NopBFYEIkTO",
+      "recrjcT3yucDREUEy",
+      "recOTqXp5EXhSgHUt",
+      "recP08q8Yh5pUYflk",
+      "recERNwzNdC56lbWJ",
+      "recZLx3m4Jn3HCenn",
+      "recWiAu4k37SJZBq0",
+      "rec4UGgHpqFAD15ob",
+      "reczlfibbjwQ3S25D",
+      "recDkMxHIZDdvB4DP",
+      "recMXVVbs6EvfZ3Np",
+      "recP6llSECTYD7S3S",
+      "recSO8Zd9nXKsoz6s",
+      "recaYdpy5HJv6k7Fc",
+      "recbENlHSBN2mY7PH",
+      "recfUy3p3YrMprK0X",
+      "reciTexjhvBkkbOf4",
+      "recmIOjo0jIXMLMsS",
+      "recmJrdJ56hD1070Z",
+      "recplWQBzupVuhiw1"
+    ],
+    "NewTags": [
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process"
+    ]
+  },
+  {
     "id": "rec6jAl0sv1feJZPs",
     "Name": "policy enforcement",
     "Tags": [
@@ -2318,6 +2960,40 @@
     ]
   },
   {
+    "id": "recqFxYA8XapFzThA",
+    "Name": "debt",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "debt"
+    ],
+    "Questions_old": [
+      "recW8BI6yobVdgGbs",
+      "recWNTMiXDEsQEsyN",
+      "recvilaePrzCVMmK5",
+      "recvvmNNOQJEevlCw",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recFbQt2VYKYSw9zQ",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka"
+    ],
+    "Questions": [
+      "rec15pfJPynMl1X9W"
+    ],
+    "NewTags": [
+      "governance process"
+    ]
+  },
+  {
     "id": "recygMhYSJxEH8g89",
     "Name": "spending",
     "Tags": [
@@ -2476,165 +3152,6 @@
       "recq5W9EHslVikUs4"
     ],
     "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recxdOAhjRYEtGBIR",
-    "Name": "authority",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governance & administration"
-    ],
-    "Questions_old": [
-      "recO99bFUuIOWT8Fc",
-      "reclGjy18Ovhszv3Y",
-      "recZs9CHqvBvKgwrm",
-      "recUs51nsxk0gsqTN",
-      "reckS1G1iXA8aa7QN",
-      "recl88C1qi94azDuA",
-      "recW8BI6yobVdgGbs",
-      "recEBvpqZlB2vO3Aj",
-      "reciZl4VQxFZ5Pw3T",
-      "recWcMxNuRrmjrQcC",
-      "reccTMBOeNv6A7ojy",
-      "rec3gVv0sol719CIg",
-      "rec9WdE6TGWeb8smt",
-      "recOcX2z6GYD1URAT",
-      "recbvPA2CBoYJscfG",
-      "rec7NZUk3vNDJrDQM",
-      "recDI9C1Q4m6rxeUS",
-      "rec6AKLn5Mx88NOwM",
-      "rec2k8EIZMHW2OMh6",
-      "recCESevPNO9OvkIe",
-      "recOZcthnnGwf2z2t",
-      "reclF9NgSrsJW92dI",
-      "recDctKj7bLVOerpI",
-      "recEkG7YSqnpQ9l4I",
-      "reczCm4avq1CSqz4I",
-      "recze7ORmMp2clvxf",
-      "recnfegL8rt7wX3Vk",
-      "recmmomqhk0MJTDG4",
-      "recJWCqMOuLqKvqWZ",
-      "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf",
-      "recZXSJ48gtJvgOqH",
-      "recK9xOfnsH7vmB5o",
-      "recNRksASdLTkDi8Y",
-      "recdWq0G0lptcqxhA",
-      "rechL0MLJ9w6E0vuo",
-      "recUOJwJNzbczRXpT",
-      "recRlMXr3TV1Beksw",
-      "recuorLyU9kZV7L79",
-      "recynY04rPrmnQNFl",
-      "recH07oybWsE7eMPV",
-      "rec51pSVOxxEYzQHI",
-      "rec6HZO4BrBbedQRd",
-      "recaXKwMMOfVhGt2t",
-      "rechMDG6OW5MTfQ2v",
-      "recko8jYikd4mw1yx"
-    ],
-    "Questions": [
-      "recqD75EpYH8AkM1s",
-      "rec4pX9kHFNmS1NpQ",
-      "recZpTy0JHwRodHRh",
-      "recpPPdEz7MZiVoOh",
-      "recq5W9EHslVikUs4",
-      "rec15pfJPynMl1X9W",
-      "recJyjW3gvNTDzkyN",
-      "recnW9By7HRQdAN1n",
-      "rec19A4qL1Ddrc7a6",
-      "rechQA8rvXHXISFh2",
-      "rec8dJ2DJyxY9UTGK",
-      "receT1bJaQ85jTJkX",
-      "recT9LzcnQau9F8yn",
-      "recgsD7FTLAPRdtda",
-      "reccKNrXkFZuRcUOg",
-      "recIFX9E7eyXzivSm",
-      "recbxyi0mWJZgy5ug",
-      "rec7hWblgWTNaz3fA",
-      "recHBGL86X00WgBGI",
-      "recTW00UExSnnNQ0X",
-      "recqCXkT9BEA4Ujbc",
-      "recI9hhWolXMWZInc",
-      "recJhuEB9AzgYUC2c",
-      "recEzaBNMAdt0bQ2c",
-      "recEbVluDWBTk6MvJ",
-      "recsc2NopBFYEIkTO",
-      "recrjcT3yucDREUEy",
-      "recOTqXp5EXhSgHUt",
-      "recP08q8Yh5pUYflk",
-      "recERNwzNdC56lbWJ",
-      "recZLx3m4Jn3HCenn",
-      "recWiAu4k37SJZBq0",
-      "rec4UGgHpqFAD15ob",
-      "reczlfibbjwQ3S25D",
-      "recDkMxHIZDdvB4DP",
-      "recMXVVbs6EvfZ3Np",
-      "recP6llSECTYD7S3S",
-      "recSO8Zd9nXKsoz6s",
-      "recaYdpy5HJv6k7Fc",
-      "recbENlHSBN2mY7PH",
-      "recfUy3p3YrMprK0X",
-      "reciTexjhvBkkbOf4",
-      "recmIOjo0jIXMLMsS",
-      "recmJrdJ56hD1070Z",
-      "recplWQBzupVuhiw1"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
       "governance process"
     ]
   },
@@ -2937,25 +3454,6 @@
     ]
   },
   {
-    "id": "recFo91PsG77aj1jR",
-    "Name": "program based budget",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "budgeting"
-    ],
-    "Questions_old": [
-      "recpCZ3kufkPeC0nK"
-    ],
-    "Questions": [
-      "recuzNAXLpwGmnhle"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
     "id": "receacjDdXCI7IGXt",
     "Name": "subpoena",
     "Tags": [
@@ -3030,6 +3528,105 @@
     "NewTags": [
       "accessing tulsa",
       "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recBTeDboTe5vDD9l",
+    "Name": "tare",
+    "Tags": [
+      "public services"
+    ],
+    "Questions_old": [
+      "rec6ZRpr4fjmwghzC"
+    ],
+    "Questions": [
+      "rec6LRo20sasivYGs",
+      "recM1UFoS5OrSPXXt"
+    ],
+    "NewTags": [
+      "accessing tulsa",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recws8bLQ6cyFvH6B",
+    "Name": "refuse",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "trash, & waste collection"
+    ],
+    "Questions": [
+      "rec6LRo20sasivYGs",
+      "recM1UFoS5OrSPXXt"
+    ],
+    "NewTags": [
+      "accessing tulsa",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "reck1kwu0Ax8s2U3s",
+    "Name": "public works",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public works & infrastructure",
+      "how do i"
+    ],
+    "Questions": [
+      "rec6LRo20sasivYGs",
+      "recM1UFoS5OrSPXXt"
+    ],
+    "NewTags": [
+      "accessing tulsa",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "recSaB0ugjsBczpUQ",
+    "Name": "win",
+    "Tags": [
+      "city gov & policy process",
+      "public services"
+    ],
+    "Questions_old": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ],
+    "Questions": [
+      "rec6LRo20sasivYGs",
+      "recM1UFoS5OrSPXXt"
+    ],
+    "NewTags": [
+      "accessing tulsa",
+      "accessing tulsa"
+    ]
+  },
+  {
+    "id": "rechGKl53YLEWSFKy",
+    "Name": "working in neighborhoods",
+    "Tags": [
+      "city gov & policy process",
+      "public services"
+    ],
+    "Questions_old": [
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4"
+    ],
+    "Questions": [
+      "rec6LRo20sasivYGs",
+      "recM1UFoS5OrSPXXt"
+    ],
+    "NewTags": [
       "accessing tulsa",
       "accessing tulsa"
     ]
@@ -3165,7 +3762,10 @@
       "recY5PDHpQvqWo1hb",
       "recYKRQl6QTy2jnt7",
       "rec0imwsl4AdFgWkX",
-      "rec0itHTJoPGZBJxc"
+      "rec0itHTJoPGZBJxc",
+      "recJr9JJWxjSVkEIC",
+      "recrQofXv9pfxknWX",
+      "recijrAotbr9UfEfV"
     ],
     "NewTags": [
       "accessing tulsa",
@@ -3175,113 +3775,7 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recBTeDboTe5vDD9l",
-    "Name": "tare",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "rec6ZRpr4fjmwghzC"
-    ],
-    "Questions": [
-      "rec638d4hB1GBsyyw",
-      "rec6LRo20sasivYGs",
-      "recM1UFoS5OrSPXXt"
-    ],
-    "NewTags": [
       "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recws8bLQ6cyFvH6B",
-    "Name": "refuse",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "trash, & waste collection"
-    ],
-    "Questions": [
-      "rec638d4hB1GBsyyw",
-      "rec6LRo20sasivYGs",
-      "recM1UFoS5OrSPXXt"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "reck1kwu0Ax8s2U3s",
-    "Name": "public works",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "public works & infrastructure",
-      "how do i"
-    ],
-    "Questions": [
-      "rec638d4hB1GBsyyw",
-      "rec6LRo20sasivYGs",
-      "recM1UFoS5OrSPXXt"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recSaB0ugjsBczpUQ",
-    "Name": "win",
-    "Tags": [
-      "city gov & policy process",
-      "public services"
-    ],
-    "Questions_old": [
-      "recPXf3mqCRcxeOvI",
-      "rec0drBzLM7ddY9kM",
-      "rec0ANQtPJ9y15x9c",
-      "rec0ESomB1UfxjSa4"
-    ],
-    "Questions": [
-      "rec638d4hB1GBsyyw",
-      "rec6LRo20sasivYGs",
-      "recM1UFoS5OrSPXXt"
-    ],
-    "NewTags": [
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "rechGKl53YLEWSFKy",
-    "Name": "working in neighborhoods",
-    "Tags": [
-      "city gov & policy process",
-      "public services"
-    ],
-    "Questions_old": [
-      "recPXf3mqCRcxeOvI",
-      "rec0drBzLM7ddY9kM",
-      "rec0ANQtPJ9y15x9c",
-      "rec0ESomB1UfxjSa4"
-    ],
-    "Questions": [
-      "rec638d4hB1GBsyyw",
-      "rec6LRo20sasivYGs",
-      "recM1UFoS5OrSPXXt"
-    ],
-    "NewTags": [
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
@@ -3294,9 +3788,11 @@
       "recWqw0tDxDtthVtm",
       "rec8hwMCqZbVhtirp",
       "recl9bAOW2diBS2EB",
-      "recocZNwmoAtpvzGA"
+      "recocZNwmoAtpvzGA",
+      "rec638d4hB1GBsyyw"
     ],
     "NewTags": [
+      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
@@ -3609,7 +4105,6 @@
       "rec9gnsbyLJA9OXN5",
       "recd73crvkSwsZu19",
       "recAPXs5A94TmKxCN",
-      "rec638d4hB1GBsyyw",
       "rec6LRo20sasivYGs",
       "recM1UFoS5OrSPXXt",
       "recBeu2kRrxU0TKQm"
@@ -3623,7 +4118,6 @@
       "accessing tulsa",
       "accessing tulsa",
       "law & justice",
-      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
@@ -3842,18 +4336,24 @@
     ]
   },
   {
-    "id": "recqfb8JxzG6zMJoP",
-    "Name": "public service information",
-    "Tags": [
-      "public services"
-    ],
-    "Questions_old": [
-      "reclxsJ5NYEQfrPqf"
-    ],
+    "id": "rectKJW7zUGI0SBBF",
+    "Name": "funding municipal courts",
     "Questions": [
-      "recquggI48QHnc6oJ"
+      "recLu4wsISSej0cnh"
     ],
     "NewTags": [
+      "public finance"
+    ]
+  },
+  {
+    "id": "rec9AcMTrZV4dGk60",
+    "Name": "governing transportation",
+    "Questions": [
+      "reces1VvdSwguyPok",
+      "recs3CiyjdTjhvcrG"
+    ],
+    "NewTags": [
+      "governance process",
       "governance process"
     ]
   },
@@ -3868,52 +4368,7 @@
       "reclxsJ5NYEQfrPqf"
     ],
     "Questions": [
-      "recquggI48QHnc6oJ",
       "reckA9BJY7gm6wJSw"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recSbuqxDsTNwX9nh",
-    "Name": "communications department",
-    "Tags": [
-      "city gov & policy process",
-      "public services"
-    ],
-    "Questions_old": [
-      "reclxsJ5NYEQfrPqf",
-      "recmhBkz9YTKuIHhX",
-      "recmOG09FMJ8dtjEr"
-    ],
-    "Questions": [
-      "recquggI48QHnc6oJ",
-      "recrepRcq85BCtYfr",
-      "recrLuxMWWVZleACV"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "rectKJW7zUGI0SBBF",
-    "Name": "funding municipal courts",
-    "Questions": [
-      "recLu4wsISSej0cnh"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec9AcMTrZV4dGk60",
-    "Name": "governing transportation",
-    "Questions": [
-      "reces1VvdSwguyPok"
     ],
     "NewTags": [
       "governance process"
@@ -3927,789 +4382,6 @@
     ],
     "NewTags": [
       "governance process"
-    ]
-  },
-  {
-    "id": "rechspLKvrZieUeO6",
-    "Name": "information technology",
-    "Tags": [
-      "city gov & policy process",
-      "public services"
-    ],
-    "Questions_old": [
-      "reckiIh36zRZ9SZMW",
-      "reckFxi9PRVkXc2bE",
-      "recpmTFZFCzABjxAN"
-    ],
-    "Questions": [
-      "recpClPM617b5Xj98",
-      "recujHcCWMLrJ4Oyh"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recoDDlneXkTqmNsT",
-    "Name": "personnel",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recHonCx88RCZvJjg",
-      "recIf8GWuDZiXM8Zm",
-      "recKJ4S0STBIsuvQe",
-      "recMMX0nRONZLVn4g",
-      "rec0ESomB1UfxjSa4",
-      "rec5iD61dCE5Kunci",
-      "rec76WwN5DkLrKYTn",
-      "rec9TsEtLa35xLFjt",
-      "recceuVuSAMHfGq4G",
-      "recdPsToTKmkuuOTr",
-      "recdq7r4b4bnBfxin",
-      "recgc4rrZuimM9DPz",
-      "recgNSfJz2kcfQPac",
-      "rechLWcPVPsfJVePx",
-      "reciGeZ8fhDlIdZKr",
-      "reckFxi9PRVkXc2bE",
-      "recl74UGhV1dcw0Wz",
-      "recmOG09FMJ8dtjEr",
-      "recnB8GGSUUevScdY",
-      "recpmTFZFCzABjxAN"
-    ],
-    "Questions": [
-      "recpClPM617b5Xj98",
-      "recq4Srjy5d4khhU3",
-      "recrLuxMWWVZleACV",
-      "recsyWdj9465DDtbs",
-      "recujHcCWMLrJ4Oyh"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recNlU5Iz5iBopJ9m",
-    "Name": "budget",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "budgeting"
-    ],
-    "Questions_old": [
-      "recry97y6F66GyYyJ",
-      "rechBQutZZg9QmUND",
-      "reczwTftMoGyQ3UOg",
-      "reco76c0cOfZhPyXW",
-      "recQCE3RbasULoeV1",
-      "recQD3cHdUkpehOss",
-      "recQGAWDHJ84TLDnX",
-      "recQHg1Mu9x0oXQG2",
-      "recS9S4T6LZDwrflb",
-      "recSCHBhioclRnB4e",
-      "recT81648GjzODKjH",
-      "recTN3jIPGHHUy6vD",
-      "recVlyZP4UomxvFmt",
-      "recVlFagseDPRQszI",
-      "recV6UoGoFOWObyZI",
-      "recVJCg5wacJcdLWf",
-      "recWV07zghrnSDPpm",
-      "recWIpxaGK2kDJf97",
-      "recWNTMiXDEsQEsyN",
-      "recXldlsxXNBIKKuI",
-      "recXnlUaGH7YhKojJ",
-      "recYmDVvMvNkbClqk",
-      "recYuen2cG2sfIlyI",
-      "recZTxd0N54AI3X5r",
-      "recZtO4EYdOHfqnJj",
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "rectMeVTjfwp8ZMRe",
-      "recufBtzaEFzv4ftK",
-      "recu99NhUY4x8xXpA",
-      "recud2YLagZ1EZzC1",
-      "recvilaePrzCVMmK5",
-      "recvvmNNOQJEevlCw",
-      "recwO2YKhEepKdNhh",
-      "recwXYrHBefA4mwhW",
-      "recwKIBBRgFDtycbF",
-      "recxjKLYkyFw1NnnS",
-      "recxcM5Upbx4WndaZ",
-      "recxK1PzqDKissEdI",
-      "recxLZvEPiZjg20zG",
-      "recy4rZrUhHQdcIL5",
-      "reczkzp9ZGODuisBh",
-      "recA2UfWNMZBSBsiG",
-      "recACPg1z2tHA5mX1",
-      "recAEKSQ88TBxLYPI",
-      "recANicclNKlovocB",
-      "recDTCprgTaM1imd6",
-      "recFkQ2lYwBO2Qkhx",
-      "recFX7o8wiwVpZWZN",
-      "recFbQt2VYKYSw9zQ",
-      "recFL3FlWVMJk9Gfd",
-      "recGcNHgB3IHCgMKb",
-      "recGtebHqHpJpCtNX",
-      "recGxgZPrIGnbfVpN",
-      "recHonCx88RCZvJjg",
-      "recIf8GWuDZiXM8Zm",
-      "recKipbBvdSjKl2oq",
-      "recKl66kI6lgWg0hn",
-      "recK9rBi14380eUVm",
-      "recK9dnS7jN7DTWVe",
-      "recKtBhBMosVd66cH",
-      "recKJ4S0STBIsuvQe",
-      "recL2x9cGL37B7U64",
-      "recL8Z00hfsaXFeWj",
-      "recMMX0nRONZLVn4g",
-      "recO4k4yCl1Ac5X9M",
-      "recOBqTr0OrNwdhmy",
-      "recPXf3mqCRcxeOvI",
-      "rec0drBzLM7ddY9kM",
-      "rec0ANQtPJ9y15x9c",
-      "rec0ESomB1UfxjSa4",
-      "rec0G1iYCI2QIPWo3",
-      "rec1kcTvU774oMhKX",
-      "rec2a3u9lnxJtKue0",
-      "rec3atOAVAHQYLHom",
-      "rec3rWe2XFCKKQObZ",
-      "rec4TkBXyyRkv413m",
-      "rec5iD61dCE5Kunci",
-      "rec51QoLX9u8RYShS",
-      "rec6nNmiaGyB01Stn",
-      "rec6ZRpr4fjmwghzC",
-      "rec76WwN5DkLrKYTn",
-      "rec8DfOnx8RTRaC5Y",
-      "rec9TsEtLa35xLFjt",
-      "recbLSfcufd73dktE",
-      "recceuVuSAMHfGq4G",
-      "recceKMCT94saVYJL",
-      "recdfXbSjevbdK5WI",
-      "recdPsToTKmkuuOTr",
-      "recdQZ2HMfoofaLNJ",
-      "recdq7r4b4bnBfxin",
-      "recfTA0zRomm1jZVn",
-      "recfUJbm3jkzcBHHE",
-      "recgc4rrZuimM9DPz",
-      "recgNSfJz2kcfQPac",
-      "rechLWcPVPsfJVePx",
-      "reciGeZ8fhDlIdZKr",
-      "recjUKapkhmNZG9YT",
-      "recj0DvIUir6yWt3Z",
-      "recj4ytRm52vnNOM1",
-      "recjbN81VjFtjqC4j",
-      "recjr0uD1UuLfSP2v",
-      "reckiIh36zRZ9SZMW",
-      "reckFxi9PRVkXc2bE",
-      "recli69VgyVeee4v3",
-      "reclWdJBU2jotf6WA",
-      "recl74UGhV1dcw0Wz",
-      "reclxsJ5NYEQfrPqf",
-      "recmhBkz9YTKuIHhX",
-      "recmOG09FMJ8dtjEr",
-      "recn6OLV23Hs9KVtc",
-      "recn7qT95nqmlDcVI",
-      "recnB8GGSUUevScdY",
-      "recoSzoMTnKYitHpq",
-      "recoWX7DuNbZNLZ41",
-      "recoA5Y1FTvxxbvQt",
-      "recoMweAwoTYzruka",
-      "recpmTFZFCzABjxAN"
-    ],
-    "Questions": [
-      "recpClPM617b5Xj98",
-      "recqfUGyxI75mZltx",
-      "recqT1gebcvfB0nU4",
-      "recq4Srjy5d4khhU3",
-      "recquggI48QHnc6oJ",
-      "recrepRcq85BCtYfr",
-      "recrLuxMWWVZleACV",
-      "recs3CiyjdTjhvcrG",
-      "recs4eqMmxCdtotTc",
-      "recsyWdj9465DDtbs",
-      "rectPnVpaxWPqeYnU",
-      "rectTLEgLXnQVwg2v",
-      "rectxTvEW3HoFWMOX",
-      "rectJkLdNy5PHcLiE",
-      "recujHcCWMLrJ4Oyh",
-      "recrQofXv9pfxknWX",
-      "recJr9JJWxjSVkEIC",
-      "recijrAotbr9UfEfV"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "public finance",
-      "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recdoCgCxV6RbWD0L",
-    "Name": "tulsa",
-    "Tags": [
-      "places & events"
-    ],
-    "MegaName": [
-      "tulsa"
-    ],
-    "Questions_old": [
-      "rec4cV0uZuW1I6tWF",
-      "recWcMxNuRrmjrQcC",
-      "rec4WnsrbE3WjjKIZ",
-      "recwPqzzGCjWLKXoP",
-      "recQ4Z9ieO76kxkMi",
-      "reca3D137tucbTiuV",
-      "recU7zzXDyx9CDJrS",
-      "recoXdSTcYeBgaFQ1",
-      "recKUtQmqzyICt2px",
-      "recUgUnXQxPXkyOPy",
-      "recXMslOU9IVA9375",
-      "recIFNsGqXbgngSEq",
-      "recI3uF7NibyH8ZRH",
-      "rec4tJc3UgHGkzDvB",
-      "reccTMBOeNv6A7ojy",
-      "rec3gVv0sol719CIg",
-      "rec9WdE6TGWeb8smt",
-      "recOcX2z6GYD1URAT",
-      "recbvPA2CBoYJscfG",
-      "rec7NZUk3vNDJrDQM",
-      "recDI9C1Q4m6rxeUS",
-      "rec6AKLn5Mx88NOwM",
-      "rec2k8EIZMHW2OMh6",
-      "recCESevPNO9OvkIe",
-      "recOZcthnnGwf2z2t",
-      "reclF9NgSrsJW92dI",
-      "recDctKj7bLVOerpI",
-      "recEkG7YSqnpQ9l4I",
-      "reczCm4avq1CSqz4I",
-      "recze7ORmMp2clvxf",
-      "recnfegL8rt7wX3Vk",
-      "recmmomqhk0MJTDG4",
-      "recYGrUyBXjHPoqep",
-      "recaQLFDJyoC7IIgF",
-      "recq94IbAD8EnVIHN",
-      "recFLeOGgaR9kA2Sd",
-      "recdgthAZOpFRVa69",
-      "recns6Po19HmY0oyc",
-      "recOmyIu0QxBEQqgV",
-      "recg0ixkhBeUqQVej",
-      "recXs1flaptEVIw6G",
-      "recfjeXv4Ol0a6SKJ",
-      "rec1ytzgav73eUXOD",
-      "rec8FmPSfA9S4pcre",
-      "recpZT3q1xsg1ueCk",
-      "rec1VN6atVxRUlmnT",
-      "recfNuLpuMTv1mcF2",
-      "reckKaWp4EkNwUJDr",
-      "recGYfeKeg1n83sq4",
-      "recJ0UrR0XFC2qPfG",
-      "rec1ymuI0SzKyUk6F",
-      "reckwtnIsWpDL1fgX",
-      "recJzAooe967Ct1xJ",
-      "recZHpStuZfLdBWcV",
-      "recaeurItpV3zCf38",
-      "recI4GTiCISyRF6VD",
-      "recEQZOozsoC3Cj7W",
-      "recuDxASxgBKeY728",
-      "recOqf3VDixaaq1es",
-      "recfDl46HX4vYLsU2",
-      "recvpitaSSSVzoI73",
-      "reclq0b7jcBkQT7Ay",
-      "recNdX8y3jgzE5uBD",
-      "recYJpTO43OKiz8gD",
-      "recWNHr3FIOHpEz9f",
-      "recLWuW1Pd9GAC7So",
-      "recs7sGDHP8jrTAkC",
-      "recJWCqMOuLqKvqWZ",
-      "rec1ds5meCdh84sx3",
-      "rec3Jn0DlrFfUHiOy",
-      "recGKUTEcX6hXBJUv",
-      "rec2t2g8O4cKwQnSa",
-      "rec8MDgogQxyQd72T",
-      "recJTBtPNNCOkfttt",
-      "recfT87Zh1Ku5lapV",
-      "recngl4yrD4mYhHOu",
-      "recP19FQxiRhGq9jq",
-      "recT2hPeqmUfQsHqy",
-      "recK3kTvH7TyMdYnQ",
-      "reczUZZWw3qeYAUYf",
-      "recZXSJ48gtJvgOqH",
-      "recK9xOfnsH7vmB5o",
-      "recNRksASdLTkDi8Y",
-      "rec8XeueSO3E5ZOVA",
-      "recdWq0G0lptcqxhA",
-      "rechL0MLJ9w6E0vuo",
-      "recUOJwJNzbczRXpT",
-      "recQzBzYvxnoI3suZ",
-      "recRlMXr3TV1Beksw",
-      "recuorLyU9kZV7L79",
-      "recynY04rPrmnQNFl",
-      "recH07oybWsE7eMPV",
-      "rec51pSVOxxEYzQHI",
-      "rec6HZO4BrBbedQRd",
-      "rec8UQ0uUqs2KII6H",
-      "recaXKwMMOfVhGt2t",
-      "rechMDG6OW5MTfQ2v",
-      "recko8jYikd4mw1yx",
-      "recnIif0ZJsNCel53",
-      "rec8KDL9gKmho2qUK",
-      "recry97y6F66GyYyJ",
-      "rechBQutZZg9QmUND",
-      "reczwTftMoGyQ3UOg",
-      "reco76c0cOfZhPyXW",
-      "recQCE3RbasULoeV1",
-      "recQD3cHdUkpehOss",
-      "recQGAWDHJ84TLDnX",
-      "recQHg1Mu9x0oXQG2",
-      "recS9S4T6LZDwrflb",
-      "recSCHBhioclRnB4e",
-      "recT81648GjzODKjH",
-      "recTN3jIPGHHUy6vD",
-      "recVlyZP4UomxvFmt",
-      "recVlFagseDPRQszI",
-      "recV6UoGoFOWObyZI",
-      "recVJCg5wacJcdLWf",
-      "recWV07zghrnSDPpm",
-      "recWIpxaGK2kDJf97",
-      "recWNTMiXDEsQEsyN",
-      "recXldlsxXNBIKKuI",
-      "recXnlUaGH7YhKojJ",
-      "recYmDVvMvNkbClqk",
-      "recYuen2cG2sfIlyI",
-      "recZTxd0N54AI3X5r",
-      "recZtO4EYdOHfqnJj",
-      "recq4Pp5napGsXuL0",
-      "recsqdgGmaCPtaCZW",
-      "rectTmI1BQ33BAmnH",
-      "rectIbKoQIFSWG6Fm",
-      "rectMeVTjfwp8ZMRe",
-      "recufBtzaEFzv4ftK",
-      "recu99NhUY4x8xXpA",
-      "recud2YLagZ1EZzC1",
-      "recvilaePrzCVMmK5",
-      "recvvmNNOQJEevlCw",
-      "recwO2YKhEepKdNhh",
-      "recwXYrHBefA4mwhW",
-      "recwKIBBRgFDtycbF",
-      "recxjKLYkyFw1NnnS",
-      "recxcM5Upbx4WndaZ",
-      "recxK1PzqDKissEdI",
-      "recxLZvEPiZjg20zG",
-      "recy4rZrUhHQdcIL5",
-      "reczkzp9ZGODuisBh",
-      "recA2UfWNMZBSBsiG",
-      "recACPg1z2tHA5mX1",
-      "recAEKSQ88TBxLYPI",
-      "recANicclNKlovocB",
-      "recDTCprgTaM1imd6",
-      "recFkQ2lYwBO2Qkhx",
-      "recFX7o8wiwVpZWZN",
-      "recFbQt2VYKYSw9zQ",
-      "recFL3FlWVMJk9Gfd",
-      "recGcNHgB3IHCgMKb",
-      "recGtebHqHpJpCtNX",
-      "recGxgZPrIGnbfVpN",
-      "recHonCx88RCZvJjg",
-      "recIf8GWuDZiXM8Zm",
-      "recKipbBvdSjKl2oq",
-      "recKl66kI6lgWg0hn",
-      "recK9rBi14380eUVm",
-      "recK9dnS7jN7DTWVe",
-      "recKtBhBMosVd66cH",
-      "recKJ4S0STBIsuvQe",
-      "recL2x9cGL37B7U64",
-      "recL8Z00hfsaXFeWj",
-      "recMMX0nRONZLVn4g",
-      "recO4k4yCl1Ac5X9M",
-      "recOBqTr0OrNwdhmy",
-      "recPXf3mqCRcxeOvI",
-      "rec0drBzLM7ddY9kM",
-      "rec0ANQtPJ9y15x9c",
-      "rec0ESomB1UfxjSa4",
-      "rec0G1iYCI2QIPWo3",
-      "rec1kcTvU774oMhKX",
-      "rec2a3u9lnxJtKue0",
-      "rec3atOAVAHQYLHom",
-      "rec3rWe2XFCKKQObZ",
-      "rec4TkBXyyRkv413m",
-      "rec5iD61dCE5Kunci",
-      "rec51QoLX9u8RYShS",
-      "rec6nNmiaGyB01Stn",
-      "rec6ZRpr4fjmwghzC",
-      "rec76WwN5DkLrKYTn",
-      "rec8CCx8AutDf7Qmr",
-      "rec8DfOnx8RTRaC5Y",
-      "rec9TsEtLa35xLFjt",
-      "rec9vdoSWIkpmNyqQ",
-      "recbLSfcufd73dktE",
-      "recceuVuSAMHfGq4G",
-      "recceKMCT94saVYJL",
-      "recdfXbSjevbdK5WI",
-      "recdPsToTKmkuuOTr",
-      "recdQZ2HMfoofaLNJ",
-      "recdq7r4b4bnBfxin",
-      "recfTA0zRomm1jZVn",
-      "recfUJbm3jkzcBHHE",
-      "recgc4rrZuimM9DPz",
-      "recgNSfJz2kcfQPac",
-      "rechLWcPVPsfJVePx",
-      "reciGeZ8fhDlIdZKr",
-      "recjUKapkhmNZG9YT",
-      "recj0DvIUir6yWt3Z",
-      "recj4ytRm52vnNOM1",
-      "recjbN81VjFtjqC4j",
-      "recjr0uD1UuLfSP2v",
-      "reckiIh36zRZ9SZMW",
-      "reckFxi9PRVkXc2bE",
-      "recli69VgyVeee4v3",
-      "reclWdJBU2jotf6WA",
-      "recl74UGhV1dcw0Wz",
-      "reclxsJ5NYEQfrPqf",
-      "recmhBkz9YTKuIHhX",
-      "recmOG09FMJ8dtjEr",
-      "recn6OLV23Hs9KVtc",
-      "recn7qT95nqmlDcVI",
-      "recnB8GGSUUevScdY",
-      "recoSzoMTnKYitHpq",
-      "recoWX7DuNbZNLZ41",
-      "recoA5Y1FTvxxbvQt",
-      "recoMweAwoTYzruka",
-      "recpmTFZFCzABjxAN"
-    ],
-    "Questions": [
-      "recpClPM617b5Xj98",
-      "recqfUGyxI75mZltx",
-      "recqT1gebcvfB0nU4",
-      "recq4Srjy5d4khhU3",
-      "recquggI48QHnc6oJ",
-      "recrepRcq85BCtYfr",
-      "recrLuxMWWVZleACV",
-      "recs3CiyjdTjhvcrG",
-      "recs4eqMmxCdtotTc",
-      "recsyWdj9465DDtbs",
-      "rectPnVpaxWPqeYnU",
-      "rectTLEgLXnQVwg2v",
-      "rectxTvEW3HoFWMOX",
-      "rectJkLdNy5PHcLiE",
-      "recujHcCWMLrJ4Oyh",
-      "rec99Jx7gE8SQRKU9",
-      "rec19A4qL1Ddrc7a6",
-      "rec9TbZ4sOfNr41Gt",
-      "recBMe6cXMvNTvemj",
-      "recV1NGVvYjXsiBKM",
-      "recf0ryGoDG3jEzsp",
-      "recZ4n6AUIJ0Ko0pm",
-      "rectU1pwt8qsoVWOv",
-      "recPRhnZHJKzKejn1",
-      "recZdIUA7H1Osj5N2",
-      "rec2JgSrbjUMIUk5z",
-      "recNCBZjH7n7v19CU",
-      "recN0icK4snpPTgPb",
-      "rec9qxJGbqTxskUt5",
-      "rechQA8rvXHXISFh2",
-      "rec8dJ2DJyxY9UTGK",
-      "receT1bJaQ85jTJkX",
-      "recT9LzcnQau9F8yn",
-      "recgsD7FTLAPRdtda",
-      "reccKNrXkFZuRcUOg",
-      "recIFX9E7eyXzivSm",
-      "recbxyi0mWJZgy5ug",
-      "rec7hWblgWTNaz3fA",
-      "recHBGL86X00WgBGI",
-      "recTW00UExSnnNQ0X",
-      "recqCXkT9BEA4Ujbc",
-      "recI9hhWolXMWZInc",
-      "recJhuEB9AzgYUC2c",
-      "recEzaBNMAdt0bQ2c",
-      "recEbVluDWBTk6MvJ",
-      "recsc2NopBFYEIkTO",
-      "recrjcT3yucDREUEy",
-      "rec3DfrbS7vyX9HcT",
-      "recfNzcg0IAtftZe9",
-      "recv6SfORNkvvGZFh",
-      "recKI2ljxk30sljQH",
-      "recidhOdgYBwZGr4D",
-      "recspUm1ijTd6LFwG",
-      "recTjmf7h0JsMBHep",
-      "reclX64XyLqLyBccN",
-      "rec2pPMYrzFv3tN4a",
-      "reckg2u8lYxRiR9Id",
-      "rec6vh6TrFjUmFeM7",
-      "recdCamvwKlJcatpI",
-      "recuWHA3iHE79fvAO",
-      "rec6SBDNK5JI26Dln",
-      "reckKii2LW5m97tDw",
-      "recpHYt2lOwEEF0BV",
-      "recLV3LnvqdegOJoy",
-      "recOXIYuh7Rtab6da",
-      "rec6va1lh2LBGFB49",
-      "recpthUlJ6BuTMwer",
-      "recOwoV1vjiYKeivd",
-      "rec4Edp6L9rClmdap",
-      "recfbiYlKz7UHnw1C",
-      "recN1uqVTS4pZqnT7",
-      "recJNNl1QCAtbnA5q",
-      "reczAl7vOqNBmJo0C",
-      "recTn3AyUsJ1ibicW",
-      "reckA9BJY7gm6wJSw",
-      "recAm60N924MH9Z5x",
-      "recqnOIKAmNbYEoy2",
-      "recSaLFbktsqMQLz7",
-      "rec3Gdqrld0Bqkpe7",
-      "rec1KvYGWS0yxpQ7J",
-      "recQTitE6nlxInoQS",
-      "recx4gdgYZkazERi6",
-      "recOTqXp5EXhSgHUt",
-      "rec6agCZvMp8gPJvx",
-      "rec8GbxgCBR62szM2",
-      "recLHIqht7i85m0SZ",
-      "rec7qQNL5eoBEBEQE",
-      "recdJrN1x0JpYYo0n",
-      "recOQp0s4XOFs0KrX",
-      "reckQWECybWld6rnp",
-      "recsd9BbINgd62YMY",
-      "recUYXctOs38ObqhU",
-      "recYZ5mRHw66YdYo2",
-      "recP08q8Yh5pUYflk",
-      "recERNwzNdC56lbWJ",
-      "recZLx3m4Jn3HCenn",
-      "recVwp6BMHzfQOJst",
-      "recWiAu4k37SJZBq0",
-      "rec4UGgHpqFAD15ob",
-      "reczlfibbjwQ3S25D",
-      "recDkMxHIZDdvB4DP",
-      "recMXVVbs6EvfZ3Np",
-      "recP6llSECTYD7S3S",
-      "recSO8Zd9nXKsoz6s",
-      "recaYdpy5HJv6k7Fc",
-      "recbENlHSBN2mY7PH",
-      "recdREx7bAETStZ4b",
-      "recdU21R9YfvdK5T4",
-      "recfUy3p3YrMprK0X",
-      "reciTexjhvBkkbOf4",
-      "recmIOjo0jIXMLMsS",
-      "recmJrdJ56hD1070Z",
-      "recplWQBzupVuhiw1",
-      "recsF6MDgTEEKZC3x",
-      "reczt6Hm5A1Kx9Ux2",
-      "recOPQEfE3apeagD2",
-      "recsKttkmpMeNapAR",
-      "recFqk6yAVtx07Ggb",
-      "recy45EtuDTN1g5We",
-      "recM8n8csurCdda7x",
-      "recHZT20iold95BRF",
-      "recmFt4iIh8PQhmWW",
-      "recp5SnTHLjr4XA3d",
-      "recF0vRein4FKuYAG",
-      "recjC9hwVLu8yJE23",
-      "recdJyCbuHpkXOHLu",
-      "recIXjskCTgB35RHJ",
-      "recprRZEmaiFQcIZc",
-      "rec8aGzJTsY9GTzMN",
-      "recQ6ib28eweg2yaC",
-      "recb2mqOhYvTzuBtm",
-      "recD7qV5csbm3Afgh",
-      "recKurmkfCL7WXRMH",
-      "recRtAR1YVxpadQyh",
-      "rec9gnsbyLJA9OXN5",
-      "recd73crvkSwsZu19",
-      "recAPXs5A94TmKxCN",
-      "rec638d4hB1GBsyyw",
-      "rec6LRo20sasivYGs",
-      "recM1UFoS5OrSPXXt",
-      "recBeu2kRrxU0TKQm",
-      "recrQofXv9pfxknWX",
-      "recJr9JJWxjSVkEIC",
-      "recijrAotbr9UfEfV"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "public finance",
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "law & justice",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "accessing tulsa",
-      "governance process",
-      "public finance",
-      "accessing tulsa",
-      "accessing tulsa"
     ]
   },
   {
@@ -4820,9 +4492,17 @@
       "recCgyiBBIRn9yElm",
       "recC9ACxGlJV48u8t",
       "recCHPmcHNW9AdVbc",
-      "recK8E0Fc8WP0hqxk"
+      "recK8E0Fc8WP0hqxk",
+      "rectPnVpaxWPqeYnU",
+      "rectTLEgLXnQVwg2v",
+      "rectxTvEW3HoFWMOX",
+      "rectJkLdNy5PHcLiE"
     ],
     "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
       "public finance",
       "public finance",
       "public finance",
@@ -4862,10 +4542,6 @@
       "recC9ACxGlJV48u8t",
       "recCHPmcHNW9AdVbc",
       "recK8E0Fc8WP0hqxk",
-      "rectPnVpaxWPqeYnU",
-      "rectTLEgLXnQVwg2v",
-      "rectxTvEW3HoFWMOX",
-      "rectJkLdNy5PHcLiE",
       "rec1SOEcxrDe0o6nQ",
       "recBHw8e8qRuBjt99"
     ],
@@ -4877,177 +4553,18 @@
       "public finance",
       "public finance",
       "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
       "public finance"
-    ]
-  },
-  {
-    "id": "recswu6dyA1AGVmzf",
-    "Name": "debt service",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recoA5Y1FTvxxbvQt",
-      "recoMweAwoTYzruka"
-    ],
-    "Questions": [
-      "rectxTvEW3HoFWMOX",
-      "rectJkLdNy5PHcLiE"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "recC80WE0BC0GjA20",
-    "Name": "sewer",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "trash, & waste collection",
-      "water"
-    ],
-    "Questions_old": [
-      "recT81648GjzODKjH",
-      "recVJCg5wacJcdLWf"
-    ],
-    "Questions": [
-      "recrQofXv9pfxknWX"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recQ4YQuzC7U20psh",
-    "Name": "infrastructure",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "public works & infrastructure"
-    ],
-    "Questions_old": [
-      "recSCHBhioclRnB4e",
-      "recT81648GjzODKjH",
-      "recVJCg5wacJcdLWf"
-    ],
-    "Questions": [
-      "recrQofXv9pfxknWX",
-      "recJr9JJWxjSVkEIC"
-    ],
-    "NewTags": [
-      "public finance",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recqjX1JeotlsirPA",
-    "Name": "tmua",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "public works & infrastructure"
-    ],
-    "Questions_old": [
-      "recSCHBhioclRnB4e",
-      "recT81648GjzODKjH",
-      "rec6ZRpr4fjmwghzC"
-    ],
-    "Questions": [
-      "recrQofXv9pfxknWX",
-      "recJr9JJWxjSVkEIC"
-    ],
-    "NewTags": [
-      "public finance",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "rec8kOYbGZaSstxXv",
-    "Name": "city services",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "public works & infrastructure"
-    ],
-    "Questions_old": [
-      "recSCHBhioclRnB4e",
-      "recT81648GjzODKjH",
-      "recTN3jIPGHHUy6vD",
-      "recVlyZP4UomxvFmt",
-      "recVJCg5wacJcdLWf",
-      "recWIpxaGK2kDJf97"
-    ],
-    "Questions": [
-      "recrQofXv9pfxknWX",
-      "recJr9JJWxjSVkEIC"
-    ],
-    "NewTags": [
-      "public finance",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recXrn5bEAziLS5hi",
-    "Name": "ratepayer",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions_old": [
-      "recSCHBhioclRnB4e",
-      "recT81648GjzODKjH"
-    ],
-    "Questions": [
-      "recrQofXv9pfxknWX",
-      "recJr9JJWxjSVkEIC"
-    ],
-    "NewTags": [
-      "public finance",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recGGzf4fV3y01tu7",
-    "Name": "utility rates",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions_old": [
-      "recSCHBhioclRnB4e",
-      "recT81648GjzODKjH",
-      "recVlyZP4UomxvFmt"
-    ],
-    "Questions": [
-      "recrQofXv9pfxknWX",
-      "recJr9JJWxjSVkEIC"
-    ],
-    "NewTags": [
-      "public finance",
-      "accessing tulsa"
     ]
   },
   {
     "id": "rec9RfAg7aZptP3qR",
     "Name": "funding transportation",
     "Questions": [
-      "recgYNTUoE1hKUwxt"
+      "recgYNTUoE1hKUwxt",
+      "recs4eqMmxCdtotTc"
     ],
     "NewTags": [
+      "public finance",
       "public finance"
     ]
   },
@@ -5058,13 +4575,19 @@
       "recgIGMPLppYbYBr8",
       "recicLIvAoH2lvmUc",
       "reckRxIZktwqkmYF8",
-      "recmIKJscZE6RGvN1"
+      "recmIKJscZE6RGvN1",
+      "recpfwOGnJ3QhDgKq",
+      "recqT1gebcvfB0nU4",
+      "recrepRcq85BCtYfr"
     ],
     "NewTags": [
       "public finance",
       "public finance",
       "public finance",
       "governance process",
+      "public finance",
+      "public finance",
+      "public finance",
       "public finance"
     ]
   },
@@ -5193,7 +4716,6 @@
       "recQ5NxDypE15qvUN",
       "rec5xBn66Tlp9QO7G",
       "rec6h0q8bhjVwxyIr",
-      "rec4YReGTTKc1UpI1",
       "rec9Q88API3bDPi1Q",
       "recbWFW4lpvdE1yx6",
       "recdA3l0Oi3KZVT3s",
@@ -5202,10 +4724,15 @@
       "recicLIvAoH2lvmUc",
       "reckRxIZktwqkmYF8",
       "recmIKJscZE6RGvN1",
-      "recoXr2lbsDXGHK1t"
+      "recoXr2lbsDXGHK1t",
+      "recpfwOGnJ3QhDgKq",
+      "recqT1gebcvfB0nU4",
+      "recrepRcq85BCtYfr",
+      "recs4eqMmxCdtotTc",
+      "recuzNAXLpwGmnhle",
+      "rec4YReGTTKc1UpI1"
     ],
     "NewTags": [
-      "public finance",
       "public finance",
       "public finance",
       "public finance",
@@ -5236,65 +4763,13 @@
       "public finance",
       "governance process",
       "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
       "public finance"
-    ]
-  },
-  {
-    "id": "recWdnRM6FA93ACEx",
-    "Name": "water",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "water"
-    ],
-    "Questions_old": [
-      "recSCHBhioclRnB4e",
-      "recVJCg5wacJcdLWf"
-    ],
-    "Questions": [
-      "recJr9JJWxjSVkEIC"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "reccm8jum85mxl4b2",
-    "Name": "rate",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions_old": [
-      "recSCHBhioclRnB4e"
-    ],
-    "Questions": [
-      "recJr9JJWxjSVkEIC"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recu7T4jWaUtbDQ2V",
-    "Name": "income tax",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "taxes"
-    ],
-    "Questions_old": [
-      "rec9DiQE6bgvPShgC"
-    ],
-    "Questions": [
-      "receA6nhnlsmXDye6"
-    ],
-    "NewTags": [
-      "governance process"
     ]
   },
   {
@@ -5487,9 +4962,23 @@
       "recl9SY4gEudUUUN3",
       "reclKGMmQcw3nB68G",
       "recnD2wLwrPcQYgIV",
-      "recooO1gi4GCnD60Z"
+      "recooO1gi4GCnD60Z",
+      "recpClPM617b5Xj98",
+      "recq4Srjy5d4khhU3",
+      "recquggI48QHnc6oJ",
+      "recrLuxMWWVZleACV",
+      "recs3CiyjdTjhvcrG",
+      "recsyWdj9465DDtbs",
+      "recujHcCWMLrJ4Oyh"
     ],
     "NewTags": [
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
       "governance process",
       "governance process",
       "governance process",
@@ -5725,9 +5214,13 @@
     "id": "recsvNFdPofu3IlhE",
     "Name": "can they do this",
     "Questions": [
-      "rec5DPPBTSeHQAdmx"
+      "rec5DPPBTSeHQAdmx",
+      "recqD75EpYH8AkM1s",
+      "receA6nhnlsmXDye6"
     ],
     "NewTags": [
+      "governance process",
+      "governance process",
       "governance process"
     ]
   },
@@ -5940,74 +5433,6 @@
     ]
   },
   {
-    "id": "rec7DEXH50BvqGg1U",
-    "Name": "asset management",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "administration"
-    ],
-    "Questions_old": [
-      "recn6OLV23Hs9KVtc",
-      "recn7qT95nqmlDcVI"
-    ],
-    "Questions": [
-      "recs3CiyjdTjhvcrG",
-      "recs4eqMmxCdtotTc"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec5EtmXDFLl7QB0k",
-    "Name": "parking",
-    "Tags": [
-      "public services",
-      "policies & regulations"
-    ],
-    "Questions_old": [
-      "rec8KDL9gKmho2qUK",
-      "recn6OLV23Hs9KVtc",
-      "recn7qT95nqmlDcVI",
-      "recnB8GGSUUevScdY"
-    ],
-    "Questions": [
-      "recs3CiyjdTjhvcrG",
-      "recs4eqMmxCdtotTc",
-      "recsyWdj9465DDtbs"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recnOWL9qFDNEHXtK",
-    "Name": "facilities",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recn6OLV23Hs9KVtc",
-      "recn7qT95nqmlDcVI",
-      "recnB8GGSUUevScdY"
-    ],
-    "Questions": [
-      "recs3CiyjdTjhvcrG",
-      "recs4eqMmxCdtotTc",
-      "recsyWdj9465DDtbs"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
     "id": "recyMtyE1wqQuh6ah",
     "Name": "economic conditions",
     "Questions": [
@@ -6044,13 +5469,13 @@
       "recKUVVLNsIMxKdXh",
       "recK8E0Fc8WP0hqxk",
       "recKIRcYd5YAsUXdH",
-      "receA6nhnlsmXDye6",
       "rec4pX9kHFNmS1NpQ",
       "recVARJku4wgm25qW",
       "rec1SOEcxrDe0o6nQ",
       "recFK6JPCXWcwgFa5",
       "recFzDNEQcFyIQDVv",
-      "recIQqW4x3mD93DbA"
+      "recIQqW4x3mD93DbA",
+      "reczQlHS0yxW6Z3eh"
     ],
     "NewTags": [
       "public finance",
@@ -6059,7 +5484,7 @@
       "public finance",
       "public finance",
       "governance process",
-      "governance process",
+      "public finance",
       "public finance",
       "public finance",
       "public finance",
@@ -6190,120 +5615,6 @@
     ],
     "NewTags": [
       "governance process"
-    ]
-  },
-  {
-    "id": "recgTWazARLYOpVkS",
-    "Name": "credit",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "Questions_old": [
-      "recvilaePrzCVMmK5",
-      "recoSzoMTnKYitHpq"
-    ],
-    "Questions": [
-      "rectPnVpaxWPqeYnU"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec49m6RsxVRmpzkl",
-    "Name": "revenue",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "spending"
-    ],
-    "Questions_old": [
-      "recQD3cHdUkpehOss",
-      "recud2YLagZ1EZzC1",
-      "recvilaePrzCVMmK5",
-      "recACPg1z2tHA5mX1",
-      "recAEKSQ88TBxLYPI",
-      "recANicclNKlovocB",
-      "recDTCprgTaM1imd6",
-      "recFkQ2lYwBO2Qkhx",
-      "recFX7o8wiwVpZWZN",
-      "recFbQt2VYKYSw9zQ",
-      "recFL3FlWVMJk9Gfd",
-      "recoSzoMTnKYitHpq",
-      "recoWX7DuNbZNLZ41"
-    ],
-    "Questions": [
-      "rectPnVpaxWPqeYnU",
-      "rectTLEgLXnQVwg2v"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "recqFxYA8XapFzThA",
-    "Name": "debt",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "debt"
-    ],
-    "Questions_old": [
-      "recW8BI6yobVdgGbs",
-      "recWNTMiXDEsQEsyN",
-      "recvilaePrzCVMmK5",
-      "recvvmNNOQJEevlCw",
-      "recwKIBBRgFDtycbF",
-      "recxjKLYkyFw1NnnS",
-      "recxcM5Upbx4WndaZ",
-      "recxK1PzqDKissEdI",
-      "recFbQt2VYKYSw9zQ",
-      "recj4ytRm52vnNOM1",
-      "recjbN81VjFtjqC4j",
-      "recjr0uD1UuLfSP2v",
-      "recoSzoMTnKYitHpq",
-      "recoWX7DuNbZNLZ41",
-      "recoA5Y1FTvxxbvQt",
-      "recoMweAwoTYzruka"
-    ],
-    "Questions": [
-      "rectPnVpaxWPqeYnU",
-      "rectTLEgLXnQVwg2v",
-      "rectxTvEW3HoFWMOX",
-      "rectJkLdNy5PHcLiE",
-      "rec15pfJPynMl1X9W"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "rec1u8SbNYk22AtgS",
-    "Name": "general obligation",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "Questions_old": [
-      "recoSzoMTnKYitHpq",
-      "recoA5Y1FTvxxbvQt",
-      "recoMweAwoTYzruka"
-    ],
-    "Questions": [
-      "rectPnVpaxWPqeYnU",
-      "rectxTvEW3HoFWMOX",
-      "rectJkLdNy5PHcLiE"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance"
     ]
   },
   {
@@ -6592,46 +5903,6 @@
     ]
   },
   {
-    "id": "recoJSpwBlG6Tx4G3",
-    "Name": "emsa",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "public safety"
-    ],
-    "Questions_old": [
-      "recVlFagseDPRQszI"
-    ],
-    "Questions": [
-      "recijrAotbr9UfEfV"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recP4EVMzwQakaDpC",
-    "Name": "rates",
-    "Tags": [
-      "revenue & spending",
-      "public services"
-    ],
-    "MegaName": [
-      "pay my bills, fines, & fees"
-    ],
-    "Questions_old": [
-      "recTN3jIPGHHUy6vD",
-      "recVlFagseDPRQszI"
-    ],
-    "Questions": [
-      "recijrAotbr9UfEfV"
-    ],
-    "NewTags": [
-      "accessing tulsa"
-    ]
-  },
-  {
     "id": "rec3n5Csj65AI47CY",
     "Name": "homeowner's association",
     "Questions": [
@@ -6812,6 +6083,515 @@
     ],
     "NewTags": [
       "governance process",
+      "governance process"
+    ]
+  },
+  {
+    "id": "recdoCgCxV6RbWD0L",
+    "Name": "tulsa",
+    "Tags": [
+      "places & events"
+    ],
+    "MegaName": [
+      "tulsa"
+    ],
+    "Questions_old": [
+      "rec4cV0uZuW1I6tWF",
+      "recWcMxNuRrmjrQcC",
+      "rec4WnsrbE3WjjKIZ",
+      "recwPqzzGCjWLKXoP",
+      "recQ4Z9ieO76kxkMi",
+      "reca3D137tucbTiuV",
+      "recU7zzXDyx9CDJrS",
+      "recoXdSTcYeBgaFQ1",
+      "recKUtQmqzyICt2px",
+      "recUgUnXQxPXkyOPy",
+      "recXMslOU9IVA9375",
+      "recIFNsGqXbgngSEq",
+      "recI3uF7NibyH8ZRH",
+      "rec4tJc3UgHGkzDvB",
+      "reccTMBOeNv6A7ojy",
+      "rec3gVv0sol719CIg",
+      "rec9WdE6TGWeb8smt",
+      "recOcX2z6GYD1URAT",
+      "recbvPA2CBoYJscfG",
+      "rec7NZUk3vNDJrDQM",
+      "recDI9C1Q4m6rxeUS",
+      "rec6AKLn5Mx88NOwM",
+      "rec2k8EIZMHW2OMh6",
+      "recCESevPNO9OvkIe",
+      "recOZcthnnGwf2z2t",
+      "reclF9NgSrsJW92dI",
+      "recDctKj7bLVOerpI",
+      "recEkG7YSqnpQ9l4I",
+      "reczCm4avq1CSqz4I",
+      "recze7ORmMp2clvxf",
+      "recnfegL8rt7wX3Vk",
+      "recmmomqhk0MJTDG4",
+      "recYGrUyBXjHPoqep",
+      "recaQLFDJyoC7IIgF",
+      "recq94IbAD8EnVIHN",
+      "recFLeOGgaR9kA2Sd",
+      "recdgthAZOpFRVa69",
+      "recns6Po19HmY0oyc",
+      "recOmyIu0QxBEQqgV",
+      "recg0ixkhBeUqQVej",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ",
+      "rec1ytzgav73eUXOD",
+      "rec8FmPSfA9S4pcre",
+      "recpZT3q1xsg1ueCk",
+      "rec1VN6atVxRUlmnT",
+      "recfNuLpuMTv1mcF2",
+      "reckKaWp4EkNwUJDr",
+      "recGYfeKeg1n83sq4",
+      "recJ0UrR0XFC2qPfG",
+      "rec1ymuI0SzKyUk6F",
+      "reckwtnIsWpDL1fgX",
+      "recJzAooe967Ct1xJ",
+      "recZHpStuZfLdBWcV",
+      "recaeurItpV3zCf38",
+      "recI4GTiCISyRF6VD",
+      "recEQZOozsoC3Cj7W",
+      "recuDxASxgBKeY728",
+      "recOqf3VDixaaq1es",
+      "recfDl46HX4vYLsU2",
+      "recvpitaSSSVzoI73",
+      "reclq0b7jcBkQT7Ay",
+      "recNdX8y3jgzE5uBD",
+      "recYJpTO43OKiz8gD",
+      "recWNHr3FIOHpEz9f",
+      "recLWuW1Pd9GAC7So",
+      "recs7sGDHP8jrTAkC",
+      "recJWCqMOuLqKvqWZ",
+      "rec1ds5meCdh84sx3",
+      "rec3Jn0DlrFfUHiOy",
+      "recGKUTEcX6hXBJUv",
+      "rec2t2g8O4cKwQnSa",
+      "rec8MDgogQxyQd72T",
+      "recJTBtPNNCOkfttt",
+      "recfT87Zh1Ku5lapV",
+      "recngl4yrD4mYhHOu",
+      "recP19FQxiRhGq9jq",
+      "recT2hPeqmUfQsHqy",
+      "recK3kTvH7TyMdYnQ",
+      "reczUZZWw3qeYAUYf",
+      "recZXSJ48gtJvgOqH",
+      "recK9xOfnsH7vmB5o",
+      "recNRksASdLTkDi8Y",
+      "rec8XeueSO3E5ZOVA",
+      "recdWq0G0lptcqxhA",
+      "rechL0MLJ9w6E0vuo",
+      "recUOJwJNzbczRXpT",
+      "recQzBzYvxnoI3suZ",
+      "recRlMXr3TV1Beksw",
+      "recuorLyU9kZV7L79",
+      "recynY04rPrmnQNFl",
+      "recH07oybWsE7eMPV",
+      "rec51pSVOxxEYzQHI",
+      "rec6HZO4BrBbedQRd",
+      "rec8UQ0uUqs2KII6H",
+      "recaXKwMMOfVhGt2t",
+      "rechMDG6OW5MTfQ2v",
+      "recko8jYikd4mw1yx",
+      "recnIif0ZJsNCel53",
+      "rec8KDL9gKmho2qUK",
+      "recry97y6F66GyYyJ",
+      "rechBQutZZg9QmUND",
+      "reczwTftMoGyQ3UOg",
+      "reco76c0cOfZhPyXW",
+      "recQCE3RbasULoeV1",
+      "recQD3cHdUkpehOss",
+      "recQGAWDHJ84TLDnX",
+      "recQHg1Mu9x0oXQG2",
+      "recS9S4T6LZDwrflb",
+      "recSCHBhioclRnB4e",
+      "recT81648GjzODKjH",
+      "recTN3jIPGHHUy6vD",
+      "recVlyZP4UomxvFmt",
+      "recVlFagseDPRQszI",
+      "recV6UoGoFOWObyZI",
+      "recVJCg5wacJcdLWf",
+      "recWV07zghrnSDPpm",
+      "recWIpxaGK2kDJf97",
+      "recWNTMiXDEsQEsyN",
+      "recXldlsxXNBIKKuI",
+      "recXnlUaGH7YhKojJ",
+      "recYmDVvMvNkbClqk",
+      "recYuen2cG2sfIlyI",
+      "recZTxd0N54AI3X5r",
+      "recZtO4EYdOHfqnJj",
+      "recq4Pp5napGsXuL0",
+      "recsqdgGmaCPtaCZW",
+      "rectTmI1BQ33BAmnH",
+      "rectIbKoQIFSWG6Fm",
+      "rectMeVTjfwp8ZMRe",
+      "recufBtzaEFzv4ftK",
+      "recu99NhUY4x8xXpA",
+      "recud2YLagZ1EZzC1",
+      "recvilaePrzCVMmK5",
+      "recvvmNNOQJEevlCw",
+      "recwO2YKhEepKdNhh",
+      "recwXYrHBefA4mwhW",
+      "recwKIBBRgFDtycbF",
+      "recxjKLYkyFw1NnnS",
+      "recxcM5Upbx4WndaZ",
+      "recxK1PzqDKissEdI",
+      "recxLZvEPiZjg20zG",
+      "recy4rZrUhHQdcIL5",
+      "reczkzp9ZGODuisBh",
+      "recA2UfWNMZBSBsiG",
+      "recACPg1z2tHA5mX1",
+      "recAEKSQ88TBxLYPI",
+      "recANicclNKlovocB",
+      "recDTCprgTaM1imd6",
+      "recFkQ2lYwBO2Qkhx",
+      "recFX7o8wiwVpZWZN",
+      "recFbQt2VYKYSw9zQ",
+      "recFL3FlWVMJk9Gfd",
+      "recGcNHgB3IHCgMKb",
+      "recGtebHqHpJpCtNX",
+      "recGxgZPrIGnbfVpN",
+      "recHonCx88RCZvJjg",
+      "recIf8GWuDZiXM8Zm",
+      "recKipbBvdSjKl2oq",
+      "recKl66kI6lgWg0hn",
+      "recK9rBi14380eUVm",
+      "recK9dnS7jN7DTWVe",
+      "recKtBhBMosVd66cH",
+      "recKJ4S0STBIsuvQe",
+      "recL2x9cGL37B7U64",
+      "recL8Z00hfsaXFeWj",
+      "recMMX0nRONZLVn4g",
+      "recO4k4yCl1Ac5X9M",
+      "recOBqTr0OrNwdhmy",
+      "recPXf3mqCRcxeOvI",
+      "rec0drBzLM7ddY9kM",
+      "rec0ANQtPJ9y15x9c",
+      "rec0ESomB1UfxjSa4",
+      "rec0G1iYCI2QIPWo3",
+      "rec1kcTvU774oMhKX",
+      "rec2a3u9lnxJtKue0",
+      "rec3atOAVAHQYLHom",
+      "rec3rWe2XFCKKQObZ",
+      "rec4TkBXyyRkv413m",
+      "rec5iD61dCE5Kunci",
+      "rec51QoLX9u8RYShS",
+      "rec6nNmiaGyB01Stn",
+      "rec6ZRpr4fjmwghzC",
+      "rec76WwN5DkLrKYTn",
+      "rec8CCx8AutDf7Qmr",
+      "rec8DfOnx8RTRaC5Y",
+      "rec9TsEtLa35xLFjt",
+      "rec9vdoSWIkpmNyqQ",
+      "recbLSfcufd73dktE",
+      "recceuVuSAMHfGq4G",
+      "recceKMCT94saVYJL",
+      "recdfXbSjevbdK5WI",
+      "recdPsToTKmkuuOTr",
+      "recdQZ2HMfoofaLNJ",
+      "recdq7r4b4bnBfxin",
+      "recfTA0zRomm1jZVn",
+      "recfUJbm3jkzcBHHE",
+      "recgc4rrZuimM9DPz",
+      "recgNSfJz2kcfQPac",
+      "rechLWcPVPsfJVePx",
+      "reciGeZ8fhDlIdZKr",
+      "recjUKapkhmNZG9YT",
+      "recj0DvIUir6yWt3Z",
+      "recj4ytRm52vnNOM1",
+      "recjbN81VjFtjqC4j",
+      "recjr0uD1UuLfSP2v",
+      "reckiIh36zRZ9SZMW",
+      "reckFxi9PRVkXc2bE",
+      "recli69VgyVeee4v3",
+      "reclWdJBU2jotf6WA",
+      "recl74UGhV1dcw0Wz",
+      "reclxsJ5NYEQfrPqf",
+      "recmhBkz9YTKuIHhX",
+      "recmOG09FMJ8dtjEr",
+      "recn6OLV23Hs9KVtc",
+      "recn7qT95nqmlDcVI",
+      "recnB8GGSUUevScdY",
+      "recoSzoMTnKYitHpq",
+      "recoWX7DuNbZNLZ41",
+      "recoA5Y1FTvxxbvQt",
+      "recoMweAwoTYzruka",
+      "recpmTFZFCzABjxAN"
+    ],
+    "Questions": [
+      "rec99Jx7gE8SQRKU9",
+      "rec19A4qL1Ddrc7a6",
+      "rec9TbZ4sOfNr41Gt",
+      "recBMe6cXMvNTvemj",
+      "recV1NGVvYjXsiBKM",
+      "recf0ryGoDG3jEzsp",
+      "recZ4n6AUIJ0Ko0pm",
+      "rectU1pwt8qsoVWOv",
+      "recPRhnZHJKzKejn1",
+      "recZdIUA7H1Osj5N2",
+      "rec2JgSrbjUMIUk5z",
+      "recNCBZjH7n7v19CU",
+      "recN0icK4snpPTgPb",
+      "rec9qxJGbqTxskUt5",
+      "rechQA8rvXHXISFh2",
+      "rec8dJ2DJyxY9UTGK",
+      "receT1bJaQ85jTJkX",
+      "recT9LzcnQau9F8yn",
+      "recgsD7FTLAPRdtda",
+      "reccKNrXkFZuRcUOg",
+      "recIFX9E7eyXzivSm",
+      "recbxyi0mWJZgy5ug",
+      "rec7hWblgWTNaz3fA",
+      "recHBGL86X00WgBGI",
+      "recTW00UExSnnNQ0X",
+      "recqCXkT9BEA4Ujbc",
+      "recI9hhWolXMWZInc",
+      "recJhuEB9AzgYUC2c",
+      "recEzaBNMAdt0bQ2c",
+      "recEbVluDWBTk6MvJ",
+      "recsc2NopBFYEIkTO",
+      "recrjcT3yucDREUEy",
+      "rec3DfrbS7vyX9HcT",
+      "recfNzcg0IAtftZe9",
+      "recv6SfORNkvvGZFh",
+      "recKI2ljxk30sljQH",
+      "recidhOdgYBwZGr4D",
+      "recspUm1ijTd6LFwG",
+      "recTjmf7h0JsMBHep",
+      "reclX64XyLqLyBccN",
+      "rec2pPMYrzFv3tN4a",
+      "reckg2u8lYxRiR9Id",
+      "rec6vh6TrFjUmFeM7",
+      "recdCamvwKlJcatpI",
+      "recuWHA3iHE79fvAO",
+      "rec6SBDNK5JI26Dln",
+      "reckKii2LW5m97tDw",
+      "recpHYt2lOwEEF0BV",
+      "recLV3LnvqdegOJoy",
+      "recOXIYuh7Rtab6da",
+      "rec6va1lh2LBGFB49",
+      "recpthUlJ6BuTMwer",
+      "recOwoV1vjiYKeivd",
+      "rec4Edp6L9rClmdap",
+      "recfbiYlKz7UHnw1C",
+      "recN1uqVTS4pZqnT7",
+      "recJNNl1QCAtbnA5q",
+      "reczAl7vOqNBmJo0C",
+      "recTn3AyUsJ1ibicW",
+      "reckA9BJY7gm6wJSw",
+      "recAm60N924MH9Z5x",
+      "recqnOIKAmNbYEoy2",
+      "recSaLFbktsqMQLz7",
+      "rec3Gdqrld0Bqkpe7",
+      "rec1KvYGWS0yxpQ7J",
+      "recQTitE6nlxInoQS",
+      "recx4gdgYZkazERi6",
+      "recOTqXp5EXhSgHUt",
+      "rec6agCZvMp8gPJvx",
+      "rec8GbxgCBR62szM2",
+      "recLHIqht7i85m0SZ",
+      "rec7qQNL5eoBEBEQE",
+      "recdJrN1x0JpYYo0n",
+      "recOQp0s4XOFs0KrX",
+      "reckQWECybWld6rnp",
+      "recsd9BbINgd62YMY",
+      "recUYXctOs38ObqhU",
+      "recYZ5mRHw66YdYo2",
+      "recP08q8Yh5pUYflk",
+      "recERNwzNdC56lbWJ",
+      "recZLx3m4Jn3HCenn",
+      "recVwp6BMHzfQOJst",
+      "recWiAu4k37SJZBq0",
+      "rec4UGgHpqFAD15ob",
+      "reczlfibbjwQ3S25D",
+      "recDkMxHIZDdvB4DP",
+      "recMXVVbs6EvfZ3Np",
+      "recP6llSECTYD7S3S",
+      "recSO8Zd9nXKsoz6s",
+      "recaYdpy5HJv6k7Fc",
+      "recbENlHSBN2mY7PH",
+      "recdREx7bAETStZ4b",
+      "recdU21R9YfvdK5T4",
+      "recfUy3p3YrMprK0X",
+      "reciTexjhvBkkbOf4",
+      "recmIOjo0jIXMLMsS",
+      "recmJrdJ56hD1070Z",
+      "recplWQBzupVuhiw1",
+      "recsF6MDgTEEKZC3x",
+      "reczt6Hm5A1Kx9Ux2",
+      "recOPQEfE3apeagD2",
+      "recsKttkmpMeNapAR",
+      "recFqk6yAVtx07Ggb",
+      "recy45EtuDTN1g5We",
+      "recM8n8csurCdda7x",
+      "recHZT20iold95BRF",
+      "recmFt4iIh8PQhmWW",
+      "recp5SnTHLjr4XA3d",
+      "recF0vRein4FKuYAG",
+      "recjC9hwVLu8yJE23",
+      "recdJyCbuHpkXOHLu",
+      "recIXjskCTgB35RHJ",
+      "recprRZEmaiFQcIZc",
+      "rec8aGzJTsY9GTzMN",
+      "recQ6ib28eweg2yaC",
+      "recb2mqOhYvTzuBtm",
+      "recD7qV5csbm3Afgh",
+      "recKurmkfCL7WXRMH",
+      "recRtAR1YVxpadQyh",
+      "rec9gnsbyLJA9OXN5",
+      "recd73crvkSwsZu19",
+      "recAPXs5A94TmKxCN",
+      "rec6LRo20sasivYGs",
+      "recM1UFoS5OrSPXXt",
+      "recBeu2kRrxU0TKQm"
+    ],
+    "NewTags": [
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "law & justice",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
+      "accessing tulsa",
       "governance process"
     ]
   },
@@ -7073,9 +6853,11 @@
       "recX6GBwnVbuEcwjF",
       "recVARJku4wgm25qW",
       "recFzDNEQcFyIQDVv",
-      "recFByptpi5sFwfNc"
+      "recFByptpi5sFwfNc",
+      "recuzNAXLpwGmnhle"
     ],
     "NewTags": [
+      "public finance",
       "public finance",
       "public finance",
       "public finance",
@@ -7359,40 +7141,16 @@
     ]
   },
   {
-    "id": "recGkXnNzl0pw1ued",
-    "Name": "customer care center",
-    "Tags": [
-      "public services"
-    ],
-    "MegaName": [
-      "service requests & reporting"
-    ],
-    "Questions_old": [
-      "rec8KDL9gKmho2qUK",
-      "recli69VgyVeee4v3",
-      "reclWdJBU2jotf6WA",
-      "recl74UGhV1dcw0Wz"
-    ],
-    "Questions": [
-      "recqfUGyxI75mZltx",
-      "recqT1gebcvfB0nU4",
-      "recq4Srjy5d4khhU3"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
     "id": "reclRZ77sPgyBPqqn",
     "Name": "report or request",
     "Questions": [
       "rec1EAnNPRpA7bLa3",
       "rec4GLmcNexViKGz8",
-      "recdHriMxUy8wNHSe"
+      "recdHriMxUy8wNHSe",
+      "recqfUGyxI75mZltx"
     ],
     "NewTags": [
+      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
@@ -8548,12 +8306,10 @@
     ],
     "Questions": [
       "rec1SOEcxrDe0o6nQ",
-      "receA6nhnlsmXDye6",
       "rec4pX9kHFNmS1NpQ"
     ],
     "NewTags": [
       "public finance",
-      "governance process",
       "governance process"
     ]
   },
