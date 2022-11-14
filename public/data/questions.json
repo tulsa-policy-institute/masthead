@@ -2344,7 +2344,7 @@
     "Answer": "For FY23, the City of Tulsa projects receiving an **$8.1 million** share of state tax receipts. \n",
     "Concepts_PreOctober": [
       "recrcssg4rJQBVqHI",
-      "recVypOtuYcUkJEnc"
+      "recAFbnfqhqG1lwSe"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_053",
@@ -4913,8 +4913,7 @@
     ],
     "Question": "Can the City of Tulsa issue licensing fees for the purpose of revenue collection?",
     "Tags": [
-      "governance process",
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Samuel",
     "Concepts": [
@@ -4924,7 +4923,8 @@
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recsvNFdPofu3IlhE"
+      "recsvNFdPofu3IlhE",
+      "reccuB1KcJR6jKdW6"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_004",
@@ -4939,44 +4939,13 @@
     ]
   },
   {
-    "id": "recpPPdEz7MZiVoOh",
-    "Tags_PreOctober": [
-      "governance process"
-    ],
-    "Question": "Can the City of Tulsa issue licensing fees for the purpose of regulation?",
-    "Tags": [
-      "governance process",
-      "public finance"
-    ],
-    "Contributor": "Samuel",
-    "Concepts": [
-      "can they do this",
-      "permits & licenses"
-    ],
-    "Public": true,
-    "Answer": "**Yes.**\n",
-    "Concepts_PreOctober": [
-      "recsvNFdPofu3IlhE"
-    ],
-    "Author": "Samuel",
-    "QA Code": "Samuel_Code_005",
-    "Tags_PreOctober copy copy": [
-      "city gov & policy process"
-    ],
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection E_\n",
-    "Tags_PreOctober copy": [
-      "city gov & policy process"
-    ]
-  },
-  {
     "id": "recq5W9EHslVikUs4",
     "Tags_PreOctober": [
       "governance process"
     ],
     "Question": "Can the City of Tulsa place additional taxes on homeowners for the purposes of funding specific projects in the area?",
     "Tags": [
-      "governance process",
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Samuel",
     "Concepts": [
@@ -4987,6 +4956,28 @@
     "Answer": "**Yes**. In legal terms, this is referred to as the City of Tulsa's ability to \"levy and collect special assessments for benefits conferred\".\n",
     "Concepts_PreOctober": [
       "recsvNFdPofu3IlhE",
+      "recrcssg4rJQBVqHI"
+    ],
+    "Author": "Samuel",
+    "QA Code": "Samuel_Code_006",
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection F_\n"
+  },
+  {
+    "id": "rec5qeK7nPW0efOg9",
+    "Tags_PreOctober": [
+      "public finance"
+    ],
+    "Question": "Can homeowners be targeted for additional taxes by the City of Tulsa?",
+    "Tags": [
+      "public finance"
+    ],
+    "Contributor": "Samuel",
+    "Concepts": [
+      "taxes"
+    ],
+    "Public": true,
+    "Answer": "**Yes, for the purposes of funding a specific project in the area.** In legal terms, this is referred to as the City of Tulsa's ability to \"levy and collect special assessments for benefits conferred\".\n",
+    "Concepts_PreOctober": [
       "recrcssg4rJQBVqHI"
     ],
     "Author": "Samuel",
@@ -5006,12 +4997,14 @@
     "Contributor": "Samuel",
     "Concepts": [
       "can they do this",
-      "debt & credit"
+      "debt & credit",
+      "the bird's eye view"
     ],
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recsvNFdPofu3IlhE"
+      "recsvNFdPofu3IlhE",
+      "recf9vQSSV9y8JyWT"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_007",
@@ -6108,14 +6101,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "zoning",
-      "can they do this"
+      "can they do this",
+      "zoning & land use"
     ],
     "Public": true,
     "Answer": "By convincing the property owners impacted by the zoning change to file a protest against the zoning change, Tulsans can raise the bar for the number of votes required for the zoning ordinance to go into effect - instead requiring the City Council to have three-fourths (3/4) of the entire membership of the Council to enact the zoning change. Such protests must meet two requirements. First, protests must be filed at least three (3) days prior to the hearing of the zoning change by City Council. Second, protests must be supported by either (a) owners of at least 20% of the area of the lots included in the proposed change or (b) owners of at least 50% of the area of the lots within a 300 foot radius of the exterior boundary of the territory included in the proposed change.\n",
     "Concepts_PreOctober": [
-      "recgdKPlaYC1v6B5Z",
-      "recsvNFdPofu3IlhE"
+      "recsvNFdPofu3IlhE",
+      "recL3q04Qbq5ADx9t"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_045",
@@ -9281,16 +9274,40 @@
     "Contributor": "Samuel",
     "Concepts": [
       "neighborhood life",
-      "zoning"
+      "public transit"
     ],
     "Public": true,
     "Answer": "If you own property within a half-mile of a Bus Rapid Transit station on Peoria Ave. in Tulsa, your property may be eligible for re-zoning as a mixed-use district. Mixed-use zoning allows you to develop or redevelop your property to support any combination of residential, retail, and/or office space. The Tulsa Planning Office has a map and staff to help you find out if your property is eligible. If it is, you can submit an application for free (instead of the standard $2,000 cost) until Dec 31, 2023. Staff at the Tulsa Metropolitan Planning Commission will review your application and notify neighbors of their opportunity to comment on the application. TMAPC staff will recommend approval or denial of your application at a public meeting. If recommended for approval, your case will then appear before Tulsa City council for a final vote on approval. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recgdKPlaYC1v6B5Z",
-      "recUV4OXFuslnxwJP",
-      "rec6l9YWOd4MXGsTr",
-      "recdoCgCxV6RbWD0L"
+      "recgOL1Tjb6v7gbSM"
+    ],
+    "Author": "Samuel",
+    "QA Code": "Samuel_Planning_022",
+    "Tags_PreOctober copy copy": [
+      "public services"
+    ],
+    "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n",
+    "Tags_PreOctober copy": [
+      "public services"
+    ]
+  },
+  {
+    "id": "recoY65y7BbAMkShM",
+    "Tags_PreOctober": [
+      "governance process"
+    ],
+    "Question": "What is the process of requesting mixed-use zoning along BRT Route?",
+    "Tags": [
+      "governance process"
+    ],
+    "Contributor": "Samuel",
+    "Concepts": [
+      "governing transportation"
+    ],
+    "Public": true,
+    "Answer": "If you own property within a half-mile of a Bus Rapid Transit station on Peoria Ave. in Tulsa, your property may be eligible for re-zoning as a mixed-use district. Mixed-use zoning allows you to develop or redevelop your property to support any combination of residential, retail, and/or office space. The Tulsa Planning Office has a map and staff to help you find out if your property is eligible. If it is, you can submit an application for free (instead of the standard $2,000 cost) until Dec 31, 2023. Staff at the Tulsa Metropolitan Planning Commission will review your application and notify neighbors of their opportunity to comment on the application. TMAPC staff will recommend approval or denial of your application at a public meeting. If recommended for approval, your case will then appear before Tulsa City council for a final vote on approval. \n",
+    "Concepts_PreOctober": [
+      "rec9AcMTrZV4dGk60"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_022",
@@ -9318,11 +9335,7 @@
     "Public": true,
     "Answer": "Neighborhood associations which are registered with the City of Tulsa can request a free 30 yard dumpster, dropped off and picked up by the City. The City of Tulsa's Neighborhood Dumpster Program is a service available to registered neighborhood associations to perform neighborhood clean-up activities. Participating groups can make use of 30-yard containers to dispose of eligible household items twice a year. _Please note: During inclement weather, employees assigned to the Neighborhood Dumpster Program will be reassigned to work the weather event. In this case, your drop-off/pick-up dates may be adjusted._\n\nDumpster Use Rules:\n1. Dumpsters are for use at residential sites and **CANNOT** be used for commercial purposes (for example, to clean out rental properties).\n2. Use Restrictions: Some items are not permitted to be put into City of Tulsa dumpsters. Examples include limbs, grass clippings, Freon bearing appliance (such as refrigerators), and roofing materials. \n3. Dumpsters are not designed to be more than 3/4ths full and items are not permitted to be placed on the ground around the dumpster.\n4. Neighborhood Associations can request up to two dumpsters per year.\n\nApply [Here](https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/neighborhoods/dumpster-program/dumpster-request-for-neighborhood-cleanups/) to Request your Dumpster!\n\n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recJxDjSSZ5eRk109",
-      "recKwdNep7HvUUvgc",
-      "recELqo4B4ZEocOqI",
-      "recdoCgCxV6RbWD0L"
+      "recgOL1Tjb6v7gbSM"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_023",
@@ -9350,13 +9363,7 @@
     "Public": true,
     "Answer": "Tulsa's Household Pollutant Collection Facility accepts many items not allowed in regular trash pickup, including lawn chemicals, paints, fluorescent lights, and more. \nTulsa residents can drop-off for **free** by showing a drivers license or City of Tulsa utility bill.\n \n**Acceptable Items**\n- Aerosols\n- Automotive Fluids\n- Cooking Oil/Grease\n- Flammable Liquids\n- Fluorescent and CFL Light bulbs\n- Household and Car Batteries\n- Household Cleaners\n- Latex Paint\n- Lawn Chemicals\n- Mercury Thermostats\n- Oil-Based Paints and Paint Thinner\n- Pool Chemicals\n- Small Electronics\n \n**Not Acceptable Items**\n- Ammunition/Explosives\n- Asbestos\n- Industrial or Commercially Generated Waste (including NHIW waste)\n- Large Electronics (TV's, Monitors, Computers)\n- [Medical](https://www.cityoftulsa.org/government/departments/water-and-sewer/wastewater/wastewater-pollution-prevention/medication-disposal/) or Biomedical Waste Food or Organic Waste\n- Radioactive Material\n- Tires\n- Unknown Materials or Substances \n\n_To find out where to dispose of items that are not accepted by the Household Pollutant Collection Facility, click [here.](https://www.cityoftulsa.org/government/departments/streets-and-stormwater/household-pollutant-collection-facility/disposal-of-non-accepted-items/)_ \n \n**Don't live in the City of Tulsa? No problem.** \n\nIf you live outside of City Limits, but still inside of Tulsa County, you can obtain a voucher from the Metropolitan Environmental Trust to drop off the first 45 pounds of pollutants for free. After this, it costs $1.33 per pound and can be paid with Mastercard or Visa. Call 918.584.0584 to obtain the voucher that is required prior to dropping off your pollutants.\n \n**Household Pollutant Collection Facility Hours of Operation:**\n\nWednesday and Saturday: \n8AM - 11:30AM & 12PM - 4:30PM\n  \n4502 S. Galveston Ave. | Tulsa, OK 74107. 918.591.4325. \n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rechGKl53YLEWSFKy",
-      "recws8bLQ6cyFvH6B",
-      "reck1kwu0Ax8s2U3s",
-      "recBTeDboTe5vDD9l",
-      "recdoCgCxV6RbWD0L"
+      "recAJHYcsvcU9XMGI"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_024",
@@ -9384,13 +9391,7 @@
     "Public": true,
     "Answer": "The City of Tulsa offers **free** yard waste drop-off. \n\n**Drop-off Location**\n2100 N. 145th Ave.\nDrop-off available 7:30AM to 5PM daily, except City holidays.\n\n**What Can You Dispose Here?**\nResidents may dispose of grass, leaves, brush and tree limbs. \n\n**What Will You Need to Bring?**\nA current drivers license with a Tulsa address or a City of Tulsa utility bill.\n\nWood chips are available for free, as well!\n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recSaB0ugjsBczpUQ",
-      "rechGKl53YLEWSFKy",
-      "recws8bLQ6cyFvH6B",
-      "reck1kwu0Ax8s2U3s",
-      "recBTeDboTe5vDD9l",
-      "recdoCgCxV6RbWD0L"
+      "recAJHYcsvcU9XMGI"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_025",
@@ -9437,17 +9438,15 @@
     ],
     "Question": "Why is there a road closure in Tulsa?",
     "Tags": [
-      "governance process"
+      "accessing tulsa"
     ],
     "Concepts": [
-      "public service"
+      "access data",
+      "maps"
     ],
     "Public": true,
     "Answer": "The City of Tulsa offers a live traffic map that displays road closures around the city, also providing an explanation of the cause of the closure. Where closure is due to construction, the contractor and price is also displayed. This tool can be  found [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=0910c978896e423e8f4f826953b83b48).\n",
     "Concepts_PreOctober": [
-      "recmM3m7G1ByTAI1T",
-      "recSlK0QKzpjweE7g",
-      "recdoCgCxV6RbWD0L",
       "recyJCadYKnbBRD0a"
     ],
     "Author": "Samuel",
@@ -9471,7 +9470,8 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "take a class"
+      "take a class",
+      "free"
     ],
     "Public": true,
     "Answer": "The Parks, Culture, & Recreation Department offers a variety of classes and programs, as can be seen [here](https://guide.tulsaparks.org/CourseActivities.aspx?id=22&cat=8).  Most of these are listed below.\n\nFor most courses, the associated costs include each class session, which vary by program. For example, most fitness classes include 8-13 sessions.\n\n**Educational**\n- English Classes (All ages. $0)\n- Junior Naturalist Program (Ages 8-12. $100)\n- Kids Programs (Ages 1-8. $0-135)\n- United Health Care Open [Medicare] Enrollment (Ages 65+. $0)\n\n**Fitness**\n- Low-Impact Aerobics (Ages 18+. $25 for residents. $31 for non-residents)\n- Senior X-R-Cise (Ages 16+. $35 for residents. $44 for non-residents)\n- Self-Defense and Fitness (Ages 18+. $25 for residents. $31 for non-residents)\n- Ladies Private Weight Training (Ages 18-99. $2 for residents. $0 for non-residents)\n- Small Group Weight Training (Ages 16-65. $15)\n- Balancing Exercises (Ages 55-100. $0)\n- 30 Minute Workout (Ages 9-99. $2)\n- Family Dance & Exercise (Ages 5-99. $5)\n- Refit Revolution (Ages 13+. $25)\n- Strong Nation (Cardio + HIIT) (Ages 13-99. $25)\n- H.I.I.T (High Intensity Interval Train) (Ages 16-99. $25)\n- Zumba (Ages 16+. $35 for residents. $44 for non-residents)\n- Zumba with Sarah (Ages 16+. $30 for residents. $37 for non-residents)\n- Classics Morning Walk (All ages. $0)\n- Walk and Talk (Ages 18-99. $0)\n\n**Sports & Athletics**\n\n_Basketball, Soccer, Volleyball, Tennis, & Pickleball_\n- 40+ Basketball (Ages 40-99. $0)\n- Youth Soccer (Ages 7-9 or 9-12. $75 for residents. $91 for non-residents).\n- Volleyball Developmental Program (Grades 4-5 or 6-8. $50 for residents or $62 for non-residents)\n- Open Adult Volleyball (All ages. $0)\n- Open Pickleball (Ages 18+. $0)\n\n_Archery_\n- Archery (Ages 8-80. $20 for residents. $25 for non-residents)\n\n_Martial Arts_\n- Tae Kwon Do (Ages 5-100. $25 for residents. 31$ for non-residents)\n- Shotokan (Ages 9+. $25 for residents. 31$ for non-residents)\n- Karate (Ages 5-11 or 12-17. $5 for residents. 0$ for non-residents)\n- Young Samurai Martial Arts (Ages 6-14. $35 for residents. $45 for non-residents)\n- Close Combat Martial Arts (Ages 15-95. $50)\n- Weapons Martial Arts (Ages 15-95. $60)\n- Light Saber Martial Arts (Ages 8-95 or 99. $20 for residents. $25 for non-residents)\n\n_Gymnastics_\n- Tiny Tumbling (Ages 3-6. $40 for residents. $50 for non-residents)\n- Beginner Tumbling (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Little Kinder Kids (Ages 2-4. $40 for residents. $50 for non-residents)\n- Gymnastics - Kinder Kids (Ages 4-6. $40 for residents. $50 for non-residents)\n- Gymnastics Kinderplus (Ages 3-5. $45 for residents. 54$ for non-residents)\n- Gymnastics - Jam & Slam (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Girls Pre Team (Ages 5-17 or 18. $75 for residents. $90 for non-residents)\n- Gymnastics - Boys Pre Team (Ages 6-18. $50 or $85 for residents. $60 or $105 for non-residents)\n- Gymnastics Team Level 1, 3, & 4 (Ages5-18)\n    - Level 1: $85 for residents. $105 for non-residents.\n    - Level 3: $95 for residents. $120 for non-residents.\n    - Level 4: $115 for residents. $140 for non-residents.\n- Gymnastics - Beginner (Ages 6-8 or 12. $45 for residents. $54 for non-residents)\n- Gymnastics - Pre-Team (Ages 9-12. $45 for residents. $54 for non-residents)\n- Gymnastics - Beginner/Homeschool (Ages 6-14. $45 for residents. $54 for non-residents)\n- Gymnastics - Junior Beginner (Ages 4-6. $45 for residents. $54 for non-residents)\n- Gymnastics - Intermediate (Ages 8-12. $45 for residents. $54 for non-residents)\n- Gymnastics Team - Twisters (Ages 4-15. $90)\n\n**Visual Arts**\n\n_Ceramics, Clay, & Pottery_\n- Ceramics (Ages 18+. $5)\n- Beginning Pottery Wheel (Ages 16+. $140)\n- Intermediate Pottery Wheel (Ages 16+. $115)\n- Make a Mask: A Clay Date for Couples (Ages 16+. $75)\n- The Art of Raku (Ages 16+. $130)\n- Small Sculptures Workshop (Ages 16+. $90)\n- Gone Fishin' Parent-Child Clay Workshop (Ages 7+. $45)\n\n_Drawing & Painting_\n- Portrait Painters (Ages 18+. $0)\n- Landscapes from the Land of Enchantment (Ages 16+. $45 for residents. $56 for non-residents)\n- Linoleum Block Print Notecards (Ages 16+. $45 for residents. $65 for non-residents)\n- Waxing Poetic Basic Worskhop: Cold Wax Painting (Ages 16+. $60. $75 for non-residents)\n- Composition, Color, & Design Workshop(Ages 16+. $65 for residents. $81 for non-residents)\n- Making Your Mark: An Intro to Pastel Workshop (Ages 16+. $35 for residents. $44 for non-residents)\n- Collage Sketchbooks Workshop (Ages 16+. $60 for residents. $81 for non-residents)\n- Capturing Light & Shadow in Pastel (Ages 16+. $65 for residents. $81 for non-residents)\n- Introduction to Drawing (Ages 10+. $65 for residents. $81 for non-residents)\n\n_Metals, Jewelry, & Fiber Arts_\n- Jewelry 101 (Ages 16+. $150 for residents. $188 for non-residents)\n- Make Your Own Bolo Tie (Ages 16+. $100 for residents. $125 for non-residents)\n- Make a Copper Belt Buckle (Ages 16+. $70 for residents. $88 for non-residents)\n- Soldering Crash Course (Ages 16+. $55 for residents. $69 for non-residents)\n\n**Performing Arts**\n- Ballet & Jazz (Ages 6-15. $25 for residents. $31 for non-residents)\n- Adult Body Discovery & Technique (Ages 18-99. $0)\n- Beginning Dance Techniques (Ages 3-9. $0)\n- Lacy Jammers (Ages 5-15. $0)\n- Older and Bolder Dance Group (Ages 55-100. $100)\n- Accordion Band (All ages, $0)\n\n",
@@ -9500,15 +9500,12 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "participate"
+      "city council"
     ],
     "Public": true,
     "Answer": "Speaking to City Council is most optimally conducted by speaking at their Regular Meetings, currently scheduled to occur on (most) Wednesdays. To be brief, you can show up at regular meetings and sign up to speak when you get there unless you wish to speak on an item that is not on the agenda. In that case, you should submit this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf) to [secretary@tulsacouncil.org](mailto:secretary@tulsacouncil.org) before 12:00pm on the Thursday prior to the meeting at which you wish to speak. \nBelow is a guide to aid you in this process.\n\n**Speaking on Agenda Items**\nTo speak on a specific agenda item at Tulsa City Council's regular meetings, you must sign a \"Request to Speak\" form in-person at the meeting at which you intend to speak. When signing this form, you must state the following.\n- Your name.\n- Your address.\n- Whether you support or oppose the specific agenda item.\n_This will be recorded and televised on the City of Tulsa's government access channel [TGOV](https://tulsa-ok.granicus.com/ViewPublisher.php?view_id=4)._\n\n**Speaking on an Issue of Your Choice**\nWith more preparation you may also speak to City Council \"on any item affecting the City of Tulsa\". Such speech is classified by the City of Tulsa as \"Public Comments\". Such comments usually take place at the end of meetings and are not televised. In order to participate in public comment, follow the following steps.\n- Fill out this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf).\n- After filling out the section titled \"Topic\", add to this section that you found this form through the Tulsa Policy Institute.\n- Submit this form to the Secretary of the Council either in writing, by fax, or email: secretary@tulsacouncil.org.\n\n**_You must submit this form no later than noon on the Thursday prior to the meeting you wish to speak at. To check if your name has been added to the agenda minutes, see [here.](https://www.tulsacouncil.org/apps/TulsaCouncilArchive)_**\n\n**Guidelines and Restrictions on Public Comment**\n- Citizens are limited to two \"Public Comment\" items each meeting. A citizen is not permitted to res-submit a request on the same subject within 180 days from the preceding request.\n- No action is taken on matters raised or discussed during \"Public Comments\" with one exception: \"possibly placing such matters on a future regular meeting or standing committee meeting of the Council\".\n- The topic should be specific, but brief. City Council suggests using words that \"an ordinary individual may understand what the topic is about\". Language submitted by citizens \"will be reviewed and, if necessary, revised to ensure compliance with the Oklahoma Open Meeting Act\".\n- Public Comments are intended to provide citizens opportunities to inform City Council about new issues affecting Tulsa. It is not a Q&A session.\n\n**Need to Know Before Attending City Council Meetings**\n- No weapon, including pocket knives, are permitted at public meetings.\n- Persons who require special accommodations to participate in City Council Meetings should contact Lori Doring through one of the following means.\n    - **Mail:** 175 East Second Street, Fourth Floor, Tulsa, Oklahoma\n    - **Phone:** 918-596-1990\n    - **Email:** [loridoring@tulsacouncil.org](mailto:loridoring@tulsacouncil.org)\n- \"Persons using a TDD may contact OKLAHOMA RELAY at 1-800-722-0353 and voice calls should be made to 1-800-522-8506 to communicate via telephone with hearing telephone users and vice versa\".\n",
     "Concepts_PreOctober": [
-      "recX9nNDKs0rtBi3g",
-      "recTduFwT9ATeQB7t",
-      "recjQZSeuGijmUfoF",
-      "recZGgJu72BM3szBu"
+      "recsBoPbyJL8qSsan"
     ],
     "Author": "Samuel",
     "QA Code": "Sub_Samuel_01",
