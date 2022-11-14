@@ -4818,48 +4818,76 @@
   },
   {
     "id": "recnMEmSq5bvbvZ4g",
+    "Tags_PreOctober": [
+      "public finance"
+    ],
     "Question": "What is the process through which the City of Tulsa would institute an income tax?",
-    "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws, which would prevent Tulsa from enacting such legislation.\n",
-    "Public": true,
-    "Contributor": "Samuel",
-    "QA Code": "Samuel_Code_002",
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
-    "Author": "Samuel",
     "Tags": [
       "public finance"
     ],
+    "Contributor": "Samuel",
     "Concepts": [
       "taxes"
     ],
-    "Tags_PreOctober copy": [
-      "revenue & spending",
-      "city gov & policy process"
+    "Public": true,
+    "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws, which would prevent Tulsa from enacting such legislation.\n",
+    "Concepts_PreOctober": [
+      "recrcssg4rJQBVqHI"
     ],
+    "Author": "Samuel",
+    "QA Code": "Samuel_Code_002",
     "Tags_PreOctober copy copy": [
       "revenue & spending",
       "city gov & policy process"
     ],
-    "Tags_PreOctober": [
-      "public finance"
-    ],
-    "Concepts_PreOctober": [
-      "recrcssg4rJQBVqHI"
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
+    "Tags_PreOctober copy": [
+      "revenue & spending",
+      "city gov & policy process"
     ]
   },
   {
     "id": "rec4pX9kHFNmS1NpQ",
     "Tags_PreOctober": [
-      "governance process"
+      "public finance"
     ],
     "Question": "Can the City of Tulsa change the sales tax?",
     "Tags": [
-      "governance process",
       "public finance"
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this",
       "taxes"
+    ],
+    "Public": true,
+    "Answer": "Yes - through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect sales tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". \n",
+    "Concepts_PreOctober": [
+      "recrcssg4rJQBVqHI"
+    ],
+    "Author": "Samuel",
+    "QA Code": "Samuel_Code_003",
+    "Tags_PreOctober copy copy": [
+      "revenue & spending",
+      "city gov & policy process"
+    ],
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
+    "Tags_PreOctober copy": [
+      "revenue & spending",
+      "city gov & policy process"
+    ]
+  },
+  {
+    "id": "recp155LhwYLMznpV",
+    "Tags_PreOctober": [
+      "governance process"
+    ],
+    "Question": "What is the process through which the City of Tulsa changes the sales tax?",
+    "Tags": [
+      "governance process"
+    ],
+    "Contributor": "Samuel",
+    "Concepts": [
+      "can they do this"
     ],
     "Public": true,
     "Answer": "Yes - through an election question voted in by a majority of voters. As it stands, the City of Tulsa may collect sales tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\". \n",
