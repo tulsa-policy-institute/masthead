@@ -4791,18 +4791,18 @@
     ],
     "Question": "How could an income tax be instituted in the City of Tulsa?",
     "Tags": [
-      "governance process",
-      "public finance"
+      "governance process"
     ],
     "Contributor": "Samuel",
     "Concepts": [
       "can they do this",
-      "taxes"
+      "state of oklahoma"
     ],
     "Public": true,
     "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws, which would prevent Tulsa from enacting such legislation.\n",
     "Concepts_PreOctober": [
-      "recsvNFdPofu3IlhE"
+      "recsvNFdPofu3IlhE",
+      "recex3pj2DIma2nV4"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_002",
@@ -4814,6 +4814,36 @@
     "Tags_PreOctober copy": [
       "revenue & spending",
       "city gov & policy process"
+    ]
+  },
+  {
+    "id": "recnMEmSq5bvbvZ4g",
+    "Question": "What is the process through which the City of Tulsa would institute an income tax?",
+    "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws, which would prevent Tulsa from enacting such legislation.\n",
+    "Public": true,
+    "Contributor": "Samuel",
+    "QA Code": "Samuel_Code_002",
+    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 1, Section 3 - General Grant of Power, Subsection D_\n",
+    "Author": "Samuel",
+    "Tags": [
+      "public finance"
+    ],
+    "Concepts": [
+      "taxes"
+    ],
+    "Tags_PreOctober copy": [
+      "revenue & spending",
+      "city gov & policy process"
+    ],
+    "Tags_PreOctober copy copy": [
+      "revenue & spending",
+      "city gov & policy process"
+    ],
+    "Tags_PreOctober": [
+      "public finance"
+    ],
+    "Concepts_PreOctober": [
+      "recrcssg4rJQBVqHI"
     ]
   },
   {
