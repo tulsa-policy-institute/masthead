@@ -5596,6 +5596,16 @@
     ]
   },
   {
+    "id": "rec9AcMTrZV4dGk60",
+    "Name": "governing transportation",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing transportation"
+    ]
+  },
+  {
     "id": "recZFc6GvrasBwg89",
     "Name": "legal affairs",
     "Tags": [
@@ -7320,22 +7330,6 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ]
-  },
-  {
-    "id": "rec9AcMTrZV4dGk60",
-    "Name": "governing transportation",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governing transportation"
-    ],
-    "Questions": [
-      "recnW9By7HRQdAN1n"
-    ],
-    "NewTags": [
-      "governance process"
     ]
   },
   {
