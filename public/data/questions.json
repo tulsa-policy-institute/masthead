@@ -546,16 +546,12 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "maps",
-      "access data",
-      "voting & elections"
+      "access data"
     ],
     "Public": true,
     "Answer": "Visit Tulsa's online district map [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=5ee4acc23016404aae82bc8100168a4c). \n\nWith this map, you can enter a specific address to see which of Tulsa's 9 Council Districts it falls into. Searching an address or clicking on the map will also provide a link to information about that District as well as contact information for the City Councilor who represents it. \n",
     "Concepts_PreOctober": [
-      "recyz70Oeg3aDAwFw",
-      "recyJCadYKnbBRD0a",
-      "recjM4TreOC0HE8Ya"
+      "recyz70Oeg3aDAwFw"
     ],
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
