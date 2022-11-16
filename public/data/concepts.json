@@ -5706,11 +5706,11 @@
   {
     "id": "recml1pHthmbQiTVf",
     "Name": "permits & licenses",
-    "MegaName": [
-      "permits & licenses"
-    ],
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "permits & licenses"
     ]
   },
   {
@@ -5718,6 +5718,9 @@
     "Name": "the mayor",
     "Tags": [
       "city gov & policy process"
+    ],
+    "MegaName": [
+      "the mayor"
     ],
     "Questions_old": [
       "recKUtQmqzyICt2px",
@@ -5814,9 +5817,6 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "the mayor"
     ]
   },
   {
@@ -5874,6 +5874,9 @@
     "Tags": [
       "city gov & policy process"
     ],
+    "MegaName": [
+      "service delivery"
+    ],
     "Questions_old": [
       "reclGjy18Ovhszv3Y"
     ],
@@ -5908,9 +5911,6 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "service delivery"
     ]
   },
   {
@@ -6279,17 +6279,17 @@
   {
     "id": "recKLOVizo4uMP4pk",
     "Name": "county spending",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "county spending"
+    ],
     "Questions": [
       "recT18BbTvdrkQe7g"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "county spending"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
@@ -6323,6 +6323,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ],
     "Questions": [
       "recLu4wsISSej0cnh",
       "rec2i1S5O7ZsQv1sc"
@@ -6330,9 +6333,6 @@
     "NewTags": [
       "public finance",
       "governance process"
-    ],
-    "MegaName": [
-      "funding tulsa maintenance"
     ]
   },
   {
@@ -6340,6 +6340,9 @@
     "Name": "funding public safety",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "funding tulsa maintenance"
     ],
     "Questions": [
       "recMlb9api3t7g0hK",
@@ -6358,9 +6361,6 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding tulsa maintenance"
     ]
   },
   {
@@ -6369,6 +6369,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ],
     "Questions": [
       "rec5xBn66Tlp9QO7G",
       "recEtHM63ySpYObMK"
@@ -6376,9 +6379,6 @@
     "NewTags": [
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding tulsa maintenance"
     ]
   },
   {
@@ -6467,6 +6467,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ],
     "Questions": [
       "recgYNTUoE1hKUwxt",
       "recs4eqMmxCdtotTc",
@@ -6476,9 +6479,6 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding tulsa maintenance"
     ]
   },
   {
@@ -6486,6 +6486,9 @@
     "Name": "funding administration",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "funding tulsa maintenance"
     ],
     "Questions": [
       "recgIGMPLppYbYBr8",
@@ -6505,9 +6508,6 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding tulsa maintenance"
     ]
   },
   {
@@ -6516,6 +6516,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ],
     "Questions": [
       "rec4YReGTTKc1UpI1",
       "rec9Q88API3bDPi1Q"
@@ -6523,9 +6526,6 @@
     "NewTags": [
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding tulsa maintenance"
     ]
   },
   {
@@ -6534,6 +6534,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "funding tulsa lifestyle"
+    ],
     "Questions": [
       "recQ5NxDypE15qvUN",
       "recT18BbTvdrkQe7g"
@@ -6541,9 +6544,6 @@
     "NewTags": [
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding tulsa lifestyle"
     ]
   },
   {
@@ -6552,14 +6552,14 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "funding tulsa lifestyle"
+    ],
     "Questions": [
       "recTHQ7p2ei0oiMs2"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "funding tulsa lifestyle"
     ]
   },
   {
@@ -6657,6 +6657,9 @@
     "Tags": [
       "city gov & policy process"
     ],
+    "MegaName": [
+      "public management"
+    ],
     "Questions": [
       "recP6f8ViefZ8ZbTQ",
       "recPGSpD93NzAfMOI",
@@ -6708,9 +6711,6 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "public management"
     ]
   },
   {
@@ -6974,6 +6974,9 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "the bird's eye view"
+    ],
     "Questions_old": [
       "recud2YLagZ1EZzC1"
     ],
@@ -6982,9 +6985,6 @@
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "the bird's eye view"
     ]
   },
   {
@@ -6993,14 +6993,14 @@
     "Tags": [
       "revenue & spending"
     ],
+    "MegaName": [
+      "budget process"
+    ],
     "Questions": [
       "recBLQvnyOqgSY4fL"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "budget process"
     ]
   },
   {
@@ -7295,6 +7295,9 @@
     "Tags": [
       "city gov & policy process"
     ],
+    "MegaName": [
+      "public management"
+    ],
     "Questions_old": [
       "recceKMCT94saVYJL",
       "recdfXbSjevbdK5WI",
@@ -7305,9 +7308,6 @@
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "public management"
     ]
   },
   {

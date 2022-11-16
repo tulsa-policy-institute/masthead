@@ -481,14 +481,14 @@
     ],
     "Public": true,
     "Answer": "**Yes.** You'll need a residential alteration permit. Such permits are required for any changes to an existing structure which don't increase the floor area. You can apply for one through Tulsa's permit self service portal online. \n",
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -1404,7 +1404,13 @@
       "governance process"
     ],
     "Contributor": "Dan",
+    "Concepts": [
+      "funding municipal courts"
+    ],
     "Answer": "The City's budget for FY23 \"funds an additional prosecutor to facilitate the implementation of a night court in the municipal court system.\" City Council Chairperson, Lori Decter Wright, said in her budget address that night court will \"increase accessibility to citizens who are unable to appear before our courts during their regular working hours\".\n",
+    "Concepts_PreOctober": [
+      "rectKJW7zUGI0SBBF"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_020",
     "Tags_PreOctober copy copy": [
@@ -1413,12 +1419,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 6_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts": [
-      "funding municipal courts"
-    ],
-    "Concepts_PreOctober": [
-      "rectKJW7zUGI0SBBF"
     ]
   },
   {
@@ -1909,30 +1909,30 @@
   },
   {
     "id": "recnGl3ZWERM3ug6g",
-    "Question": "What role can residents play in selecting projects to be funded?",
-    "Answer": "Public hearings are held before deciding what projects to include in any multi-year capital program, which requires approval by the City Council in the form of an adopted ordinance as part of the annual budget process. \n",
-    "Public": true,
-    "Contributor": "Dan",
-    "QA Code": "Dan_Budget_037",
-    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
-    "Author": "Dan",
-    "Tags": [
-      "accessing tulsa"
-    ],
-    "Tags_PreOctober copy copy": [
-      "public services"
-    ],
-    "Tags_PreOctober copy": [
-      "public services"
-    ],
     "Tags_PreOctober": [
       "accessing tulsa"
     ],
+    "Question": "What role can residents play in selecting projects to be funded?",
+    "Tags": [
+      "accessing tulsa"
+    ],
+    "Contributor": "Dan",
     "Concepts": [
       "participate"
     ],
+    "Public": true,
+    "Answer": "Public hearings are held before deciding what projects to include in any multi-year capital program, which requires approval by the City Council in the form of an adopted ordinance as part of the annual budget process. \n",
     "Concepts_PreOctober": [
       "rec3AOYRS5Nz2mhJ7"
+    ],
+    "Author": "Dan",
+    "QA Code": "Dan_Budget_037",
+    "Tags_PreOctober copy copy": [
+      "public services"
+    ],
+    "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
+    "Tags_PreOctober copy": [
+      "public services"
     ]
   },
   {
@@ -2748,8 +2748,14 @@
       "governance process"
     ],
     "Contributor": "Dan",
+    "Concepts": [
+      "governing neighborhoods"
+    ],
     "Public": true,
     "Answer": "The City of Tulsa manages **135** parks covering roughly 6,553 acres. This includes the following.\n- Two nature centers.\n- Seven community centers (including WaterWorks Art Studio).\n- 57 miles of walking trails.\n- Two skate parks.\n- Three dog parks.\n- Five swimming pools. \nIn addition, there are 227 sports fields.\n- 132 diamond fields.\n- 95 rectangular fields.\n- 99 playgrounds.\n- 94 tennis courts.\n- 8 pickleball courts.\n- 29 basketball courts.\n- 36 half basketball courts.\n- 13 water playgrounds.\n- 18 splash pads.\n- 96 picnic shelters.\n- 4 golf courses.\n- 8 disc golf courses.\n",
+    "Concepts_PreOctober": [
+      "recROW1nz5QbMVqRb"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_065",
     "Tags_PreOctober copy copy": [
@@ -2758,12 +2764,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 21, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recROW1nz5QbMVqRb"
-    ],
-    "Concepts": [
-      "governing neighborhoods"
     ]
   },
   {
@@ -3332,8 +3332,14 @@
       "public finance"
     ],
     "Contributor": "Dan",
+    "Concepts": [
+      "funding transportation"
+    ],
     "Public": true,
     "Answer": "The Streets and Stormwater Department is receiving $1.9 million in the FY23 budget intended for the following.\n- Manage contracted services for utility pole removal\n- Traffic light conversion and expansion\n- Median maintenance and beautification. \n\nAdditionally, two inspectors have been funded to monitor streets and maintenance zones to aid the aforementioned efforts. Finally, two crew members are to be funded to remediate graffiti.\n",
+    "Concepts_PreOctober": [
+      "rec9RfAg7aZptP3qR"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_082",
     "Tags_PreOctober copy copy": [
@@ -3342,12 +3348,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 51, Paragraph 3_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "rec9RfAg7aZptP3qR"
-    ],
-    "Concepts": [
-      "funding transportation"
     ]
   },
   {
@@ -3821,6 +3821,9 @@
     ],
     "Public": true,
     "Answer": "The City Attorney and the Legal department provide all the City’s municipal legal services. The department prepares and reviews ordinances, resolutions, executive orders, and contracts, and handles litigation, claims and controversies involving the City. Attorneys give advice and legal opinions to the City's elected officials, officers, employees, and to City boards, trusts, authorities, and agencies.\n",
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
+    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_097",
     "Tags_PreOctober copy copy": [
@@ -3829,9 +3832,6 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 72, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
-    ],
-    "Concepts_PreOctober": [
-      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -8737,8 +8737,14 @@
       "law & justice"
     ],
     "Contributor": "Samuel",
+    "Concepts": [
+      "neighborhood life"
+    ],
     "Public": true,
     "Answer": "**No**, according to the Tulsa Zoning Code Section 45.140. The Tulsa Planning Office's Neighborhood Toolkit states \"Inoperable vehicles must be stored in a fully enclosed structure\"(11), the Tulsa Zoning Codes states that inoperable vehicles may be placed in the back yard. Further, note that a vehicle is not inoperable merely because it \"...does not include a motor vehicle that has been rendered temporarily incapable of being driven under its own motor power, solely to perform ordinary service or repair operations\"(Section 95.120). A vehicle is only inoperable if, for a seven day period, the vehicle's engine, wheels, or other parts are removed OR in which the engine, wheels, or other parts have been damaged, altered, or modified such that the vehicle is not capable of being driven.\n",
+    "Concepts_PreOctober": [
+      "recgOL1Tjb6v7gbSM"
+    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_013",
     "Tags_PreOctober copy copy": [
@@ -8747,12 +8753,6 @@
     "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n",
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts": [
-      "neighborhood life"
-    ],
-    "Concepts_PreOctober": [
-      "recgOL1Tjb6v7gbSM"
     ]
   },
   {
@@ -9035,8 +9035,14 @@
       "governance process"
     ],
     "Contributor": "Samuel",
+    "Concepts": [
+      "governing neighborhoods"
+    ],
     "Public": true,
     "Answer": "If you own property within a half-mile of a Bus Rapid Transit station on Peoria Ave. in Tulsa, your property may be eligible for re-zoning as a mixed-use district. Mixed-use zoning allows you to develop or redevelop your property to support any combination of residential, retail, and/or office space. The Tulsa Planning Office has a map and staff to help you find out if your property is eligible. If it is, you can submit an application for free (instead of the standard $2,000 cost) until Dec 31, 2023. Staff at the Tulsa Metropolitan Planning Commission will review your application and notify neighbors of their opportunity to comment on the application. TMAPC staff will recommend approval or denial of your application at a public meeting. If recommended for approval, your case will then appear before Tulsa City council for a final vote on approval. \n",
+    "Concepts_PreOctober": [
+      "recROW1nz5QbMVqRb"
+    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_022",
     "Tags_PreOctober copy copy": [
@@ -9045,12 +9051,6 @@
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n",
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts": [
-      "governing neighborhoods"
-    ],
-    "Concepts_PreOctober": [
-      "recROW1nz5QbMVqRb"
     ]
   },
   {
@@ -9204,6 +9204,9 @@
       "accessing tulsa"
     ],
     "Contributor": "Samuel",
+    "Concepts": [
+      "participate"
+    ],
     "Public": true,
     "Answer": "The Parks, Culture, & Recreation Department offers a variety of classes and programs, as can be seen [here](https://guide.tulsaparks.org/CourseActivities.aspx?id=22&cat=8).  Most of these are listed below.\n\nFor most courses, the associated costs include each class session, which vary by program. For example, most fitness classes include 8-13 sessions.\n\n**Educational**\n- English Classes (All ages. $0)\n- Junior Naturalist Program (Ages 8-12. $100)\n- Kids Programs (Ages 1-8. $0-135)\n- United Health Care Open [Medicare] Enrollment (Ages 65+. $0)\n\n**Fitness**\n- Low-Impact Aerobics (Ages 18+. $25 for residents. $31 for non-residents)\n- Senior X-R-Cise (Ages 16+. $35 for residents. $44 for non-residents)\n- Self-Defense and Fitness (Ages 18+. $25 for residents. $31 for non-residents)\n- Ladies Private Weight Training (Ages 18-99. $2 for residents. $0 for non-residents)\n- Small Group Weight Training (Ages 16-65. $15)\n- Balancing Exercises (Ages 55-100. $0)\n- 30 Minute Workout (Ages 9-99. $2)\n- Family Dance & Exercise (Ages 5-99. $5)\n- Refit Revolution (Ages 13+. $25)\n- Strong Nation (Cardio + HIIT) (Ages 13-99. $25)\n- H.I.I.T (High Intensity Interval Train) (Ages 16-99. $25)\n- Zumba (Ages 16+. $35 for residents. $44 for non-residents)\n- Zumba with Sarah (Ages 16+. $30 for residents. $37 for non-residents)\n- Classics Morning Walk (All ages. $0)\n- Walk and Talk (Ages 18-99. $0)\n\n**Sports & Athletics**\n\n_Basketball, Soccer, Volleyball, Tennis, & Pickleball_\n- 40+ Basketball (Ages 40-99. $0)\n- Youth Soccer (Ages 7-9 or 9-12. $75 for residents. $91 for non-residents).\n- Volleyball Developmental Program (Grades 4-5 or 6-8. $50 for residents or $62 for non-residents)\n- Open Adult Volleyball (All ages. $0)\n- Open Pickleball (Ages 18+. $0)\n\n_Archery_\n- Archery (Ages 8-80. $20 for residents. $25 for non-residents)\n\n_Martial Arts_\n- Tae Kwon Do (Ages 5-100. $25 for residents. 31$ for non-residents)\n- Shotokan (Ages 9+. $25 for residents. 31$ for non-residents)\n- Karate (Ages 5-11 or 12-17. $5 for residents. 0$ for non-residents)\n- Young Samurai Martial Arts (Ages 6-14. $35 for residents. $45 for non-residents)\n- Close Combat Martial Arts (Ages 15-95. $50)\n- Weapons Martial Arts (Ages 15-95. $60)\n- Light Saber Martial Arts (Ages 8-95 or 99. $20 for residents. $25 for non-residents)\n\n_Gymnastics_\n- Tiny Tumbling (Ages 3-6. $40 for residents. $50 for non-residents)\n- Beginner Tumbling (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Little Kinder Kids (Ages 2-4. $40 for residents. $50 for non-residents)\n- Gymnastics - Kinder Kids (Ages 4-6. $40 for residents. $50 for non-residents)\n- Gymnastics Kinderplus (Ages 3-5. $45 for residents. 54$ for non-residents)\n- Gymnastics - Jam & Slam (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Girls Pre Team (Ages 5-17 or 18. $75 for residents. $90 for non-residents)\n- Gymnastics - Boys Pre Team (Ages 6-18. $50 or $85 for residents. $60 or $105 for non-residents)\n- Gymnastics Team Level 1, 3, & 4 (Ages5-18)\n    - Level 1: $85 for residents. $105 for non-residents.\n    - Level 3: $95 for residents. $120 for non-residents.\n    - Level 4: $115 for residents. $140 for non-residents.\n- Gymnastics - Beginner (Ages 6-8 or 12. $45 for residents. $54 for non-residents)\n- Gymnastics - Pre-Team (Ages 9-12. $45 for residents. $54 for non-residents)\n- Gymnastics - Beginner/Homeschool (Ages 6-14. $45 for residents. $54 for non-residents)\n- Gymnastics - Junior Beginner (Ages 4-6. $45 for residents. $54 for non-residents)\n- Gymnastics - Intermediate (Ages 8-12. $45 for residents. $54 for non-residents)\n- Gymnastics Team - Twisters (Ages 4-15. $90)\n\n**Visual Arts**\n\n_Ceramics, Clay, & Pottery_\n- Ceramics (Ages 18+. $5)\n- Beginning Pottery Wheel (Ages 16+. $140)\n- Intermediate Pottery Wheel (Ages 16+. $115)\n- Make a Mask: A Clay Date for Couples (Ages 16+. $75)\n- The Art of Raku (Ages 16+. $130)\n- Small Sculptures Workshop (Ages 16+. $90)\n- Gone Fishin' Parent-Child Clay Workshop (Ages 7+. $45)\n\n_Drawing & Painting_\n- Portrait Painters (Ages 18+. $0)\n- Landscapes from the Land of Enchantment (Ages 16+. $45 for residents. $56 for non-residents)\n- Linoleum Block Print Notecards (Ages 16+. $45 for residents. $65 for non-residents)\n- Waxing Poetic Basic Worskhop: Cold Wax Painting (Ages 16+. $60. $75 for non-residents)\n- Composition, Color, & Design Workshop(Ages 16+. $65 for residents. $81 for non-residents)\n- Making Your Mark: An Intro to Pastel Workshop (Ages 16+. $35 for residents. $44 for non-residents)\n- Collage Sketchbooks Workshop (Ages 16+. $60 for residents. $81 for non-residents)\n- Capturing Light & Shadow in Pastel (Ages 16+. $65 for residents. $81 for non-residents)\n- Introduction to Drawing (Ages 10+. $65 for residents. $81 for non-residents)\n\n_Metals, Jewelry, & Fiber Arts_\n- Jewelry 101 (Ages 16+. $150 for residents. $188 for non-residents)\n- Make Your Own Bolo Tie (Ages 16+. $100 for residents. $125 for non-residents)\n- Make a Copper Belt Buckle (Ages 16+. $70 for residents. $88 for non-residents)\n- Soldering Crash Course (Ages 16+. $55 for residents. $69 for non-residents)\n\n**Performing Arts**\n- Ballet & Jazz (Ages 6-15. $25 for residents. $31 for non-residents)\n- Adult Body Discovery & Technique (Ages 18-99. $0)\n- Beginning Dance Techniques (Ages 3-9. $0)\n- Lacy Jammers (Ages 5-15. $0)\n- Older and Bolder Dance Group (Ages 55-100. $100)\n- Accordion Band (All ages, $0)\n\n",
     "Concepts_PreOctober": [
@@ -9217,9 +9220,6 @@
     "Source": "City of Tulsa. _Tulsa Parks Course Activities provided by the Parks, Culture, & Recreation Department._\n",
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts": [
-      "participate"
     ]
   },
   {
