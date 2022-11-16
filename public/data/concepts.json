@@ -2602,6 +2602,23 @@
     ]
   },
   {
+    "id": "recpRzWgONB4fYLgm",
+    "Name": "city treasurer",
+    "Tags": [
+      "revenue & spending",
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "city treasurer"
+    ],
+    "Questions_old": [
+      "recaQLFDJyoC7IIgF",
+      "recOmyIu0QxBEQqgV",
+      "recXs1flaptEVIw6G",
+      "recfjeXv4Ol0a6SKJ"
+    ]
+  },
+  {
     "id": "recNUVECzOhYh6dnX",
     "Name": "library",
     "Tags": [
@@ -5464,6 +5481,16 @@
     "Name": "parks"
   },
   {
+    "id": "recGYawUg6ZDn8C5V",
+    "Name": "public assets",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "public assets"
+    ]
+  },
+  {
     "id": "recZCWbrLFhgKVbNI",
     "Name": "funding parks"
   },
@@ -5485,6 +5512,16 @@
     ]
   },
   {
+    "id": "recK8MdD9poMFql7q",
+    "Name": "governing permits & licenses",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing permits & licenses"
+    ]
+  },
+  {
     "id": "rec4wByymytzBfyCr",
     "Name": "funding legal affairs"
   },
@@ -5496,6 +5533,16 @@
     ],
     "MegaName": [
       "voting & elections"
+    ]
+  },
+  {
+    "id": "reccuB1KcJR6jKdW6",
+    "Name": "permits & licenses - governance",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "permits & licenses - governance"
     ]
   },
   {
@@ -5686,30 +5733,16 @@
       "recdtjtiCncpMuELo",
       "recv1DWIEkBxAILJu",
       "recTyeq4hYDEEYyk2",
-      "recoRyH2BryE7rqWn"
+      "recoRyH2BryE7rqWn",
+      "recnMEmSq5bvbvZ4g"
     ],
     "NewTags": [
       "governance process",
       "governance process",
       "public finance",
       "governance process",
-      "governance process"
-    ]
-  },
-  {
-    "id": "reccuB1KcJR6jKdW6",
-    "Name": "permits & licenses - governance",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "permits & licenses - governance"
-    ],
-    "Questions": [
-      "recZpTy0JHwRodHRh"
-    ],
-    "NewTags": [
-      "governance process"
+      "governance process",
+      "public finance"
     ]
   },
   {
@@ -5774,9 +5807,11 @@
       "governing land"
     ],
     "Questions": [
-      "rec3I363fvWW148T2"
+      "rec3I363fvWW148T2",
+      "recQZlGPXVfYJSb4y"
     ],
     "NewTags": [
+      "governance process",
       "governance process"
     ]
   },
@@ -6261,22 +6296,6 @@
     ]
   },
   {
-    "id": "recGYawUg6ZDn8C5V",
-    "Name": "public assets",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "public assets"
-    ],
-    "Questions": [
-      "recQZlGPXVfYJSb4y"
-    ],
-    "NewTags": [
-      "governance process"
-    ]
-  },
-  {
     "id": "recAu71Bp6XzkMMaD",
     "Name": "funding public safety",
     "Tags": [
@@ -6681,30 +6700,6 @@
     ]
   },
   {
-    "id": "recpRzWgONB4fYLgm",
-    "Name": "city treasurer",
-    "Tags": [
-      "revenue & spending",
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "city treasurer"
-    ],
-    "Questions_old": [
-      "recaQLFDJyoC7IIgF",
-      "recOmyIu0QxBEQqgV",
-      "recXs1flaptEVIw6G",
-      "recfjeXv4Ol0a6SKJ"
-    ],
-    "Questions": [
-      "recTjmf7h0JsMBHep"
-    ],
-    "NewTags": [
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
     "id": "reclvduD9IJ0nT9A5",
     "Name": "funding regulation",
     "MegaName": [
@@ -6821,6 +6816,26 @@
     ]
   },
   {
+    "id": "recex3pj2DIma2nV4",
+    "Name": "state of oklahoma",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "state of oklahoma"
+    ],
+    "Questions_old": [
+      "recQWNTioQTAzS9WA",
+      "recJWCqMOuLqKvqWZ"
+    ],
+    "Questions": [
+      "recVTBqVF05rHDqU4"
+    ],
+    "NewTags": [
+      "governance process"
+    ]
+  },
+  {
     "id": "recjQZSeuGijmUfoF",
     "Name": "open meeting laws",
     "Tags": [
@@ -6837,30 +6852,6 @@
       "recVTBqVF05rHDqU4"
     ],
     "NewTags": [
-      "governance process"
-    ]
-  },
-  {
-    "id": "recex3pj2DIma2nV4",
-    "Name": "state of oklahoma",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "state of oklahoma"
-    ],
-    "Questions_old": [
-      "recQWNTioQTAzS9WA",
-      "recJWCqMOuLqKvqWZ"
-    ],
-    "Questions": [
-      "recVTBqVF05rHDqU4",
-      "recdtjtiCncpMuELo",
-      "receA6nhnlsmXDye6"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
       "governance process"
     ]
   },
@@ -7091,22 +7082,6 @@
       "public finance",
       "public finance",
       "public finance"
-    ]
-  },
-  {
-    "id": "recK8MdD9poMFql7q",
-    "Name": "governing permits & licenses",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governing permits & licenses"
-    ],
-    "Questions": [
-      "reccfQ08H8GDcN6VR"
-    ],
-    "NewTags": [
-      "governance process"
     ]
   },
   {

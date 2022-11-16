@@ -2721,14 +2721,8 @@
       "governance process"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "public assets"
-    ],
     "Public": true,
     "Answer": "The City of Tulsa manages **135** parks covering roughly 6,553 acres. This includes the following.\n- Two nature centers.\n- Seven community centers (including WaterWorks Art Studio).\n- 57 miles of walking trails.\n- Two skate parks.\n- Three dog parks.\n- Five swimming pools. \nIn addition, there are 227 sports fields.\n- 132 diamond fields.\n- 95 rectangular fields.\n- 99 playgrounds.\n- 94 tennis courts.\n- 8 pickleball courts.\n- 29 basketball courts.\n- 36 half basketball courts.\n- 13 water playgrounds.\n- 18 splash pads.\n- 96 picnic shelters.\n- 4 golf courses.\n- 8 disc golf courses.\n",
-    "Concepts_PreOctober": [
-      "recGYawUg6ZDn8C5V"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_065",
     "Tags_PreOctober copy copy": [
@@ -2737,6 +2731,12 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 21, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "governing land"
+    ],
+    "Concepts_PreOctober": [
+      "recibLnZdVDZKJE9o"
     ]
   },
   {
@@ -3046,13 +3046,11 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "service delivery",
-      "governing permits & licenses"
+      "service delivery"
     ],
     "Public": true,
     "Answer": "The FY23 municipal budget includes** $88,000 in new funding **for the Department of Development Services **to hire two additional office assistants** to \"meet permit licenses and customer requests\". The City is also spending $334,000 to replace 11 SUV's used by inspection staff. \n",
     "Concepts_PreOctober": [
-      "recK8MdD9poMFql7q",
       "recyUhPcjsDzsScmC"
     ],
     "Author": "Dan",
@@ -4830,14 +4828,12 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this",
-      "state of oklahoma"
+      "can they do this"
     ],
     "Public": true,
     "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws, which would prevent Tulsa from enacting such legislation.\n",
     "Concepts_PreOctober": [
-      "recsvNFdPofu3IlhE",
-      "recex3pj2DIma2nV4"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_002",
@@ -4862,12 +4858,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "taxes"
+      "taxes",
+      "intergovernmental relations"
     ],
     "Public": true,
     "Answer": "Through **an election question voted in by a majority of voters**. As it stands, the City of Tulsa may collect income tax provided that such tax has \"been approved by a majority of the qualified electors of the City of Tulsa voting on the question at an election for the purpose of approving or disapproving of a proposed tax\".\n\nAlso, it is possible for the State of Oklahoma to preempt such laws, which would prevent Tulsa from enacting such legislation.\n",
     "Concepts_PreOctober": [
-      "recrcssg4rJQBVqHI"
+      "recrcssg4rJQBVqHI",
+      "recSGySDo7WKcIwRl"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_002",
@@ -4952,14 +4950,12 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this",
-      "permits & licenses"
+      "can they do this"
     ],
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recsvNFdPofu3IlhE",
-      "reccuB1KcJR6jKdW6"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_004",
@@ -5158,8 +5154,7 @@
     "Answer": "The City of Tulsa may \n> ...enter into agreements with the State of Oklahoma; with another state or municipality; with any subdivision or agency thereof; with the federal government or any agency thereof; with private corporations, partnerships or individuals, or any combination thereof; and to exercise jointly all powers, privileges, and authority conferred upon the City of Tulsa by this amended Charter or by the laws of Oklahoma.\n",
     "Concepts_PreOctober": [
       "recSGySDo7WKcIwRl",
-      "recsvNFdPofu3IlhE",
-      "recex3pj2DIma2nV4"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_011",
@@ -6519,8 +6514,7 @@
     "Answer": "> If the City Treasurer projects that total General Fund revenues for the upcoming budget year will either (a) be less than the current budget year's total General Fund revenues, or (b) be less than the highest of any other previous year's total General Fund revenues, the budget submitted by the Mayor and approved by the Council may appropriate up to fifty percent (50%) of the current balance in the Economic Stabilization Reserve, but no more than the shortfall in total General Fund revenues as determined above, to be used for any lawful municipal purpose in the upcoming budget year. For purposes of calculating any shortfall:\n> A. If the trigger for withdrawals from the reserve was not met in the current budget year, the City Treasurer shall calculate the shortfall for the upcoming budget year by subtracting the total projected General Fund revenues for the upcoming budget year from the total projected General Fund revenues for the current budget year.\n> B. If the trigger for withdrawals from the Economic Stabilization Reserve was met in the current budget year, the shortfall shall be calculated by subtracting the total projected General Fund revenues for the upcoming budget year from the highest of any previous year's total General Fund revenues. \n\nAs outlined in Section 7.9 of the City Charter, the City may withdraw the percentage of negative growth in the Consumer Price Index if the City Treasurer projects that the Consumer Price Index for the upcoming budget year will be less than the index for the current budget year.\n",
     "Concepts_PreOctober": [
       "rec0y2K4uoaOPTi6O",
-      "recsvNFdPofu3IlhE",
-      "recpRzWgONB4fYLgm"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_057",
