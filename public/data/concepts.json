@@ -3491,6 +3491,9 @@
   {
     "id": "recjQZSeuGijmUfoF",
     "Name": "open meeting laws",
+    "Tags": [
+      "city gov & policy process"
+    ],
     "MegaName": [
       "state of oklahoma"
     ],
@@ -3503,14 +3506,14 @@
     ],
     "NewTags": [
       "governance process"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "recex3pj2DIma2nV4",
     "Name": "state of oklahoma",
+    "Tags": [
+      "city gov & policy process"
+    ],
     "MegaName": [
       "state of oklahoma"
     ],
@@ -3527,9 +3530,6 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -3678,17 +3678,17 @@
   {
     "id": "recL3q04Qbq5ADx9t",
     "Name": "zoning & land use",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "zoning & land use"
+    ],
     "Questions": [
       "recI9hhWolXMWZInc"
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "zoning & land use"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -3745,17 +3745,17 @@
   {
     "id": "recsBoPbyJL8qSsan",
     "Name": "city council - access",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "city council"
+    ],
     "Questions": [
       "recBHG04HEVgMAPNw"
     ],
     "NewTags": [
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "city council"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
@@ -4728,6 +4728,9 @@
   {
     "id": "reciadpYORsfn5Qbg",
     "Name": "volunteer",
+    "Tags": [
+      "public services"
+    ],
     "MegaName": [
       "voting & citizen engagement"
     ],
@@ -4736,9 +4739,6 @@
     ],
     "NewTags": [
       "accessing tulsa"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
@@ -5105,6 +5105,9 @@
   {
     "id": "reckyRUNzxZWiOrnz",
     "Name": "code violations",
+    "Tags": [
+      "city gov & policy process"
+    ],
     "MegaName": [
       "service requests & reporting"
     ],
@@ -5113,9 +5116,6 @@
     ],
     "NewTags": [
       "law & justice"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -5431,6 +5431,12 @@
   {
     "id": "recEayg3FQVzYq1R8",
     "Name": "public transit",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public transit"
+    ],
     "Questions": [
       "recaIU9TNWQf5JOMT",
       "recam7SmnMZub5ra7",
@@ -5442,12 +5448,6 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "public transit"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
@@ -5906,6 +5906,12 @@
   {
     "id": "recIugwqMNaDNiHua",
     "Name": "authorities, boards, & commissions",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "authorities, boards, & commissions"
+    ],
     "Questions": [
       "recsF6MDgTEEKZC3x",
       "recplWQBzupVuhiw1",
@@ -5915,12 +5921,6 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "authorities, boards, & commissions"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -5936,6 +5936,12 @@
   {
     "id": "recu6NcBQpBMA2lzA",
     "Name": "utilities & user rates",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "utilities & user rates"
+    ],
     "Questions": [
       "recZekbRTdqP7GLre",
       "recLmK4VpaNtFVKvV",
@@ -5961,17 +5967,17 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "utilities & user rates"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "recyJCadYKnbBRD0a",
     "Name": "maps",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "maps"
+    ],
     "Questions": [
       "recBeu2kRrxU0TKQm",
       "rec8xRk3pQw0auRa8"
@@ -5979,33 +5985,33 @@
     "NewTags": [
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "maps"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "recBbaMtLjbyY8IFD",
     "Name": "user fees",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "user fees"
+    ],
     "Questions": [
       "recKhEzYfGNFaBBf1"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "user fees"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "reclRZ77sPgyBPqqn",
     "Name": "report or request",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "report or request"
+    ],
     "Questions": [
       "rec1EAnNPRpA7bLa3",
       "rec4GLmcNexViKGz8",
@@ -6019,12 +6025,6 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "report or request"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
@@ -6033,6 +6033,9 @@
     "Tags": [
       "revenue & spending",
       "city gov & policy process"
+    ],
+    "MegaName": [
+      "city treasurer"
     ],
     "Questions_old": [
       "recaQLFDJyoC7IIgF",
@@ -6046,14 +6049,17 @@
     "NewTags": [
       "public finance",
       "governance process"
-    ],
-    "MegaName": [
-      "city treasurer"
     ]
   },
   {
     "id": "recf9vQSSV9y8JyWT",
     "Name": "the bird's eye view",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "the bird's eye view"
+    ],
     "Questions": [
       "recVzsAuskELT9vTv",
       "recVE4ypLjJRwI7Ew",
@@ -6078,12 +6084,6 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "the bird's eye view"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
@@ -6091,6 +6091,9 @@
     "Name": "incog",
     "Tags": [
       "city gov & policy process"
+    ],
+    "MegaName": [
+      "incog"
     ],
     "Questions_old": [
       "recjUKapkhmNZG9YT",
@@ -6103,14 +6106,17 @@
     "NewTags": [
       "governance process",
       "public finance"
-    ],
-    "MegaName": [
-      "incog"
     ]
   },
   {
     "id": "recc9DTL5SjQyffXi",
     "Name": "governing economic development",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing economic development"
+    ],
     "Questions": [
       "rec8oKLFePOBSB59t",
       "rec87hldcKTH6wYmQ"
@@ -6118,17 +6124,17 @@
     "NewTags": [
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "governing economic development"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "recROW1nz5QbMVqRb",
     "Name": "governing neighborhoods",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing neighborhoods"
+    ],
     "Questions": [
       "recUU3AZHM33FZ5tc",
       "rec5af8c2Wj4lJqig",
@@ -6138,28 +6144,22 @@
       "governance process",
       "public finance",
       "governance process"
-    ],
-    "MegaName": [
-      "governing neighborhoods"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "rec42IWZHO8ZRTeud",
     "Name": "governing water",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing water"
+    ],
     "Questions": [
       "recJyjW3gvNTDzkyN"
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "governing water"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -6167,6 +6167,9 @@
     "Name": "city auditor",
     "Tags": [
       "city gov & policy process"
+    ],
+    "MegaName": [
+      "city auditor"
     ],
     "Questions_old": [
       "recceKMCT94saVYJL",
@@ -6178,25 +6181,22 @@
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "city auditor"
     ]
   },
   {
     "id": "recK8MdD9poMFql7q",
     "Name": "governing permits & licenses",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing permits & licenses"
+    ],
     "Questions": [
       "reccfQ08H8GDcN6VR"
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "governing permits & licenses"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -6204,6 +6204,9 @@
     "Name": "municipal court",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "municipal court"
     ],
     "Questions_old": [
       "recGxgZPrIGnbfVpN"
@@ -6213,57 +6216,54 @@
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "municipal court"
     ]
   },
   {
     "id": "rec4Ef8DDiNw7BeK2",
     "Name": "evaluation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "evaluation"
+    ],
     "Questions": [
       "recBLQvnyOqgSY4fL"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "evaluation"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recruTp47STFgwlIB",
     "Name": "free",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "free"
+    ],
     "Questions": [
       "recr3fqVsuIhbUaai"
     ],
     "NewTags": [
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "free"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "recRQKSOc1jkTigGe",
     "Name": "classes",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "classes"
+    ],
     "Questions": [
       "recr3fqVsuIhbUaai"
     ],
     "NewTags": [
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "classes"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
@@ -6271,6 +6271,9 @@
     "Name": "enterprise funds",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "enterprise funds"
     ],
     "Questions_old": [
       "recud2YLagZ1EZzC1"
@@ -6280,14 +6283,17 @@
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "enterprise funds"
     ]
   },
   {
     "id": "rec0y2K4uoaOPTi6O",
     "Name": "budget process",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "budget process"
+    ],
     "Questions": [
       "rec4QlKD4fgrQOe3V",
       "rec4qCBhfn0ynbEHN",
@@ -6399,17 +6405,17 @@
       "public finance",
       "governance process",
       "public finance"
-    ],
-    "MegaName": [
-      "budget process"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recsvNFdPofu3IlhE",
     "Name": "can they do this",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "can they do this"
+    ],
     "Questions": [
       "rec5DPPBTSeHQAdmx",
       "recqD75EpYH8AkM1s",
@@ -6502,12 +6508,6 @@
       "public finance",
       "governance process",
       "public finance"
-    ],
-    "MegaName": [
-      "can they do this"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -6539,14 +6539,14 @@
   {
     "id": "reclvduD9IJ0nT9A5",
     "Name": "funding regulation",
+    "MegaName": [
+      "funding regulation"
+    ],
     "Questions": [
       "rec6h0q8bhjVwxyIr"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "funding regulation"
     ]
   },
   {
@@ -6554,6 +6554,9 @@
     "Name": "resolutions",
     "Tags": [
       "city gov & policy process"
+    ],
+    "MegaName": [
+      "resolutions"
     ],
     "Questions_old": [
       "recpZT3q1xsg1ueCk",
@@ -6597,9 +6600,6 @@
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "resolutions"
     ]
   },
   {
@@ -6607,6 +6607,12 @@
     "Name": "ordinances",
     "Lectures": [
       "recZuMJbhrN8KhMBP"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "ordinances"
     ],
     "Questions_old": [
       "reclF9NgSrsJW92dI",
@@ -6652,17 +6658,17 @@
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "ordinances"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "recopSzKmrzISvrWJ",
     "Name": "public management",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "public management"
+    ],
     "Questions": [
       "recP6f8ViefZ8ZbTQ",
       "recPGSpD93NzAfMOI",
@@ -6712,17 +6718,17 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "public management"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "recsq3170LxY5IBK2",
     "Name": "city spending",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "city spending"
+    ],
     "Questions": [
       "recTHQ7p2ei0oiMs2",
       "recwvXEbnPiXOjfwd",
@@ -6799,81 +6805,81 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "city spending"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recqzaGmRmPCNdlH2",
     "Name": "the zoo",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "the zoo"
+    ],
     "Questions": [
       "recTHQ7p2ei0oiMs2"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "the zoo"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recAFbnfqhqG1lwSe",
     "Name": "permits & licenses - public finance",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "permits & licenses"
+    ],
     "Questions": [
       "recKIRcYd5YAsUXdH"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "permits & licenses"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "reczHbqiaJ0YXUja2",
     "Name": "funding culture & recreation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding culture & recreation"
+    ],
     "Questions": [
       "recQ5NxDypE15qvUN"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "funding culture & recreation"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recOjt0FJbZkETF8x",
     "Name": "funding capital improvements",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding capital improvements"
+    ],
     "Questions": [
       "recEtHM63ySpYObMK"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "funding capital improvements"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recghW5nZbupHiwhB",
     "Name": "funding engineering",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding engineering"
+    ],
     "Questions": [
       "rec4YReGTTKc1UpI1",
       "rec9Q88API3bDPi1Q"
@@ -6881,17 +6887,17 @@
     "NewTags": [
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding engineering"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "rec56fWAN8wIpWcWN",
     "Name": "funding administration",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding administration"
+    ],
     "Questions": [
       "recgIGMPLppYbYBr8",
       "recicLIvAoH2lvmUc",
@@ -6910,17 +6916,17 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding administration"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "rec9RfAg7aZptP3qR",
     "Name": "funding transportation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding transportation"
+    ],
     "Questions": [
       "recgYNTUoE1hKUwxt",
       "recs4eqMmxCdtotTc"
@@ -6928,17 +6934,17 @@
     "NewTags": [
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding transportation"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recH1mRwJUog6R4Q7",
     "Name": "debt & credit",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "debt & credit"
+    ],
     "Questions": [
       "rec1KHjVeNQjYpJwh",
       "recAsakq50VvmgCA0",
@@ -6964,60 +6970,54 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "debt & credit"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recJmau6WQBoecA7Z",
     "Name": "city revenue",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "city revenue"
+    ],
     "Questions": [
       "rec1KHjVeNQjYpJwh"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "city revenue"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recgqzkgDVjFawQ7Y",
     "Name": "funding culture and recreation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding culture and recreation"
+    ],
     "Questions": [
       "recT18BbTvdrkQe7g"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "funding culture and recreation"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "reckWzcz2N6t6Dv68",
     "Name": "intergovernmental financing",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "intergovernmental financing"
+    ],
     "Questions": [
       "recT18BbTvdrkQe7g"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "intergovernmental financing"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
@@ -7025,6 +7025,9 @@
     "Name": "grant funding",
     "Tags": [
       "revenue & spending"
+    ],
+    "MegaName": [
+      "grant funding"
     ],
     "Questions_old": [
       "recj4ytRm52vnNOM1",
@@ -7040,41 +7043,38 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "grant funding"
     ]
   },
   {
     "id": "recZFc6GvrasBwg89",
     "Name": "legal affairs",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "legal affairs"
+    ],
     "Questions": [
       "reckQoxc8yyd94gTR"
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "legal affairs"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "rectKJW7zUGI0SBBF",
     "Name": "funding municipal courts",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding municipal courts"
+    ],
     "Questions": [
       "recLu4wsISSej0cnh"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "funding municipal courts"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
@@ -7082,6 +7082,12 @@
     "Name": "sales tax",
     "Lectures": [
       "recfA9aPh3r5nzrrD"
+    ],
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "sales tax"
     ],
     "Questions_old": [
       "recZs9CHqvBvKgwrm",
@@ -7094,17 +7100,17 @@
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "sales tax"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "rec9AcMTrZV4dGk60",
     "Name": "governing transportation",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing transportation"
+    ],
     "Questions": [
       "reces1VvdSwguyPok",
       "recs3CiyjdTjhvcrG",
@@ -7116,12 +7122,6 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "governing transportation"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -7129,6 +7129,12 @@
     "Name": "elections",
     "Lectures": [
       "recZuMJbhrN8KhMBP"
+    ],
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "elections"
     ],
     "Questions_old": [
       "rec9DiQE6bgvPShgC",
@@ -7140,33 +7146,33 @@
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "elections"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recGYawUg6ZDn8C5V",
     "Name": "public assets",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "public assets"
+    ],
     "Questions": [
       "recQZlGPXVfYJSb4y"
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "public assets"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "recAu71Bp6XzkMMaD",
     "Name": "funding public safety",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding public safety"
+    ],
     "Questions": [
       "recMlb9api3t7g0hK",
       "recNcWdzLNb95xpXQ",
@@ -7184,33 +7190,33 @@
       "public finance",
       "public finance",
       "public finance"
-    ],
-    "MegaName": [
-      "funding public safety"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recoQAJuLFanThigp",
     "Name": "funding social & economic development",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding social & economic development"
+    ],
     "Questions": [
       "rec5xBn66Tlp9QO7G"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "funding social & economic development"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recAJHYcsvcU9XMGI",
     "Name": "recycling & waste",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "recycling & waste"
+    ],
     "Questions": [
       "recWqw0tDxDtthVtm",
       "rec8hwMCqZbVhtirp",
@@ -7228,33 +7234,33 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "recycling & waste"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "recZ2NmWg1Hg1mYk7",
     "Name": "public choice",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "public choice"
+    ],
     "Questions": [
       "rec1hJM0z7sHFxMAX"
     ],
     "NewTags": [
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "public choice"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "recyz70Oeg3aDAwFw",
     "Name": "access data",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "access data"
+    ],
     "Questions": [
       "rec0FbPnpWxYbPSyv",
       "recEojYIYnlBCKvxJ",
@@ -7268,28 +7274,22 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "access data"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "reccuB1KcJR6jKdW6",
     "Name": "permits & licenses - governance",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "permits & licenses - governance"
+    ],
     "Questions": [
       "recZpTy0JHwRodHRh"
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "permits & licenses - governance"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
@@ -7297,6 +7297,12 @@
     "Name": "service delivery",
     "Lectures": [
       "recW7FzEDgnLxgOXA"
+    ],
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "service delivery"
     ],
     "Questions_old": [
       "reclGjy18Ovhszv3Y"
@@ -7336,33 +7342,33 @@
       "governance process",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "service delivery"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "recibLnZdVDZKJE9o",
     "Name": "governing land",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing land"
+    ],
     "Questions": [
       "rec3I363fvWW148T2"
     ],
     "NewTags": [
       "governance process"
-    ],
-    "MegaName": [
-      "governing land"
-    ],
-    "Tags": [
-      "city gov & policy process"
     ]
   },
   {
     "id": "reclUTuAAekZZiZGB",
     "Name": "emergency prep",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "emergency prep"
+    ],
     "Questions": [
       "recG6HLRAg8ji5ImW",
       "rec0l9LFxEcUDNj2G",
@@ -7372,12 +7378,6 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "emergency prep"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
@@ -7385,6 +7385,9 @@
     "Name": "permits & licenses - access",
     "Tags": [
       "public services"
+    ],
+    "MegaName": [
+      "permits & licenses - access"
     ],
     "Questions_old": [
       "recACPg1z2tHA5mX1",
@@ -7423,30 +7426,33 @@
       "governance process",
       "accessing tulsa",
       "public finance"
-    ],
-    "MegaName": [
-      "permits & licenses - access"
     ]
   },
   {
     "id": "recPxDVZFrCzSDDBY",
     "Name": "participatory budgeting",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "participatory budgeting"
+    ],
     "Questions": [
       "recBUMYkSorrc7Nfq"
     ],
     "NewTags": [
       "public finance"
-    ],
-    "MegaName": [
-      "participatory budgeting"
-    ],
-    "Tags": [
-      "revenue & spending"
     ]
   },
   {
     "id": "recgOL1Tjb6v7gbSM",
     "Name": "neighborhood life",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "neighborhood life"
+    ],
     "Questions": [
       "recFi3e8eDF2OSp9B",
       "rec1EAnNPRpA7bLa3",
@@ -7500,44 +7506,38 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "neighborhood life"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "recjM4TreOC0HE8Ya",
     "Name": "voting & elections",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "voting & elections"
+    ],
     "Questions": [
       "rec8xRk3pQw0auRa8"
     ],
     "NewTags": [
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "voting & elections"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
     "id": "rec3asd9iMmSom1mZ",
     "Name": "traffic & parking tickets",
+    "Tags": [
+      "public services"
+    ],
+    "MegaName": [
+      "traffic & parking tickets"
+    ],
     "Questions": [
       "recZrqUgzNK95KbGi"
     ],
     "NewTags": [
       "accessing tulsa"
-    ],
-    "MegaName": [
-      "traffic & parking tickets"
-    ],
-    "Tags": [
-      "public services"
     ]
   },
   {
@@ -7545,6 +7545,9 @@
     "Name": "intergovernmental relations",
     "Tags": [
       "city gov & policy process"
+    ],
+    "MegaName": [
+      "intergovernmental relations"
     ],
     "Questions_old": [
       "recnsxGmyRburNO4N",
@@ -7563,9 +7566,6 @@
       "public finance",
       "governance process",
       "governance process"
-    ],
-    "MegaName": [
-      "intergovernmental relations"
     ]
   }
 ]
