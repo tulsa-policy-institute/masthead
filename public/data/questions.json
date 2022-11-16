@@ -899,13 +899,10 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "economic conditions"
+      "the bird's eye view"
     ],
     "Public": true,
     "Answer": "Tulsa's FY23 budget presentation highlights several economic conditions that may have informed the budget process. Among these are the following.\n\n- **High inflation**: For example, average price of household necessities rose 8.3% in April 2022.\n- **Increased energy costs and slowing investment**: This is thought to be attributed to unfavorable federal policy and/or major employers in the region. Notably, this refers to oil and gas companies.\n- **Developments in Aerospace: **Major employers in the Tulsa metro area have promised to increase investment and employment to support infrastructure at the Tulsa airport.\n",
-    "Concepts_PreOctober": [
-      "recyMtyE1wqQuh6ah"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_004",
     "Tags_PreOctober copy copy": [
@@ -914,6 +911,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 7-9, Paragraph 3-4, 1-6, 1-2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recf9vQSSV9y8JyWT"
     ]
   },
   {
@@ -987,14 +987,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "fiscal stability",
-      "city spending"
+      "city spending",
+      "the bird's eye view"
     ],
     "Public": true,
     "Answer": "The City of Tulsa's primary two reserve funds are the General Fund Emergency Operating Reserve, with a balance of **$29.9 million**, and the City's Economic Stabilization Reserve (aka Rainy Day Fund), with an expected balance of **$12.4 million **by the end of FY23. \n",
     "Concepts_PreOctober": [
-      "recYLQp3CynFCBY7q",
-      "recsq3170LxY5IBK2"
+      "recsq3170LxY5IBK2",
+      "recf9vQSSV9y8JyWT"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_007",
@@ -5617,10 +5617,6 @@
     ],
     "Contributor": "Samuel",
     "Answer": "\n",
-    "Concepts_PreOctober": [
-      "rec8VvbJAupXTEemd",
-      "recdiRERCYuZGHSXd"
-    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_028",
     "Tags_PreOctober copy copy": [
@@ -6138,8 +6134,7 @@
     "Public": true,
     "Answer": "> The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein.\n",
     "Concepts_PreOctober": [
-      "recX9nNDKs0rtBi3g",
-      "recuuCNjMbaMhXTVC"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_046",
@@ -6169,13 +6164,7 @@
     "Public": true,
     "Answer": "> The Mayor shall submit to the Council a budget for the expenditure of such funds or amendments to previously adopted budgets. The Council shall adopt budgets or amendments and make appropriations by ordinance, provided, that no revenue derived from the 2017 Public Safety Sales Tax, as set forth in detail in Title 43-I Tulsa Revised Ordinances, shall ever be budgeted, spent or used for any purpose other than public safety as described therein. \nThe special treatment of the 2017 Public Safety Sales Tax was the result of an amendment supported by 6,602 Tulsans. 3,640 Tulsans voted against the amendment.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recygMhYSJxEH8g89",
-      "rec9waV3GVmUG4v9L",
-      "recX9nNDKs0rtBi3g",
-      "rec6lrWmFyJj2MfoK",
-      "recuuCNjMbaMhXTVC"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_047",
@@ -6205,15 +6194,7 @@
     "Public": true,
     "Answer": "At least one public hearing, during which \n> ...any citizen of the city shall be given an opportunity to be heard on the budgets or any item or program recommended therein. After public hearing, the Council may adopt a budget or amendments. The Council may add, delete, increase, or decrease programs or amounts, except expenditures required by law.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recygMhYSJxEH8g89",
-      "rec9waV3GVmUG4v9L",
-      "recX9nNDKs0rtBi3g",
-      "rec6lrWmFyJj2MfoK",
-      "recuuCNjMbaMhXTVC",
-      "recTduFwT9ATeQB7t",
-      "recov7WSAYmy4L4Qr"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_048",
@@ -6244,13 +6225,8 @@
     "Public": true,
     "Answer": "Tulsa's City Council \"may add, delete, increase, or decrease programs or amounts, except expenditures required by law\" with respect to the budgets recieved from the Mayor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recygMhYSJxEH8g89",
-      "rec9waV3GVmUG4v9L",
-      "recX9nNDKs0rtBi3g",
-      "rec6lrWmFyJj2MfoK",
-      "recuuCNjMbaMhXTVC"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_049",
@@ -6275,17 +6251,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "**Yes.** \n> The Council may establish by ordinance additional procedures for the preparation, adoption, and amendment of budgets, for the transfer of appropriations, and for supplemental and emergency appropriations which are not in conflict with the provisions of this amended Charter or with the laws of Oklahoma.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recxdOAhjRYEtGBIR",
-      "recygMhYSJxEH8g89",
-      "rec9waV3GVmUG4v9L",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_050",
@@ -6315,11 +6288,7 @@
     "Public": true,
     "Answer": "The Economic Stabilization Reserve assists to limit \"the amount of reduction required in the general fund budget during times of declining revenues\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recALrXDVs83Qf9QT",
-      "rec9waV3GVmUG4v9L",
-      "rec5fkRItyK7VCWJO",
-      "recdbpewxCXJ0tOiA"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_051",
@@ -6351,13 +6320,7 @@
     "Public": true,
     "Answer": "> If the City Treasurer projects that total General Fund revenues for the upcoming budget year will exceed the total General Fund revenues for the current budget year by more than four percent (4%), the budget submitted by the Mayor and approved by the City Council shall allocate the excess General Fund revenues as follows: \n> A. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n> B. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n> C. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n> The Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues. \n\n> The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve.\nThis must be conducted in accordance with the provisions of section B. However, for any of the aformentioned to go into effect, projected revenues must initially exceed $250,000, per section 7.10 of the City Charter.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recALrXDVs83Qf9QT",
-      "rec9waV3GVmUG4v9L",
-      "rec5fkRItyK7VCWJO",
-      "recpRzWgONB4fYLgm",
-      "recdbpewxCXJ0tOiA",
-      "recbMhrS5udASHOL1"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_052",
@@ -6384,18 +6347,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "budget process"
+      "budget process",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "While the Mayor and Tulsa's City Council may, at any point in time, authorize any available funds to be added to the Economic Stabilization Reserve, the total in the Economic Stabilization Reserve shall not exceed 30% of actual total General Fund revenues. When this 30% cap is met, the budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization to capital, other one-time expenditures, or the operating reserve. However, such capital, other one-time expenditures, and the operating reserve must not exceed 25% of the excess General Fund revenues. Finally, all of the aformentioned allocations are only required where projected revenues initially exceed $250,000, per Sectiomn 7.10 in the City Charter.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recALrXDVs83Qf9QT",
-      "rec9waV3GVmUG4v9L",
-      "rec5fkRItyK7VCWJO",
-      "recdbpewxCXJ0tOiA",
-      "rec17CY4B97WAP1a8",
-      "recbMhrS5udASHOL1"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_053",
@@ -6428,13 +6387,8 @@
     "Public": true,
     "Answer": "The Mayor and Tulsa's City Council \"may, at any time, appropriate monies from the capital and/or other one-time expenditures allocation for capital projects or for expenditures such as, but not limited to, acquisition of equipment or information systems\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recALrXDVs83Qf9QT",
-      "rec9waV3GVmUG4v9L",
-      "rec5fkRItyK7VCWJO",
-      "rec17CY4B97WAP1a8",
-      "recnMN6FZvUqfZPpr",
-      "recbMhrS5udASHOL1"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_054",
@@ -6467,13 +6421,8 @@
     "Public": true,
     "Answer": "**Yes.** The Mayor and Tulsa's City Council \"may, at any time, appropriate monies from the capital and/or other one-time expenditures allocation for capital projects or for expenditures such as, but not limited to, acquisition of equipment or information systems\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recALrXDVs83Qf9QT",
-      "rec9waV3GVmUG4v9L",
-      "rec5fkRItyK7VCWJO",
-      "rec17CY4B97WAP1a8",
-      "recnMN6FZvUqfZPpr",
-      "recbMhrS5udASHOL1"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_055",
@@ -6506,12 +6455,8 @@
     "Public": true,
     "Answer": "> The Mayor and the City Council may, at any time, appropriate monies from the general purpose allocation for any lawful municipal purpose.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recALrXDVs83Qf9QT",
-      "rec9waV3GVmUG4v9L",
-      "rec5fkRItyK7VCWJO",
-      "rec17CY4B97WAP1a8",
-      "recbMhrS5udASHOL1"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_056",
@@ -6544,10 +6489,9 @@
     "Public": true,
     "Answer": "> If the City Treasurer projects that total General Fund revenues for the upcoming budget year will either (a) be less than the current budget year's total General Fund revenues, or (b) be less than the highest of any other previous year's total General Fund revenues, the budget submitted by the Mayor and approved by the Council may appropriate up to fifty percent (50%) of the current balance in the Economic Stabilization Reserve, but no more than the shortfall in total General Fund revenues as determined above, to be used for any lawful municipal purpose in the upcoming budget year. For purposes of calculating any shortfall:\n> A. If the trigger for withdrawals from the reserve was not met in the current budget year, the City Treasurer shall calculate the shortfall for the upcoming budget year by subtracting the total projected General Fund revenues for the upcoming budget year from the total projected General Fund revenues for the current budget year.\n> B. If the trigger for withdrawals from the Economic Stabilization Reserve was met in the current budget year, the shortfall shall be calculated by subtracting the total projected General Fund revenues for the upcoming budget year from the highest of any previous year's total General Fund revenues. \n\nAs outlined in Section 7.9 of the City Charter, the City may withdraw the percentage of negative growth in the Consumer Price Index if the City Treasurer projects that the Consumer Price Index for the upcoming budget year will be less than the index for the current budget year.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec9waV3GVmUG4v9L",
-      "recpRzWgONB4fYLgm",
-      "recdbpewxCXJ0tOiA"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE",
+      "recpRzWgONB4fYLgm"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_057",
@@ -6580,12 +6524,8 @@
     "Public": true,
     "Answer": "The City of Tulsa is not required to allocate any anticiapted excess revenues for the upcoming budget year as outlined in the regulations concerning allocation to the Economic Stabilization Reserve if the City both (1) made appropriations from the Economic Stabilization Reserve in the current budget year and in the immediately preceding budget year pursuent to regulations for withdrawls from the Economic Stabilization Reserve.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec9waV3GVmUG4v9L",
-      "recdbpewxCXJ0tOiA",
-      "rec17CY4B97WAP1a8",
-      "reclEz2L2IRivna0C",
-      "recGP41AikxZaToKj"
+      "rec0y2K4uoaOPTi6O",
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_058",
@@ -6617,14 +6557,7 @@
     "Public": true,
     "Answer": "The All Items Consumer Price Index for All Urban Consumers (CPI-U) - or its succesor as determined by the Bureau of Labor Statistics, a bureau of the U.S. Department of Labor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec9waV3GVmUG4v9L",
-      "recdbpewxCXJ0tOiA",
-      "rec17CY4B97WAP1a8",
-      "reclEz2L2IRivna0C",
-      "recGP41AikxZaToKj",
-      "recckkQsJ4fr64GLe",
-      "recpRzWgONB4fYLgm"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_059",
@@ -6656,14 +6589,7 @@
     "Public": true,
     "Answer": "When the City Treasurer projects that the Consumer Price Index for the upcoming budget year will exceed the index for the current budget year by more than five percent (5%). When this happens, the following allocations are triggered: \nA. Fifty percent (50%) of the excess General Fund revenues to the Economic Stabilization Reserve;\n\nB. Twenty-five percent (25%) of the excess General Fund revenues may be allocated in whole or in part to capital, other one-time expenditures, or the operating reserve; and,\n\nC. Twenty-five percent (25%) of the excess General Fund revenues may be allocated for general use consistent with lawful municipal purposes.\n\nThe Mayor and the City Council may, at any time, authorize any other available monies to be added to the Economic Stabilization Reserve; however, total monies in the Economic Stabilization Reserve shall not exceed thirty percent (30%) of actual total General Fund revenues\". \"The budget submitted by the Mayor and approved by the City Council shall allocate excess revenues that would otherwise be allocated to the Economic Stabilization Reserve above the thirty percent (30%) cap instead to capital, other one-time expenditures, or the operating reserve\". \nThis must be conducted in accordance with the provisions of section B.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec9waV3GVmUG4v9L",
-      "recdbpewxCXJ0tOiA",
-      "rec17CY4B97WAP1a8",
-      "reclEz2L2IRivna0C",
-      "recGP41AikxZaToKj",
-      "recckkQsJ4fr64GLe",
-      "recpRzWgONB4fYLgm"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_060",
@@ -6695,13 +6621,7 @@
     "Public": true,
     "Answer": "**No**. If the City Council or the voters take any action that changes the amount of total General Fund revenues in any material manner, including but not limited to reducing a tax or imposing a new fee, the revenue changes caused by that action shall not be counted as part of the trigger for allocations to the Economic Stabilization Reserve during the year or years in which the action is first implemented.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec9waV3GVmUG4v9L",
-      "recdbpewxCXJ0tOiA",
-      "rec17CY4B97WAP1a8",
-      "reclEz2L2IRivna0C",
-      "recGP41AikxZaToKj",
-      "recckkQsJ4fr64GLe"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_061",
@@ -6733,13 +6653,7 @@
     "Public": true,
     "Answer": "The City Treasurer.\n\nSpecifically, the City Treasurer is responsible for re-balancing the allocations to or withdrawals from the Economic Stabilization Reserve, Capital, Other One-Time Expenditures, or Operating Reserve with actual revenue results (as stated in the City of Tulsa's independent annual audit) in conjunction with the annual year-end of close of the budget,\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec9waV3GVmUG4v9L",
-      "recdbpewxCXJ0tOiA",
-      "rec17CY4B97WAP1a8",
-      "reclEz2L2IRivna0C",
-      "recGP41AikxZaToKj",
-      "recckkQsJ4fr64GLe"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_062",
@@ -6769,11 +6683,7 @@
     "Public": true,
     "Answer": "In written or printed form.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_063",
@@ -6801,11 +6711,7 @@
     "Public": true,
     "Answer": "> All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_064",
@@ -6833,11 +6739,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> All ordinances or resolutions, except those adopting budgets, making appropriations, or adopting a code of ordinances, shall be confined to one subject, which shall be clearly expressed in the title.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_065",
@@ -6865,12 +6767,7 @@
     "Public": true,
     "Answer": "**No.** \n> Ordinances adopting budgets and making appropriations shall be confined to budgets and appropriations.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec9waV3GVmUG4v9L"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_066",
@@ -6898,11 +6795,7 @@
     "Public": true,
     "Answer": "**Two.** However, Tulsa's City Council can waive this requirement with a vote of two thirds of the entire membership of the Council.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_067",
@@ -6930,11 +6823,7 @@
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_068",
@@ -6962,11 +6851,7 @@
     "Public": true,
     "Answer": "**Yes.**\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_069",
@@ -6994,11 +6879,7 @@
     "Public": true,
     "Answer": "\"Be it Ordained by the City of Tulsa\".\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_070",
@@ -7021,17 +6902,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "**15 days.** \n> Within fifteen (15) working days following such delivery, the Mayor shall either approve or veto the ordinance or resolution. If vetoed, the ordinance or resolution shall be returned to the Council with a written statement of the objections of the Mayor. If neither approved nor vetoed by the Mayor in the time specified, the ordinance or resolution shall take effect as though approved by the Mayor. A veto by the Mayor shall suspend further action of the Council upon the ordinance or resolution for a period of seven (7) days, after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor. If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec2sygWSOsXvZgta"
+      "recuuCNjMbaMhXTVC",
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_071",
@@ -7054,17 +6934,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "Two-thirds (⅔) of the entire membership of Tulsa's City Council are required to overturn a Mayor's veto. Once this vote takes place, the ordinance goes into effect as if supported by the Mayor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec2sygWSOsXvZgta"
+      "recuuCNjMbaMhXTVC",
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_072",
@@ -7087,17 +6966,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "Seven days, \n> ...after which the Council may override the veto by a vote of two-thirds (⅔) of its entire membership, and the ordinance or resolution shall take effect as though approved by the Mayor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec2sygWSOsXvZgta"
+      "recuuCNjMbaMhXTVC",
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_073",
@@ -7120,24 +6998,23 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "**90 days.** \n> If the veto of the Mayor is sustained, the subject of the ordinance or resolution, except ordinances adopting budgets or making appropriations, shall not be further considered by the Council for a period of ninety (90) days; provided, that the Council by a vote of two-thirds (⅔) of its entire membership may waive the ninety (90) day period.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec2sygWSOsXvZgta"
+      "recuuCNjMbaMhXTVC",
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_074",
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
+    "Source": "city council, mayor, mayor-council relations\n",
     "Tags_PreOctober copy": [
       "city gov & policy process"
     ]
@@ -7153,25 +7030,23 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "The Mayor may veto or even reduce any item of ordinances that adopt budgets or make appropriations, unless otherwise provided in the City Charter.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec2sygWSOsXvZgta",
-      "rec6lrWmFyJj2MfoK"
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_075",
     "Tags_PreOctober copy copy": [
       "city gov & policy process"
     ],
-    "Source": "City of Tulsa. _Code of Ordinances: Charter. Article 2, Section 9 - Approval or veto of ordinances and resolutions._\n",
+    "Source": "city council, mayor, mayor-council relations\n",
     "Tags_PreOctober copy": [
       "city gov & policy process"
     ]
@@ -7192,12 +7067,7 @@
     "Public": true,
     "Answer": "Two-thirds (⅔) of the entire membership of the Council are required. Further,  \n> An ordinance or resolution adopted as an emergency measure to provide for the immediate preservation of the public peace, health, welfare, or safety shall describe the emergency in a separate section.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recArDxIzaR55Bg9n"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_076",
@@ -7225,12 +7095,7 @@
     "Public": true,
     "Answer": "The City Clerk.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recyFsZOyQSoHehhX"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_077",
@@ -7258,13 +7123,7 @@
     "Public": true,
     "Answer": "**10 days.** \n> Ordinances and resolutions shall be published in a newspaper of general circulation within the city within ten (10) days after approval. Codifications of ordinances and codes of law adopted by reference need not be published in full unless otherwise provided by the Council.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recyFsZOyQSoHehhX",
-      "rec1kIEwUix0a4vuI"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_078",
@@ -7292,15 +7151,7 @@
     "Public": true,
     "Answer": "> Titles, enacting clauses, emergency sections, and temporary and special ordinances may be omitted from the code. Ordinances and parts of ordinances which are to be repealed by the adoption of a revised code may be omitted. A revised code may contain new matter.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recyFsZOyQSoHehhX",
-      "rec5ijDMdXSschS99",
-      "recArDxIzaR55Bg9n",
-      "recjo2zoepOIemiRP"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_079",
@@ -7328,15 +7179,7 @@
     "Public": true,
     "Answer": "The City Clerk.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recyFsZOyQSoHehhX",
-      "rec5ijDMdXSschS99",
-      "recArDxIzaR55Bg9n",
-      "recjo2zoepOIemiRP"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_080",
@@ -7364,14 +7207,7 @@
     "Public": true,
     "Answer": "Tulsa's City Council\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec5ijDMdXSschS99",
-      "recArDxIzaR55Bg9n",
-      "recjo2zoepOIemiRP"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_081",
@@ -7399,13 +7235,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec9rnEQuFVJq4IgH",
-      "recoCmCo16FXWqhx8"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_082",
@@ -7433,13 +7263,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec9rnEQuFVJq4IgH",
-      "recxYIRPvYEut8lEN"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_083",
@@ -7462,17 +7286,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "city council"
+      "city council",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "**Yes.** \n> The Council may, subject to the limitations of the Constitution and the laws of Oklahoma, prescribe penalties for the violation of ordinances, including fines and imprisonment.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "rec9rnEQuFVJq4IgH"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_084",
@@ -7500,12 +7321,7 @@
     "Public": true,
     "Answer": "**By ordinance.** \n> The Council shall provide by ordinance for the periodic review of this amended Charter and shall submit to the qualified electors of the city amendments necessary to provide for representative, efficient, and economical administration of city government.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recd19wOCMV6gY71M"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_085",
@@ -7533,12 +7349,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> All legislative powers vested by this amended Charter in the Council are subordinate and subject to the rights of initiative and referendum reserved to the people by the Constitution of Oklahoma.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recex3pj2DIma2nV4",
-      "recxdOAhjRYEtGBIR",
-      "rec3gAkTXHxNLnke9"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_086",
@@ -7566,12 +7377,7 @@
     "Public": true,
     "Answer": "**By ordinance.** \n> The Council shall provide by ordinance for the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals by the divisions, departments, and agencies of the city. Except when otherwise provided by the laws of Oklahoma, the grant, issuance, modification, amendment, or revocation of orders, licenses, permits, certificates, and approvals shall be subject to review by the Council, upon petition by an aggrieved person, in accord with procedures which the Council shall establish by ordinance. The Council may not abrogate any right of review by a court of competent jurisdiction.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recRACBybqeI1fCXf"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_087",
@@ -7599,12 +7405,7 @@
     "Public": true,
     "Answer": "**No.** \n> The Council may not abrogate any right of review by a court of competent jurisdiction.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recRACBybqeI1fCXf"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_088",
@@ -7632,14 +7433,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> The Council shall hear complaints made by citizens concerning the administration of the city government.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recgK36yEFw6QRuiJ",
-      "rec5ic94W9hDJJkfc",
-      "recaahrH7a6kRGqnX"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_089",
@@ -7696,20 +7490,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "city council"
+      "city council",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recgK36yEFw6QRuiJ",
-      "rec5ic94W9hDJJkfc",
-      "recVGtbiaDBgMqTaG",
-      "rechiNVNlkL48X8Xv"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_091",
@@ -7732,20 +7520,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "city council"
+      "city council",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recgK36yEFw6QRuiJ",
-      "rec5ic94W9hDJJkfc",
-      "recgQvgd3Shu5a7uH",
-      "rechiNVNlkL48X8Xv"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_092",
@@ -7773,15 +7555,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recgK36yEFw6QRuiJ",
-      "rec5ic94W9hDJJkfc",
-      "rechiNVNlkL48X8Xv",
-      "recoLoeqCJnpr7eY9"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_093",
@@ -7804,19 +7578,14 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "city council"
+      "city council",
+      "can they do this"
     ],
     "Public": true,
     "Answer": "**Yes.** \n> The Council may subpoena witnesses, administer oaths, and compel testimony, the production of books, papers, or other evidence necessary for the discharge of the duties of the Council.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recgK36yEFw6QRuiJ",
-      "rec5ic94W9hDJJkfc",
-      "rechiNVNlkL48X8Xv"
+      "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_094",
@@ -7844,13 +7613,7 @@
     "Public": true,
     "Answer": "**By ordinance.** \n> The Council shall provide by ordinance the penalties for the contempt by any person who refuses to obey a Council order or subpoena.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
-      "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recgK36yEFw6QRuiJ",
-      "rec5ic94W9hDJJkfc"
+      "recX9nNDKs0rtBi3g"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_095",
@@ -7873,20 +7636,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "> The Mayor shall designate police officers to serve orders and subpoenas issued by the Council\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recgK36yEFw6QRuiJ",
-      "recVGtbiaDBgMqTaG",
-      "rechiNVNlkL48X8Xv",
-      "rec6lrWmFyJj2MfoK"
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_096",
@@ -7909,18 +7668,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "**Yes.** \n> The Council may delegate to the Mayor the authority to make rules, regulations, and orders necessary and proper to implement and administer ordinances.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recxdOAhjRYEtGBIR",
-      "rec6lrWmFyJj2MfoK"
+      "rec6lrWmFyJj2MfoK",
+      "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_097",
@@ -7943,21 +7700,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "> ...soley through the Mayor, the heads of each division and department of the City, as well as such other persons as the Mayor shall delegate.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rech8ZnhQ6xMFXskv",
-      "recg4etkzkqLWNFtE",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recxdOAhjRYEtGBIR",
       "rec6lrWmFyJj2MfoK",
-      "recm6eIXpywCU4s9O",
-      "recgmxBwToQ2fMxpY",
-      "recgJkC22XaeUveje"
+      "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_098",
@@ -7980,19 +7732,16 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "Barring the City Clerk and the City Attorney, no. \n> The Council and Councilors shall not give orders to any subordinate of the Mayor, either publicly or privately; provided, the prohibitions of this sentence shall not apply to the City Clerk and the City Attorney. Violation of this Section by any Councilor shall constitute willful maladministration and be sufficient grounds for removal from office as provided by the laws of Oklahoma. \nThe answer to this question is sourced from documentation concerning interference with appointments or removals.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
-      "recbMhrS5udASHOL1",
-      "recxdOAhjRYEtGBIR",
       "rec6lrWmFyJj2MfoK",
-      "recm6eIXpywCU4s9O",
-      "recgmxBwToQ2fMxpY",
-      "recgJkC22XaeUveje"
+      "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_099",
@@ -8015,18 +7764,15 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "city council"
+      "city council",
+      "mayor-council relations"
     ],
     "Public": true,
     "Answer": "**$1 million.** \n> Where a claim is asserted against the City of Tulsa seeking to recover $1 million or more, prior to any settlement of such claim occurring, whether the total dollar amount claimed is comprised of a single claim or multiple claims arising out of a single act, accident, or the same transaction or occurrence, the settlement shall be approved by both the Mayor and by a majority vote of the entire membership of the Council.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
       "recX9nNDKs0rtBi3g",
       "rec6lrWmFyJj2MfoK",
-      "recygMhYSJxEH8g89",
-      "recTL4r0Usb9BCNsJ",
-      "recrC4TQvJ11rDrQT",
-      "reccQujlrl8XzpgUR"
+      "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_100",
@@ -8054,9 +7800,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_101",
@@ -8084,9 +7828,7 @@
     "Public": true,
     "Answer": "**Yes.** \n> The executive and administrative powers of the City of Tulsa and any executive and administrative powers which may be conferred on the city by the Constitution or the laws of Oklahoma shall be vested in and exercised by the Mayor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_102",
@@ -8114,9 +7856,7 @@
     "Public": true,
     "Answer": "**$105,000.** \n> The Mayor of the City of Tulsa, Oklahoma, shall receive as full compensation for his or her services as Mayor, effective with the term of office commencing April 1, 2002, at 2:00 p.m., an annual salary of One Hundred Five Thousand Dollars ($105,000.00), payable as employees of the City are paid.\n",
     "Concepts_PreOctober": [
-      "rec6lrWmFyJj2MfoK",
-      "rec7UduLPBNpWCfHo",
-      "recygMhYSJxEH8g89"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_103",
@@ -8144,10 +7884,9 @@
     "Public": true,
     "Answer": "**City Council.** \n> ...the salary to be received by the Mayor may be changed by a majority vote of the entire membership of the Council; provided, no change in salary shall become effective prior to the commencement of the term of office next succeeding the term in which the change is made and then only in the event such change was approved prior to the general election for the next succeeding term.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g"
+      "recX9nNDKs0rtBi3g",
+      "recuuCNjMbaMhXTVC"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_104",
@@ -8175,11 +7914,7 @@
     "Public": true,
     "Answer": "**The Temporary Mayor.** \n> The Mayor shall file with the City Clerk, from time to time, a designation of one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor and perform the duties and exercise the powers of the Mayor during the absence or temporary disability of the Mayor or in the event of a vacancy in the office of the Mayor. The designation by the Mayor shall be subject to confirmation by a majority vote of the entire membership of the Council. Should the Mayor fail to file such designation, the Council shall designate one or more officers or employees of the city, other than members of the Council, who shall in the order specified act as Temporary Mayor.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR",
-      "recX9nNDKs0rtBi3g",
-      "recqckbuULaQhjRhV"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_105",
@@ -8207,9 +7942,7 @@
     "Public": true,
     "Answer": "**The Mayor** of Tulsa. \n> The Mayor shall be the chief executive and administrative officer of the city...\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_106",
@@ -8237,9 +7970,7 @@
     "Public": true,
     "Answer": "**The Mayor** of Tulsa. \n> The Mayor shall be the chief executive and administrative officer of the city...\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_107",
@@ -8267,9 +7998,7 @@
     "Public": true,
     "Answer": "**The Mayor** of Tulsa, whose duty is to \n> ...identify the needs and establish the objectives and priorities of the city and make recommendations to the Council for meeting the needs and achieving the objectives.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_108",
@@ -8298,15 +8027,8 @@
     "Public": true,
     "Answer": "The Mayor of Tulsa.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
       "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR",
-      "rec2NdYOcH1a9zvQX",
-      "recLOs35zYYLE35fI",
-      "recfJreUrwUrLyVJL",
-      "recYR0hYFlNEVOnX7",
-      "rec57K3gDdsswz8Qr",
-      "reckq8plKjAmo1oOR"
+      "recIugwqMNaDNiHua"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_109",
@@ -8334,16 +8056,7 @@
     "Public": true,
     "Answer": "According to the City Charter, prior to May 1st.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recxdOAhjRYEtGBIR",
-      "rec2NdYOcH1a9zvQX",
-      "recLOs35zYYLE35fI",
-      "recfJreUrwUrLyVJL",
-      "recYR0hYFlNEVOnX7",
-      "rec57K3gDdsswz8Qr",
-      "reckq8plKjAmo1oOR",
-      "recGZ2uhaRVhXOiMS"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_110",
@@ -8373,10 +8086,7 @@
     "Public": true,
     "Answer": "The Mayor of Tulsa. However, per Article II Section 7.2., City Council can make changes to the budget.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recX9nNDKs0rtBi3g",
-      "rec9waV3GVmUG4v9L"
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_111",
@@ -8408,10 +8118,7 @@
     "Public": true,
     "Answer": "According to the City Charter, it prior to May 1st. In 2022, the Mayor's budget presentation occured on April 20th. However, informal changes to municipal deadlines of any kind are not unusual.\n",
     "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recX9nNDKs0rtBi3g",
-      "rec9waV3GVmUG4v9L"
+      "rec0y2K4uoaOPTi6O"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_112",
@@ -8442,13 +8149,6 @@
     ],
     "Public": true,
     "Answer": "**Yes,** the 2017 Public Sales Safety Tax. No revenue derived form this tax may ever be spent for any purpose other than public safety, as defined by Title 43-I.\n",
-    "Concepts_PreOctober": [
-      "recdoCgCxV6RbWD0L",
-      "rec6lrWmFyJj2MfoK",
-      "recX9nNDKs0rtBi3g",
-      "rec9waV3GVmUG4v9L",
-      "recxdOAhjRYEtGBIR"
-    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_113",
     "Tags_PreOctober copy copy": [
@@ -8459,6 +8159,9 @@
     "Tags_PreOctober copy": [
       "city gov & policy process",
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "rec0y2K4uoaOPTi6O"
     ]
   },
   {
