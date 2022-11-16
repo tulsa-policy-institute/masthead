@@ -2803,6 +2803,13 @@
     "Name": "funding parks"
   },
   {
+    "id": "recgqzkgDVjFawQ7Y",
+    "Name": "funding culture and recreation",
+    "Tags": [
+      "revenue & spending"
+    ]
+  },
+  {
     "id": "rec4wByymytzBfyCr",
     "Name": "funding legal affairs"
   },
@@ -2895,7 +2902,8 @@
       "recq5W9EHslVikUs4",
       "recnMEmSq5bvbvZ4g",
       "rec4pX9kHFNmS1NpQ",
-      "rec5qeK7nPW0efOg9"
+      "rec5qeK7nPW0efOg9",
+      "rec03IVjFP0NWWPXc"
     ],
     "NewTags": [
       "public finance",
@@ -2909,6 +2917,7 @@
       "public finance",
       "public finance",
       "governance process",
+      "public finance",
       "public finance",
       "public finance",
       "public finance"
@@ -6060,12 +6069,6 @@
     ],
     "Questions_old": [
       "recGxgZPrIGnbfVpN"
-    ],
-    "Questions": [
-      "rec2i1S5O7ZsQv1sc"
-    ],
-    "NewTags": [
-      "governance process"
     ]
   },
   {
@@ -6634,22 +6637,6 @@
     ]
   },
   {
-    "id": "recqzaGmRmPCNdlH2",
-    "Name": "the zoo",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "the zoo"
-    ],
-    "Questions": [
-      "recTHQ7p2ei0oiMs2"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
     "id": "recVypOtuYcUkJEnc",
     "Name": "permits & licenses",
     "Tags": [
@@ -6712,103 +6699,6 @@
     ]
   },
   {
-    "id": "reczHbqiaJ0YXUja2",
-    "Name": "funding culture & recreation",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding culture & recreation"
-    ],
-    "Questions": [
-      "recQ5NxDypE15qvUN"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recOjt0FJbZkETF8x",
-    "Name": "funding capital improvements",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding capital improvements"
-    ],
-    "Questions": [
-      "recEtHM63ySpYObMK"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recghW5nZbupHiwhB",
-    "Name": "funding engineering",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding engineering"
-    ],
-    "Questions": [
-      "rec4YReGTTKc1UpI1",
-      "rec9Q88API3bDPi1Q"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec56fWAN8wIpWcWN",
-    "Name": "funding administration",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding administration"
-    ],
-    "Questions": [
-      "recgIGMPLppYbYBr8",
-      "recicLIvAoH2lvmUc",
-      "reckRxIZktwqkmYF8",
-      "recmIKJscZE6RGvN1",
-      "recpfwOGnJ3QhDgKq",
-      "recqT1gebcvfB0nU4",
-      "recrepRcq85BCtYfr"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "governance process",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "rec9RfAg7aZptP3qR",
-    "Name": "funding transportation",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding transportation"
-    ],
-    "Questions": [
-      "recgYNTUoE1hKUwxt",
-      "recs4eqMmxCdtotTc"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
     "id": "recH1mRwJUog6R4Q7",
     "Name": "debt & credit",
     "Tags": [
@@ -6855,22 +6745,6 @@
     ],
     "Questions": [
       "rec1KHjVeNQjYpJwh"
-    ],
-    "NewTags": [
-      "public finance"
-    ]
-  },
-  {
-    "id": "recgqzkgDVjFawQ7Y",
-    "Name": "funding culture and recreation",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding culture and recreation"
-    ],
-    "Questions": [
-      "recT18BbTvdrkQe7g"
     ],
     "NewTags": [
       "public finance"
@@ -6943,10 +6817,12 @@
       "funding municipal courts"
     ],
     "Questions": [
-      "recLu4wsISSej0cnh"
+      "recLu4wsISSej0cnh",
+      "rec2i1S5O7ZsQv1sc"
     ],
     "NewTags": [
-      "public finance"
+      "public finance",
+      "governance process"
     ]
   },
   {
@@ -6966,12 +6842,6 @@
       "recWV07zghrnSDPpm",
       "recAEKSQ88TBxLYPI",
       "recANicclNKlovocB"
-    ],
-    "Questions": [
-      "rec03IVjFP0NWWPXc"
-    ],
-    "NewTags": [
-      "public finance"
     ]
   },
   {
@@ -7012,12 +6882,6 @@
       "rec9DiQE6bgvPShgC",
       "recZs9CHqvBvKgwrm",
       "recWV07zghrnSDPpm"
-    ],
-    "Questions": [
-      "rec1SOEcxrDe0o6nQ"
-    ],
-    "NewTags": [
-      "public finance"
     ]
   },
   {
@@ -7034,50 +6898,6 @@
     ],
     "NewTags": [
       "governance process"
-    ]
-  },
-  {
-    "id": "recAu71Bp6XzkMMaD",
-    "Name": "funding public safety",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding public safety"
-    ],
-    "Questions": [
-      "recMlb9api3t7g0hK",
-      "recNcWdzLNb95xpXQ",
-      "recPfdIeMn4aS6jmU",
-      "recPiUDXZgx741hfR",
-      "recP61UvotZYLEdTI",
-      "recPqpOe3yEMlRnab",
-      "recX6GBwnVbuEcwjF"
-    ],
-    "NewTags": [
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance",
-      "public finance"
-    ]
-  },
-  {
-    "id": "recoQAJuLFanThigp",
-    "Name": "funding social & economic development",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "funding social & economic development"
-    ],
-    "Questions": [
-      "rec5xBn66Tlp9QO7G"
-    ],
-    "NewTags": [
-      "public finance"
     ]
   },
   {
@@ -7554,6 +7374,161 @@
     ],
     "NewTags": [
       "law & justice"
+    ]
+  },
+  {
+    "id": "recAu71Bp6XzkMMaD",
+    "Name": "funding public safety",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recMlb9api3t7g0hK",
+      "recNcWdzLNb95xpXQ",
+      "recPfdIeMn4aS6jmU",
+      "recPiUDXZgx741hfR",
+      "recP61UvotZYLEdTI",
+      "recPqpOe3yEMlRnab",
+      "recX6GBwnVbuEcwjF"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance"
+    ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ]
+  },
+  {
+    "id": "recoQAJuLFanThigp",
+    "Name": "funding social & economic development",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "rec5xBn66Tlp9QO7G",
+      "recEtHM63ySpYObMK"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance"
+    ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ]
+  },
+  {
+    "id": "rec9RfAg7aZptP3qR",
+    "Name": "funding transportation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recgYNTUoE1hKUwxt",
+      "recs4eqMmxCdtotTc"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance"
+    ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ]
+  },
+  {
+    "id": "rec56fWAN8wIpWcWN",
+    "Name": "funding administration",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recgIGMPLppYbYBr8",
+      "recicLIvAoH2lvmUc",
+      "reckRxIZktwqkmYF8",
+      "recmIKJscZE6RGvN1",
+      "recpfwOGnJ3QhDgKq",
+      "recqT1gebcvfB0nU4",
+      "recrepRcq85BCtYfr"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance",
+      "public finance",
+      "governance process",
+      "public finance",
+      "public finance",
+      "public finance",
+      "public finance"
+    ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ]
+  },
+  {
+    "id": "recghW5nZbupHiwhB",
+    "Name": "funding engineering",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "rec4YReGTTKc1UpI1",
+      "rec9Q88API3bDPi1Q"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance"
+    ],
+    "MegaName": [
+      "funding tulsa maintenance"
+    ]
+  },
+  {
+    "id": "recOjt0FJbZkETF8x",
+    "Name": "funding capital improvements",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "funding tulsa lifestyle"
+    ]
+  },
+  {
+    "id": "reczHbqiaJ0YXUja2",
+    "Name": "funding culture & recreation",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recQ5NxDypE15qvUN",
+      "recT18BbTvdrkQe7g"
+    ],
+    "NewTags": [
+      "public finance",
+      "public finance"
+    ],
+    "MegaName": [
+      "funding tulsa lifestyle"
+    ]
+  },
+  {
+    "id": "recqzaGmRmPCNdlH2",
+    "Name": "the zoo",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "Questions": [
+      "recTHQ7p2ei0oiMs2"
+    ],
+    "NewTags": [
+      "public finance"
+    ],
+    "MegaName": [
+      "funding tulsa lifestyle"
     ]
   }
 ]

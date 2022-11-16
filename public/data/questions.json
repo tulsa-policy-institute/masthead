@@ -906,13 +906,13 @@
     "Contributor": "Dan",
     "Concepts": [
       "city spending",
-      "funding capital improvements"
+      "funding social & economic development"
     ],
     "Public": true,
     "Answer": "Tulsa funds improvements through its capital budget. Fiscal year 2022-2023 capital budget is **$120.4 million**. Capital funding increased by $32 million (36.2%) over the prior year's budget. \n",
     "Concepts_PreOctober": [
       "recsq3170LxY5IBK2",
-      "recOjt0FJbZkETF8x"
+      "recoQAJuLFanThigp"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_003",
@@ -1255,14 +1255,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "sales tax",
-      "city spending"
+      "city spending",
+      "taxes"
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> This budget includes** $36.9 million in sales tax funded projects from the 2022 Improve Our Tulsa II program.** This program includes funding for critical projects for Police, Fire, Parks, Citywide Public Facilities, Economic Development Infrastructure, Transit rolling stock and Capital Equipment. Priorities in this year’s budget, include $3.9 million for apparatus replacement for the Fire Department, $4.0 million to fully fund the construction of a new parking garage for the Veterans Hospital to be constructed in downtown Tulsa and $14.3 million for Capital Equipment.\n",
     "Concepts_PreOctober": [
-      "recqHZ3UmD7SG9v5v",
-      "recsq3170LxY5IBK2"
+      "recsq3170LxY5IBK2",
+      "recrcssg4rJQBVqHI"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_015",
@@ -1320,7 +1320,6 @@
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> The City has now received over five years of collections from the sales tax approved by voters in April 2016 for the Vision Tulsa economic development capital program which is set at 0.805% for the next three years. Implementation of the project scheduling and financing plan continues. All of the planned revenue bond sales have been completed totaling $346.6 million to provide advance funding for 26 projects. The $510 million program will last 15 years. Directly funded projects total $65.3 million in the proposed budget for nine projects, with the largest allocation going toward debt service.\n",
     "Concepts_PreOctober": [
-      "rec2bz2lvTwnSaZRh",
       "recjHJF8xuHGjzKjw",
       "recrcssg4rJQBVqHI"
     ],
@@ -1405,13 +1404,7 @@
       "governance process"
     ],
     "Contributor": "Dan",
-    "Concepts": [
-      "municipal court"
-    ],
     "Answer": "The City's budget for FY23 \"funds an additional prosecutor to facilitate the implementation of a night court in the municipal court system.\" City Council Chairperson, Lori Decter Wright, said in her budget address that night court will \"increase accessibility to citizens who are unable to appear before our courts during their regular working hours\".\n",
-    "Concepts_PreOctober": [
-      "recQmeWJXdEaiIVRR"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_020",
     "Tags_PreOctober copy copy": [
@@ -1420,6 +1413,12 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 15, Paragraph 6_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts": [
+      "funding municipal courts"
+    ],
+    "Concepts_PreOctober": [
+      "rectKJW7zUGI0SBBF"
     ]
   },
   {
@@ -2817,8 +2816,8 @@
     "Public": true,
     "Answer": "River parks, including metro trails along the river and the Turkey Mountain Urban Wilderness area, are supported by shared investment between the City of Tulsa and Tulsa County. The $748,000 in resources allocated for River Parks are utilized for operational support to maintain the trails, Turkey Mountain Urban Wilderness, and rest room facilities along the trail system.\n",
     "Concepts_PreOctober": [
-      "recgqzkgDVjFawQ7Y",
-      "reckWzcz2N6t6Dv68"
+      "reckWzcz2N6t6Dv68",
+      "reczHbqiaJ0YXUja2"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_068",
