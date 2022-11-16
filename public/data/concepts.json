@@ -2337,6 +2337,20 @@
     ]
   },
   {
+    "id": "recex3pj2DIma2nV4",
+    "Name": "state of oklahoma",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "state of oklahoma"
+    ],
+    "Questions_old": [
+      "recQWNTioQTAzS9WA",
+      "recJWCqMOuLqKvqWZ"
+    ]
+  },
+  {
     "id": "recgQvgd3Shu5a7uH",
     "Name": "oaths",
     "Tags": [
@@ -4966,6 +4980,16 @@
     ]
   },
   {
+    "id": "reckyRUNzxZWiOrnz",
+    "Name": "code violations",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "law"
+    ]
+  },
+  {
     "id": "recQZe9wGJYchUmSF",
     "Name": "public record",
     "Tags": [
@@ -5532,6 +5556,16 @@
     ]
   },
   {
+    "id": "recZFc6GvrasBwg89",
+    "Name": "legal affairs",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "legal affairs"
+    ]
+  },
+  {
     "id": "rec4wByymytzBfyCr",
     "Name": "funding legal affairs"
   },
@@ -5709,22 +5743,6 @@
     ],
     "NewTags": [
       "accessing tulsa"
-    ]
-  },
-  {
-    "id": "reckyRUNzxZWiOrnz",
-    "Name": "code violations",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "law"
-    ],
-    "Questions": [
-      "recIXjskCTgB35RHJ"
-    ],
-    "NewTags": [
-      "law & justice"
     ]
   },
   {
@@ -5973,7 +5991,8 @@
       "recFqk6yAVtx07Ggb",
       "recsKttkmpMeNapAR",
       "recOPQEfE3apeagD2",
-      "reczt6Hm5A1Kx9Ux2"
+      "reczt6Hm5A1Kx9Ux2",
+      "recIXjskCTgB35RHJ"
     ],
     "NewTags": [
       "accessing tulsa",
@@ -6000,7 +6019,8 @@
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
-      "accessing tulsa"
+      "accessing tulsa",
+      "law & justice"
     ]
   },
   {
@@ -6249,22 +6269,6 @@
       "public finance",
       "public finance",
       "public finance"
-    ]
-  },
-  {
-    "id": "recZFc6GvrasBwg89",
-    "Name": "legal affairs",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "legal affairs"
-    ],
-    "Questions": [
-      "reckQoxc8yyd94gTR"
-    ],
-    "NewTags": [
-      "governance process"
     ]
   },
   {
@@ -6667,9 +6671,11 @@
       "recrLuxMWWVZleACV",
       "recs3CiyjdTjhvcrG",
       "recsyWdj9465DDtbs",
-      "recujHcCWMLrJ4Oyh"
+      "recujHcCWMLrJ4Oyh",
+      "reckQoxc8yyd94gTR"
     ],
     "NewTags": [
+      "governance process",
       "governance process",
       "governance process",
       "governance process",
@@ -6809,26 +6815,6 @@
       "public finance",
       "governance process",
       "public finance"
-    ]
-  },
-  {
-    "id": "recex3pj2DIma2nV4",
-    "Name": "state of oklahoma",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "state of oklahoma"
-    ],
-    "Questions_old": [
-      "recQWNTioQTAzS9WA",
-      "recJWCqMOuLqKvqWZ"
-    ],
-    "Questions": [
-      "recVTBqVF05rHDqU4"
-    ],
-    "NewTags": [
-      "governance process"
     ]
   },
   {

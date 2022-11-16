@@ -3793,13 +3793,10 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "legal affairs"
+      "public management"
     ],
     "Public": true,
     "Answer": "The City Attorney and the Legal department provide all the City’s municipal legal services. The department prepares and reviews ordinances, resolutions, executive orders, and contracts, and handles litigation, claims and controversies involving the City. Attorneys give advice and legal opinions to the City's elected officials, officers, employees, and to City boards, trusts, authorities, and agencies.\n",
-    "Concepts_PreOctober": [
-      "recZFc6GvrasBwg89"
-    ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_097",
     "Tags_PreOctober copy copy": [
@@ -3808,6 +3805,9 @@
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 4 - Departments, Subsection 72, Paragraph 2_\n",
     "Tags_PreOctober copy": [
       "revenue & spending"
+    ],
+    "Concepts_PreOctober": [
+      "recopSzKmrzISvrWJ"
     ]
   },
   {
@@ -5697,7 +5697,6 @@
     "Contributor": "Samuel",
     "Answer": "\n",
     "Concepts_PreOctober": [
-      "recex3pj2DIma2nV4",
       "recjQZSeuGijmUfoF"
     ],
     "Author": "Samuel",
@@ -8718,14 +8717,8 @@
       "law & justice"
     ],
     "Contributor": "Samuel",
-    "Concepts": [
-      "code violations"
-    ],
     "Public": true,
     "Answer": "**No**, according to the Tulsa Zoning Code Section 45.140. The Tulsa Planning Office's Neighborhood Toolkit states \"Inoperable vehicles must be stored in a fully enclosed structure\"(11), the Tulsa Zoning Codes states that inoperable vehicles may be placed in the back yard. Further, note that a vehicle is not inoperable merely because it \"...does not include a motor vehicle that has been rendered temporarily incapable of being driven under its own motor power, solely to perform ordinary service or repair operations\"(Section 95.120). A vehicle is only inoperable if, for a seven day period, the vehicle's engine, wheels, or other parts are removed OR in which the engine, wheels, or other parts have been damaged, altered, or modified such that the vehicle is not capable of being driven.\n",
-    "Concepts_PreOctober": [
-      "reckyRUNzxZWiOrnz"
-    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_013",
     "Tags_PreOctober copy copy": [
@@ -8734,6 +8727,12 @@
     "Source": "City of Tulsa._ Tulsa Zoning Code: Section 45.140 & 95.120. _\nTulsa Planning Office. _Neighborhood Toolkit. Page 11._\n",
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts": [
+      "neighborhood life"
+    ],
+    "Concepts_PreOctober": [
+      "recgOL1Tjb6v7gbSM"
     ]
   },
   {
