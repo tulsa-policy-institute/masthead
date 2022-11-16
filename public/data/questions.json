@@ -378,7 +378,7 @@
       "emergency prep"
     ],
     "Public": true,
-    "Answer": "If you live within the city limits, and your storm shelter or safe room meets FEMA and /or ICC building standards, you can register your shelter with the city so First Responders know where to find you in case of a natural disaster. Add your information to the Tulsa Storm Shelter Registry at this webpage\n",
+    "Answer": "If you live within the city limits, and your storm shelter or safe room meets FEMA and /or ICC building standards, you can register your shelter with the city so First Responders know where to find you in case of a natural disaster. Add your information to the Tulsa Storm Shelter Registry [here](https://survey123.arcgis.com/share/4e885823f3b846d59906f183c428b642).\n",
     "Concepts_PreOctober": [
       "recZGgJu72BM3szBu",
       "reclUTuAAekZZiZGB"
@@ -424,14 +424,12 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "emergency prep",
-      "public choice"
+      "emergency prep"
     ],
     "Public": true,
     "Answer": "You can choose to opt-out your household from Tulsa EMSA online. You'll need to login to your utility account here or register an account if you don't have one. Tulsa's 3-1-1 Customer Care Center can help you through the process if you have questions. Be aware that opting-out means you'll have to pay for EMS out-of-pocket if you or somebody in your household needs assistance. \n",
     "Concepts_PreOctober": [
-      "reclUTuAAekZZiZGB",
-      "recZ2NmWg1Hg1mYk7"
+      "reclUTuAAekZZiZGB"
     ],
     "Tags_PreOctober copy copy": [
       "public services"
@@ -480,14 +478,14 @@
     ],
     "Public": true,
     "Answer": "**Yes.** You'll need a residential alteration permit. Such permits are required for any changes to an existing structure which don't increase the floor area. You can apply for one through Tulsa's permit self service portal online. \n",
-    "Concepts_PreOctober": [
-      "recVypOtuYcUkJEnc"
-    ],
     "Tags_PreOctober copy copy": [
       "policies & regulations"
     ],
     "Tags_PreOctober copy": [
       "policies & regulations"
+    ],
+    "Concepts_PreOctober": [
+      "recml1pHthmbQiTVf"
     ]
   },
   {
@@ -666,12 +664,18 @@
     "Tags": [
       "accessing tulsa"
     ],
-    "Concepts": [
-      "volunteer"
-    ],
     "Answer": "The City of Tulsa maintains a list of volunteer opportunities with both local organizations and larger ones that benefit Tulsans. You can find out about the organization, the help they need, when/how often they need it, and whether your skills could benefit others through the role. Find out more here. \n",
+    "Tags_PreOctober copy": [
+      "public services"
+    ],
+    "Tags_PreOctober copy copy": [
+      "public services"
+    ],
+    "Concepts": [
+      "participate"
+    ],
     "Concepts_PreOctober": [
-      "reciadpYORsfn5Qbg"
+      "rec3AOYRS5Nz2mhJ7"
     ]
   },
   {
@@ -9136,14 +9140,10 @@
       "accessing tulsa"
     ],
     "Concepts": [
-      "access data",
-      "maps"
+      "access data"
     ],
     "Public": true,
     "Answer": "The City of Tulsa offers a live traffic map that displays road closures around the city, also providing an explanation of the cause of the closure. Where closure is due to construction, the contractor and price is also displayed. This tool can be  found [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=0910c978896e423e8f4f826953b83b48).\n",
-    "Concepts_PreOctober": [
-      "recyJCadYKnbBRD0a"
-    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Tools_01",
     "Tags_PreOctober copy copy": [
@@ -9152,6 +9152,9 @@
     "Source": "City of Tulsa. _Traffic Flow Map_. \n",
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
     ]
   },
   {
@@ -9165,14 +9168,12 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "take a class",
-      "free"
+      "take a class"
     ],
     "Public": true,
     "Answer": "The Parks, Culture, & Recreation Department offers a variety of classes and programs, as can be seen [here](https://guide.tulsaparks.org/CourseActivities.aspx?id=22&cat=8).  Most of these are listed below.\n\nFor most courses, the associated costs include each class session, which vary by program. For example, most fitness classes include 8-13 sessions.\n\n**Educational**\n- English Classes (All ages. $0)\n- Junior Naturalist Program (Ages 8-12. $100)\n- Kids Programs (Ages 1-8. $0-135)\n- United Health Care Open [Medicare] Enrollment (Ages 65+. $0)\n\n**Fitness**\n- Low-Impact Aerobics (Ages 18+. $25 for residents. $31 for non-residents)\n- Senior X-R-Cise (Ages 16+. $35 for residents. $44 for non-residents)\n- Self-Defense and Fitness (Ages 18+. $25 for residents. $31 for non-residents)\n- Ladies Private Weight Training (Ages 18-99. $2 for residents. $0 for non-residents)\n- Small Group Weight Training (Ages 16-65. $15)\n- Balancing Exercises (Ages 55-100. $0)\n- 30 Minute Workout (Ages 9-99. $2)\n- Family Dance & Exercise (Ages 5-99. $5)\n- Refit Revolution (Ages 13+. $25)\n- Strong Nation (Cardio + HIIT) (Ages 13-99. $25)\n- H.I.I.T (High Intensity Interval Train) (Ages 16-99. $25)\n- Zumba (Ages 16+. $35 for residents. $44 for non-residents)\n- Zumba with Sarah (Ages 16+. $30 for residents. $37 for non-residents)\n- Classics Morning Walk (All ages. $0)\n- Walk and Talk (Ages 18-99. $0)\n\n**Sports & Athletics**\n\n_Basketball, Soccer, Volleyball, Tennis, & Pickleball_\n- 40+ Basketball (Ages 40-99. $0)\n- Youth Soccer (Ages 7-9 or 9-12. $75 for residents. $91 for non-residents).\n- Volleyball Developmental Program (Grades 4-5 or 6-8. $50 for residents or $62 for non-residents)\n- Open Adult Volleyball (All ages. $0)\n- Open Pickleball (Ages 18+. $0)\n\n_Archery_\n- Archery (Ages 8-80. $20 for residents. $25 for non-residents)\n\n_Martial Arts_\n- Tae Kwon Do (Ages 5-100. $25 for residents. 31$ for non-residents)\n- Shotokan (Ages 9+. $25 for residents. 31$ for non-residents)\n- Karate (Ages 5-11 or 12-17. $5 for residents. 0$ for non-residents)\n- Young Samurai Martial Arts (Ages 6-14. $35 for residents. $45 for non-residents)\n- Close Combat Martial Arts (Ages 15-95. $50)\n- Weapons Martial Arts (Ages 15-95. $60)\n- Light Saber Martial Arts (Ages 8-95 or 99. $20 for residents. $25 for non-residents)\n\n_Gymnastics_\n- Tiny Tumbling (Ages 3-6. $40 for residents. $50 for non-residents)\n- Beginner Tumbling (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Little Kinder Kids (Ages 2-4. $40 for residents. $50 for non-residents)\n- Gymnastics - Kinder Kids (Ages 4-6. $40 for residents. $50 for non-residents)\n- Gymnastics Kinderplus (Ages 3-5. $45 for residents. 54$ for non-residents)\n- Gymnastics - Jam & Slam (Ages 6-18. $40 for residents. $50 for non-residents)\n- Gymnastics - Girls Pre Team (Ages 5-17 or 18. $75 for residents. $90 for non-residents)\n- Gymnastics - Boys Pre Team (Ages 6-18. $50 or $85 for residents. $60 or $105 for non-residents)\n- Gymnastics Team Level 1, 3, & 4 (Ages5-18)\n    - Level 1: $85 for residents. $105 for non-residents.\n    - Level 3: $95 for residents. $120 for non-residents.\n    - Level 4: $115 for residents. $140 for non-residents.\n- Gymnastics - Beginner (Ages 6-8 or 12. $45 for residents. $54 for non-residents)\n- Gymnastics - Pre-Team (Ages 9-12. $45 for residents. $54 for non-residents)\n- Gymnastics - Beginner/Homeschool (Ages 6-14. $45 for residents. $54 for non-residents)\n- Gymnastics - Junior Beginner (Ages 4-6. $45 for residents. $54 for non-residents)\n- Gymnastics - Intermediate (Ages 8-12. $45 for residents. $54 for non-residents)\n- Gymnastics Team - Twisters (Ages 4-15. $90)\n\n**Visual Arts**\n\n_Ceramics, Clay, & Pottery_\n- Ceramics (Ages 18+. $5)\n- Beginning Pottery Wheel (Ages 16+. $140)\n- Intermediate Pottery Wheel (Ages 16+. $115)\n- Make a Mask: A Clay Date for Couples (Ages 16+. $75)\n- The Art of Raku (Ages 16+. $130)\n- Small Sculptures Workshop (Ages 16+. $90)\n- Gone Fishin' Parent-Child Clay Workshop (Ages 7+. $45)\n\n_Drawing & Painting_\n- Portrait Painters (Ages 18+. $0)\n- Landscapes from the Land of Enchantment (Ages 16+. $45 for residents. $56 for non-residents)\n- Linoleum Block Print Notecards (Ages 16+. $45 for residents. $65 for non-residents)\n- Waxing Poetic Basic Worskhop: Cold Wax Painting (Ages 16+. $60. $75 for non-residents)\n- Composition, Color, & Design Workshop(Ages 16+. $65 for residents. $81 for non-residents)\n- Making Your Mark: An Intro to Pastel Workshop (Ages 16+. $35 for residents. $44 for non-residents)\n- Collage Sketchbooks Workshop (Ages 16+. $60 for residents. $81 for non-residents)\n- Capturing Light & Shadow in Pastel (Ages 16+. $65 for residents. $81 for non-residents)\n- Introduction to Drawing (Ages 10+. $65 for residents. $81 for non-residents)\n\n_Metals, Jewelry, & Fiber Arts_\n- Jewelry 101 (Ages 16+. $150 for residents. $188 for non-residents)\n- Make Your Own Bolo Tie (Ages 16+. $100 for residents. $125 for non-residents)\n- Make a Copper Belt Buckle (Ages 16+. $70 for residents. $88 for non-residents)\n- Soldering Crash Course (Ages 16+. $55 for residents. $69 for non-residents)\n\n**Performing Arts**\n- Ballet & Jazz (Ages 6-15. $25 for residents. $31 for non-residents)\n- Adult Body Discovery & Technique (Ages 18-99. $0)\n- Beginning Dance Techniques (Ages 3-9. $0)\n- Lacy Jammers (Ages 5-15. $0)\n- Older and Bolder Dance Group (Ages 55-100. $100)\n- Accordion Band (All ages, $0)\n\n",
     "Concepts_PreOctober": [
-      "recRQKSOc1jkTigGe",
-      "recruTp47STFgwlIB"
+      "recRQKSOc1jkTigGe"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Tools_02",
@@ -9194,14 +9195,8 @@
       "accessing tulsa"
     ],
     "Contributor": "Samuel",
-    "Concepts": [
-      "city council"
-    ],
     "Public": true,
     "Answer": "Speaking to City Council is most optimally conducted by speaking at their Regular Meetings, currently scheduled to occur on (most) Wednesdays. To be brief, you can show up at regular meetings and sign up to speak when you get there unless you wish to speak on an item that is not on the agenda. In that case, you should submit this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf) to [secretary@tulsacouncil.org](mailto:secretary@tulsacouncil.org) before 12:00pm on the Thursday prior to the meeting at which you wish to speak. \nBelow is a guide to aid you in this process.\n\n**Speaking on Agenda Items**\nTo speak on a specific agenda item at Tulsa City Council's regular meetings, you must sign a \"Request to Speak\" form in-person at the meeting at which you intend to speak. When signing this form, you must state the following.\n- Your name.\n- Your address.\n- Whether you support or oppose the specific agenda item.\n_This will be recorded and televised on the City of Tulsa's government access channel [TGOV](https://tulsa-ok.granicus.com/ViewPublisher.php?view_id=4)._\n\n**Speaking on an Issue of Your Choice**\nWith more preparation you may also speak to City Council \"on any item affecting the City of Tulsa\". Such speech is classified by the City of Tulsa as \"Public Comments\". Such comments usually take place at the end of meetings and are not televised. In order to participate in public comment, follow the following steps.\n- Fill out this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf).\n- After filling out the section titled \"Topic\", add to this section that you found this form through the Tulsa Policy Institute.\n- Submit this form to the Secretary of the Council either in writing, by fax, or email: secretary@tulsacouncil.org.\n\n**_You must submit this form no later than noon on the Thursday prior to the meeting you wish to speak at. To check if your name has been added to the agenda minutes, see [here.](https://www.tulsacouncil.org/apps/TulsaCouncilArchive)_**\n\n**Guidelines and Restrictions on Public Comment**\n- Citizens are limited to two \"Public Comment\" items each meeting. A citizen is not permitted to res-submit a request on the same subject within 180 days from the preceding request.\n- No action is taken on matters raised or discussed during \"Public Comments\" with one exception: \"possibly placing such matters on a future regular meeting or standing committee meeting of the Council\".\n- The topic should be specific, but brief. City Council suggests using words that \"an ordinary individual may understand what the topic is about\". Language submitted by citizens \"will be reviewed and, if necessary, revised to ensure compliance with the Oklahoma Open Meeting Act\".\n- Public Comments are intended to provide citizens opportunities to inform City Council about new issues affecting Tulsa. It is not a Q&A session.\n\n**Need to Know Before Attending City Council Meetings**\n- No weapon, including pocket knives, are permitted at public meetings.\n- Persons who require special accommodations to participate in City Council Meetings should contact Lori Doring through one of the following means.\n    - **Mail:** 175 East Second Street, Fourth Floor, Tulsa, Oklahoma\n    - **Phone:** 918-596-1990\n    - **Email:** [loridoring@tulsacouncil.org](mailto:loridoring@tulsacouncil.org)\n- \"Persons using a TDD may contact OKLAHOMA RELAY at 1-800-722-0353 and voice calls should be made to 1-800-522-8506 to communicate via telephone with hearing telephone users and vice versa\".\n",
-    "Concepts_PreOctober": [
-      "recsBoPbyJL8qSsan"
-    ],
     "Author": "Samuel",
     "QA Code": "Sub_Samuel_01",
     "Tags_PreOctober copy copy": [
@@ -9210,6 +9205,12 @@
     "Source": "City of Tulsa. _Website. Meetings._\nCity of Tulsa. _Website. Submit a Public Comment._\n",
     "Tags_PreOctober copy": [
       "city gov & policy process"
+    ],
+    "Concepts_PreOctober": [
+      "rec3AOYRS5Nz2mhJ7"
+    ],
+    "Concepts": [
+      "participate"
     ]
   }
 ]
