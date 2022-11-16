@@ -1373,16 +1373,16 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "city revenue",
       "bonds",
-      "debt & credit"
+      "debt & credit",
+      "the bird's eye view"
     ],
     "Public": true,
     "Answer": "According to Tulsa's FY23 budget presentation, \n> During the upcoming fiscal year, the City anticipates undertaking an issuance of** $117.4 millio**n in general obligation bonds**. **All funds will go toward** street project**s authorized in the 2014 Improve Our Tulsa program and 2020 Improve Our Tulsa II program. Some** $14.8 million in bonds and loans will finance sanitary sewer and storm water project**s that include concrete pipe replacement, interceptor rehabilitation, sewer line rehabilitation and a storm water outfall line from Hager Creek to the Arkansas River. Funds will be appropriated by budget amendment upon completion of each bond sale. Taken together, these** **bond sales will add **$132.1 million **in additional funds to the capital budget, bringing the amended total to** $253.5 millio**n.\n",
     "Concepts_PreOctober": [
       "recjHJF8xuHGjzKjw",
       "recH1mRwJUog6R4Q7",
-      "recJmau6WQBoecA7Z"
+      "recf9vQSSV9y8JyWT"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_019",
@@ -2431,12 +2431,16 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "According to FY23 budget documents, Tulsa city government's top three goals for the next several years are the following.\n- Increasing the number of uniformed police officers.\n- Building cash reserves.\n- Providing annually satisfactory performance increases for the city's workforce.\nAdditional goals include the following.\n- Combating homelessness.\n- Increasing transit access to jobs.\n- Improving neighborhood conditions.\n- Continuing to work on equity indicators.\n- Improving economic development and commercial revitalization.\n- Improving tourism and destination districts.\n",
     "Concepts_PreOctober": [
-      "recuuCNjMbaMhXTVC"
+      "recuuCNjMbaMhXTVC",
+      "recX9nNDKs0rtBi3g",
+      "rec6lrWmFyJj2MfoK"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_055",
@@ -7479,7 +7483,9 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "mayor-council relations"
+      "mayor-council relations",
+      "city council",
+      "the mayor"
     ],
     "Public": true,
     "Answer": "**Yes.** \n> The Council may investigate the conduct of the city government and may make appraisals, comments, and recommendations to the Mayor on the efficiency, economy, and effectiveness of administrative practices, methods, systems, and controls.\n",

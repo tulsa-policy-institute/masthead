@@ -1863,9 +1863,9 @@
       "city gov & policy process"
     ],
     "MegaName": [
-      "mayor",
       "city council",
-      "governance & administration"
+      "governance & administration",
+      "the mayor"
     ],
     "Questions_old": [
       "recKUtQmqzyICt2px",
@@ -5473,6 +5473,16 @@
     "Name": "economic conditions"
   },
   {
+    "id": "recJmau6WQBoecA7Z",
+    "Name": "city revenue",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "city revenue"
+    ]
+  },
+  {
     "id": "recYLQp3CynFCBY7q",
     "Name": "fiscal stability"
   },
@@ -5647,7 +5657,8 @@
       "recfbiYlKz7UHnw1C",
       "rec4Edp6L9rClmdap",
       "recOwoV1vjiYKeivd",
-      "rec7qQNL5eoBEBEQE"
+      "rec7qQNL5eoBEBEQE",
+      "recLq2IkHRBAxnKLr"
     ],
     "NewTags": [
       "governance process",
@@ -5663,6 +5674,7 @@
       "governance process",
       "governance process",
       "public finance",
+      "governance process",
       "governance process",
       "governance process",
       "governance process",
@@ -6156,9 +6168,9 @@
       "city gov & policy process"
     ],
     "MegaName": [
-      "mayor",
       "city council",
-      "mayor-council relations"
+      "mayor-council relations",
+      "the mayor"
     ],
     "Questions_old": [
       "recKUtQmqzyICt2px",
@@ -6339,22 +6351,6 @@
     ],
     "MegaName": [
       "funding tulsa maintenance"
-    ]
-  },
-  {
-    "id": "recJmau6WQBoecA7Z",
-    "Name": "city revenue",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "city revenue"
-    ],
-    "Questions": [
-      "rec1KHjVeNQjYpJwh"
-    ],
-    "NewTags": [
-      "public finance"
     ]
   },
   {
@@ -7241,9 +7237,11 @@
       "recpHYt2lOwEEF0BV",
       "reckKii2LW5m97tDw",
       "rec6SBDNK5JI26Dln",
-      "recuWHA3iHE79fvAO"
+      "recuWHA3iHE79fvAO",
+      "recLq2IkHRBAxnKLr"
     ],
     "NewTags": [
+      "governance process",
       "governance process",
       "governance process",
       "governance process",
@@ -7450,7 +7448,8 @@
       "recuzNAXLpwGmnhle",
       "rec15pfJPynMl1X9W",
       "rect4UJDtYrQpAPVq",
-      "recVDotgYTkV1wUlr"
+      "recVDotgYTkV1wUlr",
+      "rec1KHjVeNQjYpJwh"
     ],
     "NewTags": [
       "public finance",
@@ -7461,6 +7460,7 @@
       "public finance",
       "public finance",
       "governance process",
+      "public finance",
       "public finance",
       "public finance",
       "public finance"
