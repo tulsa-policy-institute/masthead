@@ -3521,6 +3521,19 @@
     ]
   },
   {
+    "id": "recumoqhRUNLtRKmo",
+    "Name": "enterprise funds",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "enterprise funds"
+    ],
+    "Questions_old": [
+      "recud2YLagZ1EZzC1"
+    ]
+  },
+  {
     "id": "recuPnWiwcIIaduno",
     "Name": "auditing",
     "Tags": [
@@ -5824,7 +5837,7 @@
       "governance process"
     ],
     "MegaName": [
-      "management & service delivery"
+      "service delivery"
     ]
   },
   {
@@ -5872,8 +5885,7 @@
       "recuAGwtc736aGtNn",
       "rechyIcFk8RqZkDx8",
       "rechB3tyvdB14vB3f",
-      "reciIzpjhVeUJjFHP",
-      "recFzDNEQcFyIQDVv"
+      "reciIzpjhVeUJjFHP"
     ],
     "NewTags": [
       "accessing tulsa",
@@ -5887,8 +5899,7 @@
       "accessing tulsa",
       "accessing tulsa",
       "governance process",
-      "accessing tulsa",
-      "public finance"
+      "accessing tulsa"
     ]
   },
   {
@@ -6645,9 +6656,6 @@
     "Tags": [
       "city gov & policy process"
     ],
-    "MegaName": [
-      "management & service delivery"
-    ],
     "Questions": [
       "recP6f8ViefZ8ZbTQ",
       "recPGSpD93NzAfMOI",
@@ -6699,6 +6707,9 @@
       "governance process",
       "governance process",
       "governance process"
+    ],
+    "MegaName": [
+      "public management"
     ]
   },
   {
@@ -6822,9 +6833,6 @@
     "Name": "open meeting laws",
     "Tags": [
       "city gov & policy process"
-    ],
-    "MegaName": [
-      "state of oklahoma"
     ],
     "Questions_old": [
       "recIFNsGqXbgngSEq",
@@ -6956,25 +6964,6 @@
       "governance process",
       "public finance",
       "governance process",
-      "public finance"
-    ]
-  },
-  {
-    "id": "recumoqhRUNLtRKmo",
-    "Name": "enterprise funds",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "enterprise funds"
-    ],
-    "Questions_old": [
-      "recud2YLagZ1EZzC1"
-    ],
-    "Questions": [
-      "recFzDNEQcFyIQDVv"
-    ],
-    "NewTags": [
       "public finance"
     ]
   },
@@ -7483,7 +7472,7 @@
       "revenue & spending"
     ],
     "MegaName": [
-      "user fees"
+      "taxes"
     ],
     "Questions": [
       "recKhEzYfGNFaBBf1"
