@@ -44,10 +44,10 @@
       "recZGgJu72BM3szBu",
       "recVypOtuYcUkJEnc"
     ],
-    "Tags_PreOctober copy": [
+    "Tags_PreOctober copy copy": [
       "public services"
     ],
-    "Tags_PreOctober copy copy": [
+    "Tags_PreOctober copy": [
       "public services"
     ]
   },
@@ -481,14 +481,14 @@
     ],
     "Public": true,
     "Answer": "**Yes.** You'll need a residential alteration permit. Such permits are required for any changes to an existing structure which don't increase the floor area. You can apply for one through Tulsa's permit self service portal online. \n",
+    "Concepts_PreOctober": [
+      "recml1pHthmbQiTVf"
+    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recml1pHthmbQiTVf"
     ]
   },
   {
@@ -663,20 +663,20 @@
     "Tags": [
       "accessing tulsa"
     ],
+    "Concepts": [
+      "participate"
+    ],
+    "Public": true,
     "Answer": "The City of Tulsa maintains a list of volunteer opportunities with both local organizations and larger ones that benefit Tulsans. You can find out about the organization, the help they need, when/how often they need it, and whether your skills could benefit others through the role. Find out more here. \n",
-    "Tags_PreOctober copy": [
-      "public services"
+    "Concepts_PreOctober": [
+      "rec3AOYRS5Nz2mhJ7"
     ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
-    "Concepts": [
-      "participate"
-    ],
-    "Concepts_PreOctober": [
-      "rec3AOYRS5Nz2mhJ7"
-    ],
-    "Public": true
+    "Tags_PreOctober copy": [
+      "public services"
+    ]
   },
   {
     "id": "recniWCBkP8PRsMu9",
@@ -9161,6 +9161,9 @@
     ],
     "Public": true,
     "Answer": "The City of Tulsa offers a live traffic map that displays road closures around the city, also providing an explanation of the cause of the closure. Where closure is due to construction, the contractor and price is also displayed. This tool can be  found [here](https://cityoftulsa.maps.arcgis.com/apps/webappviewer/index.html?id=0910c978896e423e8f4f826953b83b48).\n",
+    "Concepts_PreOctober": [
+      "recyz70Oeg3aDAwFw"
+    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Tools_01",
     "Tags_PreOctober copy copy": [
@@ -9169,9 +9172,6 @@
     "Source": "City of Tulsa. _Traffic Flow Map_. \n",
     "Tags_PreOctober copy": [
       "public services"
-    ],
-    "Concepts_PreOctober": [
-      "recyz70Oeg3aDAwFw"
     ]
   },
   {
@@ -9212,8 +9212,16 @@
       "accessing tulsa"
     ],
     "Contributor": "Samuel",
+    "Concepts": [
+      "participate",
+      "how do I"
+    ],
     "Public": true,
     "Answer": "Speaking to City Council is most optimally conducted by speaking at their Regular Meetings, currently scheduled to occur on (most) Wednesdays. To be brief, you can show up at regular meetings and sign up to speak when you get there unless you wish to speak on an item that is not on the agenda. In that case, you should submit this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf) to [secretary@tulsacouncil.org](mailto:secretary@tulsacouncil.org) before 12:00pm on the Thursday prior to the meeting at which you wish to speak. \nBelow is a guide to aid you in this process.\n\n**Speaking on Agenda Items**\nTo speak on a specific agenda item at Tulsa City Council's regular meetings, you must sign a \"Request to Speak\" form in-person at the meeting at which you intend to speak. When signing this form, you must state the following.\n- Your name.\n- Your address.\n- Whether you support or oppose the specific agenda item.\n_This will be recorded and televised on the City of Tulsa's government access channel [TGOV](https://tulsa-ok.granicus.com/ViewPublisher.php?view_id=4)._\n\n**Speaking on an Issue of Your Choice**\nWith more preparation you may also speak to City Council \"on any item affecting the City of Tulsa\". Such speech is classified by the City of Tulsa as \"Public Comments\". Such comments usually take place at the end of meetings and are not televised. In order to participate in public comment, follow the following steps.\n- Fill out this [form](https://www.tulsacouncil.org/media/16442/tulsa_council_public_comment_form.pdf).\n- After filling out the section titled \"Topic\", add to this section that you found this form through the Tulsa Policy Institute.\n- Submit this form to the Secretary of the Council either in writing, by fax, or email: secretary@tulsacouncil.org.\n\n**_You must submit this form no later than noon on the Thursday prior to the meeting you wish to speak at. To check if your name has been added to the agenda minutes, see [here.](https://www.tulsacouncil.org/apps/TulsaCouncilArchive)_**\n\n**Guidelines and Restrictions on Public Comment**\n- Citizens are limited to two \"Public Comment\" items each meeting. A citizen is not permitted to res-submit a request on the same subject within 180 days from the preceding request.\n- No action is taken on matters raised or discussed during \"Public Comments\" with one exception: \"possibly placing such matters on a future regular meeting or standing committee meeting of the Council\".\n- The topic should be specific, but brief. City Council suggests using words that \"an ordinary individual may understand what the topic is about\". Language submitted by citizens \"will be reviewed and, if necessary, revised to ensure compliance with the Oklahoma Open Meeting Act\".\n- Public Comments are intended to provide citizens opportunities to inform City Council about new issues affecting Tulsa. It is not a Q&A session.\n\n**Need to Know Before Attending City Council Meetings**\n- No weapon, including pocket knives, are permitted at public meetings.\n- Persons who require special accommodations to participate in City Council Meetings should contact Lori Doring through one of the following means.\n    - **Mail:** 175 East Second Street, Fourth Floor, Tulsa, Oklahoma\n    - **Phone:** 918-596-1990\n    - **Email:** [loridoring@tulsacouncil.org](mailto:loridoring@tulsacouncil.org)\n- \"Persons using a TDD may contact OKLAHOMA RELAY at 1-800-722-0353 and voice calls should be made to 1-800-522-8506 to communicate via telephone with hearing telephone users and vice versa\".\n",
+    "Concepts_PreOctober": [
+      "rec3AOYRS5Nz2mhJ7",
+      "recZGgJu72BM3szBu"
+    ],
     "Author": "Samuel",
     "QA Code": "Sub_Samuel_01",
     "Tags_PreOctober copy copy": [
@@ -9222,14 +9230,6 @@
     "Source": "City of Tulsa. _Website. Meetings._\nCity of Tulsa. _Website. Submit a Public Comment._\n",
     "Tags_PreOctober copy": [
       "city gov & policy process"
-    ],
-    "Concepts_PreOctober": [
-      "rec3AOYRS5Nz2mhJ7",
-      "recZGgJu72BM3szBu"
-    ],
-    "Concepts": [
-      "participate",
-      "how do I"
     ]
   }
 ]
