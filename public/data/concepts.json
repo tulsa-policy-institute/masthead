@@ -3373,9 +3373,6 @@
     "Tags": [
       "city gov & policy process"
     ],
-    "MegaName": [
-      "governance & administration"
-    ],
     "Questions_old": [
       "recnsxGmyRburNO4N",
       "rec8wvWFld0yEJnNU"
@@ -3393,13 +3390,15 @@
       "public finance",
       "governance process",
       "governance process"
+    ],
+    "MegaName": [
+      "governance & administration"
     ]
   },
   {
     "id": "rec5ic94W9hDJJkfc",
     "Name": "hearings",
     "Tags": [
-      "policies & regulations",
       "city gov & policy process"
     ],
     "MegaName": [
@@ -3617,9 +3616,6 @@
   {
     "id": "recjQZSeuGijmUfoF",
     "Name": "open meeting laws",
-    "Tags": [
-      "policies & regulations"
-    ],
     "MegaName": [
       "state of oklahoma"
     ],
@@ -3632,14 +3628,14 @@
     ],
     "NewTags": [
       "governance process"
+    ],
+    "Tags": [
+      "city gov & policy process"
     ]
   },
   {
     "id": "recex3pj2DIma2nV4",
     "Name": "state of oklahoma",
-    "Tags": [
-      "policies & regulations"
-    ],
     "MegaName": [
       "state of oklahoma"
     ],
@@ -3656,6 +3652,9 @@
       "governance process",
       "governance process",
       "governance process"
+    ],
+    "Tags": [
+      "city gov & policy process"
     ]
   },
   {
@@ -5158,9 +5157,6 @@
   {
     "id": "reckyRUNzxZWiOrnz",
     "Name": "code violations",
-    "Tags": [
-      "policies & regulations"
-    ],
     "MegaName": [
       "service requests & reporting"
     ],
@@ -5169,6 +5165,9 @@
     ],
     "NewTags": [
       "law & justice"
+    ],
+    "Tags": [
+      "city gov & policy process"
     ]
   },
   {
@@ -7411,8 +7410,7 @@
     "id": "recVypOtuYcUkJEnc",
     "Name": "permits & licenses - access",
     "Tags": [
-      "policies & regulations",
-      "revenue & spending"
+      "public services"
     ],
     "Questions_old": [
       "recACPg1z2tHA5mX1",
