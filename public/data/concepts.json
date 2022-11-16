@@ -5586,6 +5586,16 @@
     ]
   },
   {
+    "id": "recc9DTL5SjQyffXi",
+    "Name": "governing economic development",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing economic development"
+    ]
+  },
+  {
     "id": "recZFc6GvrasBwg89",
     "Name": "legal affairs",
     "Tags": [
@@ -5600,6 +5610,26 @@
     "Name": "funding legal affairs"
   },
   {
+    "id": "rec42IWZHO8ZRTeud",
+    "Name": "governing water",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing water"
+    ]
+  },
+  {
+    "id": "recibLnZdVDZKJE9o",
+    "Name": "governing land",
+    "Tags": [
+      "city gov & policy process"
+    ],
+    "MegaName": [
+      "governing land"
+    ]
+  },
+  {
     "id": "recjM4TreOC0HE8Ya",
     "Name": "voting & elections",
     "Tags": [
@@ -5607,6 +5637,16 @@
     ],
     "MegaName": [
       "voting & elections"
+    ]
+  },
+  {
+    "id": "recAFbnfqhqG1lwSe",
+    "Name": "permits & licenses - public finance",
+    "Tags": [
+      "revenue & spending"
+    ],
+    "MegaName": [
+      "permits & licenses"
     ]
   },
   {
@@ -5651,6 +5691,16 @@
     ],
     "MegaName": [
       "participation"
+    ]
+  },
+  {
+    "id": "recml1pHthmbQiTVf",
+    "Name": "permits & licenses",
+    "MegaName": [
+      "permits & licenses"
+    ],
+    "Tags": [
+      "public services"
     ]
   },
   {
@@ -5854,24 +5904,6 @@
     ]
   },
   {
-    "id": "recibLnZdVDZKJE9o",
-    "Name": "governing land",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governing land"
-    ],
-    "Questions": [
-      "rec3I363fvWW148T2",
-      "recQZlGPXVfYJSb4y"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
     "id": "recVypOtuYcUkJEnc",
     "Name": "permits & licenses",
     "Tags": [
@@ -5898,7 +5930,8 @@
       "recuAGwtc736aGtNn",
       "rechyIcFk8RqZkDx8",
       "rechB3tyvdB14vB3f",
-      "reciIzpjhVeUJjFHP"
+      "reciIzpjhVeUJjFHP",
+      "rec3GdEUIDmHwSBfS"
     ],
     "NewTags": [
       "accessing tulsa",
@@ -5912,6 +5945,7 @@
       "accessing tulsa",
       "accessing tulsa",
       "governance process",
+      "accessing tulsa",
       "accessing tulsa"
     ]
   },
@@ -5932,16 +5966,6 @@
     "NewTags": [
       "accessing tulsa",
       "accessing tulsa",
-      "accessing tulsa"
-    ]
-  },
-  {
-    "id": "recml1pHthmbQiTVf",
-    "Name": "permits & licenses",
-    "Questions": [
-      "rec3GdEUIDmHwSBfS"
-    ],
-    "NewTags": [
       "accessing tulsa"
     ]
   },
@@ -6043,9 +6067,11 @@
     "Questions": [
       "reclwDtRstU3qHBnu",
       "recBHG04HEVgMAPNw",
-      "recr3fqVsuIhbUaai"
+      "recr3fqVsuIhbUaai",
+      "recnGl3ZWERM3ug6g"
     ],
     "NewTags": [
+      "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa",
       "accessing tulsa"
@@ -6300,28 +6326,6 @@
     ]
   },
   {
-    "id": "rec9AcMTrZV4dGk60",
-    "Name": "governing transportation",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governing transportation"
-    ],
-    "Questions": [
-      "reces1VvdSwguyPok",
-      "recs3CiyjdTjhvcrG",
-      "recnW9By7HRQdAN1n",
-      "recoY65y7BbAMkShM"
-    ],
-    "NewTags": [
-      "governance process",
-      "governance process",
-      "governance process",
-      "governance process"
-    ]
-  },
-  {
     "id": "recAu71Bp6XzkMMaD",
     "Name": "funding public safety",
     "Tags": [
@@ -6530,22 +6534,6 @@
     ],
     "MegaName": [
       "funding tulsa lifestyle"
-    ]
-  },
-  {
-    "id": "recAFbnfqhqG1lwSe",
-    "Name": "permits & licenses - public finance",
-    "Tags": [
-      "revenue & spending"
-    ],
-    "MegaName": [
-      "permits & licenses"
-    ],
-    "Questions": [
-      "recKIRcYd5YAsUXdH"
-    ],
-    "NewTags": [
-      "public finance"
     ]
   },
   {
@@ -6901,8 +6889,7 @@
       "recsc2NopBFYEIkTO",
       "recEbVluDWBTk6MvJ",
       "recEzaBNMAdt0bQ2c",
-      "recJhuEB9AzgYUC2c",
-      "recnGl3ZWERM3ug6g"
+      "recJhuEB9AzgYUC2c"
     ],
     "NewTags": [
       "public finance",
@@ -6968,7 +6955,6 @@
       "governance process",
       "public finance",
       "governance process",
-      "public finance",
       "public finance"
     ]
   },
@@ -7337,16 +7323,16 @@
     ]
   },
   {
-    "id": "rec42IWZHO8ZRTeud",
-    "Name": "governing water",
+    "id": "rec9AcMTrZV4dGk60",
+    "Name": "governing transportation",
     "Tags": [
       "city gov & policy process"
     ],
     "MegaName": [
-      "governing water"
+      "governing transportation"
     ],
     "Questions": [
-      "recJyjW3gvNTDzkyN"
+      "recnW9By7HRQdAN1n"
     ],
     "NewTags": [
       "governance process"
@@ -7364,28 +7350,24 @@
     "Questions": [
       "recUU3AZHM33FZ5tc",
       "rec5af8c2Wj4lJqig",
-      "reccw5CMcWezipXYP"
-    ],
-    "NewTags": [
-      "governance process",
-      "public finance",
-      "governance process"
-    ]
-  },
-  {
-    "id": "recc9DTL5SjQyffXi",
-    "Name": "governing economic development",
-    "Tags": [
-      "city gov & policy process"
-    ],
-    "MegaName": [
-      "governing economic development"
-    ],
-    "Questions": [
+      "reccw5CMcWezipXYP",
+      "recQZlGPXVfYJSb4y",
+      "rec3I363fvWW148T2",
+      "recoY65y7BbAMkShM",
+      "reces1VvdSwguyPok",
+      "recs3CiyjdTjhvcrG",
       "rec8oKLFePOBSB59t",
       "rec87hldcKTH6wYmQ"
     ],
     "NewTags": [
+      "governance process",
+      "public finance",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
+      "governance process",
       "governance process",
       "governance process"
     ]

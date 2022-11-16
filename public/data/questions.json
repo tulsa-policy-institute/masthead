@@ -481,14 +481,14 @@
     ],
     "Public": true,
     "Answer": "**Yes.** You'll need a residential alteration permit. Such permits are required for any changes to an existing structure which don't increase the floor area. You can apply for one through Tulsa's permit self service portal online. \n",
-    "Concepts_PreOctober": [
-      "recml1pHthmbQiTVf"
-    ],
     "Tags_PreOctober copy copy": [
       "public services"
     ],
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts_PreOctober": [
+      "recVypOtuYcUkJEnc"
     ]
   },
   {
@@ -1909,30 +1909,30 @@
   },
   {
     "id": "recnGl3ZWERM3ug6g",
-    "Question": "H",
-    "Concepts_PreOctober": [
-      "rec0y2K4uoaOPTi6O"
-    ],
-    "Answer": "**Yes.** Public hearings are held before deciding what projects to include in any multi-year capital program, which requires approval by the City Council in the form of an adopted ordinance as part of the annual budget process. \n",
+    "Question": "What role can residents play in selecting projects to be funded?",
+    "Answer": "Public hearings are held before deciding what projects to include in any multi-year capital program, which requires approval by the City Council in the form of an adopted ordinance as part of the annual budget process. \n",
     "Public": true,
     "Contributor": "Dan",
     "QA Code": "Dan_Budget_037",
     "Source": "City of Tulsa. _Annual Budget FY 2022-2023. Section 1 - Policies, Subsection 17, Paragraph 3_\n",
     "Author": "Dan",
-    "Tags_PreOctober": [
-      "public finance"
-    ],
     "Tags": [
-      "public finance"
-    ],
-    "Concepts": [
-      "budget process"
-    ],
-    "Tags_PreOctober copy": [
-      "revenue & spending"
+      "accessing tulsa"
     ],
     "Tags_PreOctober copy copy": [
-      "revenue & spending"
+      "public services"
+    ],
+    "Tags_PreOctober copy": [
+      "public services"
+    ],
+    "Tags_PreOctober": [
+      "accessing tulsa"
+    ],
+    "Concepts": [
+      "participate"
+    ],
+    "Concepts_PreOctober": [
+      "rec3AOYRS5Nz2mhJ7"
     ]
   },
   {
@@ -2397,14 +2397,12 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "taxes",
-      "permits & licenses"
+      "taxes"
     ],
     "Public": true,
     "Answer": "For FY23, the City of Tulsa projects receiving an **$8.1 million** share of state tax receipts. \n",
     "Concepts_PreOctober": [
-      "recrcssg4rJQBVqHI",
-      "recAFbnfqhqG1lwSe"
+      "recrcssg4rJQBVqHI"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_053",
@@ -2761,11 +2759,11 @@
     "Tags_PreOctober copy": [
       "revenue & spending"
     ],
-    "Concepts": [
-      "governing land"
-    ],
     "Concepts_PreOctober": [
-      "recibLnZdVDZKJE9o"
+      "recROW1nz5QbMVqRb"
+    ],
+    "Concepts": [
+      "governing neighborhoods"
     ]
   },
   {
@@ -3132,13 +3130,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "service delivery"
+      "service delivery",
+      "governing neighborhoods"
     ],
     "Public": true,
     "Answer": "Public efforts to drive economic growth in Tulsa are primarily organized through the Tulsa Authority for Economic Opportunity (TAEO). According to the Authority, their mission is to \"create and manage public assets and resources to drive economic growth.\" \n",
     "Concepts_PreOctober": [
       "recyUhPcjsDzsScmC",
-      "recc9DTL5SjQyffXi"
+      "recROW1nz5QbMVqRb"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_077",
@@ -3161,13 +3160,14 @@
     ],
     "Contributor": "Dan",
     "Concepts": [
-      "service delivery"
+      "service delivery",
+      "governing neighborhoods"
     ],
     "Public": true,
     "Answer": "TAEO services include the following.\n- Serving as the lead administrative entity for economic and community development services for the City of Tulsa.\n- Managing the City’s Tax Increment Finance (TIF) Districts.\n- Managing and supporting the City’s bond-financed economic development programs.\n- Executing land acquisition and disposition to leverage private development and redevelopment.\n- Leading asset optimization strategy related to major economic development assets; Managing Downtown Development and Redevelopment loan programs.\n- Managing the Affordable Housing Trust Fund and other housing development programs and incentives.\n- Managing outreach, education, and utilization monitoring for the City’s Small Business Enterprise program.\n",
     "Concepts_PreOctober": [
       "recyUhPcjsDzsScmC",
-      "recc9DTL5SjQyffXi"
+      "recROW1nz5QbMVqRb"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_078",
@@ -3502,13 +3502,13 @@
     "Contributor": "Dan",
     "Concepts": [
       "service delivery",
-      "governing transportation"
+      "governing neighborhoods"
     ],
     "Public": true,
     "Answer": "Tulsa Transit provides public transportation serving residents in the City of Tulsa, Broken Arrow, Jenks, and Sand Springs. These services include fixed route bus service, ADA paratransit services for persons with disabilities, late evening service “Nightline\", and commuter bus service.\n",
     "Concepts_PreOctober": [
       "recyUhPcjsDzsScmC",
-      "rec9AcMTrZV4dGk60"
+      "recROW1nz5QbMVqRb"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_088",
@@ -4396,13 +4396,13 @@
     "Contributor": "Dan",
     "Concepts": [
       "public management",
-      "governing transportation"
+      "governing neighborhoods"
     ],
     "Public": true,
     "Answer": "Parking enforcement on streets and in public parking garages around Tulsa is overseen by the city's **Asset Management Department**. The same department is also responsible for repairing and installing parking meters, managing the city's fleet of vehicles, managing real estate holdings, and providing security for those properties. \n",
     "Concepts_PreOctober": [
       "recopSzKmrzISvrWJ",
-      "rec9AcMTrZV4dGk60"
+      "recROW1nz5QbMVqRb"
     ],
     "Author": "Dan",
     "QA Code": "Dan_Budget_116",
@@ -5205,13 +5205,11 @@
     ],
     "Contributor": "Samuel",
     "Concepts": [
-      "can they do this",
-      "governing water"
+      "can they do this"
     ],
     "Public": true,
     "Answer": "The City of Tulsa may \n> ...acquire, plan, establish, develop, construct, enlarge, improve, maintain, manage, equip, operate, regulate, and protect waterports, airports, and air navigation facilities within or without the corporate limits.\n",
     "Concepts_PreOctober": [
-      "rec42IWZHO8ZRTeud",
       "recsvNFdPofu3IlhE"
     ],
     "Author": "Samuel",
@@ -5296,13 +5294,13 @@
     "Contributor": "Samuel",
     "Concepts": [
       "can they do this",
-      "governing land"
+      "governing neighborhoods"
     ],
     "Public": true,
     "Answer": "**Yes,** the City of Tulsa may \"restrict and regulate the use and subdivision of land, to perform planning and zoning, and to establish by ordinance the procedures therefor\".\n",
     "Concepts_PreOctober": [
       "recsvNFdPofu3IlhE",
-      "recibLnZdVDZKJE9o"
+      "recROW1nz5QbMVqRb"
     ],
     "Author": "Samuel",
     "QA Code": "Samuel_Code_015",
@@ -9039,14 +9037,8 @@
       "governance process"
     ],
     "Contributor": "Samuel",
-    "Concepts": [
-      "governing transportation"
-    ],
     "Public": true,
     "Answer": "If you own property within a half-mile of a Bus Rapid Transit station on Peoria Ave. in Tulsa, your property may be eligible for re-zoning as a mixed-use district. Mixed-use zoning allows you to develop or redevelop your property to support any combination of residential, retail, and/or office space. The Tulsa Planning Office has a map and staff to help you find out if your property is eligible. If it is, you can submit an application for free (instead of the standard $2,000 cost) until Dec 31, 2023. Staff at the Tulsa Metropolitan Planning Commission will review your application and notify neighbors of their opportunity to comment on the application. TMAPC staff will recommend approval or denial of your application at a public meeting. If recommended for approval, your case will then appear before Tulsa City council for a final vote on approval. \n",
-    "Concepts_PreOctober": [
-      "rec9AcMTrZV4dGk60"
-    ],
     "Author": "Samuel",
     "QA Code": "Samuel_Planning_022",
     "Tags_PreOctober copy copy": [
@@ -9055,6 +9047,12 @@
     "Source": "Tulsa Planning Office. _Neighborhood Toolkit. Page 22._\n",
     "Tags_PreOctober copy": [
       "public services"
+    ],
+    "Concepts": [
+      "governing neighborhoods"
+    ],
+    "Concepts_PreOctober": [
+      "recROW1nz5QbMVqRb"
     ]
   },
   {
